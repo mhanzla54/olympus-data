@@ -21,7 +21,7 @@
     ],
     "overall_total": 615,
     "generated_for": "2026-07-15",
-    "built_at": "2026-07-15T18:07:26.908Z",
+    "built_at": "2026-07-15T18:23:33.948Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
@@ -6477,6 +6477,12 @@
             "got": "9, 8, 8",
             "avg": 8.33
           }
+        },
+        {
+          "date": "2026-07-15",
+          "y": 4.29,
+          "kind": "session",
+          "label": "Typewriter push-up (slide side-to-side) — 2, 3, 2 (avg 2.3 vs target 8)"
         }
       ],
       "steps": [
@@ -6960,6 +6966,12 @@
           "y": 1.37,
           "kind": "session",
           "label": "Dead hang — 20, 13 (avg 16.5 vs target 45)"
+        },
+        {
+          "date": "2026-07-15",
+          "y": 1.42,
+          "kind": "session",
+          "label": "Dead hang — 18, 20 (avg 19 vs target 45)"
         }
       ],
       "steps": [
@@ -7266,13 +7278,8 @@
   "ladder_parity": {
     "push": {
       "candidates": 6,
-      "plotted": 5,
-      "rejected": [
-        {
-          "date": "2026-07-15",
-          "why": "\"Typewriter push-up (★slide side-to-side)\" logged no usable numbers"
-        }
-      ]
+      "plotted": 6,
+      "rejected": []
     },
     "explosive": {
       "candidates": 6,
@@ -7306,13 +7313,8 @@
     },
     "grip": {
       "candidates": 10,
-      "plotted": 9,
-      "rejected": [
-        {
-          "date": "2026-07-15",
-          "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" logged no usable numbers"
-        }
-      ]
+      "plotted": 10,
+      "rejected": []
     },
     "legs": {
       "candidates": 10,
@@ -7394,9 +7396,9 @@
           {
             "date": "2026-07-15",
             "name": "Typewriter push-up (★slide side-to-side)",
-            "raw": "",
-            "avg": null,
-            "status": "✗ not plotted — \"Typewriter push-up (★slide side-to-side)\" logged no usable numbers"
+            "raw": "2, 3, 2",
+            "avg": 2.3,
+            "status": "● plotted at 4.29"
           }
         ]
       },
@@ -7755,9 +7757,9 @@
           {
             "date": "2026-07-15",
             "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
-            "raw": "",
-            "avg": null,
-            "status": "✗ not plotted — \"Grip+trap (flex): dead hang ★ + scap shr\" logged no usable numbers"
+            "raw": "18, 20",
+            "avg": 19,
+            "status": "● plotted at 1.42"
           }
         ]
       },
@@ -8165,7 +8167,7 @@
           },
           {
             "date": "2026-07-15",
-            "detail": "hang: — · shrugs: —"
+            "detail": "hang: 18, 20 · shrugs: 8, 8"
           }
         ]
       },
@@ -8788,7 +8790,7 @@
         "rows": [
           {
             "date": "2026-07-15",
-            "detail": "reps: —"
+            "detail": "reps: 2, 3, 2"
           }
         ]
       },
@@ -8830,8 +8832,8 @@
             "ladderId": "grip",
             "ladderName": "Grip & Forearms",
             "name": "Dead hang ★",
-            "raw": "",
-            "avg": null,
+            "raw": "18, 20",
+            "avg": 19,
             "target": "45s",
             "sets": 2,
             "cleared": false
@@ -8840,8 +8842,8 @@
             "ladderId": "push",
             "ladderName": "Horizontal Push — STRENGTH",
             "name": "Typewriter push-up (★slide side-to-side)",
-            "raw": "",
-            "avg": null,
+            "raw": "2, 3, 2",
+            "avg": 2.3,
             "target": "8/side",
             "sets": 3,
             "cleared": false
@@ -9776,13 +9778,17 @@
       "date": "2026-07-15",
       "detail": "7, 6, 6"
     },
+    "grip": {
+      "date": "2026-07-15",
+      "detail": "18, 20"
+    },
+    "push": {
+      "date": "2026-07-15",
+      "detail": "2, 3, 2"
+    },
     "chinup": {
       "date": "2026-07-13",
       "detail": "4, 2.5,  .5"
-    },
-    "grip": {
-      "date": "2026-07-13",
-      "detail": "20, 13"
     },
     "handstand": {
       "date": "2026-07-13",
@@ -9803,10 +9809,6 @@
     "legs": {
       "date": "2026-07-11",
       "detail": "5, 5, 5"
-    },
-    "push": {
-      "date": "2026-07-08",
-      "detail": "9, 8, 8"
     }
   },
   "health": {
@@ -10222,6 +10224,14 @@
         "protein": 173,
         "dayType": "strict",
         "provisional": false
+      },
+      {
+        "date": "2026-07-15",
+        "w": 218.2,
+        "kcal": 0,
+        "protein": 0,
+        "dayType": "empty",
+        "provisional": true
       }
     ],
     "trend": [
@@ -10472,9 +10482,13 @@
       {
         "date": "2026-07-14",
         "w": 219.11
+      },
+      {
+        "date": "2026-07-15",
+        "w": 219
       }
     ],
-    "noiseBand": 1.3,
+    "noiseBand": 1.26,
     "floors": [
       {
         "y": 230,
@@ -10661,19 +10675,19 @@
       },
       {
         "date": "2026-07-15",
-        "w": 218.9,
+        "w": 218.8,
         "week": "Jul 12–Jul 18",
-        "n": 3
+        "n": 4
       }
     ],
     "banner": {
       "startDate": "2026-03-22",
       "startW": 235,
-      "lost": 15.9,
+      "lost": 16,
       "goal": 180,
-      "pct": 28.9,
+      "pct": 29.1,
       "nextFloor": 210,
-      "toGo": 9.1,
+      "toGo": 9,
       "newLow": false
     },
     "strip": [
