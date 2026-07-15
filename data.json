@@ -21,7 +21,7 @@
     ],
     "overall_total": 615,
     "generated_for": "2026-07-15",
-    "built_at": "2026-07-15T13:05:10.142Z",
+    "built_at": "2026-07-15T17:51:18.615Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
@@ -6766,6 +6766,12 @@
           "y": 3.78,
           "kind": "session",
           "label": "Full pull-up — 4, 2, 1 (avg 2.3 vs target 3)"
+        },
+        {
+          "date": "2026-07-15",
+          "y": 3.97,
+          "kind": "session",
+          "label": "Full pull-up — 3, (avg 3 vs target 3)"
         }
       ],
       "steps": [
@@ -7253,9 +7259,14 @@
   ],
   "ladder_parity": {
     "push": {
-      "candidates": 5,
+      "candidates": 6,
       "plotted": 5,
-      "rejected": []
+      "rejected": [
+        {
+          "date": "2026-07-15",
+          "why": "\"Typewriter push-up (★slide side-to-side)\" logged no usable numbers"
+        }
+      ]
     },
     "explosive": {
       "candidates": 6,
@@ -7273,8 +7284,8 @@
       "rejected": []
     },
     "pull": {
-      "candidates": 11,
-      "plotted": 11,
+      "candidates": 12,
+      "plotted": 12,
       "rejected": [
         {
           "date": "2026-06-23",
@@ -7288,9 +7299,14 @@
       "rejected": []
     },
     "grip": {
-      "candidates": 9,
+      "candidates": 10,
       "plotted": 9,
-      "rejected": []
+      "rejected": [
+        {
+          "date": "2026-07-15",
+          "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" logged no usable numbers"
+        }
+      ]
     },
     "legs": {
       "candidates": 10,
@@ -7298,17 +7314,26 @@
       "rejected": []
     },
     "corefloor": {
-      "candidates": 6,
+      "candidates": 7,
       "plotted": 6,
-      "rejected": []
+      "rejected": [
+        {
+          "date": "2026-07-15",
+          "why": "\"Hollow hold (★finisher)\" logged no usable numbers"
+        }
+      ]
     },
     "corehang": {
-      "candidates": 17,
+      "candidates": 18,
       "plotted": 16,
       "rejected": [
         {
           "date": "2026-06-27",
           "why": "\"Hanging knee raise\" logged no usable numbers (skipped)"
+        },
+        {
+          "date": "2026-07-15",
+          "why": "\"Hanging knee raise (★slow ecc — 3s down)\" logged no usable numbers"
         }
       ]
     },
@@ -7363,6 +7388,13 @@
             "raw": "9, 8, 8",
             "avg": 8.3,
             "status": "✓ CLEAR DAY — carried by the clear dot (needed 8/side, avg 8.33)"
+          },
+          {
+            "date": "2026-07-15",
+            "name": "Typewriter push-up (★slide side-to-side)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Typewriter push-up (★slide side-to-side)\" logged no usable numbers"
           }
         ]
       },
@@ -7583,6 +7615,13 @@
             "raw": "4, 2, 1",
             "avg": 2.3,
             "status": "● plotted at 3.78"
+          },
+          {
+            "date": "2026-07-15",
+            "name": "Pull-up (★full — then negatives as back-off)",
+            "raw": "3,",
+            "avg": 3,
+            "status": "● plotted at 3.97"
           }
         ]
       },
@@ -7710,6 +7749,13 @@
             "raw": "20, 13",
             "avg": 16.5,
             "status": "● plotted at 1.37"
+          },
+          {
+            "date": "2026-07-15",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Grip+trap (flex): dead hang ★ + scap shr\" logged no usable numbers"
           }
         ]
       },
@@ -7834,6 +7880,13 @@
             "raw": "31, 31",
             "avg": 31,
             "status": "✓ CLEAR DAY — carried by the clear dot (needed 30s, avg 31)"
+          },
+          {
+            "date": "2026-07-15",
+            "name": "Hollow hold (★finisher)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Hollow hold (★finisher)\" logged no usable numbers"
           }
         ]
       },
@@ -7959,6 +8012,13 @@
             "raw": "10,  6,  6",
             "avg": 7.3,
             "status": "● plotted at 1.73"
+          },
+          {
+            "date": "2026-07-15",
+            "name": "Hanging knee raise (★slow ecc — 3s down)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Hanging knee raise (★slow ecc — 3s down)\" logged no usable numbers"
           }
         ]
       }
@@ -8100,6 +8160,10 @@
           {
             "date": "2026-07-13",
             "detail": "hang: 20, 13 · shrugs: 10, 10"
+          },
+          {
+            "date": "2026-07-15",
+            "detail": "hang: — · shrugs: —"
           }
         ]
       },
@@ -8191,6 +8255,35 @@
         ]
       },
       {
+        "name": "Hollow hold (finisher)",
+        "rows": [
+          {
+            "date": "2026-06-06",
+            "detail": "held: 35, 20"
+          },
+          {
+            "date": "2026-06-13",
+            "detail": "held: 15, 20"
+          },
+          {
+            "date": "2026-06-20",
+            "detail": "held: 28, 18"
+          },
+          {
+            "date": "2026-07-01",
+            "detail": "held: 30, 20"
+          },
+          {
+            "date": "2026-07-08",
+            "detail": "held: 16, 16"
+          },
+          {
+            "date": "2026-07-15",
+            "detail": "held: —"
+          }
+        ]
+      },
+      {
         "name": "Side neck curl",
         "rows": [
           {
@@ -8216,31 +8309,6 @@
           {
             "date": "2026-07-14",
             "detail": "reps / held: 10, 5, 5"
-          }
-        ]
-      },
-      {
-        "name": "Hollow hold (finisher)",
-        "rows": [
-          {
-            "date": "2026-06-06",
-            "detail": "held: 35, 20"
-          },
-          {
-            "date": "2026-06-13",
-            "detail": "held: 15, 20"
-          },
-          {
-            "date": "2026-06-20",
-            "detail": "held: 28, 18"
-          },
-          {
-            "date": "2026-07-01",
-            "detail": "held: 30, 20"
-          },
-          {
-            "date": "2026-07-08",
-            "detail": "held: 16, 16"
           }
         ]
       },
@@ -8291,6 +8359,31 @@
           {
             "date": "2026-07-14",
             "detail": "reps: —"
+          }
+        ]
+      },
+      {
+        "name": "Pull-up (★full — then negatives as back-off)",
+        "rows": [
+          {
+            "date": "2026-07-01",
+            "detail": "full reps: 3, 1.5,  l.5 · neg back-off: 3, 3, 2"
+          },
+          {
+            "date": "2026-07-04",
+            "detail": "full reps: 3, 2, .5 · neg back-off: 2, 4, 2.5"
+          },
+          {
+            "date": "2026-07-08",
+            "detail": "full reps: 4,  2 , 1 · neg back-off: 4, 4, 2"
+          },
+          {
+            "date": "2026-07-11",
+            "detail": "full reps: 4, 2, 1 · neg back-off: 4, 4, 3.5"
+          },
+          {
+            "date": "2026-07-15",
+            "detail": "full reps: 3, · neg back-off: 4,"
           }
         ]
       },
@@ -8400,23 +8493,23 @@
         ]
       },
       {
-        "name": "Pull-up (★full — then negatives as back-off)",
+        "name": "Hanging knee raise (★slow ecc — 3s down)",
         "rows": [
           {
-            "date": "2026-07-01",
-            "detail": "full reps: 3, 1.5,  l.5 · neg back-off: 3, 3, 2"
-          },
-          {
-            "date": "2026-07-04",
-            "detail": "full reps: 3, 2, .5 · neg back-off: 2, 4, 2.5"
-          },
-          {
             "date": "2026-07-08",
-            "detail": "full reps: 4,  2 , 1 · neg back-off: 4, 4, 2"
+            "detail": "reps: 5, 5, 5"
           },
           {
             "date": "2026-07-11",
-            "detail": "full reps: 4, 2, 1 · neg back-off: 4, 4, 3.5"
+            "detail": "reps: 8, 8, 5"
+          },
+          {
+            "date": "2026-07-13",
+            "detail": "reps: 10,  6,  6"
+          },
+          {
+            "date": "2026-07-15",
+            "detail": "reps: —"
           }
         ]
       },
@@ -8489,23 +8582,6 @@
         ]
       },
       {
-        "name": "Hanging knee raise (★slow ecc — 3s down)",
-        "rows": [
-          {
-            "date": "2026-07-08",
-            "detail": "reps: 5, 5, 5"
-          },
-          {
-            "date": "2026-07-11",
-            "detail": "reps: 8, 8, 5"
-          },
-          {
-            "date": "2026-07-13",
-            "detail": "reps: 10,  6,  6"
-          }
-        ]
-      },
-      {
         "name": "Grip+trap (flex): towel hang + scap shrugs",
         "rows": [
           {
@@ -8554,6 +8630,19 @@
           {
             "date": "2026-07-13",
             "detail": "held: 26, 34, 25, 31"
+          }
+        ]
+      },
+      {
+        "name": "Pike push-up (accessory)",
+        "rows": [
+          {
+            "date": "2026-07-08",
+            "detail": "reps: 3, 4, 4"
+          },
+          {
+            "date": "2026-07-15",
+            "detail": "reps: —"
           }
         ]
       },
@@ -8648,15 +8737,6 @@
         ]
       },
       {
-        "name": "Pike push-up (accessory)",
-        "rows": [
-          {
-            "date": "2026-07-08",
-            "detail": "reps: 3, 4, 4"
-          }
-        ]
-      },
-      {
         "name": "Dead Hang",
         "rows": [
           {
@@ -8700,9 +8780,82 @@
             "detail": "reps / held: 11, 9, 4"
           }
         ]
+      },
+      {
+        "name": "Typewriter push-up (★slide side-to-side)",
+        "rows": [
+          {
+            "date": "2026-07-15",
+            "detail": "reps: —"
+          }
+        ]
+      },
+      {
+        "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
+        "rows": [
+          {
+            "date": "2026-07-15",
+            "detail": "reps: —"
+          }
+        ]
       }
     ],
     "dates": [
+      {
+        "date": "2026-07-15",
+        "rows": [
+          {
+            "ladderId": "pull",
+            "ladderName": "Pull",
+            "name": "Pull-up (★full — then negatives as back-off)",
+            "raw": "3,",
+            "avg": 3,
+            "target": "3",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "corehang",
+            "ladderName": "Core — HANGING",
+            "name": "Hanging knee raise (★slow ecc — 3s down)",
+            "raw": "",
+            "avg": null,
+            "target": "10",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "grip",
+            "ladderName": "Grip & Forearms",
+            "name": "Dead hang ★",
+            "raw": "",
+            "avg": null,
+            "target": "45s",
+            "sets": 2,
+            "cleared": false
+          },
+          {
+            "ladderId": "push",
+            "ladderName": "Horizontal Push — STRENGTH",
+            "name": "Typewriter push-up (★slide side-to-side)",
+            "raw": "",
+            "avg": null,
+            "target": "8/side",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "corefloor",
+            "ladderName": "Core — FLOOR",
+            "name": "Hollow hold (★finisher)",
+            "raw": "",
+            "avg": null,
+            "target": "45s",
+            "sets": 2,
+            "cleared": false
+          }
+        ]
+      },
       {
         "date": "2026-07-13",
         "rows": [
@@ -9613,6 +9766,10 @@
     }
   ],
   "last_perf": {
+    "pull": {
+      "date": "2026-07-15",
+      "detail": "3,"
+    },
     "chinup": {
       "date": "2026-07-13",
       "detail": "4, 2.5,  .5"
@@ -9640,10 +9797,6 @@
     "corefloor": {
       "date": "2026-07-12",
       "detail": "31, 31"
-    },
-    "pull": {
-      "date": "2026-07-11",
-      "detail": "4, 2, 1"
     },
     "legs": {
       "date": "2026-07-11",
