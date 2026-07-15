@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 620,
+    "overall_total": 622,
     "generated_for": "2026-07-15",
-    "built_at": "2026-07-15T19:41:28.053Z",
+    "built_at": "2026-07-15T23:21:29.929Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 463
+      "ft_to_go": 461
     }
   },
   "lanes": [
@@ -57,7 +57,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 20,
+      "current": 22,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -3256,6 +3256,30 @@
       "reasoning": "Consolidation/review session = tiny, NO cap (codebook: \"any genuine consolidation ticks... more necessary as the knowledge base grows\"). Inclusion met at the top of the band: ACTIVE recall throughout — he restated, derived, and reconstructed the material himself (the necessity/sufficiency/minimality reconstruction from a sufficiency-only showing is derivation, not recall), and the exclusion (passive reread / Athena re-explaining without owner recall) plainly fails. Distinct from the NO-TICK daily retrieval check — that is 3-5 quick Qs; this is a full session. ONE tiny, not two: the 3 videos + the discussion are one continuous consolidation act with one purpose (the session is the atom, §4.5.1) — booking a separate 📚 chill-lane video tiny on top would double-dip the same sitting across lanes, and size-vs-time never crosses lanes; strictness defaults LOWER. Not an M22 reading or gate re-tick — both are earned-once and already booked (7/13 reading, 7/14 gate); consolidation is neither bounded nor earned-once. Athena writing the session's learning into his Obsidian notes at his direction is her authorship → never ticks; his own recall is the event. Dedup: no prior 7/15 🧠 row",
       "evidence": "Notes on Field Foundations.md (M22 §4 + new §5, modified 7/15); learning-state.md (S53); Athena journal S53",
       "booked": "2026-07-15"
+    },
+    {
+      "date": "2026-07-15",
+      "lane": "method",
+      "activity": "Osiris pilot owner-track EXECUTION work-block with Odin (guided browser walkthrough, evening): created + delivered 3 live API keys (Replicate media_provider, Gemini editor_provider, Pixabay broll_pixabay — each vaulted on the Hetzner server + live-tested against the real vendor API; 4th key Pexels blocked by the vendor's own key-generation outage), reviewed + APPROVED the MDL-146 one-agent seed re-edit (one changed sentence, identity byte-identical) → Bible v1 + Identity v1 installed to the server's osiris_pilot DB (found seedless — the S59 install was WSL-only), and reviewed all 7 craft-library docs contributing 3 substantive craft edits of his own (retention dips-as-lessons, b-roll relevance rule, custom-visuals-preferred) → all 7 installed as Craftbook v1",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 21,
+      "cum_overall": 621,
+      "reasoning": "Osiris working-session tiny (2026-07-09 extension); session-type = owner-executed ops / hands-on execution — key management is the enumerated exemplar of that type. Substance floor cleared severalfold: 3 keys created+vaulted+live-tested, a seed approval + server install, a 7-doc review with 3 owner-authored edits. A DIFFERENT session-TYPE from the same evening's planning row → its own tick (codebook dedup: one per (date, session-type); a different-type session the same day is its own tick — the 7/09 precedent enumerated ops · build-direction · decision as separable types). NOT an artifact claim: roadmap #24 (seed config) fact-checked per the lane-source map — still open, due Oct 31; the v1 installs are pilot ops, not the #24 creative artifact completing. Dedup: no prior 7/15 📕 row (grepped)",
+      "evidence": "osiris-pilot-build-plan.md (S61 DONE blocks 1-3); craft-library/03; server vault + osiris_pilot DB; Odin session S61",
+      "booked": "2026-07-15"
+    },
+    {
+      "date": "2026-07-15",
+      "lane": "method",
+      "activity": "Osiris Build-2 capability-expansion PLANNING session with Odin (multi-hour, same evening, owner deliberately held in planning phase until saturation): locked the $30/week materials envelope (Monday 00:00 EST reset, rollover accepted), the cognition-vs-materials two-book split, the cost-oracle requirement, vendor-exact Replicate pricing over flat estimates, open Replicate access behind a commercial-license wall, transitions-as-primitives over canned presets, sandboxed agent-authored Remotion code ruled IN with the jail to land before pilot boot (Kink-2 ruling; boot slips ~Jul 23-25), the 3h/day disclosed watch throttle, music/SFX provided neutrally with zero usage directive, and the capability North Star; added roadmap artifacts #32 + #33 (~Sep 1-5, his idea)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 22,
+      "cum_overall": 622,
+      "reasoning": "Osiris working-session tiny; session-type = roadmap/planning + capability design. Multi-hour with ~10 binding owner calls locked + 2 roadmap artifacts added — substance floor cleared severalfold. A second 📕 tick the same day is lawful because the TYPE differs from the ops row (codebook: a different-type session the same day is its own tick) and EACH row independently clears its own type's bar as a full phase — DISTINCT from the 7/14 single blended capture, which could not establish two independently-substantial typed phases and stayed ONE tiny (consistency preserved by the distinction, not broken). Roadmap fact-check: #32/#33 confirmed ADDED on execution-roadmap.md (owner, S61) — additions, not completions → no artifact tick. The 3 drafted /goal commands are unexecuted — nothing books for the build itself. Dedup: no second planning-type 7/15 row",
+      "evidence": "osiris-pilot-build-plan.md (Build 2 PLANNING section, S61); execution-roadmap.md (#32/#33); Odin session S61",
+      "booked": "2026-07-15"
     }
   ],
   "series": {
@@ -4096,6 +4120,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Osiris pilot working session with Odin (multi-hour): pilot redesign toward runnable + comprehensive capabilities, artifact-deadline timeline additions, capability build-out decisions, Hetzner hosting stood up"
+      },
+      {
+        "date": "2026-07-15",
+        "cum": 21,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris pilot owner-track EXECUTION work-block with Odin (guided browser walkthrough, evening): created + delivered 3 live API keys (Replicate media_provider, Gemini editor_provider, Pixabay broll_pixabay — each vaulted on the Hetzner server + live-tested against the real vendor API; 4th key Pexels blocked by the vendor's own key-generation outage), reviewed + APPROVED the MDL-146 one-agent seed re-edit (one changed sentence, identity byte-identical) → Bible v1 + Identity v1 installed to the server's osiris_pilot DB (found seedless — the S59 install was WSL-only), and reviewed all 7 craft-library docs contributing 3 substantive craft edits of his own (retention dips-as-lessons, b-roll relevance rule, custom-visuals-preferred) → all 7 installed as Craftbook v1"
+      },
+      {
+        "date": "2026-07-15",
+        "cum": 22,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris Build-2 capability-expansion PLANNING session with Odin (multi-hour, same evening, owner deliberately held in planning phase until saturation): locked the $30/week materials envelope (Monday 00:00 EST reset, rollover accepted), the cognition-vs-materials two-book split, the cost-oracle requirement, vendor-exact Replicate pricing over flat estimates, open Replicate access behind a commercial-license wall, transitions-as-primitives over canned presets, sandboxed agent-authored Remotion code ruled IN with the jail to land before pilot boot (Kink-2 ruling; boot slips ~Jul 23-25), the 3h/day disclosed watch throttle, music/SFX provided neutrally with zero usage directive, and the capability North Star; added roadmap artifacts #32 + #33 (~Sep 1-5, his idea)"
       }
     ],
     "literature": [
