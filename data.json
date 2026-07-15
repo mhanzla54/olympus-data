@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 614,
+    "overall_total": 615,
     "generated_for": "2026-07-14",
-    "built_at": "2026-07-14T22:44:59.767Z",
+    "built_at": "2026-07-15T01:38:45.819Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 469
+      "ft_to_go": 468
     }
   },
   "lanes": [
@@ -57,7 +57,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 19,
+      "current": 20,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -3184,6 +3184,18 @@
       "reasoning": "Ad-hoc accessory session >=~6 working sets = tiny (~11 sets); the neck-harness session is the codebook exemplar (7/02, 6/16, 6/11 precedents). Accessory neck work — NOT on any strength ladder (no rung target) → session-tiny only, no rung small, no ladder change. LATE/CORRECTED capture: phone-synced mislabeled \"July 9\", date corrected to 7/14 this session (owner-confirmed TODAY's + DISTINCT/heavier — 60-lb — from the real 30-lb 7/09 neck session already scored at row-log 2026-07-09/551). This is why the earlier 7/14 run showed 🏋️ \"no workout\" — the session was hidden under the wrong date. Dedup: grepped — no prior 2026-07-14 Strength/workout-session row (the earlier 7/14 run booked only M22-gate + Coding + 7/13-diet); distinct date + distinct band-weight from the 7/09 row → no collision. Same-day supplemental to the earlier +4 run (613). One tick per (date, workout-session, lane) satisfied — this is the first 7/14 session row",
       "evidence": "workout-log.md (relabeled July 14th, was line 492); calisthenics-plan.md",
       "booked": "2026-07-14"
+    },
+    {
+      "date": "2026-07-14",
+      "lane": "method",
+      "activity": "Osiris pilot working session with Odin (multi-hour): pilot redesign toward runnable + comprehensive capabilities, artifact-deadline timeline additions, capability build-out decisions, Hetzner hosting stood up",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 20,
+      "cum_overall": 615,
+      "reasoning": "Osiris working-session tiny (2026-07-09 extension): genuine multi-hour session, owner in the loop — planning + organizing + decisions (tool-vs-job boundary satisfied); substance floor cleared severalfold (timeline artifacts + capability decisions + hosting ops). ONE tiny per (date, session-type) — the sitting blended planning/build/ops in one continuous arc; strictness defaults LOWER. Session tick, not an artifact/milestone claim (no roadmap path-check owed; completed artifacts book separately when captured). Owner-direct capture (§0.5: the owner is a lawful upstream capturer). Dedup: no prior 7/14 📕 row",
+      "evidence": "Owner direct report (Zeus session); Hetzner Console live; osiris-study in-flight files modified 7/14",
+      "booked": "2026-07-14"
     }
   ],
   "series": {
@@ -4003,6 +4015,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Notes Sweep — owner-run 8-question open-book recall/consolidation session over methodology M1 (The Shape of Research) + M2 (The QDA Landscape); answered in his own words (look-up-then-restate, ask-to-go-deeper); recovered theoretical sampling + analytic generalization (both previously-missed M2 items); 2 items logged to the retrieval-ledger to resurface"
+      },
+      {
+        "date": "2026-07-14",
+        "cum": 20,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris pilot working session with Odin (multi-hour): pilot redesign toward runnable + comprehensive capabilities, artifact-deadline timeline additions, capability build-out decisions, Hetzner hosting stood up"
       }
     ],
     "literature": [
