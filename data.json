@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 622,
+    "overall_total": 677,
     "generated_for": "2026-07-16",
-    "built_at": "2026-07-16T19:23:30.385Z",
+    "built_at": "2026-07-16T21:37:40.314Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 461
+      "ft_to_go": 406
     }
   },
   "lanes": [
@@ -37,7 +37,7 @@
       "t0_note": "couldn't write a single line of Python — ran his first print() the day before t0",
       "endpoint": "Replicate AND extend a frontier alignment result — public, runnable code",
       "endpoint_tier": "verylarge",
-      "current": 81,
+      "current": 92,
       "working_on": "Automate the Boring Stuff textbook"
     },
     {
@@ -47,7 +47,7 @@
       "t0_note": "didn't hold the transformer internals — attention, embeddings, the residual stream were only 'encountered'",
       "endpoint": "A from-memory \"mini-textbook\" of the whole ML/alignment stack (FF is the floor; endpoint stays provisional)",
       "endpoint_tier": "verylarge",
-      "current": 90,
+      "current": 92,
       "working_on": "Field Foundations"
     },
     {
@@ -77,7 +77,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 132,
+      "current": 162,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -87,8 +87,8 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 284,
-      "working_on": "the next new-pound low (≤ 217.4 lb)"
+      "current": 296,
+      "working_on": "the next new-pound low (≤ 216.2 lb)"
     }
   ],
   "tiers": [
@@ -3280,6 +3280,126 @@
       "reasoning": "Osiris working-session tiny; session-type = roadmap/planning + capability design. Multi-hour with ~10 binding owner calls locked + 2 roadmap artifacts added — substance floor cleared severalfold. A second 📕 tick the same day is lawful because the TYPE differs from the ops row (codebook: a different-type session the same day is its own tick) and EACH row independently clears its own type's bar as a full phase — DISTINCT from the 7/14 single blended capture, which could not establish two independently-substantial typed phases and stayed ONE tiny (consistency preserved by the distinction, not broken). Roadmap fact-check: #32/#33 confirmed ADDED on execution-roadmap.md (owner, S61) — additions, not completions → no artifact tick. The 3 drafted /goal commands are unexecuted — nothing books for the build itself. Dedup: no second planning-type 7/15 row",
       "evidence": "osiris-pilot-build-plan.md (Build 2 PLANNING section, S61); execution-roadmap.md (#32/#33); Odin session S61",
       "booked": "2026-07-15"
+    },
+    {
+      "date": "2026-07-15",
+      "lane": "body",
+      "activity": "Calorie-day 1579 on plan (strict day of Cycle 5; logged full — FINALIZED by the warehouse)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 285,
+      "cum_overall": 623,
+      "reasoning": "Strict target ~1,500 +/-300 (1579 within tolerance), logged full; codebook calorie-day = tiny. The 7/15 diet day was HELD provisional at the 7/15 close (mid-eating, 1,028/134, protein under floor) — the warehouse-final ruling books a diet deed only off the FINAL row. Now provisional:false, logged full → it books, exactly as 7/14's did the day after. Fact-checked vs health-data.json 7/15 final row (kcal 1579) per the lane-source map. Dedup: the 7/15 close explicitly deferred food; no prior 7/15 Body food row (grepped)",
+      "evidence": "health-data.json (2026-07-15 final row, warehouse pulled 17:18 EST 7/16); MFP",
+      "booked": "2026-07-16"
+    },
+    {
+      "date": "2026-07-15",
+      "lane": "body",
+      "activity": "Protein-day 183g (logged full)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 286,
+      "cum_overall": 624,
+      "reasoning": "Logged >= goal-20 floor (proteinTarget 180 → floor 160; 183 >= 160, clears comfortably). Independent of the calorie tick. Same warehouse-final proof (health-data.json 7/15 final: protein 183, provisional:false). Dedup: no prior 7/15 protein row",
+      "evidence": "health-data.json (2026-07-15 final row, warehouse); MFP",
+      "booked": "2026-07-16"
+    },
+    {
+      "date": "2026-07-16",
+      "lane": "mlai",
+      "activity": "FF M23 (Evals, Red-Teaming & Benchmarks) module READING tick — read the module + own notes + a full understand-first discussion (eval-vs-benchmark, the 3 eval parts + capability/propensity, saturation + gaming + contamination with his own answer-key analogy, all demonstrated-not-asserted at mastery level)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 91,
+      "cum_overall": 625,
+      "reasoning": "Module reading tiny (constitution §6 UNIFIED module-reading rule, C3 2026-07-13): a substantial module read + an owner-authored proof-act (own notes AND an active understand-first discussion) = tiny, BOUNDED one-per-module. Same shape as the M22 reading tick booked 7/13; forward-only rule applies (7/13+), M23 is well past it. Fact-checked vs field-foundations-curriculum (M23 = Cluster 5 module 4, real next module) + Gradebook S54. The BUILD is Athena's authorship → never ticks; the read+notes+discussion is his event. This is the reading tick — the GATE is a SEPARATE tiny below. Earned-once (FF-M23-reading). Dedup: no prior FF-M23-reading row",
+      "evidence": "curricula/field-foundations/m23-evals-red-teaming-benchmarks.{md,html}; Gradebook.md (S54); Athena journal S54",
+      "booked": "2026-07-16"
+    },
+    {
+      "date": "2026-07-16",
+      "lane": "mlai",
+      "activity": "FF M23 (Evals, Red-Teaming & Benchmarks) blind GATE PASSED 88 (Solid; Cluster 5 module 4; 7-Q whole-module scope, closed-book dictated)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 92,
+      "cum_overall": 626,
+      "reasoning": "Blind module gate >=80 = tiny — a SEPARATE tiny from the reading tick (constitution §6: a fully-done module = up to TWO tinies; exactly how M22 scored across 7/13+7/14, here both same day). Path-event fact-checked vs Gradebook.md S54 (88/100 Solid, blind independent grader, closed-book) + field-foundations-curriculum (M23 GATED 88 2026-07-16, M24 opens). 88 clears the 80 pass-bar. The one gap (Q6 gave 3 of 4 reasons safety-measurement is hard, missed the model-knows-it's-tested reason) does not fail an 88. NO cluster-small: Cluster 5 (Alignment) is not complete — M24 (Failure-Mode Zoo) still opens; the C5 capstone is downstream. Earned-once (FF-M23-gate). Dedup: no prior FF-M23-gate row",
+      "evidence": "Gradebook.md (S54, 88 blind); field-foundations/m23-evals-red-teaming-benchmarks.{md,html}",
+      "booked": "2026-07-16"
+    },
+    {
+      "date": "2026-07-16",
+      "lane": "coding",
+      "activity": "Python ATBS ch.7 (Regular Expressions) read pp.166-169 (the phoneAndEmail.py capstone: multiline VERBOSE phone/email regexes, findall returning tuples, join to rebuild) + a 5-drill predict-then-run round in his own harness (Ch7_miniDrills.py drill5 block); ~4.5/5, both planted traps caught (findall-with-groups returns tuples; optional \\.? still matches without the period), one sharpen (findall returns strings not ints)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 82,
+      "cum_overall": 627,
+      "reasoning": "Reading + same-session drills on the just-read chapter = ONE tiny (constitution §1 Amendment B; his authorship + runs, predict-then-run, Athena-verified). A DISTINCT new segment (pp.166-169) past 7/15's pp.162-166 — the Coding reading-tick is per-segment with no per-chapter bound, so a new-day new-pages segment ticks on its own. Exactly the 7/14 + 7/15 shape, scored the same way (guard #3). This is the SEGMENT tick; the chapter-finish small is the SEPARATE row below (nested double-count). Dedup: no prior 7/16 Coding segment row",
+      "evidence": "Ch7_miniDrills.py (drill5 block); owner report + Athena grading S54",
+      "booked": "2026-07-16"
+    },
+    {
+      "date": "2026-07-16",
+      "lane": "coding",
+      "activity": "ATBS Ch.7 (Regular Expressions) COMPLETE — chapter-finish milestone: whole chapter read (pp.148-169) + own notes + his authored regex practice harness applied across the chapter (~16 predict-then-run exercises, self-debugged misconceptions)",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 92,
+      "cum_overall": 637,
+      "reasoning": "Chapter-finish (read+notes+applied program) = small (codebook §6; nests above its segment tinies — the explicit integration premium, exactly as Ch.2-Ch.5 each scored). The chapter-completion is captured this run (\"This CLOSES chapter 7\"). The \"applied program\" leg is met by his own runnable regex drill harness authored across the whole chapter (drill3-5) — regex is a feature-set, not a standalone-project domain, so the drills are the natural application; substantial (16 drills, self-corrected real misconceptions), his authorship, runs. Consistency (guard #3): every prior chapter close (Ch.2 login_system · Ch.3 functions · Ch.4 quest_log/tic_tac_toe · Ch.5 fantasy_inventory) earned this small. NOTE for the record: ch.6's completion (7/07) was never captured as a milestone so its small was never claimed — an upstream capture gap, not a denial and not my job to backfill (§0.5); it does not bar ch.7's captured close. Earned-once (ATBS-Ch.7-complete). Dedup: Ch.7 not in the earned-once chapters-complete list",
+      "evidence": "Ch7_miniDrills.py (drill3/4/5); coding-notes/Notes On Python.md (ch.7); Automate Ch.7",
+      "booked": "2026-07-16"
+    },
+    {
+      "date": "2026-07-16",
+      "lane": "strength",
+      "activity": "Grip & Forearms ladder — dead hang rung 2 (45s×2 target) CLEARED 45/45 STANDALONE strapless, clean owner-confirm → ★ rung 3 (dead hang 60s)",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 142,
+      "cum_overall": 647,
+      "reasoning": "Calisthenics rung unlocked = small (SETS-STANDARD law: per-set avg of clean reps >= the rung target across the rung's Sets count; 45/45 avg 45s >= the 45s target across 2 sets; owner clean-confirmed, full-ROM, strapless — the pure grip measure). STANDALONE fresh out-of-workout attempt scored the SAME small (owner directive 2026-07-08; earned-once, not farmable). Path-checked vs workout-split.md §7 Grip: rung 2 = Dead hang 45s×2 ✅ cleared 2026-07-16, ★ → rung 3 (60s). The next real rung past 7/12's rung-1 clear. Earned-once (Grip-dead-hang-45s). NO separate session-tiny: standalone rung-TEST battery, not a full-force/accessory training workout — the standalone rule scores only the rung small (anti-farm; the session-tiny rewards training volume, absent here) — exactly the 7/12 precedent (guard #3). Dedup: no prior 7/16 grip rung row",
+      "evidence": "workout-split.md §7 (rung 2 ✅ 7/16); workout-log.md (July 16 Ad hoc)",
+      "booked": "2026-07-16"
+    },
+    {
+      "date": "2026-07-16",
+      "lane": "strength",
+      "activity": "Core-Floor ladder — hollow hold rung 2 (45s×2 target) CLEARED 45/45 STANDALONE, clean owner-confirm → ★ rung 3 (hollow hold 60s)",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 152,
+      "cum_overall": 657,
+      "reasoning": "Calisthenics rung unlocked = small (SETS-STANDARD law: 45/45 avg 45s >= the 45s target across 2 sets; owner clean-confirmed, full-ROM). STANDALONE fresh attempt scored the same small (7/08 rule). Path-checked vs workout-split.md §9 Core-Floor: rung 2 = Hollow hold 45s×2 ✅ cleared 2026-07-16, ★ → rung 3 (60s). The next real rung past 7/12's rung-1 clear. Earned-once (Core-Floor-hollow-hold-45s). No separate session-tiny (standalone test battery, per the row above + the 7/12 precedent). Dedup: no prior 7/16 core-floor rung row",
+      "evidence": "workout-split.md §9 (rung 2 ✅ 7/16); workout-log.md (July 16 Ad hoc)",
+      "booked": "2026-07-16"
+    },
+    {
+      "date": "2026-07-16",
+      "lane": "strength",
+      "activity": "Horizontal Pull — Rows ladder — incline ring row rung 1 (8×3 target) CLEARED 13/10/10 clean, owner-confirm → ★ rung 2 (parallel ring row) — FIRST clear on this ladder (started gated, added 2026-07-11 with the rings)",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 162,
+      "cum_overall": 667,
+      "reasoning": "Calisthenics rung unlocked = small (SETS-STANDARD law: (13+10+10)/3 avg 11 >= the 8 target across 3 sets; owner clean-confirmed, full-ROM). Path-checked vs workout-split.md §12 Horizontal Pull: rung 1 = Incline ring row 8×3 ✅ cleared 2026-07-16, ★ → rung 2 (parallel ring row). First star on the 12th ladder — the rings \"test-in\" the owner's carried question, now answered. Earned-once (HPull-incline-ring-row). No separate session-tiny (standalone rung-test battery, per the rows above). Dedup: no prior HPull rung row",
+      "evidence": "workout-split.md §12 (rung 1 ✅ 7/16); workout-log.md (July 16 Ad hoc)",
+      "booked": "2026-07-16"
+    },
+    {
+      "date": "2026-07-16",
+      "lane": "body",
+      "activity": "Weigh-in 217.2 lb — NEW ALL-TIME LOW (ratchet; beats the prior all-time low 217.6 of 7/09 AND clears the <=217.4 threshold)",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 296,
+      "cum_overall": 677,
+      "reasoning": "A 1-lb new low = small (codebook §6 Body, the weight ratchet). Benchmark was 218.4, next-tick threshold <=217.4; 217.2 is <=217.4 AND below the 217.6 all-time low → a genuine full-pound-below-benchmark new low, the ratchet BEATS. The last three weigh-ins (218.2, 218.2, tie) correctly did NOT tick — this one falls. Benchmark now resets to 217.2 (next Body low-tick at <=216.2). NOT a 10-lb milestone (that ratchet sits at 210). Today's 7/16 diet is provisional at this close (1,099/137, protein under the 160 floor, mid-eating) → no 7/16 calorie/protein rows this close; they defer to the true-up per the warehouse-final ruling, exactly as 7/14's and 7/15's did. Fact-checked vs health-data.json 7/16 row (weight 217.2) per the lane-source map. Dedup: no prior 217.2 low row",
+      "evidence": "health-data.json (2026-07-16 row, pulled 17:18 EST); ratchet benchmark 218.4→217.2",
+      "booked": "2026-07-16"
     }
   ],
   "series": {
@@ -3598,6 +3718,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Python ATBS ch.7 (Regular Expressions) read pp.162-166 (re.DOTALL, the symbol-review recap, re.IGNORECASE/re.I, sub() incl. \\1 backreferences, re.VERBOSE, combining flags with the pipe operator) + a 5-drill predict-then-run round in his own harness (Ch7_miniDrills.py drill4 block); 5/5 correct — both planted traps caught (an uncaught sub() leaves the original untouched: strings immutable / return-must-be-used; without re.VERBOSE the pattern's whitespace + # comments are literal → None), and he self-caught unprompted that drill 4.5's second print returns a Match object not the text (no .group()), annotating his own prediction"
+      },
+      {
+        "date": "2026-07-16",
+        "cum": 82,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Python ATBS ch.7 (Regular Expressions) read pp.166-169 (the phoneAndEmail.py capstone: multiline VERBOSE phone/email regexes, findall returning tuples, join to rebuild) + a 5-drill predict-then-run round in his own harness (Ch7_miniDrills.py drill5 block); ~4.5/5, both planted traps caught (findall-with-groups returns tuples; optional \\.? still matches without the period), one sharpen (findall returns strings not ints)"
+      },
+      {
+        "date": "2026-07-16",
+        "cum": 92,
+        "feet": 10,
+        "tier": "small",
+        "activity": "ATBS Ch.7 (Regular Expressions) COMPLETE — chapter-finish milestone: whole chapter read (pp.148-169) + own notes + his authored regex practice harness applied across the chapter (~16 predict-then-run exercises, self-debugged misconceptions)"
       }
     ],
     "mlai": [
@@ -3978,6 +4112,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "FF M22 (Interpretability) consolidation session — chose to consolidate M22 (blind-assessed 90 on 7/14) over opening M23 because §2/§4 felt shaky; watched 3 videos on his own (an SAE explainer, a circuits explainer, Neel Nanda's mech-interp conference talk) then ran a full active-recall discussion: held a pre-planted audit question across two videos and cashed it (the SAE video's \"clamping deception features to zero mechanistically ensures models don't deceive humans\"), supplying 2 of the 6 failure reasons unaided (the feature may be represented at other layers; lossy reconstruction means the injected vector may represent something slightly different) → the keystone that \"ensure\" requires proving a negative; asked an unprompted mechanism question the videos never answered (does clamping require changing weights so the model naturally produces the edited vector? — no: a runtime hook overwrites the activation in flight), independently anticipating the real weight-editing family (Nanda's refusal-direction work); derived cold that a lossy reconstruction implies the decoded vector may represent something other than intended; on circuits, reconstructed BOTH validation tests unaided (necessity + sufficiency + the minimality search) when only sufficiency had been shown, plus the probing-is-correlational contrast and the semantic-labels limit"
+      },
+      {
+        "date": "2026-07-16",
+        "cum": 91,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "FF M23 (Evals, Red-Teaming & Benchmarks) module READING tick — read the module + own notes + a full understand-first discussion (eval-vs-benchmark, the 3 eval parts + capability/propensity, saturation + gaming + contamination with his own answer-key analogy, all demonstrated-not-asserted at mastery level)"
+      },
+      {
+        "date": "2026-07-16",
+        "cum": 92,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "FF M23 (Evals, Red-Teaming & Benchmarks) blind GATE PASSED 88 (Solid; Cluster 5 module 4; 7-Q whole-module scope, closed-book dictated)"
       }
     ],
     "method": [
@@ -4397,6 +4545,27 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Day A Push+Pull full-force workout logged (first Day A since 7/08) — pull-up ★full 3/2/.75 (+ negative back-off 4/3/3), hanging knee raise ★slow-ecc 7/6/6, dead hang ★ 18/20 + scap shrugs 8/8, typewriter push-up ★ 2/3/2, pike push-up 6/9/8, hollow hold ★ 15/20, pseudo-planche push-up ★ 2/3; 7 exercises, ~19 working sets"
+      },
+      {
+        "date": "2026-07-16",
+        "cum": 142,
+        "feet": 10,
+        "tier": "small",
+        "activity": "Grip & Forearms ladder — dead hang rung 2 (45s×2 target) CLEARED 45/45 STANDALONE strapless, clean owner-confirm → ★ rung 3 (dead hang 60s)"
+      },
+      {
+        "date": "2026-07-16",
+        "cum": 152,
+        "feet": 10,
+        "tier": "small",
+        "activity": "Core-Floor ladder — hollow hold rung 2 (45s×2 target) CLEARED 45/45 STANDALONE, clean owner-confirm → ★ rung 3 (hollow hold 60s)"
+      },
+      {
+        "date": "2026-07-16",
+        "cum": 162,
+        "feet": 10,
+        "tier": "small",
+        "activity": "Horizontal Pull — Rows ladder — incline ring row rung 1 (8×3 target) CLEARED 13/10/10 clean, owner-confirm → ★ rung 2 (parallel ring row) — FIRST clear on this ladder (started gated, added 2026-07-11 with the rings)"
       }
     ],
     "body": [
@@ -5064,6 +5233,27 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Protein-day 173g (logged full)"
+      },
+      {
+        "date": "2026-07-15",
+        "cum": 285,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Calorie-day 1579 on plan (strict day of Cycle 5; logged full — FINALIZED by the warehouse)"
+      },
+      {
+        "date": "2026-07-15",
+        "cum": 286,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Protein-day 183g (logged full)"
+      },
+      {
+        "date": "2026-07-16",
+        "cum": 296,
+        "feet": 10,
+        "tier": "small",
+        "activity": "Weigh-in 217.2 lb — NEW ALL-TIME LOW (ratchet; beats the prior all-time low 217.6 of 7/09 AND clears the <=217.4 threshold)"
       }
     ]
   },
@@ -6025,8 +6215,10 @@
       "id": "hpull",
       "name": "Horizontal Pull — ROWS",
       "elite": "one-arm ring row",
-      "current": 0,
-      "cleared_dates": {},
+      "current": 2,
+      "cleared_dates": {
+        "1": "2026-07-16"
+      },
       "rungs": [
         {
           "name": "Incline ring row (torso ~45°, feet under you)",
@@ -6081,8 +6273,8 @@
       ],
       "gated": "gymnastic rings (hang from the doorway bar, strap-lowered so you can lean under)",
       "chart": 12,
-      "cleared_count": 0,
-      "height": 0,
+      "cleared_count": 1,
+      "height": 1,
       "triangular": [
         0,
         1,
@@ -6254,9 +6446,10 @@
       "id": "grip",
       "name": "Grip & Forearms",
       "elite": "one-arm dead hang",
-      "current": 2,
+      "current": 3,
       "cleared_dates": {
-        "1": "2026-07-12"
+        "1": "2026-07-12",
+        "2": "2026-07-16"
       },
       "rungs": [
         {
@@ -6311,8 +6504,8 @@
         }
       ],
       "chart": 7,
-      "cleared_count": 1,
-      "height": 1,
+      "cleared_count": 2,
+      "height": 3,
       "triangular": [
         0,
         1,
@@ -6408,9 +6601,10 @@
       "id": "corefloor",
       "name": "Core — FLOOR",
       "elite": "dragon flag",
-      "current": 2,
+      "current": 3,
       "cleared_dates": {
-        "1": "2026-07-12"
+        "1": "2026-07-12",
+        "2": "2026-07-16"
       },
       "rungs": [
         {
@@ -6465,8 +6659,8 @@
         }
       ],
       "chart": 9,
-      "cleared_count": 1,
-      "height": 1,
+      "cleared_count": 2,
+      "height": 3,
       "triangular": [
         0,
         1,
@@ -6938,15 +7132,24 @@
         },
         {
           "date": "2026-07-16",
-          "y": 0.97,
-          "kind": "session",
-          "label": "Incline ring row (torso ~45°, feet under you) — 13, 10, 10 (avg 11 vs target 8)"
+          "y": 1,
+          "kind": "clear",
+          "label": "Horizontal Pull — ROWS — cleared: Incline ring row (torso ~45°, feet under you) (needed 8, got 13, 10, 10 — avg 11)",
+          "perf": {
+            "needed": "8",
+            "got": "13, 10, 10",
+            "avg": 11
+          }
         }
       ],
       "steps": [
         {
           "date": "2026-03-22",
           "rungs": 0
+        },
+        {
+          "date": "2026-07-16",
+          "rungs": 1
         }
       ],
       "chart": 12
@@ -7114,9 +7317,14 @@
         },
         {
           "date": "2026-07-16",
-          "y": 1.97,
-          "kind": "session",
-          "label": "Dead hang — 45, 45 (avg 45 vs target 45)"
+          "y": 2,
+          "kind": "clear",
+          "label": "Grip & Forearms — cleared: Dead hang (needed 45s, got 45, 45 — avg 45)",
+          "perf": {
+            "needed": "45s",
+            "got": "45, 45",
+            "avg": 45
+          }
         }
       ],
       "steps": [
@@ -7127,6 +7335,10 @@
         {
           "date": "2026-07-12",
           "rungs": 1
+        },
+        {
+          "date": "2026-07-16",
+          "rungs": 2
         }
       ],
       "chart": 7
@@ -7281,9 +7493,14 @@
         },
         {
           "date": "2026-07-16",
-          "y": 1.97,
-          "kind": "session",
-          "label": "Hollow hold — 45, 45 (avg 45 vs target 45)"
+          "y": 2,
+          "kind": "clear",
+          "label": "Core — FLOOR — cleared: Hollow hold (needed 45s, got 45, 45 — avg 45)",
+          "perf": {
+            "needed": "45s",
+            "got": "45, 45",
+            "avg": 45
+          }
         }
       ],
       "steps": [
@@ -7294,6 +7511,10 @@
         {
           "date": "2026-07-12",
           "rungs": 1
+        },
+        {
+          "date": "2026-07-16",
+          "rungs": 2
         }
       ],
       "chart": 9
@@ -7790,7 +8011,7 @@
             "name": "Incline Ring Row (~45 degree)",
             "raw": "13, 10, 10",
             "avg": 11,
-            "status": "● plotted at 0.97"
+            "status": "✓ CLEAR DAY — carried by the clear dot (needed 8, avg 11)"
           }
         ]
       },
@@ -7926,7 +8147,7 @@
             "name": "Dead Hang",
             "raw": "45, 45",
             "avg": 45,
-            "status": "● plotted at 1.97"
+            "status": "✓ CLEAR DAY — carried by the clear dot (needed 45s, avg 45)"
           }
         ]
       },
@@ -8064,7 +8285,7 @@
             "name": "Hollow hold",
             "raw": "45, 45",
             "avg": 45,
-            "status": "● plotted at 1.97"
+            "status": "✓ CLEAR DAY — carried by the clear dot (needed 45s, avg 45)"
           }
         ]
       },
@@ -9007,7 +9228,7 @@
             "avg": 45,
             "target": "45s",
             "sets": 2,
-            "cleared": false
+            "cleared": true
           },
           {
             "ladderId": "hpull",
@@ -9017,7 +9238,7 @@
             "avg": 11,
             "target": "8",
             "sets": 3,
-            "cleared": false
+            "cleared": true
           },
           {
             "ladderId": "grip",
@@ -9027,7 +9248,7 @@
             "avg": 45,
             "target": "45s",
             "sets": 2,
-            "cleared": false
+            "cleared": true
           }
         ]
       },
@@ -10466,9 +10687,9 @@
       {
         "date": "2026-07-16",
         "w": 217.2,
-        "kcal": 0,
-        "protein": 0,
-        "dayType": "empty",
+        "kcal": 1099,
+        "protein": 137,
+        "dayType": "strict",
         "provisional": true
       }
     ],
@@ -11081,7 +11302,7 @@
       {
         "date": "2026-07-16",
         "state": "partial",
-        "kcal": 0
+        "kcal": 1099
       }
     ],
     "days": [
@@ -11495,10 +11716,10 @@
       },
       {
         "date": "2026-07-16",
-        "kcal": 0,
-        "protein": 0,
-        "dayType": "empty",
-        "logged": "empty",
+        "kcal": 1099,
+        "protein": 137,
+        "dayType": "strict",
+        "logged": "full",
         "provisional": true
       }
     ],
