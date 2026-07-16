@@ -20,8 +20,8 @@
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
     "overall_total": 622,
-    "generated_for": "2026-07-15",
-    "built_at": "2026-07-15T23:21:29.929Z",
+    "generated_for": "2026-07-16",
+    "built_at": "2026-07-16T13:45:23.548Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
@@ -10362,10 +10362,10 @@
       {
         "date": "2026-07-15",
         "w": 218.2,
-        "kcal": 1028,
-        "protein": 134,
+        "kcal": 1579,
+        "protein": 183,
         "dayType": "strict",
-        "provisional": true
+        "provisional": false
       }
     ],
     "trend": [
@@ -10826,11 +10826,6 @@
     },
     "strip": [
       {
-        "date": "2026-06-16",
-        "state": "good",
-        "kcal": 1426
-      },
-      {
         "date": "2026-06-17",
         "state": "good",
         "kcal": 1446
@@ -10972,8 +10967,13 @@
       },
       {
         "date": "2026-07-15",
+        "state": "good",
+        "kcal": 1579
+      },
+      {
+        "date": "2026-07-16",
         "state": "partial",
-        "kcal": 1028
+        "kcal": 0
       }
     ],
     "days": [
@@ -11379,10 +11379,18 @@
       },
       {
         "date": "2026-07-15",
-        "kcal": 1028,
-        "protein": 134,
+        "kcal": 1579,
+        "protein": 183,
         "dayType": "strict",
         "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-07-16",
+        "kcal": 0,
+        "protein": 0,
+        "dayType": "empty",
+        "logged": "empty",
         "provisional": true
       }
     ],
