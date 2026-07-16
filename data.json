@@ -21,7 +21,7 @@
     ],
     "overall_total": 622,
     "generated_for": "2026-07-16",
-    "built_at": "2026-07-16T18:21:10.251Z",
+    "built_at": "2026-07-16T18:52:13.972Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
@@ -7461,9 +7461,14 @@
       "rejected": []
     },
     "corefloor": {
-      "candidates": 7,
+      "candidates": 8,
       "plotted": 7,
-      "rejected": []
+      "rejected": [
+        {
+          "date": "2026-07-16",
+          "why": "\"Hollow hold\" logged no usable numbers"
+        }
+      ]
     },
     "corehang": {
       "candidates": 18,
@@ -8025,6 +8030,13 @@
             "raw": "15, 20",
             "avg": 17.5,
             "status": "● plotted at 1.39"
+          },
+          {
+            "date": "2026-07-16",
+            "name": "Hollow hold",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Hollow hold\" logged no usable numbers"
           }
         ]
       },
@@ -8785,6 +8797,19 @@
         ]
       },
       {
+        "name": "Hollow hold",
+        "rows": [
+          {
+            "date": "2026-07-12",
+            "detail": "reps / held: 31, 31"
+          },
+          {
+            "date": "2026-07-16",
+            "detail": "reps / held: —"
+          }
+        ]
+      },
+      {
         "name": "Push-up (archer)",
         "rows": [
           {
@@ -8884,15 +8909,6 @@
         ]
       },
       {
-        "name": "Hollow hold",
-        "rows": [
-          {
-            "date": "2026-07-12",
-            "detail": "reps / held: 31, 31"
-          }
-        ]
-      },
-      {
         "name": "Chin-up (★full, underhand — then negatives as back-off)",
         "rows": [
           {
@@ -8939,6 +8955,21 @@
       }
     ],
     "dates": [
+      {
+        "date": "2026-07-16",
+        "rows": [
+          {
+            "ladderId": "corefloor",
+            "ladderName": "Core — FLOOR",
+            "name": "Hollow hold",
+            "raw": "",
+            "avg": null,
+            "target": "45s",
+            "sets": 2,
+            "cleared": false
+          }
+        ]
+      },
       {
         "date": "2026-07-15",
         "rows": [
