@@ -21,7 +21,7 @@
     ],
     "overall_total": 622,
     "generated_for": "2026-07-16",
-    "built_at": "2026-07-16T18:52:13.972Z",
+    "built_at": "2026-07-16T19:07:50.476Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
@@ -7105,6 +7105,12 @@
           "y": 1.42,
           "kind": "session",
           "label": "Dead hang — 18, 20 (avg 19 vs target 45)"
+        },
+        {
+          "date": "2026-07-16",
+          "y": 1.97,
+          "kind": "session",
+          "label": "Dead hang — 45, (avg 45 vs target 45)"
         }
       ],
       "steps": [
@@ -7266,6 +7272,12 @@
           "y": 1.39,
           "kind": "session",
           "label": "Hollow hold — 15, 20 (avg 17.5 vs target 45)"
+        },
+        {
+          "date": "2026-07-16",
+          "y": 1.97,
+          "kind": "session",
+          "label": "Hollow hold — 45, 45 (avg 45 vs target 45)"
         }
       ],
       "steps": [
@@ -7451,8 +7463,8 @@
       "rejected": []
     },
     "grip": {
-      "candidates": 10,
-      "plotted": 10,
+      "candidates": 11,
+      "plotted": 11,
       "rejected": []
     },
     "legs": {
@@ -7462,13 +7474,8 @@
     },
     "corefloor": {
       "candidates": 8,
-      "plotted": 7,
-      "rejected": [
-        {
-          "date": "2026-07-16",
-          "why": "\"Hollow hold\" logged no usable numbers"
-        }
-      ]
+      "plotted": 8,
+      "rejected": []
     },
     "corehang": {
       "candidates": 18,
@@ -7486,9 +7493,14 @@
       "rejected": []
     },
     "hpull": {
-      "candidates": 0,
+      "candidates": 1,
       "plotted": 0,
-      "rejected": []
+      "rejected": [
+        {
+          "date": "2026-07-16",
+          "why": "\"Incline Ring Row (~45 degree)\" logged no usable numbers"
+        }
+      ]
     }
   },
   "data_tab": {
@@ -7771,7 +7783,15 @@
       {
         "id": "hpull",
         "name": "Horizontal Pull — ROWS",
-        "rows": []
+        "rows": [
+          {
+            "date": "2026-07-16",
+            "name": "Incline Ring Row (~45 degree)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Incline Ring Row (~45 degree)\" logged no usable numbers"
+          }
+        ]
       },
       {
         "id": "frontlever",
@@ -7899,6 +7919,13 @@
             "raw": "18, 20",
             "avg": 19,
             "status": "● plotted at 1.42"
+          },
+          {
+            "date": "2026-07-16",
+            "name": "Dead Hang",
+            "raw": "45,",
+            "avg": 45,
+            "status": "● plotted at 1.97"
           }
         ]
       },
@@ -8034,9 +8061,9 @@
           {
             "date": "2026-07-16",
             "name": "Hollow hold",
-            "raw": "",
-            "avg": null,
-            "status": "✗ not plotted — \"Hollow hold\" logged no usable numbers"
+            "raw": "45, 45",
+            "avg": 45,
+            "status": "● plotted at 1.97"
           }
         ]
       },
@@ -8797,6 +8824,19 @@
         ]
       },
       {
+        "name": "Dead Hang",
+        "rows": [
+          {
+            "date": "2026-07-12",
+            "detail": "reps / held: 30, 30"
+          },
+          {
+            "date": "2026-07-16",
+            "detail": "reps / held: 45,"
+          }
+        ]
+      },
+      {
         "name": "Hollow hold",
         "rows": [
           {
@@ -8805,7 +8845,7 @@
           },
           {
             "date": "2026-07-16",
-            "detail": "reps / held: —"
+            "detail": "reps / held: 45, 45"
           }
         ]
       },
@@ -8900,15 +8940,6 @@
         ]
       },
       {
-        "name": "Dead Hang",
-        "rows": [
-          {
-            "date": "2026-07-12",
-            "detail": "reps / held: 30, 30"
-          }
-        ]
-      },
-      {
         "name": "Chin-up (★full, underhand — then negatives as back-off)",
         "rows": [
           {
@@ -8952,6 +8983,15 @@
             "detail": "reps: 2, 3"
           }
         ]
+      },
+      {
+        "name": "Incline Ring Row (~45 degree)",
+        "rows": [
+          {
+            "date": "2026-07-16",
+            "detail": "reps: —"
+          }
+        ]
       }
     ],
     "dates": [
@@ -8962,8 +9002,28 @@
             "ladderId": "corefloor",
             "ladderName": "Core — FLOOR",
             "name": "Hollow hold",
+            "raw": "45, 45",
+            "avg": 45,
+            "target": "45s",
+            "sets": 2,
+            "cleared": false
+          },
+          {
+            "ladderId": "hpull",
+            "ladderName": "Horizontal Pull — ROWS",
+            "name": "Incline Ring Row (~45 degree)",
             "raw": "",
             "avg": null,
+            "target": "8",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "grip",
+            "ladderName": "Grip & Forearms",
+            "name": "Dead Hang",
+            "raw": "45,",
+            "avg": 45,
             "target": "45s",
             "sets": 2,
             "cleared": false
@@ -9935,6 +9995,14 @@
     }
   ],
   "last_perf": {
+    "corefloor": {
+      "date": "2026-07-16",
+      "detail": "45, 45"
+    },
+    "grip": {
+      "date": "2026-07-16",
+      "detail": "45,"
+    },
     "pull": {
       "date": "2026-07-15",
       "detail": "3, 2, .75"
@@ -9943,17 +10011,9 @@
       "date": "2026-07-15",
       "detail": "7, 6, 6"
     },
-    "grip": {
-      "date": "2026-07-15",
-      "detail": "18, 20"
-    },
     "push": {
       "date": "2026-07-15",
       "detail": "2, 3, 2"
-    },
-    "corefloor": {
-      "date": "2026-07-15",
-      "detail": "15, 20"
     },
     "chinup": {
       "date": "2026-07-13",
