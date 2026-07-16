@@ -21,7 +21,7 @@
     ],
     "overall_total": 622,
     "generated_for": "2026-07-16",
-    "built_at": "2026-07-16T19:07:50.476Z",
+    "built_at": "2026-07-16T19:23:30.385Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
@@ -6935,6 +6935,12 @@
           "y": 0,
           "kind": "baseline",
           "label": "Horizontal Pull — ROWS — 0 rungs standing at t0"
+        },
+        {
+          "date": "2026-07-16",
+          "y": 0.97,
+          "kind": "session",
+          "label": "Incline ring row (torso ~45°, feet under you) — 13, 10, 10 (avg 11 vs target 8)"
         }
       ],
       "steps": [
@@ -7110,7 +7116,7 @@
           "date": "2026-07-16",
           "y": 1.97,
           "kind": "session",
-          "label": "Dead hang — 45, (avg 45 vs target 45)"
+          "label": "Dead hang — 45, 45 (avg 45 vs target 45)"
         }
       ],
       "steps": [
@@ -7494,13 +7500,8 @@
     },
     "hpull": {
       "candidates": 1,
-      "plotted": 0,
-      "rejected": [
-        {
-          "date": "2026-07-16",
-          "why": "\"Incline Ring Row (~45 degree)\" logged no usable numbers"
-        }
-      ]
+      "plotted": 1,
+      "rejected": []
     }
   },
   "data_tab": {
@@ -7787,9 +7788,9 @@
           {
             "date": "2026-07-16",
             "name": "Incline Ring Row (~45 degree)",
-            "raw": "",
-            "avg": null,
-            "status": "✗ not plotted — \"Incline Ring Row (~45 degree)\" logged no usable numbers"
+            "raw": "13, 10, 10",
+            "avg": 11,
+            "status": "● plotted at 0.97"
           }
         ]
       },
@@ -7923,7 +7924,7 @@
           {
             "date": "2026-07-16",
             "name": "Dead Hang",
-            "raw": "45,",
+            "raw": "45, 45",
             "avg": 45,
             "status": "● plotted at 1.97"
           }
@@ -8832,7 +8833,7 @@
           },
           {
             "date": "2026-07-16",
-            "detail": "reps / held: 45,"
+            "detail": "reps / held: 45, 45"
           }
         ]
       },
@@ -8989,7 +8990,7 @@
         "rows": [
           {
             "date": "2026-07-16",
-            "detail": "reps: —"
+            "detail": "reps: 13, 10, 10"
           }
         ]
       }
@@ -9012,8 +9013,8 @@
             "ladderId": "hpull",
             "ladderName": "Horizontal Pull — ROWS",
             "name": "Incline Ring Row (~45 degree)",
-            "raw": "",
-            "avg": null,
+            "raw": "13, 10, 10",
+            "avg": 11,
             "target": "8",
             "sets": 3,
             "cleared": false
@@ -9022,7 +9023,7 @@
             "ladderId": "grip",
             "ladderName": "Grip & Forearms",
             "name": "Dead Hang",
-            "raw": "45,",
+            "raw": "45, 45",
             "avg": 45,
             "target": "45s",
             "sets": 2,
@@ -9999,9 +10000,13 @@
       "date": "2026-07-16",
       "detail": "45, 45"
     },
+    "hpull": {
+      "date": "2026-07-16",
+      "detail": "13, 10, 10"
+    },
     "grip": {
       "date": "2026-07-16",
-      "detail": "45,"
+      "detail": "45, 45"
     },
     "pull": {
       "date": "2026-07-15",
