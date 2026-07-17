@@ -21,7 +21,7 @@
     ],
     "overall_total": 677,
     "generated_for": "2026-07-16",
-    "built_at": "2026-07-16T21:37:40.314Z",
+    "built_at": "2026-07-17T00:49:29.787Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
@@ -10687,8 +10687,8 @@
       {
         "date": "2026-07-16",
         "w": 217.2,
-        "kcal": 1099,
-        "protein": 137,
+        "kcal": 1554,
+        "protein": 173,
         "dayType": "strict",
         "provisional": true
       }
@@ -11302,7 +11302,7 @@
       {
         "date": "2026-07-16",
         "state": "partial",
-        "kcal": 1099
+        "kcal": 1554
       }
     ],
     "days": [
@@ -11716,8 +11716,8 @@
       },
       {
         "date": "2026-07-16",
-        "kcal": 1099,
-        "protein": 137,
+        "kcal": 1554,
+        "protein": 173,
         "dayType": "strict",
         "logged": "full",
         "provisional": true
