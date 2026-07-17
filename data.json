@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 679,
+    "overall_total": 681,
     "generated_for": "2026-07-17",
-    "built_at": "2026-07-17T16:42:04.413Z",
+    "built_at": "2026-07-17T19:40:29.452Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 404
+      "ft_to_go": 402
     }
   },
   "lanes": [
@@ -47,7 +47,7 @@
       "t0_note": "didn't hold the transformer internals — attention, embeddings, the residual stream were only 'encountered'",
       "endpoint": "A from-memory \"mini-textbook\" of the whole ML/alignment stack (FF is the floor; endpoint stays provisional)",
       "endpoint_tier": "verylarge",
-      "current": 92,
+      "current": 94,
       "working_on": "Field Foundations"
     },
     {
@@ -3424,6 +3424,30 @@
       "reasoning": "Logged >= goal-20 floor (proteinTarget 180 → floor 160; 173 >= 160, clears). Independent of the calorie tick. Same warehouse-final proof (health-data.json 7/16 final: protein 173, provisional:false). Dedup: no prior 7/16 protein row",
       "evidence": "health-data.json (2026-07-16 final row, warehouse); MFP",
       "booked": "2026-07-17"
+    },
+    {
+      "date": "2026-07-17",
+      "lane": "mlai",
+      "activity": "FF M24 (The Failure-Mode Zoo) module READING tick — read the module + own notes + a full understand-first discussion (sandbagging↔alignment-faking split cleanly separated, sleeper-agent honest-middle + find-vs-clear, the two-families through-line, all demonstrated-not-asserted)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 93,
+      "cum_overall": 680,
+      "reasoning": "Module reading tiny (constitution §6 UNIFIED module-reading rule, C3 2026-07-13): a substantial module read + an owner-authored proof-act (own notes AND an active understand-first discussion) = tiny, BOUNDED one-per-module. Same shape as the M22 (7/13) + M23 (7/16) reading ticks; forward-only rule (7/13+), M24 well past it. Fact-checked vs field-foundations-curriculum + Gradebook S55 (M24 = Cluster 5 module 5 / final content module, real next after M23). The BUILD is Athena's authorship → never ticks; the read+notes+discussion is his event. This is the reading tick — the GATE is a SEPARATE tiny below. Earned-once (FF-M24-reading). Dedup: no prior FF-M24 row (grepped)",
+      "evidence": "Gradebook.md (S55); curricula/field-foundations/m24-failure-mode-zoo.{md,html}; Athena journal S55",
+      "booked": "2026-07-17"
+    },
+    {
+      "date": "2026-07-17",
+      "lane": "mlai",
+      "activity": "FF M24 (The Failure-Mode Zoo) blind GATE PASSED 87 (Solid; Cluster 5 module 5 / final content module; 6-Q whole-module scope, closed-book dictated) — Cluster 5 CLOSED",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 94,
+      "cum_overall": 681,
+      "reasoning": "Blind module gate >=80 = tiny — a SEPARATE tiny from the reading tick (constitution §6: a fully-done module = up to TWO tinies; exactly how M22 [7/13+7/14] and M23 [both 7/16] scored). Path-event fact-checked vs Gradebook.md S55 (87/100 Solid, blind independent grader, closed-book, 6/6 correct, ZERO factual errors/inversions) + field-foundations-curriculum (M24 = Cluster 5 module 5, final content module). 87 clears the 80 pass-bar. Held below 90 only by missing NAMED handles (proxy/Goodhart · observer-effect as its own proposition · external-vs-internal jailbreak direction · Turpin's demo shape) — reasoning present, scaffolding-names absent; does not fail an 87. **NO cluster-C5 small: Cluster 5 content modules are all done but Checkpoint C5 (final integration) is NOT yet taken — it OPENS. Cluster-complete small requires modules + capstone >=80; the capstone is downstream** (exactly the M23 ruling, guard #3). Earned-once (FF-M24-gate). Dedup: no prior FF-M24-gate row",
+      "evidence": "Gradebook.md (S55, 87 blind); field-foundations/m24-failure-mode-zoo.{md,html}",
+      "booked": "2026-07-17"
     }
   ],
   "series": {
@@ -4150,6 +4174,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "FF M23 (Evals, Red-Teaming & Benchmarks) blind GATE PASSED 88 (Solid; Cluster 5 module 4; 7-Q whole-module scope, closed-book dictated)"
+      },
+      {
+        "date": "2026-07-17",
+        "cum": 93,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "FF M24 (The Failure-Mode Zoo) module READING tick — read the module + own notes + a full understand-first discussion (sandbagging↔alignment-faking split cleanly separated, sleeper-agent honest-middle + find-vs-clear, the two-families through-line, all demonstrated-not-asserted)"
+      },
+      {
+        "date": "2026-07-17",
+        "cum": 94,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "FF M24 (The Failure-Mode Zoo) blind GATE PASSED 87 (Solid; Cluster 5 module 5 / final content module; 6-Q whole-module scope, closed-book dictated) — Cluster 5 CLOSED"
       }
     ],
     "method": [
@@ -10733,9 +10771,9 @@
       {
         "date": "2026-07-17",
         "w": 216.8,
-        "kcal": 0,
-        "protein": 0,
-        "dayType": "empty",
+        "kcal": 1025,
+        "protein": 133,
+        "dayType": "strict",
         "provisional": true
       }
     ],
@@ -11352,7 +11390,7 @@
       {
         "date": "2026-07-17",
         "state": "partial",
-        "kcal": 0
+        "kcal": 1025
       }
     ],
     "days": [
@@ -11774,10 +11812,10 @@
       },
       {
         "date": "2026-07-17",
-        "kcal": 0,
-        "protein": 0,
-        "dayType": "empty",
-        "logged": "empty",
+        "kcal": 1025,
+        "protein": 133,
+        "dayType": "strict",
+        "logged": "full",
         "provisional": true
       }
     ],
