@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 677,
+    "overall_total": 679,
     "generated_for": "2026-07-17",
-    "built_at": "2026-07-17T04:14:04.641Z",
+    "built_at": "2026-07-17T14:06:07.310Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 406
+      "ft_to_go": 404
     }
   },
   "lanes": [
@@ -87,7 +87,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 296,
+      "current": 298,
       "working_on": "the next new-pound low (≤ 216.2 lb)"
     }
   ],
@@ -3400,6 +3400,30 @@
       "reasoning": "A 1-lb new low = small (codebook §6 Body, the weight ratchet). Benchmark was 218.4, next-tick threshold <=217.4; 217.2 is <=217.4 AND below the 217.6 all-time low → a genuine full-pound-below-benchmark new low, the ratchet BEATS. The last three weigh-ins (218.2, 218.2, tie) correctly did NOT tick — this one falls. Benchmark now resets to 217.2 (next Body low-tick at <=216.2). NOT a 10-lb milestone (that ratchet sits at 210). Today's 7/16 diet is provisional at this close (1,099/137, protein under the 160 floor, mid-eating) → no 7/16 calorie/protein rows this close; they defer to the true-up per the warehouse-final ruling, exactly as 7/14's and 7/15's did. Fact-checked vs health-data.json 7/16 row (weight 217.2) per the lane-source map. Dedup: no prior 217.2 low row",
       "evidence": "health-data.json (2026-07-16 row, pulled 17:18 EST); ratchet benchmark 218.4→217.2",
       "booked": "2026-07-16"
+    },
+    {
+      "date": "2026-07-16",
+      "lane": "body",
+      "activity": "Calorie-day 1554 on plan (strict day 6 of Cycle 5; logged full — FINALIZED by the warehouse)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 297,
+      "cum_overall": 678,
+      "reasoning": "Strict target ~1,500 +/-300 (1554 within tolerance), logged full; codebook §6 Body calorie-day = tiny. The 7/16 diet was HELD provisional at the 7/16 close (mid-eating 1,099/137, protein under the 160 floor) — the warehouse-final ruling books a diet deed only off the FINAL row. Now provisional:false, logged full → it books, exactly as 7/14's and 7/15's did the day after (guard #3 — the warehouse-final ruling a fourth straight time). Fact-checked vs health-data.json 7/16 final row (kcal 1554) per the lane-source map. Dedup: the 7/16 close explicitly deferred food; no prior 7/16 Body food row (grepped)",
+      "evidence": "health-data.json (2026-07-16 final row, warehouse pulled 09:57 EST 7/17); MFP",
+      "booked": "2026-07-17"
+    },
+    {
+      "date": "2026-07-16",
+      "lane": "body",
+      "activity": "Protein-day 173g (logged full)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 298,
+      "cum_overall": 679,
+      "reasoning": "Logged >= goal-20 floor (proteinTarget 180 → floor 160; 173 >= 160, clears). Independent of the calorie tick. Same warehouse-final proof (health-data.json 7/16 final: protein 173, provisional:false). Dedup: no prior 7/16 protein row",
+      "evidence": "health-data.json (2026-07-16 final row, warehouse); MFP",
+      "booked": "2026-07-17"
     }
   ],
   "series": {
@@ -5254,6 +5278,20 @@
         "feet": 10,
         "tier": "small",
         "activity": "Weigh-in 217.2 lb — NEW ALL-TIME LOW (ratchet; beats the prior all-time low 217.6 of 7/09 AND clears the <=217.4 threshold)"
+      },
+      {
+        "date": "2026-07-16",
+        "cum": 297,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Calorie-day 1554 on plan (strict day 6 of Cycle 5; logged full — FINALIZED by the warehouse)"
+      },
+      {
+        "date": "2026-07-16",
+        "cum": 298,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Protein-day 173g (logged full)"
       }
     ]
   },
