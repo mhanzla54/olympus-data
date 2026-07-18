@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 685,
+    "overall_total": 698,
     "generated_for": "2026-07-18",
-    "built_at": "2026-07-18T23:05:18.855Z",
+    "built_at": "2026-07-18T23:16:58.611Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 398
+      "ft_to_go": 385
     }
   },
   "lanes": [
@@ -37,7 +37,7 @@
       "t0_note": "couldn't write a single line of Python — ran his first print() the day before t0",
       "endpoint": "Replicate AND extend a frontier alignment result — public, runnable code",
       "endpoint_tier": "verylarge",
-      "current": 92,
+      "current": 94,
       "working_on": "Automate the Boring Stuff textbook"
     },
     {
@@ -47,7 +47,7 @@
       "t0_note": "didn't hold the transformer internals — attention, embeddings, the residual stream were only 'encountered'",
       "endpoint": "A from-memory \"mini-textbook\" of the whole ML/alignment stack (FF is the floor; endpoint stays provisional)",
       "endpoint_tier": "verylarge",
-      "current": 94,
+      "current": 104,
       "working_on": "Field Foundations"
     },
     {
@@ -77,7 +77,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 162,
+      "current": 163,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -3496,6 +3496,54 @@
       "reasoning": "Strict target ~1,500 ±300 (1495 within tolerance), logged FINAL — owner confirmed done eating for the night, this was his last close, so kcal is final (no defer-to-true-up this time); codebook §6 Body calorie-day = tiny. PROTEIN 151g the SAME day = NO TICK — floor = goal−20 (proteinTarget 180 → floor 160; 151 < 160, under the floor, exactly like the 7/11 111g no-tick). WEIGHT 216.8 already ruled NO-TICK this midday (watery low, 0.4 lb under the last ticked low 217.2, threshold ≤216.2 unmet). Logging-streak 49 = a streak fact, not progress = no tick. Dedup: no prior 7/17 Body food row (grepped — 7/17 rows are FF-M24 ×2 + three Osiris methodology sessions).",
       "evidence": "health-data.json (health-query --summary, lastPull 2026-07-17T21:37 EST); MFP",
       "booked": "2026-07-17"
+    },
+    {
+      "date": "2026-07-17",
+      "lane": "coding",
+      "activity": "Ch.7 (Regular Expressions) comprehensive recap mini-drill round — Ch7_miniDrills.py drill6–8, whole-chapter regex (groups/backrefs · char classes · greedy-vs-non-greedy quantifiers · findall · sub with backreferences · re.I/DOTALL/VERBOSE · combining flags via alternation), predict-then-run + write-it-yourself, all completions filled",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 93,
+      "cum_overall": 686,
+      "reasoning": "Coding making act (drill round) = tiny (constitution §6 Coding; consolidation/extended-round still ticks). NOT a same-session fold into the Ch.7 reading — the chapter finished 7/16, this is a DISTINCT standalone consolidation round on a later date, so Amendment B (same-session read+drill fold) does not apply; Amendment C governs — a SUBSTANTIAL standalone drill round with its own purpose is its own tick (multi-level, whole-chapter, write-it-yourself → clears the micro-drill-round bar, not a trivial 2–3-rep farm). Consolidation-no-cap: the 7/16 chapter-finish tick paid for FINISHING; this is a separate genuine active-recall act (the M22 7/14-gate→7/15-consolidation precedent, same shape). Day-keyed one drill-round tick per (date, 🐍); dedup clean — no prior 7/17 Coding row (grepped). His authorship, runs",
+      "evidence": "Ch7_miniDrills.py (drill6–8); git ba10a64 (S55)",
+      "booked": "2026-07-18"
+    },
+    {
+      "date": "2026-07-18",
+      "lane": "coding",
+      "activity": "message_scrubber.py (ATBS Ch.7 goal-only) — redacts every email + phone via re.sub on compiled patterns, extracts dates/dollar-amounts/@handles via findall, prints a redacted block + summary report; runs correct (owner-confirmed live); also caught a wrong phone-count in the assignment's own worked test-case",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 94,
+      "cum_overall": 687,
+      "reasoning": "Coding making act = tiny (constitution §6: runs + meets goal + his authorship). Goal-only mode — he designed the whole decomposition (functions, patterns, flow), no stub given → clean authorship. The caught test-case error is a correctness signal, not a separate tick. Dedup: no prior 7/18 Coding row (grepped)",
+      "evidence": "curricula/python-foundations/code/message_scrubber.py; assignments/ch7-message-scrubber.md; owner screen-share",
+      "booked": "2026-07-18"
+    },
+    {
+      "date": "2026-07-18",
+      "lane": "strength",
+      "activity": "Day B (Legs+Core) full-force logged — full pull-ups 4/2/.5 + neg back-offs · hanging knee-raise slow-ecc 10/7/6 · parallel ring row 6/6/4 · assisted floor pistol 5/4.5/4 · single-leg hip thrust 3/4/5 · plank finisher; NO rung cleared (every ★ move's across-sets avg under gate)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 163,
+      "cum_overall": 688,
+      "reasoning": "A logged full-force workout = session tiny (constitution §6 Strength; the 2026-07-09 law — the session tiny fires on training days that did NOT yield a ticked rung/capstone; here none beat gate → session tiny stands alone). Auto-progression fact-check vs workout-split.md: pull-up avg 2.17<3, knee-raise 7.67<10, ring-row 5.33<8, pistol 4.5<5 → no clear, no template change, no rung small. Dedup: no prior 7/18 workout row",
+      "evidence": "Resources/fitness/workout-log.md (7-18-26 Saturday — Day B Legs+Core)",
+      "booked": "2026-07-18"
+    },
+    {
+      "date": "2026-07-18",
+      "lane": "mlai",
+      "activity": "FF Checkpoint C5 (Cluster 5 — Alignment & Safety Core, M20–M24 + a Cluster-3 reward-hacking call-back) blind cumulative capstone PASSED 81 (≥80 pass-bar; closed-book dictated, whole-cluster scope) → Cluster 5 CLOSED; all 24 FF modules + all 5 cluster capstones now complete",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 104,
+      "cum_overall": 698,
+      "reasoning": "Cluster complete (all modules gated ≥80 AND blind cluster capstone ≥80) = small (constitution §6; identical basis + tier as C4's capstone-small on 7/09, guard #3). Path-event fact-checked vs field-foundations-curriculum + checkpoint-c5-capstone.md + Gradebook S56: M20–M24 all gated, C5 capstone 81/100 blind (marginal pass — strong on deceptive-alignment/evals/reward-hacking, held down by one polysemanticity/superposition causal inversion + named-handle misses in the failure-zoo part). 81 clears the 80 bar; a marginal pass is still a pass (the 80 bar is a hard floor, not a quality gate above it). Nested double-count = the integration premium (stacks on the M20–M24 module tinies). NO whole-FF medium yet: that requires all gates + the FF FINAL exam ≥80 (a separate, longer comprehensive C1–C5 Q&A), still ahead (stenographer confirms) — held for the final. Earned-once (FF cluster C5). Dedup: no prior C5 capstone row",
+      "evidence": "Gradebook (S56 pending); checkpoint-c5-capstone.md; field-foundations-curriculum",
+      "booked": "2026-07-18"
     }
   ],
   "series": {
@@ -3828,6 +3876,20 @@
         "feet": 10,
         "tier": "small",
         "activity": "ATBS Ch.7 (Regular Expressions) COMPLETE — chapter-finish milestone: whole chapter read (pp.148-169) + own notes + his authored regex practice harness applied across the chapter (~16 predict-then-run exercises, self-debugged misconceptions)"
+      },
+      {
+        "date": "2026-07-17",
+        "cum": 93,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Ch.7 (Regular Expressions) comprehensive recap mini-drill round — Ch7_miniDrills.py drill6–8, whole-chapter regex (groups/backrefs · char classes · greedy-vs-non-greedy quantifiers · findall · sub with backreferences · re.I/DOTALL/VERBOSE · combining flags via alternation), predict-then-run + write-it-yourself, all completions filled"
+      },
+      {
+        "date": "2026-07-18",
+        "cum": 94,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "message_scrubber.py (ATBS Ch.7 goal-only) — redacts every email + phone via re.sub on compiled patterns, extracts dates/dollar-amounts/@handles via findall, prints a redacted block + summary report; runs correct (owner-confirmed live); also caught a wrong phone-count in the assignment's own worked test-case"
       }
     ],
     "mlai": [
@@ -4236,6 +4298,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "FF M24 (The Failure-Mode Zoo) blind GATE PASSED 87 (Solid; Cluster 5 module 5 / final content module; 6-Q whole-module scope, closed-book dictated) — Cluster 5 CLOSED"
+      },
+      {
+        "date": "2026-07-18",
+        "cum": 104,
+        "feet": 10,
+        "tier": "small",
+        "activity": "FF Checkpoint C5 (Cluster 5 — Alignment & Safety Core, M20–M24 + a Cluster-3 reward-hacking call-back) blind cumulative capstone PASSED 81 (≥80 pass-bar; closed-book dictated, whole-cluster scope) → Cluster 5 CLOSED; all 24 FF modules + all 5 cluster capstones now complete"
       }
     ],
     "method": [
@@ -4697,6 +4766,13 @@
         "feet": 10,
         "tier": "small",
         "activity": "Horizontal Pull — Rows ladder — incline ring row rung 1 (8×3 target) CLEARED 13/10/10 clean, owner-confirm → ★ rung 2 (parallel ring row) — FIRST clear on this ladder (started gated, added 2026-07-11 with the rings)"
+      },
+      {
+        "date": "2026-07-18",
+        "cum": 163,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Day B (Legs+Core) full-force logged — full pull-ups 4/2/.5 + neg back-offs · hanging knee-raise slow-ecc 10/7/6 · parallel ring row 6/6/4 · assisted floor pistol 5/4.5/4 · single-leg hip thrust 3/4/5 · plank finisher; NO rung cleared (every ★ move's across-sets avg under gate)"
       }
     ],
     "body": [
