@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 681,
+    "overall_total": 684,
     "generated_for": "2026-07-17",
-    "built_at": "2026-07-17T19:40:29.452Z",
+    "built_at": "2026-07-18T01:00:57.278Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 402
+      "ft_to_go": 399
     }
   },
   "lanes": [
@@ -57,7 +57,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 22,
+      "current": 25,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -3448,6 +3448,42 @@
       "reasoning": "Blind module gate >=80 = tiny — a SEPARATE tiny from the reading tick (constitution §6: a fully-done module = up to TWO tinies; exactly how M22 [7/13+7/14] and M23 [both 7/16] scored). Path-event fact-checked vs Gradebook.md S55 (87/100 Solid, blind independent grader, closed-book, 6/6 correct, ZERO factual errors/inversions) + field-foundations-curriculum (M24 = Cluster 5 module 5, final content module). 87 clears the 80 pass-bar. Held below 90 only by missing NAMED handles (proxy/Goodhart · observer-effect as its own proposition · external-vs-internal jailbreak direction · Turpin's demo shape) — reasoning present, scaffolding-names absent; does not fail an 87. **NO cluster-C5 small: Cluster 5 content modules are all done but Checkpoint C5 (final integration) is NOT yet taken — it OPENS. Cluster-complete small requires modules + capstone >=80; the capstone is downstream** (exactly the M23 ruling, guard #3). Earned-once (FF-M24-gate). Dedup: no prior FF-M24-gate row",
       "evidence": "Gradebook.md (S55, 87 blind); field-foundations/m24-failure-mode-zoo.{md,html}",
       "booked": "2026-07-17"
+    },
+    {
+      "date": "2026-07-17",
+      "lane": "method",
+      "activity": "Osiris funder-package STRATEGY work-block with Odin (S63) — LOCKED the 7-item funder show-list into roadmap #31; set the Aug-31 public FF-cluster target (#35); added roadmap #34/#36; downgraded #11 to optional; created protocol-doc-agenda.md; dispatched Huginn + received the LTFF/ARM funding-mechanics reframe",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 23,
+      "cum_overall": 682,
+      "reasoning": "Osiris research-career working session = tiny (📕 extension, 2026-07-09, one per (date, session-type)). Type = strategy/judgment + roadmap/planning. Substance floor cleared many times over: a locked show-list + three roadmap additions + a #11 downgrade + a new intake artifact + a briefed/received Huginn reframe — far above a token drop-in. Owner shaped it directly (his psychology-backbone call, the show-list content, the roadmap edits) → in-the-loop, ticks. Path-checked vs execution-roadmap.md (#31 show-list + #34/#35/#36 present). Dedup: FIRST Osiris session booked on 7/17 (morning + 2nd dispatch were Body-diet + FF-M24; no Osiris session scored today) — clean",
+      "evidence": "execution-roadmap.md (#31/#34/#35/#36/#11); funder-package-research-brief.md (Huginn); protocol-doc-agenda.md; Odin journal S63",
+      "booked": "2026-07-17"
+    },
+    {
+      "date": "2026-07-17",
+      "lane": "method",
+      "activity": "Osiris Lens v2 REQUIREMENTS + DESIGN work-block with Odin (S63) — owner made the binding design calls for the research-instrument UI (Olympus-grammar/observatory soul, maroon+gold palette, plain pro tab-labels, nothing-hardcoded config architecture, operating-cost-only spending, owner-only kill Console w/ reason-logged amendments, the interleaved thinking-stream named THE flagship problem) + caught the un-walked per-tick prompts → added G7 pre-boot checklist",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 24,
+      "cum_overall": 683,
+      "reasoning": "Osiris research-career working session = tiny (📕 extension). Type = artifact-design / requirements walkthrough — a DISTINCT kind from the strategy/roadmap row above, so its own tick (the exact shape of the 2026-07-09-ruled + 2026-07-15-booked \"two different-type sessions the same continuous span each tick\": 7/15 booked owner-ops AND capability-planning separately on one Osiris-pilot arc; here design/direction is that same distinct phase, guard #3). Substance floor cleared: a full slate of binding design decisions + two authored artifacts (_v2-requirements.md, _v2-plan.md) + the G7 catch — his own intellectual design work. Dedup: distinct session-type, no prior 7/17 design row",
+      "evidence": "_v2-requirements.md; _v2-plan.md; osiris-pilot-build-plan.md (pre-boot); Odin journal S63",
+      "booked": "2026-07-17"
+    },
+    {
+      "date": "2026-07-17",
+      "lane": "method",
+      "activity": "Osiris Lens v2 BUILD-DIRECTION work-block — owner dispatched G1→G6 as /goal commands, made architecture/taste calls through the build, and steered + received/countersigned the six independent break-it verifications (all SURVIVES-WITH-FINDINGS, findings folded same-session)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 25,
+      "cum_overall": 684,
+      "reasoning": "Osiris research-career working session = tiny (📕 extension). Type = build-working-session (Atlas/agent in the loop — dispatch briefs, decisions, verify-review), a DISTINCT kind from the design row above (design → execution, the same design-then-execution split the 7/15 planning/ops pair was booked under, guard #3). THE ATLAS TOOL-VS-JOB BOUNDARY (2026-07-09): the six builds ran AUTONOMOUSLY (Fable/Opus under /goal), BUT the owner was IN THE LOOP shaping — he dispatched each goal, made architecture calls, steered, and reviewed/countersigned each verification. That is \"an agent is a tool helping me get the job done,\" NOT a fully-autonomous run he merely received → it ticks (one session tiny). **ANTI-FARM: the build spanned MULTIPLE chats (context-window split) — that multiplies NOTHING; the session is day-keyed by (date, TYPE), so six-goals-across-N-chats = ONE build-session tiny.** **NO separate artifact tier for \"Lens v2 done\": #34 is a research INSTRUMENT (added today), not in the owner-ruled artifact-tier table; like the substrate, an instrument's value folds into the downstream pilot/funding milestones — I do NOT invent a completion tier (flag-don't-guess). Dedup: distinct session-type; first build-session on 7/17",
+      "evidence": "Osiris Lens/_build/lens2-g{1..6}-* (challenge/review/verify reports); _build-notes.md (G1–G6); active-context.md S63/S64; Odin journals S63+S64",
+      "booked": "2026-07-17"
     }
   ],
   "series": {
@@ -4344,6 +4380,27 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Osiris Build-2 capability-expansion PLANNING session with Odin (multi-hour, same evening, owner deliberately held in planning phase until saturation): locked the $30/week materials envelope (Monday 00:00 EST reset, rollover accepted), the cognition-vs-materials two-book split, the cost-oracle requirement, vendor-exact Replicate pricing over flat estimates, open Replicate access behind a commercial-license wall, transitions-as-primitives over canned presets, sandboxed agent-authored Remotion code ruled IN with the jail to land before pilot boot (Kink-2 ruling; boot slips ~Jul 23-25), the 3h/day disclosed watch throttle, music/SFX provided neutrally with zero usage directive, and the capability North Star; added roadmap artifacts #32 + #33 (~Sep 1-5, his idea)"
+      },
+      {
+        "date": "2026-07-17",
+        "cum": 23,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris funder-package STRATEGY work-block with Odin (S63) — LOCKED the 7-item funder show-list into roadmap #31; set the Aug-31 public FF-cluster target (#35); added roadmap #34/#36; downgraded #11 to optional; created protocol-doc-agenda.md; dispatched Huginn + received the LTFF/ARM funding-mechanics reframe"
+      },
+      {
+        "date": "2026-07-17",
+        "cum": 24,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris Lens v2 REQUIREMENTS + DESIGN work-block with Odin (S63) — owner made the binding design calls for the research-instrument UI (Olympus-grammar/observatory soul, maroon+gold palette, plain pro tab-labels, nothing-hardcoded config architecture, operating-cost-only spending, owner-only kill Console w/ reason-logged amendments, the interleaved thinking-stream named THE flagship problem) + caught the un-walked per-tick prompts → added G7 pre-boot checklist"
+      },
+      {
+        "date": "2026-07-17",
+        "cum": 25,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris Lens v2 BUILD-DIRECTION work-block — owner dispatched G1→G6 as /goal commands, made architecture/taste calls through the build, and steered + received/countersigned the six independent break-it verifications (all SURVIVES-WITH-FINDINGS, findings folded same-session)"
       }
     ],
     "literature": [
