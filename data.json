@@ -21,7 +21,7 @@
     ],
     "overall_total": 685,
     "generated_for": "2026-07-18",
-    "built_at": "2026-07-18T13:18:50.034Z",
+    "built_at": "2026-07-18T23:05:18.855Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
@@ -10851,6 +10851,14 @@
         "protein": 151,
         "dayType": "strict",
         "provisional": false
+      },
+      {
+        "date": "2026-07-18",
+        "w": 218.2,
+        "kcal": 1066,
+        "protein": 132,
+        "dayType": "strict",
+        "provisional": true
       }
     ],
     "trend": [
@@ -11113,6 +11121,10 @@
       {
         "date": "2026-07-17",
         "w": 218.63
+      },
+      {
+        "date": "2026-07-18",
+        "w": 218.17
       }
     ],
     "noiseBand": 1.24,
@@ -11304,18 +11316,18 @@
         "date": "2026-07-15",
         "w": 218.2,
         "week": "Jul 12–Jul 18",
-        "n": 6
+        "n": 7
       }
     ],
     "banner": {
       "startDate": "2026-03-22",
       "startW": 235,
-      "lost": 16.4,
+      "lost": 16.8,
       "goal": 180,
-      "pct": 29.8,
+      "pct": 30.6,
       "nextFloor": 210,
-      "toGo": 8.6,
-      "newLow": true
+      "toGo": 8.2,
+      "newLow": false
     },
     "strip": [
       {
@@ -11466,7 +11478,7 @@
       {
         "date": "2026-07-18",
         "state": "partial",
-        "kcal": 0
+        "kcal": 1066
       }
     ],
     "days": [
@@ -11896,10 +11908,10 @@
       },
       {
         "date": "2026-07-18",
-        "kcal": 0,
-        "protein": 0,
-        "dayType": "empty",
-        "logged": "empty",
+        "kcal": 1066,
+        "protein": 132,
+        "dayType": "strict",
+        "logged": "full",
         "provisional": true
       }
     ],
