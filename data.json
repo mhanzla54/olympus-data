@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 684,
+    "overall_total": 685,
     "generated_for": "2026-07-17",
-    "built_at": "2026-07-18T01:38:52.878Z",
+    "built_at": "2026-07-18T01:50:51.186Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 399
+      "ft_to_go": 398
     }
   },
   "lanes": [
@@ -87,7 +87,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 298,
+      "current": 299,
       "working_on": "the next new-pound low (≤ 216.2 lb)"
     }
   ],
@@ -3484,6 +3484,18 @@
       "reasoning": "Osiris research-career working session = tiny (📕 extension). Type = build-working-session (Atlas/agent in the loop — dispatch briefs, decisions, verify-review), a DISTINCT kind from the design row above (design → execution, the same design-then-execution split the 7/15 planning/ops pair was booked under, guard #3). THE ATLAS TOOL-VS-JOB BOUNDARY (2026-07-09): the six builds ran AUTONOMOUSLY (Fable/Opus under /goal), BUT the owner was IN THE LOOP shaping — he dispatched each goal, made architecture calls, steered, and reviewed/countersigned each verification. That is \"an agent is a tool helping me get the job done,\" NOT a fully-autonomous run he merely received → it ticks (one session tiny). **ANTI-FARM: the build spanned MULTIPLE chats (context-window split) — that multiplies NOTHING; the session is day-keyed by (date, TYPE), so six-goals-across-N-chats = ONE build-session tiny.** **NO separate artifact tier for \"Lens v2 done\": #34 is a research INSTRUMENT (added today), not in the owner-ruled artifact-tier table; like the substrate, an instrument's value folds into the downstream pilot/funding milestones — I do NOT invent a completion tier (flag-don't-guess). Dedup: distinct session-type; first build-session on 7/17",
       "evidence": "Osiris Lens/_build/lens2-g{1..6}-* (challenge/review/verify reports); _build-notes.md (G1–G6); active-context.md S63/S64; Odin journals S63+S64",
       "booked": "2026-07-17"
+    },
+    {
+      "date": "2026-07-17",
+      "lane": "body",
+      "activity": "Calorie-day 1495 on plan (strict cut day 7 of 9, Cycle 5; logged FINAL)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 299,
+      "cum_overall": 685,
+      "reasoning": "Strict target ~1,500 ±300 (1495 within tolerance), logged FINAL — owner confirmed done eating for the night, this was his last close, so kcal is final (no defer-to-true-up this time); codebook §6 Body calorie-day = tiny. PROTEIN 151g the SAME day = NO TICK — floor = goal−20 (proteinTarget 180 → floor 160; 151 < 160, under the floor, exactly like the 7/11 111g no-tick). WEIGHT 216.8 already ruled NO-TICK this midday (watery low, 0.4 lb under the last ticked low 217.2, threshold ≤216.2 unmet). Logging-streak 49 = a streak fact, not progress = no tick. Dedup: no prior 7/17 Body food row (grepped — 7/17 rows are FF-M24 ×2 + three Osiris methodology sessions).",
+      "evidence": "health-data.json (health-query --summary, lastPull 2026-07-17T21:37 EST); MFP",
+      "booked": "2026-07-17"
     }
   ],
   "series": {
@@ -5387,6 +5399,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Protein-day 173g (logged full)"
+      },
+      {
+        "date": "2026-07-17",
+        "cum": 299,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Calorie-day 1495 on plan (strict cut day 7 of 9, Cycle 5; logged FINAL)"
       }
     ]
   },
