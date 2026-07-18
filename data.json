@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 698,
+    "overall_total": 699,
     "generated_for": "2026-07-18",
-    "built_at": "2026-07-18T23:16:58.611Z",
+    "built_at": "2026-07-18T23:36:29.102Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 385
+      "ft_to_go": 384
     }
   },
   "lanes": [
@@ -57,7 +57,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 25,
+      "current": 26,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -3544,6 +3544,18 @@
       "reasoning": "Cluster complete (all modules gated ≥80 AND blind cluster capstone ≥80) = small (constitution §6; identical basis + tier as C4's capstone-small on 7/09, guard #3). Path-event fact-checked vs field-foundations-curriculum + checkpoint-c5-capstone.md + Gradebook S56: M20–M24 all gated, C5 capstone 81/100 blind (marginal pass — strong on deceptive-alignment/evals/reward-hacking, held down by one polysemanticity/superposition causal inversion + named-handle misses in the failure-zoo part). 81 clears the 80 bar; a marginal pass is still a pass (the 80 bar is a hard floor, not a quality gate above it). Nested double-count = the integration premium (stacks on the M20–M24 module tinies). NO whole-FF medium yet: that requires all gates + the FF FINAL exam ≥80 (a separate, longer comprehensive C1–C5 Q&A), still ahead (stenographer confirms) — held for the final. Earned-once (FF cluster C5). Dedup: no prior C5 capstone row",
       "evidence": "Gradebook (S56 pending); checkpoint-c5-capstone.md; field-foundations-curriculum",
       "booked": "2026-07-18"
+    },
+    {
+      "date": "2026-07-18",
+      "lane": "method",
+      "activity": "Osiris Lens v2 BUILD-DIRECTION work-block with Odin (S66) — owner drove the final Lens goals: pushed the deliverable list until each un-built item resolved against the real substrate schema, made three capability-wall decisions on the owner-only Console (arm/disarm tools per mode · keep the values-floor boot text owner-track/file-direct · build per-mode purpose-text editing behind a stronger control), directed an are-you-sure + change-log guard on every console change, and received/steered the three mandatory gates (code-review · security-review · break-it) accepting one documented residual (ID-4 paraphrase-porous denylist, defended by ack+audit) — G8/G9 + the G9.1 follow-on built and gated; local demo opened on his screen",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 26,
+      "cum_overall": 699,
+      "reasoning": "Osiris research-career working session = tiny (📕 extension, 2026-07-09; one per (date, session-type)). Type = build-working-session (agent in the loop), the SAME kind as the 2026-07-17 G1–G6 build-direction row (line 330) — but a DIFFERENT DAY. Day-keyed by (date, TYPE): (7/18, build-direction) is its own tick; the 7/17 row was (7/17, build-direction). A build spanning multiple DAYS earns one build tiny per day of genuine session work (parallel to the 7/14 & 7/15 Osiris sessions each ticking on their own day) — this is NOT the split-across-CHATS case, which multiplies nothing WITHIN a day. THE ATLAS TOOL-VS-JOB BOUNDARY (2026-07-09): the G8/G9/G9.1 CODE ran AUTONOMOUSLY under /goal, BUT the owner was IN THE LOOP shaping — deliverable-scope pushback, three binding capability decisions, the are-you-sure/change-log directive, and steering/accepting the gated results → an agent-as-tool run he directed, not a fully-autonomous run he merely received → it ticks (one session tiny). Substance floor cleared many times over (scope pushback + three capability calls + a design guard + three gates reviewed). NO separate artifact tier for \"Lens v2 COMPLETE\": the Lens is a research INSTRUMENT (#34), not in the owner-ruled artifact-tier table; its value folds into the downstream pilot/funding milestones — I do NOT invent a completion tier (flag-don't-guess, consistent with the 7/17 ruling), even though all 9 goals + G9.1 finished today. Dedup: no prior 7/18 📕 row (grepped — 7/18 rows are 🐍×2, 🏋️×1, 🧠×1)",
+      "evidence": "Osiris Lens/_build/lens2-g9{,_1}-{code-review,security-review,break-it,completion}.md; active-context.md (G9+G9.1); _v2-goal-commands.md; substrate config/editor.py + config/edit_cli.py; Odin journal S66; git 5d12d11/cea954b/a338b5f",
+      "booked": "2026-07-18"
     }
   ],
   "series": {
@@ -4482,6 +4494,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Osiris Lens v2 BUILD-DIRECTION work-block — owner dispatched G1→G6 as /goal commands, made architecture/taste calls through the build, and steered + received/countersigned the six independent break-it verifications (all SURVIVES-WITH-FINDINGS, findings folded same-session)"
+      },
+      {
+        "date": "2026-07-18",
+        "cum": 26,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris Lens v2 BUILD-DIRECTION work-block with Odin (S66) — owner drove the final Lens goals: pushed the deliverable list until each un-built item resolved against the real substrate schema, made three capability-wall decisions on the owner-only Console (arm/disarm tools per mode · keep the values-floor boot text owner-track/file-direct · build per-mode purpose-text editing behind a stronger control), directed an are-you-sure + change-log guard on every console change, and received/steered the three mandatory gates (code-review · security-review · break-it) accepting one documented residual (ID-4 paraphrase-porous denylist, defended by ack+audit) — G8/G9 + the G9.1 follow-on built and gated; local demo opened on his screen"
       }
     ],
     "literature": [
