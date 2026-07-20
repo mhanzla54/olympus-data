@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 699,
-    "generated_for": "2026-07-18",
-    "built_at": "2026-07-19T01:26:06.737Z",
+    "overall_total": 712,
+    "generated_for": "2026-07-19",
+    "built_at": "2026-07-20T00:52:53.490Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 384
+      "ft_to_go": 371
     }
   },
   "lanes": [
@@ -87,8 +87,8 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 299,
-      "working_on": "the next new-pound low (≤ 216.2 lb)"
+      "current": 312,
+      "working_on": "the next new-pound low (≤ 214.8 lb)"
     }
   ],
   "tiers": [
@@ -3556,6 +3556,54 @@
       "reasoning": "Osiris research-career working session = tiny (📕 extension, 2026-07-09; one per (date, session-type)). Type = build-working-session (agent in the loop), the SAME kind as the 2026-07-17 G1–G6 build-direction row (line 330) — but a DIFFERENT DAY. Day-keyed by (date, TYPE): (7/18, build-direction) is its own tick; the 7/17 row was (7/17, build-direction). A build spanning multiple DAYS earns one build tiny per day of genuine session work (parallel to the 7/14 & 7/15 Osiris sessions each ticking on their own day) — this is NOT the split-across-CHATS case, which multiplies nothing WITHIN a day. THE ATLAS TOOL-VS-JOB BOUNDARY (2026-07-09): the G8/G9/G9.1 CODE ran AUTONOMOUSLY under /goal, BUT the owner was IN THE LOOP shaping — deliverable-scope pushback, three binding capability decisions, the are-you-sure/change-log directive, and steering/accepting the gated results → an agent-as-tool run he directed, not a fully-autonomous run he merely received → it ticks (one session tiny). Substance floor cleared many times over (scope pushback + three capability calls + a design guard + three gates reviewed). NO separate artifact tier for \"Lens v2 COMPLETE\": the Lens is a research INSTRUMENT (#34), not in the owner-ruled artifact-tier table; its value folds into the downstream pilot/funding milestones — I do NOT invent a completion tier (flag-don't-guess, consistent with the 7/17 ruling), even though all 9 goals + G9.1 finished today. Dedup: no prior 7/18 📕 row (grepped — 7/18 rows are 🐍×2, 🏋️×1, 🧠×1)",
       "evidence": "Osiris Lens/_build/lens2-g9{,_1}-{code-review,security-review,break-it,completion}.md; active-context.md (G9+G9.1); _v2-goal-commands.md; substrate config/editor.py + config/edit_cli.py; Odin journal S66; git 5d12d11/cea954b/a338b5f",
       "booked": "2026-07-18"
+    },
+    {
+      "date": "2026-07-18",
+      "lane": "body",
+      "activity": "Calorie-day 1744 on plan (strict cut day, cycle day 8 of 9; logged full, warehouse FINAL provisional:false)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 300,
+      "cum_overall": 700,
+      "reasoning": "Strict target 1,500 ±300 = the 1,200–1,800 band; 1,744 sits inside it (warehouse targets confirmed live: strictTargetKcal 1500, band 300). Codebook Body calorie-day = tiny. LATE CAPTURE — the 2026-07-18 close booked only the weigh-in and recorded that no diet row had been captured for that date; this fills the gap now that the warehouse finalized it (provisional:false). Dedup guard run FIRST as the late-capture path demands: grepped the row-log for a 2026-07-18 Body food row — NONE exists (7/18 rows are Coding x2, Strength x1, ML/AI x1); not a duplicate. Booked-date tag applied per S7",
+      "evidence": "health-data.json (2026-07-18 row, provisional:false, logged full)",
+      "booked": "2026-07-19"
+    },
+    {
+      "date": "2026-07-18",
+      "lane": "body",
+      "activity": "Protein-day 217g (strict cut day; logged full, warehouse FINAL)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 301,
+      "cum_overall": 701,
+      "reasoning": "Protein floor = goal minus 20 (warehouse proteinTarget 180, proteinFloor 160 confirmed live); 217g clears it by 57g. A SEPARATE and fully independent tick from the calorie-day (codebook: protein is its own row, no upper bound, more is always better). Same late-capture fill as the row above; same dedup grep, clean. Note the contrast held on 7/17: 151g was UNDER the 160 floor and I withheld the tick then — the floor governs in both directions, and this day clears it honestly",
+      "evidence": "health-data.json (2026-07-18 row, protein 217, provisional:false)",
+      "booked": "2026-07-19"
+    },
+    {
+      "date": "2026-07-19",
+      "lane": "body",
+      "activity": "Weight low 215.8 lb — a genuine 1-lb-plus new low (ratchet CLEARED; benchmark 217.2 to 215.8)",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 311,
+      "cum_overall": 711,
+      "reasoning": "The RATCHET, satisfied at last. The standing benchmark was the last TICKED low 217.2 (7/16) with the next-tick threshold at 216.2 or below; 215.8 clears it by 0.4 lb of headroom and is 1.4 lb under the ticked benchmark — a full-pound improvement, so the pound-per-tick ratchet pays. This is what the 7/17 216.8 was NOT: that reading was a real all-time low but only 0.4 lb under the ticked record, so I ruled it a watery low and it farmed nothing; the record had to fall a FULL pound before it could pay again, and today it did. Benchmark RESETS to 215.8, next low-tick at 214.8 or below. Path-checked against the live warehouse (lastPull 2026-07-19T20:41 EST, owner also reported it verbally at session open — two independent statements of the same number). Trend confirms real loss not water: trend7 217.66, last-7 rate -1.94 lb/wk, last-14 -1.16, last-30 -0.78 — a descending staircase, which is the exact thing the ratchet was built to reward and the thing dehydration cannot fake. NO 10-lb milestone: the next round marker is 210, still 5.8 lb below",
+      "evidence": "health-data.json (2026-07-19 row, weight 215.8, lastPull 2026-07-19T20:41 EST); health-query --summary; owner report at session open",
+      "booked": "2026-07-19"
+    },
+    {
+      "date": "2026-07-19",
+      "lane": "body",
+      "activity": "Protein-day 211g (the 160g floor crossed; monotonic, so final-enough to book)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 312,
+      "cum_overall": 712,
+      "reasoning": "Protein floor = goal minus 20 = 160 (warehouse proteinFloor 160); 211g clears it by 51g. Booked even though the DAY is still provisional, because protein accumulates monotonically across a day — the total can only rise from here, so the floor once crossed can never un-cross. This is the same reasoning the capture states and it is sound: no future eating can retract a crossed floor. The CALORIE half of this day is deliberately NOT booked — see the flagged section of the report",
+      "evidence": "health-data.json (2026-07-19 row, protein 211, provisional:true)",
+      "booked": "2026-07-19"
     }
   ],
   "series": {
@@ -5501,6 +5549,34 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Calorie-day 1495 on plan (strict cut day 7 of 9, Cycle 5; logged FINAL)"
+      },
+      {
+        "date": "2026-07-18",
+        "cum": 300,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Calorie-day 1744 on plan (strict cut day, cycle day 8 of 9; logged full, warehouse FINAL provisional:false)"
+      },
+      {
+        "date": "2026-07-18",
+        "cum": 301,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Protein-day 217g (strict cut day; logged full, warehouse FINAL)"
+      },
+      {
+        "date": "2026-07-19",
+        "cum": 311,
+        "feet": 10,
+        "tier": "small",
+        "activity": "Weight low 215.8 lb — a genuine 1-lb-plus new low (ratchet CLEARED; benchmark 217.2 to 215.8)"
+      },
+      {
+        "date": "2026-07-19",
+        "cum": 312,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Protein-day 211g (the 160g floor crossed; monotonic, so final-enough to book)"
       }
     ]
   },
@@ -10950,9 +11026,17 @@
       {
         "date": "2026-07-18",
         "w": 218.2,
-        "kcal": 1761,
-        "protein": 220,
+        "kcal": 1744,
+        "protein": 217,
         "dayType": "strict",
+        "provisional": false
+      },
+      {
+        "date": "2026-07-19",
+        "w": 215.8,
+        "kcal": 3525,
+        "protein": 211,
+        "dayType": "anomaly-pending",
         "provisional": true
       }
     ],
@@ -11220,9 +11304,13 @@
       {
         "date": "2026-07-18",
         "w": 218.17
+      },
+      {
+        "date": "2026-07-19",
+        "w": 217.66
       }
     ],
-    "noiseBand": 1.24,
+    "noiseBand": 1.27,
     "floors": [
       {
         "y": 230,
@@ -11326,6 +11414,11 @@
         "date": "2026-07-17",
         "w": 216.8,
         "week": "Jul 12–Jul 18"
+      },
+      {
+        "date": "2026-07-19",
+        "w": 215.8,
+        "week": "Jul 19–Jul 25"
       }
     ],
     "weeklyAvgs": [
@@ -11412,24 +11505,25 @@
         "w": 218.2,
         "week": "Jul 12–Jul 18",
         "n": 7
+      },
+      {
+        "date": "2026-07-22",
+        "w": 215.8,
+        "week": "Jul 19–Jul 25",
+        "n": 1
       }
     ],
     "banner": {
       "startDate": "2026-03-22",
       "startW": 235,
-      "lost": 16.8,
+      "lost": 17.3,
       "goal": 180,
-      "pct": 30.6,
+      "pct": 31.5,
       "nextFloor": 210,
-      "toGo": 8.2,
-      "newLow": false
+      "toGo": 7.7,
+      "newLow": true
     },
     "strip": [
-      {
-        "date": "2026-06-19",
-        "state": "good",
-        "kcal": 1606
-      },
       {
         "date": "2026-06-20",
         "state": "cheat",
@@ -11572,8 +11666,13 @@
       },
       {
         "date": "2026-07-18",
-        "state": "partial",
-        "kcal": 1761
+        "state": "good",
+        "kcal": 1744
+      },
+      {
+        "date": "2026-07-19",
+        "state": "anomaly",
+        "kcal": 3525
       }
     ],
     "days": [
@@ -12003,9 +12102,17 @@
       },
       {
         "date": "2026-07-18",
-        "kcal": 1761,
-        "protein": 220,
+        "kcal": 1744,
+        "protein": 217,
         "dayType": "strict",
+        "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-07-19",
+        "kcal": 3525,
+        "protein": 211,
+        "dayType": "anomaly-pending",
         "logged": "full",
         "provisional": true
       }
