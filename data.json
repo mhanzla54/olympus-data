@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 727,
-    "generated_for": "2026-07-20",
-    "built_at": "2026-07-21T01:38:34.994Z",
+    "overall_total": 729,
+    "generated_for": "2026-07-21",
+    "built_at": "2026-07-21T16:48:43.383Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 356
+      "ft_to_go": 354
     }
   },
   "lanes": [
@@ -57,7 +57,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 26,
+      "current": 28,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -3676,6 +3676,30 @@
       "reasoning": "Protein-day tiny, fully INDEPENDENT of the calorie tick per the codebook (two separate ticks, never one). Floor = goal minus 20 = 160 (warehouse proteinFloor 160, proteinTarget 180); 193g clears it by 33 and also beats the coaching aim of 180. Protein accumulates monotonically across a day, so a crossed floor can never un-cross — this was bookable regardless of the provisional flag, and the done-eating close removes any doubt. Worth noting the floor governs in BOTH directions: I withheld this tick on 7/17 at 151g, nine grams short, on a 49-day streak. Dedup clean — no prior 7/20 Body row",
       "evidence": "health-data.json (2026-07-20 row, protein 193); health-query --summary",
       "booked": "2026-07-20"
+    },
+    {
+      "date": "2026-07-20",
+      "lane": "method",
+      "activity": "Osiris working session — FIRST owner review of the Osiris Lens UI (the study's observation instrument): 10-min narrated walkthrough, 13 recorded findings (5 functional bugs + a 4-rule readability directive + 4 aesthetic directives), the purpose reframe (\"seeing into the model made super easy — formatting and aesthetics ARE the goal\"), the color-architecture ruling; findings became the G10 design-overhaul goal, reviewed + armed same evening",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 27,
+      "cum_overall": 728,
+      "reasoning": "An `Osiris working session` tiny (artifact review/walkthrough type — owner makes the calls on the team's built instrument; 2026-07-09 extension). Substance floor comfortably cleared: 13 independently-actionable findings + two owner rulings + the G10 goal reviewed and armed is far past the ~3-substantive-items anchor; a 10-minute walkthrough with this much logged output is a worked sitting, not a token drop-in. The Atlas/Odin tool-vs-job boundary is the INCLUSION side here: he was in the loop shaping the artifact — findings, directives, direction — exactly the shaping work the extension prices; the agent-built overhaul itself books nothing for him. Not scoreboard-infrastructure: the Lens is the research study's instrument, not Olympus. Day-keyed one per (date, session-type); dedup grepped — 7/20 carries Strength ×2, ML/AI, Coding, Body ×2 and NO 📕 row, and no prior review of this kind exists anywhere in the log (this closed the standing \"owner has reviewed NO built UI\" gap). Consistent with my 7/17–7/18 rulings pricing each day of the Lens arc as one 📕 session",
+      "evidence": "Osiris Lens/_build/owner-taste-review-1-2026-07-20.md; _v2-goal-commands.md G10; Odin journal S67",
+      "booked": "2026-07-21"
+    },
+    {
+      "date": "2026-07-21",
+      "lane": "method",
+      "activity": "Osiris working session — SECOND owner review of the refreshed Lens: 10 further recorded findings across seven pages, his own fix design (\"every chart a button — click to expand, hover to grow\"), a NEW feature design (restartable tutorial mode, self-connected to the funder-evidence package), a substrate design question (top-5 retrieval cap / embedding-blur with long chunks, correctly articulated), identity-versioning reading verified, and the next work phase directed (Olympus-dashboard deep-study merged with both sittings; art deferred)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 28,
+      "cum_overall": 729,
+      "reasoning": "Same entry, next date — an `Osiris working session` tiny (artifact review/walkthrough). Substance floor cleared: 10 findings + an owner-designed feature + a substrate design question + phase direction is a genuine worked sitting with logged output. His shaping work is what ticks (tool-vs-job inclusion); the future read-only Olympus-dashboard study he DIRECTED is agent work and books nothing here. Day-keyed; dedup grepped — 7/21 carries no rows at all, a clean first booking for the date. Same-day booking, no tag",
+      "evidence": "Osiris Lens/_build/owner-taste-review-2-2026-07-21.md; pending-flesh-out S67 blocks; Odin journal S67 close",
+      "booked": "2026-07-21"
     }
   ],
   "series": {
@@ -4635,6 +4659,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Osiris Lens v2 BUILD-DIRECTION work-block with Odin (S66) — owner drove the final Lens goals: pushed the deliverable list until each un-built item resolved against the real substrate schema, made three capability-wall decisions on the owner-only Console (arm/disarm tools per mode · keep the values-floor boot text owner-track/file-direct · build per-mode purpose-text editing behind a stronger control), directed an are-you-sure + change-log guard on every console change, and received/steered the three mandatory gates (code-review · security-review · break-it) accepting one documented residual (ID-4 paraphrase-porous denylist, defended by ack+audit) — G8/G9 + the G9.1 follow-on built and gated; local demo opened on his screen"
+      },
+      {
+        "date": "2026-07-20",
+        "cum": 27,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris working session — FIRST owner review of the Osiris Lens UI (the study's observation instrument): 10-min narrated walkthrough, 13 recorded findings (5 functional bugs + a 4-rule readability directive + 4 aesthetic directives), the purpose reframe (\"seeing into the model made super easy — formatting and aesthetics ARE the goal\"), the color-architecture ruling; findings became the G10 design-overhaul goal, reviewed + armed same evening"
+      },
+      {
+        "date": "2026-07-21",
+        "cum": 28,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris working session — SECOND owner review of the refreshed Lens: 10 further recorded findings across seven pages, his own fix design (\"every chart a button — click to expand, hover to grow\"), a NEW feature design (restartable tutorial mode, self-connected to the funder-evidence package), a substrate design question (top-5 retrieval cap / embedding-blur with long chunks, correctly articulated), identity-versioning reading verified, and the next work phase directed (Olympus-dashboard deep-study merged with both sittings; art deferred)"
       }
     ],
     "literature": [
@@ -7382,6 +7420,12 @@
             "got": "20, 20",
             "avg": 20
           }
+        },
+        {
+          "date": "2026-07-15",
+          "y": 1.31,
+          "kind": "session",
+          "label": "Pseudo-planche push-ups (PPP) — 2, 3 (avg 2.5 vs target 8)"
         }
       ],
       "steps": [
@@ -7512,6 +7556,13 @@
           "label": "Negative pull-up (5s) — 6, 6, 5.5 (avg 5.8 vs target 8)"
         },
         {
+          "date": "2026-06-17",
+          "y": 0.38,
+          "kind": "session-extra",
+          "label": "Dead hang — 17 (avg 17 vs target 45)",
+          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
+        },
+        {
           "date": "2026-06-20",
           "y": 2.56,
           "kind": "session",
@@ -7530,10 +7581,24 @@
           "label": "Pull — cleared: Negative pull-up (5s)"
         },
         {
+          "date": "2026-06-24",
+          "y": 0.31,
+          "kind": "session-extra",
+          "label": "Dead hang — 14 (avg 14 vs target 45)",
+          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
+        },
+        {
           "date": "2026-06-27",
           "y": 3.44,
           "kind": "session",
           "label": "Full pull-up — 2, 1, 1 (avg 1.3 vs target 3)"
+        },
+        {
+          "date": "2026-06-29",
+          "y": 0.33,
+          "kind": "session-extra",
+          "label": "Dead hang — 15 (avg 15 vs target 45)",
+          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
         },
         {
           "date": "2026-07-01",
@@ -7548,6 +7613,13 @@
           "label": "Full pull-up — 3, 2, .5 (avg 1.8 vs target 3)"
         },
         {
+          "date": "2026-07-06",
+          "y": 0.53,
+          "kind": "session-extra",
+          "label": "Dead hang — 24 (avg 24 vs target 45)",
+          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
+        },
+        {
           "date": "2026-07-08",
           "y": 3.78,
           "kind": "session",
@@ -7560,10 +7632,44 @@
           "label": "Full pull-up — 4, 2, 1 (avg 2.3 vs target 3)"
         },
         {
+          "date": "2026-07-12",
+          "y": 0.67,
+          "kind": "session-extra",
+          "label": "Dead hang — 30, 30 (avg 30 vs target 45)",
+          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
+        },
+        {
+          "date": "2026-07-13",
+          "y": 0.37,
+          "kind": "session-extra",
+          "label": "Dead hang — 20, 13 (avg 16.5 vs target 45)",
+          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
+        },
+        {
           "date": "2026-07-15",
           "y": 3.64,
           "kind": "session",
           "label": "Full pull-up — 3, 2, .75 (avg 1.9 vs target 3)"
+        },
+        {
+          "date": "2026-07-16",
+          "y": 0.97,
+          "kind": "session-extra",
+          "label": "Dead hang — 45, 45 (avg 45 vs target 45)",
+          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
+        },
+        {
+          "date": "2026-07-18",
+          "y": 3.72,
+          "kind": "session",
+          "label": "Full pull-up — 4, 2, .5 (avg 2.2 vs target 3)"
+        },
+        {
+          "date": "2026-07-20",
+          "y": 0.29,
+          "kind": "session-extra",
+          "label": "Dead hang — 15, 11 (avg 13 vs target 45)",
+          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
         }
       ],
       "steps": [
@@ -7599,6 +7705,12 @@
             "got": "13, 10, 10",
             "avg": 11
           }
+        },
+        {
+          "date": "2026-07-18",
+          "y": 1.67,
+          "kind": "session",
+          "label": "Parallel ring row (body horizontal, feet on floor) — 6, 6, 4 (avg 5.3 vs target 8)"
         }
       ],
       "steps": [
@@ -7890,6 +8002,12 @@
             "got": "5, 5, 5",
             "avg": 5
           }
+        },
+        {
+          "date": "2026-07-18",
+          "y": 5.9,
+          "kind": "session",
+          "label": "Assisted floor pistol (hand on frame) — 5, 4.5, 4 (avg 4.5 vs target 5)"
         }
       ],
       "steps": [
@@ -8111,6 +8229,12 @@
           "label": "Hanging knee raise — slow eccentric (normal up, 3s down) — 7, 6, 6 (avg 6.3 vs target 10)"
         },
         {
+          "date": "2026-07-18",
+          "y": 1.77,
+          "kind": "session",
+          "label": "Hanging knee raise — slow eccentric (normal up, 3s down) — 10, 7, 6 (avg 7.7 vs target 10)"
+        },
+        {
           "date": "2026-07-20",
           "y": 1.73,
           "kind": "session",
@@ -8142,8 +8266,8 @@
       "rejected": []
     },
     "planche": {
-      "candidates": 5,
-      "plotted": 5,
+      "candidates": 6,
+      "plotted": 6,
       "rejected": []
     },
     "handstand": {
@@ -8152,8 +8276,8 @@
       "rejected": []
     },
     "pull": {
-      "candidates": 12,
-      "plotted": 12,
+      "candidates": 21,
+      "plotted": 21,
       "rejected": [
         {
           "date": "2026-06-23",
@@ -8172,8 +8296,8 @@
       "rejected": []
     },
     "legs": {
-      "candidates": 10,
-      "plotted": 10,
+      "candidates": 11,
+      "plotted": 11,
       "rejected": []
     },
     "corefloor": {
@@ -8182,8 +8306,8 @@
       "rejected": []
     },
     "corehang": {
-      "candidates": 19,
-      "plotted": 18,
+      "candidates": 20,
+      "plotted": 19,
       "rejected": [
         {
           "date": "2026-06-27",
@@ -8197,8 +8321,8 @@
       "rejected": []
     },
     "hpull": {
-      "candidates": 1,
-      "plotted": 1,
+      "candidates": 2,
+      "plotted": 2,
       "rejected": []
     }
   },
@@ -8345,6 +8469,13 @@
             "raw": "20, 20",
             "avg": 20,
             "status": "✓ CLEAR DAY — carried by the clear dot (needed 20s, avg 20)"
+          },
+          {
+            "date": "2026-07-15",
+            "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
+            "raw": "2, 3",
+            "avg": 2.5,
+            "status": "● plotted at 1.31"
           }
         ]
       },
@@ -8436,10 +8567,24 @@
             "status": "● plotted at 2.73"
           },
           {
+            "date": "2026-06-17",
+            "name": "Grip+trap (flex): dead hang + scap shrugs",
+            "raw": "17",
+            "avg": 17,
+            "status": "◦ floating dot at 0.38 (cleared-rung work)"
+          },
+          {
             "date": "2026-06-20",
             "name": "Pull-up (negatives)",
             "raw": "6, 5, 2.5",
             "avg": 4.5,
+            "status": "● plotted at 2.56"
+          },
+          {
+            "date": "2026-06-20",
+            "name": "Grip+trap (flex): dead hang + scap shrugs",
+            "raw": "19",
+            "avg": 19,
             "status": "● plotted at 2.56"
           },
           {
@@ -8450,6 +8595,13 @@
             "status": "● plotted at 2.65"
           },
           {
+            "date": "2026-06-24",
+            "name": "Grip+trap (flex): dead hang + scap shrugs",
+            "raw": "14",
+            "avg": 14,
+            "status": "◦ floating dot at 0.31 (cleared-rung work)"
+          },
+          {
             "date": "2026-06-27",
             "name": "Pull-up (★full — max clean reps; then negatives as back-off)",
             "raw": "2, 1, 1",
@@ -8457,10 +8609,24 @@
             "status": "● plotted at 3.44"
           },
           {
+            "date": "2026-06-29",
+            "name": "Grip+trap (flex): dead hang + scap shrugs",
+            "raw": "15",
+            "avg": 15,
+            "status": "◦ floating dot at 0.33 (cleared-rung work)"
+          },
+          {
             "date": "2026-07-01",
             "name": "Pull-up (★full — then negatives as back-off)",
             "raw": "3, 1.5,  l.5",
             "avg": 2,
+            "status": "● plotted at 3.67"
+          },
+          {
+            "date": "2026-07-01",
+            "name": "Grip+trap (flex): dead hang + scap shrugs",
+            "raw": "8",
+            "avg": 8,
             "status": "● plotted at 3.67"
           },
           {
@@ -8471,10 +8637,24 @@
             "status": "● plotted at 3.61"
           },
           {
+            "date": "2026-07-06",
+            "name": "Grip+trap (flex): dead hang + scap shrugs",
+            "raw": "24",
+            "avg": 24,
+            "status": "◦ floating dot at 0.53 (cleared-rung work)"
+          },
+          {
             "date": "2026-07-08",
             "name": "Pull-up (★full — then negatives as back-off)",
             "raw": "4,  2 , 1",
             "avg": 2.3,
+            "status": "● plotted at 3.78"
+          },
+          {
+            "date": "2026-07-08",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "23",
+            "avg": 23,
             "status": "● plotted at 3.78"
           },
           {
@@ -8485,11 +8665,53 @@
             "status": "● plotted at 3.78"
           },
           {
+            "date": "2026-07-12",
+            "name": "Dead Hang",
+            "raw": "30, 30",
+            "avg": 30,
+            "status": "◦ floating dot at 0.67 (cleared-rung work)"
+          },
+          {
+            "date": "2026-07-13",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "20, 13",
+            "avg": 16.5,
+            "status": "◦ floating dot at 0.37 (cleared-rung work)"
+          },
+          {
             "date": "2026-07-15",
             "name": "Pull-up (★full — then negatives as back-off)",
             "raw": "3, 2, .75",
             "avg": 1.9,
             "status": "● plotted at 3.64"
+          },
+          {
+            "date": "2026-07-15",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "18, 20",
+            "avg": 19,
+            "status": "● plotted at 3.64"
+          },
+          {
+            "date": "2026-07-16",
+            "name": "Dead Hang",
+            "raw": "45, 45",
+            "avg": 45,
+            "status": "◦ floating dot at 0.97 (cleared-rung work)"
+          },
+          {
+            "date": "2026-07-18",
+            "name": "Pull-up (★full — then negatives as back-off)",
+            "raw": "4, 2, .5",
+            "avg": 2.2,
+            "status": "● plotted at 3.72"
+          },
+          {
+            "date": "2026-07-20",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "15, 11",
+            "avg": 13,
+            "status": "◦ floating dot at 0.29 (cleared-rung work)"
           }
         ]
       },
@@ -8503,6 +8725,13 @@
             "raw": "13, 10, 10",
             "avg": 11,
             "status": "✓ CLEAR DAY — carried by the clear dot (needed 8, avg 11)"
+          },
+          {
+            "date": "2026-07-18",
+            "name": "Parallel Ring Row (★ body horizontal, feet on floor)",
+            "raw": "6, 6, 4",
+            "avg": 5.3,
+            "status": "● plotted at 1.67"
           }
         ]
       },
@@ -8729,6 +8958,13 @@
             "raw": "5, 5, 5",
             "avg": 5,
             "status": "✓ CLEAR DAY — carried by the clear dot (needed 5/leg, avg 5)"
+          },
+          {
+            "date": "2026-07-18",
+            "name": "Assisted floor pistol (★hand on frame)",
+            "raw": "5, 4.5, 4",
+            "avg": 4.5,
+            "status": "● plotted at 5.9"
           }
         ]
       },
@@ -8925,6 +9161,13 @@
             "status": "● plotted at 1.63"
           },
           {
+            "date": "2026-07-18",
+            "name": "Hanging knee raise (★slow ecc — 3s down)",
+            "raw": "10, 7, 6",
+            "avg": 7.7,
+            "status": "● plotted at 1.77"
+          },
+          {
             "date": "2026-07-20",
             "name": "Hanging knee raise (★slow ecc — 3s down)",
             "raw": "10, 5.5, 6.5",
@@ -9083,6 +9326,39 @@
         ]
       },
       {
+        "name": "Plank (finisher)",
+        "rows": [
+          {
+            "date": "2026-06-05",
+            "detail": "held: 30, 32"
+          },
+          {
+            "date": "2026-06-08",
+            "detail": "held: 30, 30"
+          },
+          {
+            "date": "2026-06-22",
+            "detail": "held: 40,"
+          },
+          {
+            "date": "2026-06-27",
+            "detail": "held: 50, 40"
+          },
+          {
+            "date": "2026-07-04",
+            "detail": "held: 45, 30"
+          },
+          {
+            "date": "2026-07-11",
+            "detail": "held: 30, 30"
+          },
+          {
+            "date": "2026-07-18",
+            "detail": "held: 30, 25"
+          }
+        ]
+      },
+      {
         "name": "Pull-up (negatives)",
         "rows": [
           {
@@ -9137,35 +9413,6 @@
           {
             "date": "2026-07-11",
             "detail": "reps: 8, 8, 8"
-          }
-        ]
-      },
-      {
-        "name": "Plank (finisher)",
-        "rows": [
-          {
-            "date": "2026-06-05",
-            "detail": "held: 30, 32"
-          },
-          {
-            "date": "2026-06-08",
-            "detail": "held: 30, 30"
-          },
-          {
-            "date": "2026-06-22",
-            "detail": "held: 40,"
-          },
-          {
-            "date": "2026-06-27",
-            "detail": "held: 50, 40"
-          },
-          {
-            "date": "2026-07-04",
-            "detail": "held: 45, 30"
-          },
-          {
-            "date": "2026-07-11",
-            "detail": "held: 30, 30"
           }
         ]
       },
@@ -9228,6 +9475,64 @@
         ]
       },
       {
+        "name": "Pull-up (★full — then negatives as back-off)",
+        "rows": [
+          {
+            "date": "2026-07-01",
+            "detail": "full reps: 3, 1.5,  l.5 · neg back-off: 3, 3, 2"
+          },
+          {
+            "date": "2026-07-04",
+            "detail": "full reps: 3, 2, .5 · neg back-off: 2, 4, 2.5"
+          },
+          {
+            "date": "2026-07-08",
+            "detail": "full reps: 4,  2 , 1 · neg back-off: 4, 4, 2"
+          },
+          {
+            "date": "2026-07-11",
+            "detail": "full reps: 4, 2, 1 · neg back-off: 4, 4, 3.5"
+          },
+          {
+            "date": "2026-07-15",
+            "detail": "full reps: 3, 2, .75 · neg back-off: 4, 3, 3"
+          },
+          {
+            "date": "2026-07-18",
+            "detail": "full reps: 4, 2, .5 · neg back-off: 6, 5, 3"
+          }
+        ]
+      },
+      {
+        "name": "Hanging knee raise (★slow ecc — 3s down)",
+        "rows": [
+          {
+            "date": "2026-07-08",
+            "detail": "reps: 5, 5, 5"
+          },
+          {
+            "date": "2026-07-11",
+            "detail": "reps: 8, 8, 5"
+          },
+          {
+            "date": "2026-07-13",
+            "detail": "reps: 10,  6,  6"
+          },
+          {
+            "date": "2026-07-15",
+            "detail": "reps: 7, 6, 6"
+          },
+          {
+            "date": "2026-07-18",
+            "detail": "reps: 10, 7, 6"
+          },
+          {
+            "date": "2026-07-20",
+            "detail": "reps: 10, 5.5, 6.5"
+          }
+        ]
+      },
+      {
         "name": "Planche lean (flex, light)",
         "rows": [
           {
@@ -9274,56 +9579,6 @@
           {
             "date": "2026-07-14",
             "detail": "reps: —"
-          }
-        ]
-      },
-      {
-        "name": "Pull-up (★full — then negatives as back-off)",
-        "rows": [
-          {
-            "date": "2026-07-01",
-            "detail": "full reps: 3, 1.5,  l.5 · neg back-off: 3, 3, 2"
-          },
-          {
-            "date": "2026-07-04",
-            "detail": "full reps: 3, 2, .5 · neg back-off: 2, 4, 2.5"
-          },
-          {
-            "date": "2026-07-08",
-            "detail": "full reps: 4,  2 , 1 · neg back-off: 4, 4, 2"
-          },
-          {
-            "date": "2026-07-11",
-            "detail": "full reps: 4, 2, 1 · neg back-off: 4, 4, 3.5"
-          },
-          {
-            "date": "2026-07-15",
-            "detail": "full reps: 3, 2, .75 · neg back-off: 4, 3, 3"
-          }
-        ]
-      },
-      {
-        "name": "Hanging knee raise (★slow ecc — 3s down)",
-        "rows": [
-          {
-            "date": "2026-07-08",
-            "detail": "reps: 5, 5, 5"
-          },
-          {
-            "date": "2026-07-11",
-            "detail": "reps: 8, 8, 5"
-          },
-          {
-            "date": "2026-07-13",
-            "detail": "reps: 10,  6,  6"
-          },
-          {
-            "date": "2026-07-15",
-            "detail": "reps: 7, 6, 6"
-          },
-          {
-            "date": "2026-07-20",
-            "detail": "reps: 10, 5.5, 6.5"
           }
         ]
       },
@@ -9746,6 +10001,33 @@
             "detail": "reps: 13, 10, 10"
           }
         ]
+      },
+      {
+        "name": "Parallel Ring Row (★ body horizontal, feet on floor)",
+        "rows": [
+          {
+            "date": "2026-07-18",
+            "detail": "reps: 6, 6, 4"
+          }
+        ]
+      },
+      {
+        "name": "Assisted floor pistol (★hand on frame)",
+        "rows": [
+          {
+            "date": "2026-07-18",
+            "detail": "reps: 5, 4.5, 4"
+          }
+        ]
+      },
+      {
+        "name": "Single-leg hip thrust (shoulders on bed/chair)",
+        "rows": [
+          {
+            "date": "2026-07-18",
+            "detail": "reps: 3, 4, 5"
+          }
+        ]
       }
     ],
     "dates": [
@@ -9773,12 +10055,12 @@
             "cleared": false
           },
           {
-            "ladderId": "grip",
-            "ladderName": "Grip & Forearms",
+            "ladderId": "pull",
+            "ladderName": "Pull",
             "name": "Dead hang ★",
             "raw": "15, 11",
             "avg": 13,
-            "target": "60s",
+            "target": "45s",
             "sets": 2,
             "cleared": false
           },
@@ -9799,6 +10081,51 @@
             "raw": "8, 5, 6",
             "avg": 6.3,
             "target": "8",
+            "sets": 3,
+            "cleared": false
+          }
+        ]
+      },
+      {
+        "date": "2026-07-18",
+        "rows": [
+          {
+            "ladderId": "pull",
+            "ladderName": "Pull",
+            "name": "Pull-up (★full — then negatives as back-off)",
+            "raw": "4, 2, .5",
+            "avg": 2.2,
+            "target": "3",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "corehang",
+            "ladderName": "Core — HANGING",
+            "name": "Hanging knee raise (★slow ecc — 3s down)",
+            "raw": "10, 7, 6",
+            "avg": 7.7,
+            "target": "10",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "hpull",
+            "ladderName": "Horizontal Pull — ROWS",
+            "name": "Parallel Ring Row (★ body horizontal, feet on floor)",
+            "raw": "6, 6, 4",
+            "avg": 5.3,
+            "target": "8",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "legs",
+            "ladderName": "Legs — Pistol",
+            "name": "Assisted floor pistol (★hand on frame)",
+            "raw": "5, 4.5, 4",
+            "avg": 4.5,
+            "target": "5/leg",
             "sets": 3,
             "cleared": false
           }
@@ -9828,14 +10155,14 @@
             "cleared": true
           },
           {
-            "ladderId": "grip",
-            "ladderName": "Grip & Forearms",
+            "ladderId": "pull",
+            "ladderName": "Pull",
             "name": "Dead Hang",
             "raw": "45, 45",
             "avg": 45,
             "target": "45s",
             "sets": 2,
-            "cleared": true
+            "cleared": false
           }
         ]
       },
@@ -9863,8 +10190,8 @@
             "cleared": false
           },
           {
-            "ladderId": "grip",
-            "ladderName": "Grip & Forearms",
+            "ladderId": "pull",
+            "ladderName": "Pull",
             "name": "Dead hang ★",
             "raw": "18, 20",
             "avg": 19,
@@ -9889,6 +10216,16 @@
             "raw": "15, 20",
             "avg": 17.5,
             "target": "45s",
+            "sets": 2,
+            "cleared": false
+          },
+          {
+            "ladderId": "planche",
+            "ladderName": "Horizontal Push — PLANCHE",
+            "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
+            "raw": "2, 3",
+            "avg": 2.5,
+            "target": "8",
             "sets": 2,
             "cleared": false
           }
@@ -9918,8 +10255,8 @@
             "cleared": false
           },
           {
-            "ladderId": "grip",
-            "ladderName": "Grip & Forearms",
+            "ladderId": "pull",
+            "ladderName": "Pull",
             "name": "Dead hang ★",
             "raw": "20, 13",
             "avg": 16.5,
@@ -9953,14 +10290,14 @@
         "date": "2026-07-12",
         "rows": [
           {
-            "ladderId": "grip",
-            "ladderName": "Grip & Forearms",
+            "ladderId": "pull",
+            "ladderName": "Pull",
             "name": "Dead Hang",
             "raw": "30, 30",
             "avg": 30,
-            "target": "30s",
+            "target": "45s",
             "sets": 2,
-            "cleared": true
+            "cleared": false
           },
           {
             "ladderId": "planche",
@@ -10043,12 +10380,12 @@
             "cleared": false
           },
           {
-            "ladderId": "grip",
-            "ladderName": "Grip & Forearms",
+            "ladderId": "pull",
+            "ladderName": "Pull",
             "name": "Dead hang ★",
             "raw": "23",
             "avg": 23,
-            "target": "30s",
+            "target": "45s",
             "sets": 2,
             "cleared": false
           },
@@ -10108,12 +10445,12 @@
             "cleared": false
           },
           {
-            "ladderId": "grip",
-            "ladderName": "Grip & Forearms",
+            "ladderId": "pull",
+            "ladderName": "Pull",
             "name": "Dead hang",
             "raw": "24",
             "avg": 24,
-            "target": "30s",
+            "target": "45s",
             "sets": 2,
             "cleared": false
           },
@@ -10198,12 +10535,12 @@
             "cleared": true
           },
           {
-            "ladderId": "grip",
-            "ladderName": "Grip & Forearms",
+            "ladderId": "pull",
+            "ladderName": "Pull",
             "name": "Dead hang",
             "raw": "8",
             "avg": 8,
-            "target": "30s",
+            "target": "45s",
             "sets": 2,
             "cleared": false
           },
@@ -10263,12 +10600,12 @@
             "cleared": false
           },
           {
-            "ladderId": "grip",
-            "ladderName": "Grip & Forearms",
+            "ladderId": "pull",
+            "ladderName": "Pull",
             "name": "Dead hang",
             "raw": "15",
             "avg": 15,
-            "target": "30s",
+            "target": "45s",
             "sets": 2,
             "cleared": false
           },
@@ -10363,12 +10700,12 @@
             "cleared": false
           },
           {
-            "ladderId": "grip",
-            "ladderName": "Grip & Forearms",
+            "ladderId": "pull",
+            "ladderName": "Pull",
             "name": "Dead hang",
             "raw": "14",
             "avg": 14,
-            "target": "30s",
+            "target": "45s",
             "sets": 2,
             "cleared": false
           },
@@ -10463,12 +10800,12 @@
             "cleared": false
           },
           {
-            "ladderId": "grip",
-            "ladderName": "Grip & Forearms",
+            "ladderId": "pull",
+            "ladderName": "Pull",
             "name": "Dead hang",
             "raw": "19",
             "avg": 19,
-            "target": "30s",
+            "target": "45s",
             "sets": 2,
             "cleared": false
           },
@@ -10528,12 +10865,12 @@
             "cleared": false
           },
           {
-            "ladderId": "grip",
-            "ladderName": "Grip & Forearms",
+            "ladderId": "pull",
+            "ladderName": "Pull",
             "name": "Dead hang",
             "raw": "17",
             "avg": 17,
-            "target": "30s",
+            "target": "45s",
             "sets": 2,
             "cleared": false
           },
@@ -10812,6 +11149,10 @@
       "date": "2026-07-20",
       "detail": "10, 5.5, 6.5"
     },
+    "pull": {
+      "date": "2026-07-20",
+      "detail": "15, 11"
+    },
     "grip": {
       "date": "2026-07-20",
       "detail": "15, 11"
@@ -10824,29 +11165,25 @@
       "date": "2026-07-20",
       "detail": "8, 5, 6"
     },
+    "hpull": {
+      "date": "2026-07-18",
+      "detail": "6, 6, 4"
+    },
+    "legs": {
+      "date": "2026-07-18",
+      "detail": "5, 4.5, 4"
+    },
     "corefloor": {
       "date": "2026-07-16",
       "detail": "45, 45"
-    },
-    "hpull": {
-      "date": "2026-07-16",
-      "detail": "13, 10, 10"
-    },
-    "pull": {
-      "date": "2026-07-15",
-      "detail": "3, 2, .75"
     },
     "push": {
       "date": "2026-07-15",
       "detail": "2, 3, 2"
     },
     "planche": {
-      "date": "2026-07-12",
-      "detail": "20, 20"
-    },
-    "legs": {
-      "date": "2026-07-11",
-      "detail": "5, 5, 5"
+      "date": "2026-07-15",
+      "detail": "2, 3"
     }
   },
   "health": {
@@ -11309,7 +11646,16 @@
         "kcal": 1628,
         "protein": 193,
         "dayType": "strict",
-        "provisional": true
+        "provisional": false
+      },
+      {
+        "date": "2026-07-21",
+        "w": 218.2,
+        "kcal": 0,
+        "protein": 0,
+        "dayType": "empty",
+        "provisional": true,
+        "spike": true
       }
     ],
     "trend": [
@@ -11584,9 +11930,13 @@
       {
         "date": "2026-07-20",
         "w": 217.94
+      },
+      {
+        "date": "2026-07-21",
+        "w": 217.94
       }
     ],
-    "noiseBand": 1.37,
+    "noiseBand": 1.4,
     "floors": [
       {
         "y": 230,
@@ -11785,9 +12135,9 @@
       },
       {
         "date": "2026-07-22",
-        "w": 218.5,
+        "w": 218.4,
         "week": "Jul 19–Jul 25",
-        "n": 2
+        "n": 3
       }
     ],
     "banner": {
@@ -11801,11 +12151,6 @@
       "newLow": false
     },
     "strip": [
-      {
-        "date": "2026-06-21",
-        "state": "good",
-        "kcal": 1445
-      },
       {
         "date": "2026-06-22",
         "state": "good",
@@ -11948,8 +12293,13 @@
       },
       {
         "date": "2026-07-20",
-        "state": "partial",
+        "state": "good",
         "kcal": 1628
+      },
+      {
+        "date": "2026-07-21",
+        "state": "partial",
+        "kcal": 0
       }
     ],
     "days": [
@@ -12399,6 +12749,14 @@
         "protein": 193,
         "dayType": "strict",
         "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-07-21",
+        "kcal": 0,
+        "protein": 0,
+        "dayType": "empty",
+        "logged": "empty",
         "provisional": true
       }
     ],
