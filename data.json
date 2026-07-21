@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 725,
+    "overall_total": 727,
     "generated_for": "2026-07-20",
-    "built_at": "2026-07-21T00:47:53.666Z",
+    "built_at": "2026-07-21T01:38:34.994Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 358
+      "ft_to_go": 356
     }
   },
   "lanes": [
@@ -87,7 +87,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 312,
+      "current": 314,
       "working_on": "the next new-pound low (≤ 214.8 lb)"
     }
   ],
@@ -3652,6 +3652,30 @@
       "reasoning": "**C3 AMENDMENT D — owner challenge CONCEDED, re-derived score (not a bump).** Booked under the NEW codebook entry `A substantial program-building WORK SESSION (goal not yet met)`. Ground 1 (goal-unmet) conceded: the tiny tier prices provable lane WORK, not deliverable completion — five existing 🐍 tinies (micro-drill round, 5pg+notes, end-of-chapter Qs, code-reading, refactor) are non-deliverable acts, so \"runs + meets the goal\" bounds the COMPLETED-PROGRAM entry, not the lane. My own 7/17+7/18 rulings price a multi-DAY Osiris build at one session tiny per day; refusing the same in Coding was a cross-lane asymmetry with no ground. Anti-farm intact: day-keyed one per date+kind, substance floor, and the finished program still ticks separately above (nested double-count). Ground 2 (partial authorship) RULED: the Athena-authored `format_dates()` body does NOT void the session tiny — his authorship is the substantial majority (regex, month dict, loop structure, session-splitting, naming) and he found+fixed five real bugs across ~5 hrs with provable presence (agent in-session, screen-shares, running output) — but the authorship question STAYS LIVE against the future completed-program tick. FORWARD-ONLY from 2026-07-20, live challenged deed included",
       "evidence": "ch7_workout_log_parser.py; assignments/ch7-workout-log-parser.md; Athena in-session + screen-shares; output ['2026-07-16','2026-07-18'] and ['Ad hoc: Rung Clear Attempt','Day B Legs+Core']; changelog 2026-07-20 amendment D",
       "booked": "2026-07-20"
+    },
+    {
+      "date": "2026-07-20",
+      "lane": "body",
+      "activity": "Calorie-day 1,628 kcal on the strict plan (target 1,500, band 1,200–1,800; logged full, owner-confirmed done eating)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 313,
+      "cum_overall": 726,
+      "reasoning": "Calorie-day tiny: the strict target is 1,500 with a ±300 tolerance (warehouse strictTargetKcal 1500, band 300), so the band is 1,200–1,800 and 1,628 sits comfortably inside it — 128 over the aim, less than half the tolerance. Booked on the owner's \"Done eating\" report at his LAST close of the day, which is the same standard I applied on 7/17 (\"confirmed done eating for the night, so kcal is final\"); the warehouse row still reads provisional:true only because it flips on the next scheduled pull, and a number that can no longer move against itself is final for scoring. This is exactly the condition I held 7/19 open for and it is now met. Dedup grepped FIRST: 7/20 carries two Strength rows, one ML/AI and one Coding, and NO Body row — a real gap, not a re-book. Same-day booking, no booked-date tag",
+      "evidence": "health-data.json (2026-07-20 row, kcal 1628, logged full, dayType strict, no open flags); health-query --summary, lastPull 2026-07-20T21:35 EST; owner done-eating report",
+      "booked": "2026-07-20"
+    },
+    {
+      "date": "2026-07-20",
+      "lane": "body",
+      "activity": "Protein-day 193g (the 160g floor cleared by 33g; strict cut day, logged full)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 314,
+      "cum_overall": 727,
+      "reasoning": "Protein-day tiny, fully INDEPENDENT of the calorie tick per the codebook (two separate ticks, never one). Floor = goal minus 20 = 160 (warehouse proteinFloor 160, proteinTarget 180); 193g clears it by 33 and also beats the coaching aim of 180. Protein accumulates monotonically across a day, so a crossed floor can never un-cross — this was bookable regardless of the provisional flag, and the done-eating close removes any doubt. Worth noting the floor governs in BOTH directions: I withheld this tick on 7/17 at 151g, nine grams short, on a 49-day streak. Dedup clean — no prior 7/20 Body row",
+      "evidence": "health-data.json (2026-07-20 row, protein 193); health-query --summary",
+      "booked": "2026-07-20"
     }
   ],
   "series": {
@@ -5653,6 +5677,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Protein-day 211g (the 160g floor crossed; monotonic, so final-enough to book)"
+      },
+      {
+        "date": "2026-07-20",
+        "cum": 313,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Calorie-day 1,628 kcal on the strict plan (target 1,500, band 1,200–1,800; logged full, owner-confirmed done eating)"
+      },
+      {
+        "date": "2026-07-20",
+        "cum": 314,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Protein-day 193g (the 160g floor cleared by 33g; strict cut day, logged full)"
       }
     ]
   },
@@ -11268,8 +11306,8 @@
       {
         "date": "2026-07-20",
         "w": 221.2,
-        "kcal": 1006,
-        "protein": 128,
+        "kcal": 1628,
+        "protein": 193,
         "dayType": "strict",
         "provisional": true
       }
@@ -11911,7 +11949,7 @@
       {
         "date": "2026-07-20",
         "state": "partial",
-        "kcal": 1006
+        "kcal": 1628
       }
     ],
     "days": [
@@ -12357,8 +12395,8 @@
       },
       {
         "date": "2026-07-20",
-        "kcal": 1006,
-        "protein": 128,
+        "kcal": 1628,
+        "protein": 193,
         "dayType": "strict",
         "logged": "full",
         "provisional": true
