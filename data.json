@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 712,
+    "overall_total": 724,
     "generated_for": "2026-07-20",
-    "built_at": "2026-07-20T04:08:23.769Z",
+    "built_at": "2026-07-21T00:14:51.680Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 371
+      "ft_to_go": 359
     }
   },
   "lanes": [
@@ -47,7 +47,7 @@
       "t0_note": "didn't hold the transformer internals — attention, embeddings, the residual stream were only 'encountered'",
       "endpoint": "A from-memory \"mini-textbook\" of the whole ML/alignment stack (FF is the floor; endpoint stays provisional)",
       "endpoint_tier": "verylarge",
-      "current": 104,
+      "current": 105,
       "working_on": "Field Foundations"
     },
     {
@@ -77,7 +77,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 163,
+      "current": 174,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -3604,6 +3604,42 @@
       "reasoning": "Protein floor = goal minus 20 = 160 (warehouse proteinFloor 160); 211g clears it by 51g. Booked even though the DAY is still provisional, because protein accumulates monotonically across a day — the total can only rise from here, so the floor once crossed can never un-cross. This is the same reasoning the capture states and it is sound: no future eating can retract a crossed floor. The CALORIE half of this day is deliberately NOT booked — see the flagged section of the report",
       "evidence": "health-data.json (2026-07-19 row, protein 211, provisional:true)",
       "booked": "2026-07-19"
+    },
+    {
+      "date": "2026-07-20",
+      "lane": "strength",
+      "activity": "Day C full-force workout logged — chin-up full 4.5/2.5/1.5, hanging knee raise slow-ecc 10/5.5/6.5, chest-tap push-up 8/5/6, dead hang 15/11, plus the handstand work",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 164,
+      "cum_overall": 713,
+      "reasoning": "A logged full-force workout = session tiny (constitution §6). A full Day C at genuine effort, not the bad-day floor. Per the 2026-07-09 stacking law the session tiny and the rung small are different events and BOTH pay — this row is the session; the rung is the next row. Non-clearing star moves all fell short on the across-sets average (chin-up avg 2.83 vs gate 3, one rep short across the set; knee raise 7.33 vs 10; chest-tap 6.33 vs 8; dead hang 15/11 vs 60s, run 3rd on an already-fatigued grip). Dedup: no prior 7/20 Strength row",
+      "evidence": "workout-log.md (July 20th 2026 Day C Skill+Full)",
+      "booked": "2026-07-20"
+    },
+    {
+      "date": "2026-07-20",
+      "lane": "strength",
+      "activity": "🟪 Handstand ladder rung 4 CLEARED — chest-to-wall handstand hold 35/35/39/32s (avg 35.25s vs the 30s gate)",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 174,
+      "cum_overall": 723,
+      "reasoning": "Rung-clear = small (constitution §6), stacking on the session tiny per the 2026-07-09 law. Path-checked against the LIVE workout-split.md §4: rung 4 is Chest-to-wall handstand hold, target 30s, Sets 3 — the real next rung (rung 3 kick-up hold cleared 6/29, star sat on 4). SETS-STANDARD law: judged on the FIRST 3 sets = 35/35/39, average 36.33s, 21 percent clear of the 30s gate; the 4th set is an extra and extras never count against him. Every individual set cleared outright — the WORST set (32s) still beats the gate, so the average is not carrying a weak set. This is the 7/13 near-miss landing: that day read 26/34/25/31, avg 29s, and I refused it one second short. Same ladder, same gate, refused then, paid now. Clean-quality: no explicit owner confirm was given this session, but a HOLD is measured in seconds and every set exceeded the required duration, the owner raised no quality concern, and the live ladder plus a green workout-audit already carry the clear; his standing veto remains open via C3. Earned-once: chest-to-wall rung 4 never previously claimed (grep clean)",
+      "evidence": "workout-split.md §4 (rung 4 marked cleared 2026-07-20); workout-log.md; workout-audit.mjs 18 matched 0 problems",
+      "booked": "2026-07-20"
+    },
+    {
+      "date": "2026-07-20",
+      "lane": "mlai",
+      "activity": "FF Cluster 1 (M1–M5) re-study plus a dictated cold open-recall lock-in discussion, six questions graded live",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 105,
+      "cum_overall": 724,
+      "reasoning": "A consolidation / review session = tiny, and consolidation carries NO CAP (constitution §5) — genuine active recall is encouraged, never rationed. This is squarely the inclusion: notes away, six COLD open-recall questions, graded live, with him reaching unprompted that the embedding matrix is frozen weights while the residual stream carries activations, deriving the BPE budget argument unaided, and building the 1 plus f-prime gradient argument from the chain rule himself. Not a passive reread — the exclusion — and not a module re-tick: M1–M5 are earned-once and M1–M21 stay gate-only under the forward-only 2026-07-13 rule, so re-reading re-ticks nothing. The three corrections he drove into his own notes (catching that the module never taught W_O, forcing the LayerNorm rewrite, and re-deriving the objection to a month-old error in his own M7 notes) are part of this same session and fold in. Day-keyed; dedup clean, no prior 7/20 ML row",
+      "evidence": "m1-m5 module files; Module Notes (Cluster 1 + M7 sections revised); Athena journal S58",
+      "booked": "2026-07-20"
     }
   ],
   "series": {
@@ -4365,6 +4401,13 @@
         "feet": 10,
         "tier": "small",
         "activity": "FF Checkpoint C5 (Cluster 5 — Alignment & Safety Core, M20–M24 + a Cluster-3 reward-hacking call-back) blind cumulative capstone PASSED 81 (≥80 pass-bar; closed-book dictated, whole-cluster scope) → Cluster 5 CLOSED; all 24 FF modules + all 5 cluster capstones now complete"
+      },
+      {
+        "date": "2026-07-20",
+        "cum": 105,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "FF Cluster 1 (M1–M5) re-study plus a dictated cold open-recall lock-in discussion, six questions graded live"
       }
     ],
     "method": [
@@ -4840,6 +4883,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Day B (Legs+Core) full-force logged — full pull-ups 4/2/.5 + neg back-offs · hanging knee-raise slow-ecc 10/7/6 · parallel ring row 6/6/4 · assisted floor pistol 5/4.5/4 · single-leg hip thrust 3/4/5 · plank finisher; NO rung cleared (every ★ move's across-sets avg under gate)"
+      },
+      {
+        "date": "2026-07-20",
+        "cum": 164,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Day C full-force workout logged — chin-up full 4.5/2.5/1.5, hanging knee raise slow-ecc 10/5.5/6.5, chest-tap push-up 8/5/6, dead hang 15/11, plus the handstand work"
+      },
+      {
+        "date": "2026-07-20",
+        "cum": 174,
+        "feet": 10,
+        "tier": "small",
+        "activity": "🟪 Handstand ladder rung 4 CLEARED — chest-to-wall handstand hold 35/35/39/32s (avg 35.25s vs the 30s gate)"
       }
     ],
     "body": [
@@ -6384,9 +6441,10 @@
       "id": "handstand",
       "name": "Vertical Push / Handstand",
       "elite": "freestanding HSPU",
-      "current": 4,
+      "current": 5,
       "cleared_dates": {
-        "3": "2026-06-29"
+        "3": "2026-06-29",
+        "4": "2026-07-20"
       },
       "rungs": [
         {
@@ -6441,8 +6499,8 @@
         }
       ],
       "chart": 4,
-      "cleared_count": 3,
-      "height": 6,
+      "cleared_count": 4,
+      "height": 10,
       "triangular": [
         0,
         1,
@@ -7202,6 +7260,12 @@
           "y": 2.63,
           "kind": "session",
           "label": "Chest-tap push-up — 4, 5, 6 (avg 5 vs target 8)"
+        },
+        {
+          "date": "2026-07-20",
+          "y": 2.79,
+          "kind": "session",
+          "label": "Chest-tap push-up — 8, 5, 6 (avg 6.3 vs target 8)"
         }
       ],
       "steps": [
@@ -7326,6 +7390,17 @@
           "y": 3.97,
           "kind": "session",
           "label": "Chest-to-wall handstand hold — 26, 34, 25, 31 (avg 29 vs target 30)"
+        },
+        {
+          "date": "2026-07-20",
+          "y": 4,
+          "kind": "clear",
+          "label": "Vertical Push / Handstand — cleared: Chest-to-wall handstand hold (needed 30s, got 35, 35, 39, 32 — avg 35.25)",
+          "perf": {
+            "needed": "30s",
+            "got": "35, 35, 39, 32",
+            "avg": 35.25
+          }
         }
       ],
       "steps": [
@@ -7336,6 +7411,10 @@
         {
           "date": "2026-06-29",
           "rungs": 3
+        },
+        {
+          "date": "2026-07-20",
+          "rungs": 4
         }
       ],
       "chart": 4
@@ -7548,6 +7627,12 @@
           "y": 1.78,
           "kind": "session",
           "label": "Full chin-up (+ negative back-off) — 4, 2.5,  .5 (avg 2.3 vs target 3)"
+        },
+        {
+          "date": "2026-07-20",
+          "y": 1.94,
+          "kind": "session",
+          "label": "Full chin-up (+ negative back-off) — 4.5, 2.5, 1.5 (avg 2.8 vs target 3)"
         }
       ],
       "steps": [
@@ -7648,6 +7733,12 @@
             "got": "45, 45",
             "avg": 45
           }
+        },
+        {
+          "date": "2026-07-20",
+          "y": 2.22,
+          "kind": "session",
+          "label": "Dead hang — 15, 11 (avg 13 vs target 60)"
         }
       ],
       "steps": [
@@ -7961,6 +8052,12 @@
           "y": 1.63,
           "kind": "session",
           "label": "Hanging knee raise — slow eccentric (normal up, 3s down) — 7, 6, 6 (avg 6.3 vs target 10)"
+        },
+        {
+          "date": "2026-07-20",
+          "y": 1.73,
+          "kind": "session",
+          "label": "Hanging knee raise — slow eccentric (normal up, 3s down) — 10, 5.5, 6.5 (avg 7.3 vs target 10)"
         }
       ],
       "steps": [
@@ -7983,8 +8080,8 @@
       "rejected": []
     },
     "explosive": {
-      "candidates": 6,
-      "plotted": 6,
+      "candidates": 7,
+      "plotted": 7,
       "rejected": []
     },
     "planche": {
@@ -7993,8 +8090,8 @@
       "rejected": []
     },
     "handstand": {
-      "candidates": 6,
-      "plotted": 6,
+      "candidates": 7,
+      "plotted": 7,
       "rejected": []
     },
     "pull": {
@@ -8008,13 +8105,13 @@
       ]
     },
     "chinup": {
-      "candidates": 6,
-      "plotted": 6,
+      "candidates": 7,
+      "plotted": 7,
       "rejected": []
     },
     "grip": {
-      "candidates": 11,
-      "plotted": 11,
+      "candidates": 12,
+      "plotted": 12,
       "rejected": []
     },
     "legs": {
@@ -8028,8 +8125,8 @@
       "rejected": []
     },
     "corehang": {
-      "candidates": 18,
-      "plotted": 17,
+      "candidates": 19,
+      "plotted": 18,
       "rejected": [
         {
           "date": "2026-06-27",
@@ -8143,6 +8240,13 @@
             "raw": "4, 5, 6",
             "avg": 5,
             "status": "● plotted at 2.63"
+          },
+          {
+            "date": "2026-07-20",
+            "name": "Chest-tap push-up (★explosive)",
+            "raw": "8, 5, 6",
+            "avg": 6.3,
+            "status": "● plotted at 2.79"
           }
         ]
       },
@@ -8232,6 +8336,13 @@
             "raw": "26, 34, 25, 31",
             "avg": 29,
             "status": "● plotted at 3.97"
+          },
+          {
+            "date": "2026-07-20",
+            "name": "Chest-to-wall handstand hold (★)",
+            "raw": "35, 35, 39, 32",
+            "avg": 35.3,
+            "status": "✓ CLEAR DAY — carried by the clear dot (needed 30s, avg 35.25)"
           }
         ]
       },
@@ -8388,6 +8499,13 @@
             "raw": "4, 2.5,  .5",
             "avg": 2.3,
             "status": "● plotted at 1.78"
+          },
+          {
+            "date": "2026-07-20",
+            "name": "Chin-up (★full, underhand — then negatives as back-off)",
+            "raw": "4.5, 2.5, 1.5",
+            "avg": 2.8,
+            "status": "● plotted at 1.94"
           }
         ]
       },
@@ -8471,6 +8589,13 @@
             "raw": "45, 45",
             "avg": 45,
             "status": "✓ CLEAR DAY — carried by the clear dot (needed 45s, avg 45)"
+          },
+          {
+            "date": "2026-07-20",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "15, 11",
+            "avg": 13,
+            "status": "● plotted at 2.22"
           }
         ]
       },
@@ -8741,6 +8866,13 @@
             "raw": "7, 6, 6",
             "avg": 6.3,
             "status": "● plotted at 1.63"
+          },
+          {
+            "date": "2026-07-20",
+            "name": "Hanging knee raise (★slow ecc — 3s down)",
+            "raw": "10, 5.5, 6.5",
+            "avg": 7.3,
+            "status": "● plotted at 1.73"
           }
         ]
       }
@@ -8808,47 +8940,6 @@
         ]
       },
       {
-        "name": "Box pistol (low)",
-        "rows": [
-          {
-            "date": "2026-06-05",
-            "detail": "reps: 5, 4, 2.5"
-          },
-          {
-            "date": "2026-06-10",
-            "detail": "reps: 4, 2, 1.5"
-          },
-          {
-            "date": "2026-06-17",
-            "detail": "reps: 4, 5, 2.5"
-          },
-          {
-            "date": "2026-06-22",
-            "detail": "reps: 6, 3.5, 3"
-          },
-          {
-            "date": "2026-06-24",
-            "detail": "reps: 6, 4, 3"
-          },
-          {
-            "date": "2026-06-27",
-            "detail": "reps: 8, 7, 4"
-          },
-          {
-            "date": "2026-06-29",
-            "detail": "reps: 6, 4, 3"
-          },
-          {
-            "date": "2026-07-04",
-            "detail": "reps: 4, 3, 3"
-          },
-          {
-            "date": "2026-07-11",
-            "detail": "reps: 5, 5, 5"
-          }
-        ]
-      },
-      {
         "name": "Grip+trap (flex): dead hang + scap shrugs",
         "rows": [
           {
@@ -8886,6 +8977,51 @@
           {
             "date": "2026-07-15",
             "detail": "hang: 18, 20 · shrugs: 8, 8"
+          },
+          {
+            "date": "2026-07-20",
+            "detail": "hang: 15, 11 · shrugs: 8, 8"
+          }
+        ]
+      },
+      {
+        "name": "Box pistol (low)",
+        "rows": [
+          {
+            "date": "2026-06-05",
+            "detail": "reps: 5, 4, 2.5"
+          },
+          {
+            "date": "2026-06-10",
+            "detail": "reps: 4, 2, 1.5"
+          },
+          {
+            "date": "2026-06-17",
+            "detail": "reps: 4, 5, 2.5"
+          },
+          {
+            "date": "2026-06-22",
+            "detail": "reps: 6, 3.5, 3"
+          },
+          {
+            "date": "2026-06-24",
+            "detail": "reps: 6, 4, 3"
+          },
+          {
+            "date": "2026-06-27",
+            "detail": "reps: 8, 7, 4"
+          },
+          {
+            "date": "2026-06-29",
+            "detail": "reps: 6, 4, 3"
+          },
+          {
+            "date": "2026-07-04",
+            "detail": "reps: 4, 3, 3"
+          },
+          {
+            "date": "2026-07-11",
+            "detail": "reps: 5, 5, 5"
           }
         ]
       },
@@ -9110,6 +9246,31 @@
         ]
       },
       {
+        "name": "Hanging knee raise (★slow ecc — 3s down)",
+        "rows": [
+          {
+            "date": "2026-07-08",
+            "detail": "reps: 5, 5, 5"
+          },
+          {
+            "date": "2026-07-11",
+            "detail": "reps: 8, 8, 5"
+          },
+          {
+            "date": "2026-07-13",
+            "detail": "reps: 10,  6,  6"
+          },
+          {
+            "date": "2026-07-15",
+            "detail": "reps: 7, 6, 6"
+          },
+          {
+            "date": "2026-07-20",
+            "detail": "reps: 10, 5.5, 6.5"
+          }
+        ]
+      },
+      {
         "name": "Pike push-up",
         "rows": [
           {
@@ -9215,27 +9376,6 @@
         ]
       },
       {
-        "name": "Hanging knee raise (★slow ecc — 3s down)",
-        "rows": [
-          {
-            "date": "2026-07-08",
-            "detail": "reps: 5, 5, 5"
-          },
-          {
-            "date": "2026-07-11",
-            "detail": "reps: 8, 8, 5"
-          },
-          {
-            "date": "2026-07-13",
-            "detail": "reps: 10,  6,  6"
-          },
-          {
-            "date": "2026-07-15",
-            "detail": "reps: 7, 6, 6"
-          }
-        ]
-      },
-      {
         "name": "Chin-up (negatives, underhand)",
         "rows": [
           {
@@ -9304,6 +9444,23 @@
         ]
       },
       {
+        "name": "Chest-to-wall handstand hold (★)",
+        "rows": [
+          {
+            "date": "2026-07-06",
+            "detail": "held: 20, 20, 20, 32"
+          },
+          {
+            "date": "2026-07-13",
+            "detail": "held: 26, 34, 25, 31"
+          },
+          {
+            "date": "2026-07-20",
+            "detail": "held: 35, 35, 39, 32"
+          }
+        ]
+      },
+      {
         "name": "Grip+trap (flex): towel hang + scap shrugs",
         "rows": [
           {
@@ -9343,19 +9500,6 @@
         ]
       },
       {
-        "name": "Chest-to-wall handstand hold (★)",
-        "rows": [
-          {
-            "date": "2026-07-06",
-            "detail": "held: 20, 20, 20, 32"
-          },
-          {
-            "date": "2026-07-13",
-            "detail": "held: 26, 34, 25, 31"
-          }
-        ]
-      },
-      {
         "name": "Pike push-up (accessory)",
         "rows": [
           {
@@ -9391,6 +9535,32 @@
           {
             "date": "2026-07-16",
             "detail": "reps / held: 45, 45"
+          }
+        ]
+      },
+      {
+        "name": "Chin-up (★full, underhand — then negatives as back-off)",
+        "rows": [
+          {
+            "date": "2026-07-13",
+            "detail": "full reps: 4, 2.5,  .5 · neg back-off: 0, 4, 3"
+          },
+          {
+            "date": "2026-07-20",
+            "detail": "full reps: 4.5, 2.5, 1.5 · neg back-off: 3, 3.5, 2"
+          }
+        ]
+      },
+      {
+        "name": "Chest-tap push-up (★explosive)",
+        "rows": [
+          {
+            "date": "2026-07-13",
+            "detail": "reps: 4, 5, 6"
+          },
+          {
+            "date": "2026-07-20",
+            "detail": "reps: 8, 5, 6"
           }
         ]
       },
@@ -9485,24 +9655,6 @@
         ]
       },
       {
-        "name": "Chin-up (★full, underhand — then negatives as back-off)",
-        "rows": [
-          {
-            "date": "2026-07-13",
-            "detail": "full reps: 4, 2.5,  .5 · neg back-off: 0, 4, 3"
-          }
-        ]
-      },
-      {
-        "name": "Chest-tap push-up (★explosive)",
-        "rows": [
-          {
-            "date": "2026-07-13",
-            "detail": "reps: 4, 5, 6"
-          }
-        ]
-      },
-      {
         "name": "Reps / Held: 11, 9, 4",
         "rows": [
           {
@@ -9540,6 +9692,61 @@
       }
     ],
     "dates": [
+      {
+        "date": "2026-07-20",
+        "rows": [
+          {
+            "ladderId": "chinup",
+            "ladderName": "Chin-up",
+            "name": "Chin-up (★full, underhand — then negatives as back-off)",
+            "raw": "4.5, 2.5, 1.5",
+            "avg": 2.8,
+            "target": "3",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "corehang",
+            "ladderName": "Core — HANGING",
+            "name": "Hanging knee raise (★slow ecc — 3s down)",
+            "raw": "10, 5.5, 6.5",
+            "avg": 7.3,
+            "target": "10",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "grip",
+            "ladderName": "Grip & Forearms",
+            "name": "Dead hang ★",
+            "raw": "15, 11",
+            "avg": 13,
+            "target": "60s",
+            "sets": 2,
+            "cleared": false
+          },
+          {
+            "ladderId": "handstand",
+            "ladderName": "Vertical Push / Handstand",
+            "name": "Chest-to-wall handstand hold (★)",
+            "raw": "35, 35, 39, 32",
+            "avg": 35.3,
+            "target": "30s",
+            "sets": 3,
+            "cleared": true
+          },
+          {
+            "ladderId": "explosive",
+            "ladderName": "Horizontal Push — EXPLOSIVE",
+            "name": "Chest-tap push-up (★explosive)",
+            "raw": "8, 5, 6",
+            "avg": 6.3,
+            "target": "8",
+            "sets": 3,
+            "cleared": false
+          }
+        ]
+      },
       {
         "date": "2026-07-16",
         "rows": [
@@ -10540,6 +10747,26 @@
     }
   ],
   "last_perf": {
+    "chinup": {
+      "date": "2026-07-20",
+      "detail": "4.5, 2.5, 1.5"
+    },
+    "corehang": {
+      "date": "2026-07-20",
+      "detail": "10, 5.5, 6.5"
+    },
+    "grip": {
+      "date": "2026-07-20",
+      "detail": "15, 11"
+    },
+    "handstand": {
+      "date": "2026-07-20",
+      "detail": "35, 35, 39, 32"
+    },
+    "explosive": {
+      "date": "2026-07-20",
+      "detail": "8, 5, 6"
+    },
     "corefloor": {
       "date": "2026-07-16",
       "detail": "45, 45"
@@ -10548,33 +10775,13 @@
       "date": "2026-07-16",
       "detail": "13, 10, 10"
     },
-    "grip": {
-      "date": "2026-07-16",
-      "detail": "45, 45"
-    },
     "pull": {
       "date": "2026-07-15",
       "detail": "3, 2, .75"
     },
-    "corehang": {
-      "date": "2026-07-15",
-      "detail": "7, 6, 6"
-    },
     "push": {
       "date": "2026-07-15",
       "detail": "2, 3, 2"
-    },
-    "chinup": {
-      "date": "2026-07-13",
-      "detail": "4, 2.5,  .5"
-    },
-    "handstand": {
-      "date": "2026-07-13",
-      "detail": "26, 34, 25, 31"
-    },
-    "explosive": {
-      "date": "2026-07-13",
-      "detail": "4, 5, 6"
     },
     "planche": {
       "date": "2026-07-12",
@@ -11036,7 +11243,15 @@
         "w": 215.8,
         "kcal": 3525,
         "protein": 211,
-        "dayType": "anomaly-pending",
+        "dayType": "cheat-planned",
+        "provisional": false
+      },
+      {
+        "date": "2026-07-20",
+        "w": 221.2,
+        "kcal": 1006,
+        "protein": 128,
+        "dayType": "strict",
         "provisional": true
       }
     ],
@@ -11308,9 +11523,13 @@
       {
         "date": "2026-07-19",
         "w": 217.66
+      },
+      {
+        "date": "2026-07-20",
+        "w": 217.94
       }
     ],
-    "noiseBand": 1.27,
+    "noiseBand": 1.37,
     "floors": [
       {
         "y": 230,
@@ -11342,7 +11561,8 @@
       "2026-06-20",
       "2026-06-26",
       "2026-07-03",
-      "2026-07-10"
+      "2026-07-10",
+      "2026-07-19"
     ],
     "weeklyLows": [
       {
@@ -11508,27 +11728,22 @@
       },
       {
         "date": "2026-07-22",
-        "w": 215.8,
+        "w": 218.5,
         "week": "Jul 19–Jul 25",
-        "n": 1
+        "n": 2
       }
     ],
     "banner": {
       "startDate": "2026-03-22",
       "startW": 235,
-      "lost": 17.3,
+      "lost": 17.1,
       "goal": 180,
-      "pct": 31.5,
+      "pct": 31,
       "nextFloor": 210,
-      "toGo": 7.7,
-      "newLow": true
+      "toGo": 7.9,
+      "newLow": false
     },
     "strip": [
-      {
-        "date": "2026-06-20",
-        "state": "cheat",
-        "kcal": 3153
-      },
       {
         "date": "2026-06-21",
         "state": "good",
@@ -11671,8 +11886,13 @@
       },
       {
         "date": "2026-07-19",
-        "state": "anomaly",
+        "state": "cheat",
         "kcal": 3525
+      },
+      {
+        "date": "2026-07-20",
+        "state": "partial",
+        "kcal": 1006
       }
     ],
     "days": [
@@ -12112,7 +12332,15 @@
         "date": "2026-07-19",
         "kcal": 3525,
         "protein": 211,
-        "dayType": "anomaly-pending",
+        "dayType": "cheat-planned",
+        "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-07-20",
+        "kcal": 1006,
+        "protein": 128,
+        "dayType": "strict",
         "logged": "full",
         "provisional": true
       }
@@ -12123,7 +12351,7 @@
       "proteinFloor": 160,
       "proteinTarget": 180,
       "cheatCadenceDays": 9,
-      "nextPlannedCheat": "2026-07-19",
+      "nextPlannedCheat": "2026-07-28",
       "blowoutCapKcal": 3300
     }
   },
