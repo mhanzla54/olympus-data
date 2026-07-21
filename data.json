@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 724,
+    "overall_total": 725,
     "generated_for": "2026-07-20",
-    "built_at": "2026-07-21T00:14:51.680Z",
+    "built_at": "2026-07-21T00:47:53.666Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 359
+      "ft_to_go": 358
     }
   },
   "lanes": [
@@ -37,7 +37,7 @@
       "t0_note": "couldn't write a single line of Python — ran his first print() the day before t0",
       "endpoint": "Replicate AND extend a frontier alignment result — public, runnable code",
       "endpoint_tier": "verylarge",
-      "current": 94,
+      "current": 95,
       "working_on": "Automate the Boring Stuff textbook"
     },
     {
@@ -3640,6 +3640,18 @@
       "reasoning": "A consolidation / review session = tiny, and consolidation carries NO CAP (constitution §5) — genuine active recall is encouraged, never rationed. This is squarely the inclusion: notes away, six COLD open-recall questions, graded live, with him reaching unprompted that the embedding matrix is frozen weights while the residual stream carries activations, deriving the BPE budget argument unaided, and building the 1 plus f-prime gradient argument from the chain rule himself. Not a passive reread — the exclusion — and not a module re-tick: M1–M5 are earned-once and M1–M21 stay gate-only under the forward-only 2026-07-13 rule, so re-reading re-ticks nothing. The three corrections he drove into his own notes (catching that the module never taught W_O, forcing the LayerNorm rewrite, and re-deriving the objection to a month-old error in his own M7 notes) are part of this same session and fold in. Day-keyed; dedup clean, no prior 7/20 ML row",
       "evidence": "m1-m5 module files; Module Notes (Cluster 1 + M7 sections revised); Athena journal S58",
       "booked": "2026-07-20"
+    },
+    {
+      "date": "2026-07-20",
+      "lane": "coding",
+      "activity": "Program-building work session — `ch7_workout_log_parser.py` (ch.7 regex, goal-only): date-normalisation subsystem running; five self-debugged failures; program not yet complete",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 95,
+      "cum_overall": 725,
+      "reasoning": "**C3 AMENDMENT D — owner challenge CONCEDED, re-derived score (not a bump).** Booked under the NEW codebook entry `A substantial program-building WORK SESSION (goal not yet met)`. Ground 1 (goal-unmet) conceded: the tiny tier prices provable lane WORK, not deliverable completion — five existing 🐍 tinies (micro-drill round, 5pg+notes, end-of-chapter Qs, code-reading, refactor) are non-deliverable acts, so \"runs + meets the goal\" bounds the COMPLETED-PROGRAM entry, not the lane. My own 7/17+7/18 rulings price a multi-DAY Osiris build at one session tiny per day; refusing the same in Coding was a cross-lane asymmetry with no ground. Anti-farm intact: day-keyed one per date+kind, substance floor, and the finished program still ticks separately above (nested double-count). Ground 2 (partial authorship) RULED: the Athena-authored `format_dates()` body does NOT void the session tiny — his authorship is the substantial majority (regex, month dict, loop structure, session-splitting, naming) and he found+fixed five real bugs across ~5 hrs with provable presence (agent in-session, screen-shares, running output) — but the authorship question STAYS LIVE against the future completed-program tick. FORWARD-ONLY from 2026-07-20, live challenged deed included",
+      "evidence": "ch7_workout_log_parser.py; assignments/ch7-workout-log-parser.md; Athena in-session + screen-shares; output ['2026-07-16','2026-07-18'] and ['Ad hoc: Rung Clear Attempt','Day B Legs+Core']; changelog 2026-07-20 amendment D",
+      "booked": "2026-07-20"
     }
   ],
   "series": {
@@ -3986,6 +3998,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "message_scrubber.py (ATBS Ch.7 goal-only) — redacts every email + phone via re.sub on compiled patterns, extracts dates/dollar-amounts/@handles via findall, prints a redacted block + summary report; runs correct (owner-confirmed live); also caught a wrong phone-count in the assignment's own worked test-case"
+      },
+      {
+        "date": "2026-07-20",
+        "cum": 95,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Program-building work session — `ch7_workout_log_parser.py` (ch.7 regex, goal-only): date-normalisation subsystem running; five self-debugged failures; program not yet complete"
       }
     ],
     "mlai": [
