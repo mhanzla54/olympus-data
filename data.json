@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 729,
-    "generated_for": "2026-07-21",
-    "built_at": "2026-07-22T00:45:10.190Z",
+    "overall_total": 734,
+    "generated_for": "2026-07-22",
+    "built_at": "2026-07-22T22:50:26.667Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 354
+      "ft_to_go": 349
     }
   },
   "lanes": [
@@ -37,7 +37,7 @@
       "t0_note": "couldn't write a single line of Python — ran his first print() the day before t0",
       "endpoint": "Replicate AND extend a frontier alignment result — public, runnable code",
       "endpoint_tier": "verylarge",
-      "current": 95,
+      "current": 96,
       "working_on": "Automate the Boring Stuff textbook"
     },
     {
@@ -47,7 +47,7 @@
       "t0_note": "didn't hold the transformer internals — attention, embeddings, the residual stream were only 'encountered'",
       "endpoint": "A from-memory \"mini-textbook\" of the whole ML/alignment stack (FF is the floor; endpoint stays provisional)",
       "endpoint_tier": "verylarge",
-      "current": 105,
+      "current": 106,
       "working_on": "Field Foundations"
     },
     {
@@ -77,7 +77,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 174,
+      "current": 175,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -87,7 +87,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 314,
+      "current": 316,
       "working_on": "the next new-pound low (≤ 214.8 lb)"
     }
   ],
@@ -3700,6 +3700,66 @@
       "reasoning": "Same entry, next date — an `Osiris working session` tiny (artifact review/walkthrough). Substance floor cleared: 10 findings + an owner-designed feature + a substrate design question + phase direction is a genuine worked sitting with logged output. His shaping work is what ticks (tool-vs-job inclusion); the future read-only Olympus-dashboard study he DIRECTED is agent work and books nothing here. Day-keyed; dedup grepped — 7/21 carries no rows at all, a clean first booking for the date. Same-day booking, no tag",
       "evidence": "Osiris Lens/_build/owner-taste-review-2-2026-07-21.md; pending-flesh-out S67 blocks; Odin journal S67 close",
       "booked": "2026-07-21"
+    },
+    {
+      "date": "2026-07-21",
+      "lane": "body",
+      "activity": "Calorie-day 1,580 kcal on the strict plan (target 1,500, band 1,200–1,800; logged full, warehouse FINAL)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 315,
+      "cum_overall": 730,
+      "reasoning": "Calorie-day tiny. Strict target 1,500 with the ±300 tolerance → band 1,200–1,800; 1,580 sits 80 over the aim, barely a quarter of the allowance. This is the row I could not price at the 7/21 close: the day was still moving then (0 kcal at last read, no done-eating report) and §0.5 forbids pricing a number that can still change. The warehouse has since finalised it — `logged: full, provisional: false` — so the condition I held for is met by a FINAL upstream row, not by inference. Dedup grepped FIRST (late capture = highest-risk path): 7/21 carries exactly one row, a 📕 Osiris session, and NO Body row — a real gap, not a re-book. Late booking → booked-date tag",
+      "evidence": "health-data.json (2026-07-21 row, kcal 1580, logged full, provisional false)",
+      "booked": "2026-07-22"
+    },
+    {
+      "date": "2026-07-21",
+      "lane": "body",
+      "activity": "Protein-day 192g (the 160g floor cleared by 32g; logged full, warehouse FINAL)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 316,
+      "cum_overall": 731,
+      "reasoning": "Protein-day tiny, fully INDEPENDENT of the calorie tick per the codebook — the calorie day and the protein day are never fused into one. Floor = goal minus 20 = 160; 192g clears it by 32 and beats the 180 coaching aim as well. Protein accumulates monotonically, so a crossed floor can never un-cross; with the warehouse row now final there is no residual doubt at all. Dedup: same grep as the calorie row — no prior 7/21 Body row of any kind. Late booking → booked-date tag",
+      "evidence": "health-data.json (2026-07-21 row, protein 192, logged full, provisional false)",
+      "booked": "2026-07-22"
+    },
+    {
+      "date": "2026-07-22",
+      "lane": "strength",
+      "activity": "Day A Push+Pull full-force workout logged — 7 exercises: pull-up 3.5/2.5/0.5 + negatives 5/5/3, hanging knee raise slow-ecc 10/10/8, dead hang 13s/17s + scap shrugs, typewriter push-up 3/2/3, feet-elevated pike push-up 5/4/5, V-up 6/4, PPP 5/5",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 175,
+      "cum_overall": 732,
+      "reasoning": "A logged full-force workout = session tiny (constitution §6). Seven exercises across the full Day A template at genuine effort — not the bad-day floor, which is warm-up plus one round. No rung small stacks on top: every starred gate fell short and I path-checked the closest one against the LIVE workout-split rather than take the capture's word. 🟦 Core-hanging rung 2 (slow-eccentric knee raise, target 10, Sets 3) reads 10/10/8 = average 9.33, two-thirds of a rep short of the gate — his best set-pair on that rung to date and still a refusal, because the SETS-STANDARD law averages across the rung's full Sets count and the fading third set is exactly what the average exists to catch. Typewriter push-up 3/2/3 vs 8/side, pull-up 3.5/2.5/0.5 vs 3, dead hang 13/17s vs 60s — none close. Dedup: no prior 7/22 Strength row; ledger clean for the date",
+      "evidence": "workout-log.md \"July 22 2026 Wednesday - Day A Push+Pull\"; workout-audit.mjs 18 matched, 0 problems; workout-split.md §Bar ladder rung 2 (target 10, Sets 3)",
+      "booked": "2026-07-22"
+    },
+    {
+      "date": "2026-07-22",
+      "lane": "mlai",
+      "activity": "FF Cluster 2 (M6 Training Setup + M7 The Training Loop) re-study plus a 6-question closed-book cold open-recall discussion — 4 correct (2 at mastery), 1 correct-with-gap, 1 miss (weight sharing)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 106,
+      "cum_overall": 733,
+      "reasoning": "A consolidation / review session = tiny, NO CAP (constitution §5) — genuine active recall is encouraged, never rationed. Identical in kind to the 7/20 Cluster 1 re-study I booked two days ago, and I price it identically: read the modules, notes away, cold open-recall graded live. Squarely the inclusion, not the exclusion — this is not a passive reread, and the miss on weight sharing is proof the questions were genuinely cold. Not a module re-tick: M6 and M7 are earned-once, and M1–M21 stay gate-only under the forward-only 2026-07-13 rule, so re-reading them re-ticks nothing — the consolidation entry is the only thing paying here. Notable but not separately priced: he produced the corrected gradient-highway account (block slope 1 + f′, floor near 1) cold and unprompted two days after rebuilding it, which is the recall the tick is for. Athena's correction of four curriculum files is HER work — NO-TICK, and it books nothing on this row. Day-keyed; dedup clean, no prior 7/22 ML row",
+      "evidence": "learning-state.md §3 \"FF Cluster 2 (M6–M7) — re-study state, S60\"; retrieval-ledger.md rows 2026-07-22",
+      "booked": "2026-07-22"
+    },
+    {
+      "date": "2026-07-22",
+      "lane": "coding",
+      "activity": "Micro-drill round — ATBS ch.7 regex post-mortem set, blocks 9–13 of 24 worked (drill 9 6/6 incl. the fix-the-bug, drill 10 rewritten to all-correct with his own written reasoning + an unprompted extension question, drill 11 3/3, drill 12 correct, drill 13 5/6); at 12.3 he REBUILT `format_dates()` himself from an English design recipe with no code and it ran correct first attempt on both inputs",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 96,
+      "cum_overall": 734,
+      "reasoning": "A micro-drill round = tiny (five construct-named blocks worked through, far past the single-trivial-drill exclusion). ONE tiny, not two: the `format_dates()` rebuild happened at drill 12.3, inside this same round, same file, same purpose — Amendment C splits two same-session coding acts only when each is a SUBSTANTIAL, DISTINCT act with its own file and purpose, and this is a drill within the set. Default to the lower call when the split is arguable. **The authorship note matters beyond the feet, and I record it here deliberately:** this is the same function whose Athena-authored body I ruled on 2026-07-20 — the session tiny survived, but the compromise stayed LIVE against the future completed-program tick for `ch7_workout_log_parser.py`. He has now written that function himself, unaided, from a purpose/input/examples/steps recipe containing no code, and it ran correct on the first attempt. The knowledge is demonstrably his. The flag lifts on the parser the moment HIS version is what stands in that artifact — the ruling was always about whose code sits in the deliverable, not about whether he could write it. Dedup: no prior 7/22 Coding row; the 7/20 row is a program-building work session on a different artifact, a different kind",
+      "evidence": "Ch7_miniDrills.py blocks 9–13, d12_test 3; `ast.parse` clean; Athena journal S60",
+      "booked": "2026-07-22"
     }
   ],
   "series": {
@@ -4053,6 +4113,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Program-building work session — `ch7_workout_log_parser.py` (ch.7 regex, goal-only): date-normalisation subsystem running; five self-debugged failures; program not yet complete"
+      },
+      {
+        "date": "2026-07-22",
+        "cum": 96,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Micro-drill round — ATBS ch.7 regex post-mortem set, blocks 9–13 of 24 worked (drill 9 6/6 incl. the fix-the-bug, drill 10 rewritten to all-correct with his own written reasoning + an unprompted extension question, drill 11 3/3, drill 12 correct, drill 13 5/6); at 12.3 he REBUILT `format_dates()` himself from an English design recipe with no code and it ran correct first attempt on both inputs"
       }
     ],
     "mlai": [
@@ -4475,6 +4542,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "FF Cluster 1 (M1–M5) re-study plus a dictated cold open-recall lock-in discussion, six questions graded live"
+      },
+      {
+        "date": "2026-07-22",
+        "cum": 106,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "FF Cluster 2 (M6 Training Setup + M7 The Training Loop) re-study plus a 6-question closed-book cold open-recall discussion — 4 correct (2 at mastery), 1 correct-with-gap, 1 miss (weight sharing)"
       }
     ],
     "method": [
@@ -4978,6 +5052,13 @@
         "feet": 10,
         "tier": "small",
         "activity": "🟪 Handstand ladder rung 4 CLEARED — chest-to-wall handstand hold 35/35/39/32s (avg 35.25s vs the 30s gate)"
+      },
+      {
+        "date": "2026-07-22",
+        "cum": 175,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Day A Push+Pull full-force workout logged — 7 exercises: pull-up 3.5/2.5/0.5 + negatives 5/5/3, hanging knee raise slow-ecc 10/10/8, dead hang 13s/17s + scap shrugs, typewriter push-up 3/2/3, feet-elevated pike push-up 5/4/5, V-up 6/4, PPP 5/5"
       }
     ],
     "body": [
@@ -5729,6 +5810,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Protein-day 193g (the 160g floor cleared by 33g; strict cut day, logged full)"
+      },
+      {
+        "date": "2026-07-21",
+        "cum": 315,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Calorie-day 1,580 kcal on the strict plan (target 1,500, band 1,200–1,800; logged full, warehouse FINAL)"
+      },
+      {
+        "date": "2026-07-21",
+        "cum": 316,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Protein-day 192g (the 160g floor cleared by 32g; logged full, warehouse FINAL)"
       }
     ]
   },
@@ -7237,31 +7332,31 @@
       "points": [
         {
           "date": "2026-03-22",
-          "y": 2,
+          "y": 3,
           "kind": "baseline",
-          "label": "Horizontal Push — STRENGTH — 2 rungs standing at t0"
+          "label": "Horizontal Push — STRENGTH — on rung 3 at t0"
         },
         {
           "date": "2026-06-06",
-          "y": 2.79,
+          "y": 3.79,
           "kind": "session",
           "label": "Archer push-up — 6, 7, 6 (avg 6.3 vs target 8)"
         },
         {
           "date": "2026-06-13",
-          "y": 2.71,
+          "y": 3.71,
           "kind": "session",
           "label": "Archer push-up — 7, 6, 4 (avg 5.7 vs target 8)"
         },
         {
           "date": "2026-06-20",
-          "y": 2.88,
+          "y": 3.88,
           "kind": "session",
           "label": "Archer push-up — 10, 7, 4 (avg 7 vs target 8)"
         },
         {
           "date": "2026-07-01",
-          "y": 3,
+          "y": 4,
           "kind": "clear",
           "label": "Horizontal Push — STRENGTH — cleared: Archer push-up (needed 8/side, got 8, 8, 8 — avg 8)",
           "perf": {
@@ -7272,7 +7367,7 @@
         },
         {
           "date": "2026-07-08",
-          "y": 4,
+          "y": 5,
           "kind": "clear",
           "label": "Horizontal Push — STRENGTH — cleared: Uneven push-up (hand on block) (needed 8/side, got 9, 8, 8 — avg 8.33)",
           "perf": {
@@ -7283,23 +7378,29 @@
         },
         {
           "date": "2026-07-15",
-          "y": 4.29,
+          "y": 5.29,
           "kind": "session",
           "label": "Typewriter push-up (slide side-to-side) — 2, 3, 2 (avg 2.3 vs target 8)"
+        },
+        {
+          "date": "2026-07-22",
+          "y": 5.33,
+          "kind": "session",
+          "label": "Typewriter push-up (slide side-to-side) — 3, 2, 3 (avg 2.7 vs target 8)"
         }
       ],
       "steps": [
         {
           "date": "2026-03-22",
-          "rungs": 2
-        },
-        {
-          "date": "2026-07-01",
           "rungs": 3
         },
         {
-          "date": "2026-07-08",
+          "date": "2026-07-01",
           "rungs": 4
+        },
+        {
+          "date": "2026-07-08",
+          "rungs": 5
         }
       ],
       "chart": 1
@@ -7311,31 +7412,31 @@
       "points": [
         {
           "date": "2026-03-22",
-          "y": 1,
+          "y": 2,
           "kind": "baseline",
-          "label": "Horizontal Push — EXPLOSIVE — 1 rung standing at t0"
+          "label": "Horizontal Push — EXPLOSIVE — on rung 2 at t0"
         },
         {
           "date": "2026-06-10",
-          "y": 1.54,
+          "y": 2.54,
           "kind": "session",
           "label": "Clap push-up (front) — 4, 5, 4 (avg 4.3 vs target 8)"
         },
         {
           "date": "2026-06-17",
-          "y": 1.73,
+          "y": 2.73,
           "kind": "session",
           "label": "Clap push-up (front) — 7, 6, 4.5 (avg 5.8 vs target 8)"
         },
         {
           "date": "2026-06-24",
-          "y": 1.83,
+          "y": 2.83,
           "kind": "session",
           "label": "Clap push-up (front) — 6, 7, 7 (avg 6.7 vs target 8)"
         },
         {
           "date": "2026-06-29",
-          "y": 2,
+          "y": 3,
           "kind": "clear",
           "label": "Horizontal Push — EXPLOSIVE — cleared: Clap push-up (front) (needed 8, got 8, 8, 8 — avg 8)",
           "perf": {
@@ -7346,19 +7447,19 @@
         },
         {
           "date": "2026-07-06",
-          "y": 2.54,
+          "y": 3.54,
           "kind": "session",
           "label": "Chest-tap push-up — 4, 4, 5 (avg 4.3 vs target 8)"
         },
         {
           "date": "2026-07-13",
-          "y": 2.63,
+          "y": 3.63,
           "kind": "session",
           "label": "Chest-tap push-up — 4, 5, 6 (avg 5 vs target 8)"
         },
         {
           "date": "2026-07-20",
-          "y": 2.79,
+          "y": 3.79,
           "kind": "session",
           "label": "Chest-tap push-up — 8, 5, 6 (avg 6.3 vs target 8)"
         }
@@ -7366,11 +7467,11 @@
       "steps": [
         {
           "date": "2026-03-22",
-          "rungs": 1
+          "rungs": 2
         },
         {
           "date": "2026-06-29",
-          "rungs": 2
+          "rungs": 3
         }
       ],
       "chart": 2
@@ -7382,37 +7483,37 @@
       "points": [
         {
           "date": "2026-03-22",
-          "y": 0,
+          "y": 1,
           "kind": "baseline",
-          "label": "Horizontal Push — PLANCHE — 0 rungs standing at t0"
+          "label": "Horizontal Push — PLANCHE — on rung 1 at t0"
         },
         {
           "date": "2026-06-13",
-          "y": 0.38,
+          "y": 1.38,
           "kind": "session",
           "label": "Planche lean — 10, 5 (avg 7.5 vs target 20)"
         },
         {
           "date": "2026-06-20",
-          "y": 0.63,
+          "y": 1.63,
           "kind": "session",
           "label": "Planche lean — 15, 10 (avg 12.5 vs target 20)"
         },
         {
           "date": "2026-07-01",
-          "y": 0.97,
+          "y": 1.97,
           "kind": "session",
           "label": "Planche lean — 30 (avg 30 vs target 20)"
         },
         {
           "date": "2026-07-08",
-          "y": 0.8,
+          "y": 1.8,
           "kind": "session",
           "label": "Planche lean — 16 (avg 16 vs target 20)"
         },
         {
           "date": "2026-07-12",
-          "y": 1,
+          "y": 2,
           "kind": "clear",
           "label": "Horizontal Push — PLANCHE — cleared: Planche lean (needed 20s, got 20, 20 — avg 20)",
           "perf": {
@@ -7423,19 +7524,25 @@
         },
         {
           "date": "2026-07-15",
-          "y": 1.31,
+          "y": 2.31,
           "kind": "session",
           "label": "Pseudo-planche push-ups (PPP) — 2, 3 (avg 2.5 vs target 8)"
+        },
+        {
+          "date": "2026-07-22",
+          "y": 2.63,
+          "kind": "session",
+          "label": "Pseudo-planche push-ups (PPP) — 5, 5 (avg 5 vs target 8)"
         }
       ],
       "steps": [
         {
           "date": "2026-03-22",
-          "rungs": 0
+          "rungs": 1
         },
         {
           "date": "2026-07-12",
-          "rungs": 1
+          "rungs": 2
         }
       ],
       "chart": 3
@@ -7447,31 +7554,31 @@
       "points": [
         {
           "date": "2026-03-22",
-          "y": 2,
+          "y": 3,
           "kind": "baseline",
-          "label": "Vertical Push / Handstand — 2 rungs standing at t0"
+          "label": "Vertical Push / Handstand — on rung 3 at t0"
         },
         {
           "date": "2026-06-10",
-          "y": 2.44,
+          "y": 3.44,
           "kind": "session",
           "label": "Wall handstand hold (kick-up) — 5, 20, 15, (avg 13.3 vs target 30)"
         },
         {
           "date": "2026-06-17",
-          "y": 2.64,
+          "y": 3.64,
           "kind": "session",
           "label": "Wall handstand hold (kick-up) — 12, 25, 25, 15 (avg 19.3 vs target 30)"
         },
         {
           "date": "2026-06-24",
-          "y": 2.83,
+          "y": 3.83,
           "kind": "session",
           "label": "Wall handstand hold (kick-up) — 24, 33, 20, 22 (avg 24.8 vs target 30)"
         },
         {
           "date": "2026-06-29",
-          "y": 3,
+          "y": 4,
           "kind": "clear",
           "label": "Vertical Push / Handstand — cleared: Wall handstand hold (kick-up) (needed 30s, got 31, 37, 32, 31 — avg 32.75)",
           "perf": {
@@ -7482,19 +7589,19 @@
         },
         {
           "date": "2026-07-06",
-          "y": 3.77,
+          "y": 4.77,
           "kind": "session",
           "label": "Chest-to-wall handstand hold — 20, 20, 20, 32 (avg 23 vs target 30)"
         },
         {
           "date": "2026-07-13",
-          "y": 3.97,
+          "y": 4.97,
           "kind": "session",
           "label": "Chest-to-wall handstand hold — 26, 34, 25, 31 (avg 29 vs target 30)"
         },
         {
           "date": "2026-07-20",
-          "y": 4,
+          "y": 5,
           "kind": "clear",
           "label": "Vertical Push / Handstand — cleared: Chest-to-wall handstand hold (needed 30s, got 35, 35, 39, 32 — avg 35.25)",
           "perf": {
@@ -7507,15 +7614,15 @@
       "steps": [
         {
           "date": "2026-03-22",
-          "rungs": 2
-        },
-        {
-          "date": "2026-06-29",
           "rungs": 3
         },
         {
-          "date": "2026-07-20",
+          "date": "2026-06-29",
           "rungs": 4
+        },
+        {
+          "date": "2026-07-20",
+          "rungs": 5
         }
       ],
       "chart": 4
@@ -7527,159 +7634,165 @@
       "points": [
         {
           "date": "2026-03-22",
-          "y": 2,
+          "y": 3,
           "kind": "baseline",
-          "label": "Pull — 2 rungs standing at t0"
+          "label": "Pull — on rung 3 at t0"
         },
         {
           "date": "2026-06-05",
-          "y": 2.4,
+          "y": 3.4,
           "kind": "session",
           "label": "Negative pull-up (5s) — 3.5, 3, 3 (avg 3.2 vs target 8)"
         },
         {
           "date": "2026-06-06",
-          "y": 2.63,
+          "y": 3.63,
           "kind": "session",
           "label": "Negative pull-up (5s) — 5, 5, 5 (avg 5 vs target 8)"
         },
         {
           "date": "2026-06-08",
-          "y": 2.29,
+          "y": 3.29,
           "kind": "session",
           "label": "Negative pull-up (5s) — 3, 2, 2 (avg 2.3 vs target 8)"
         },
         {
           "date": "2026-06-13",
-          "y": 2.73,
+          "y": 3.73,
           "kind": "session",
           "label": "Negative pull-up (5s) — 6, 6, 5.5 (avg 5.8 vs target 8)"
         },
         {
           "date": "2026-06-17",
-          "y": 0.38,
+          "y": 1.38,
           "kind": "session-extra",
           "label": "Dead hang — 17 (avg 17 vs target 45)",
           "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
         },
         {
           "date": "2026-06-20",
-          "y": 2.56,
+          "y": 3.56,
           "kind": "session",
           "label": "Negative pull-up (5s) — 6, 5, 2.5 (avg 4.5 vs target 8)"
         },
         {
           "date": "2026-06-22",
-          "y": 2.65,
+          "y": 3.65,
           "kind": "session",
           "label": "Negative pull-up (5s) — 6, 5, 4.5 (avg 5.2 vs target 8)"
         },
         {
           "date": "2026-06-23",
-          "y": 3,
+          "y": 4,
           "kind": "clear",
           "label": "Pull — cleared: Negative pull-up (5s)"
         },
         {
           "date": "2026-06-24",
-          "y": 0.31,
+          "y": 1.31,
           "kind": "session-extra",
           "label": "Dead hang — 14 (avg 14 vs target 45)",
           "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
         },
         {
           "date": "2026-06-27",
-          "y": 3.44,
+          "y": 4.44,
           "kind": "session",
           "label": "Full pull-up — 2, 1, 1 (avg 1.3 vs target 3)"
         },
         {
           "date": "2026-06-29",
-          "y": 0.33,
+          "y": 1.33,
           "kind": "session-extra",
           "label": "Dead hang — 15 (avg 15 vs target 45)",
           "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
         },
         {
           "date": "2026-07-01",
-          "y": 3.67,
+          "y": 4.67,
           "kind": "session",
           "label": "Full pull-up — 3, 1.5,  l.5 (avg 2 vs target 3)"
         },
         {
           "date": "2026-07-04",
-          "y": 3.61,
+          "y": 4.61,
           "kind": "session",
           "label": "Full pull-up — 3, 2, .5 (avg 1.8 vs target 3)"
         },
         {
           "date": "2026-07-06",
-          "y": 0.53,
+          "y": 1.53,
           "kind": "session-extra",
           "label": "Dead hang — 24 (avg 24 vs target 45)",
           "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
         },
         {
           "date": "2026-07-08",
-          "y": 3.78,
+          "y": 4.78,
           "kind": "session",
           "label": "Full pull-up — 4,  2 , 1 (avg 2.3 vs target 3)"
         },
         {
           "date": "2026-07-11",
-          "y": 3.78,
+          "y": 4.78,
           "kind": "session",
           "label": "Full pull-up — 4, 2, 1 (avg 2.3 vs target 3)"
         },
         {
           "date": "2026-07-12",
-          "y": 0.67,
+          "y": 1.67,
           "kind": "session-extra",
           "label": "Dead hang — 30, 30 (avg 30 vs target 45)",
           "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
         },
         {
           "date": "2026-07-13",
-          "y": 0.37,
+          "y": 1.37,
           "kind": "session-extra",
           "label": "Dead hang — 20, 13 (avg 16.5 vs target 45)",
           "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
         },
         {
           "date": "2026-07-15",
-          "y": 3.64,
+          "y": 4.64,
           "kind": "session",
           "label": "Full pull-up — 3, 2, .75 (avg 1.9 vs target 3)"
         },
         {
           "date": "2026-07-16",
-          "y": 0.97,
+          "y": 1.97,
           "kind": "session-extra",
           "label": "Dead hang — 45, 45 (avg 45 vs target 45)",
           "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
         },
         {
           "date": "2026-07-18",
-          "y": 3.72,
+          "y": 4.72,
           "kind": "session",
           "label": "Full pull-up — 4, 2, .5 (avg 2.2 vs target 3)"
         },
         {
           "date": "2026-07-20",
-          "y": 0.29,
+          "y": 1.29,
           "kind": "session-extra",
           "label": "Dead hang — 15, 11 (avg 13 vs target 45)",
           "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
+        },
+        {
+          "date": "2026-07-22",
+          "y": 4.72,
+          "kind": "session",
+          "label": "Full pull-up — 3.5,  2.5, .5 (avg 2.2 vs target 3)"
         }
       ],
       "steps": [
         {
           "date": "2026-03-22",
-          "rungs": 2
+          "rungs": 3
         },
         {
           "date": "2026-06-23",
-          "rungs": 3
+          "rungs": 4
         }
       ],
       "chart": 5
@@ -7691,13 +7804,13 @@
       "points": [
         {
           "date": "2026-03-22",
-          "y": 0,
+          "y": 1,
           "kind": "baseline",
-          "label": "Horizontal Pull — ROWS — 0 rungs standing at t0"
+          "label": "Horizontal Pull — ROWS — on rung 1 at t0"
         },
         {
           "date": "2026-07-16",
-          "y": 1,
+          "y": 2,
           "kind": "clear",
           "label": "Horizontal Pull — ROWS — cleared: Incline ring row (torso ~45°, feet under you) (needed 8, got 13, 10, 10 — avg 11)",
           "perf": {
@@ -7708,7 +7821,7 @@
         },
         {
           "date": "2026-07-18",
-          "y": 1.67,
+          "y": 2.67,
           "kind": "session",
           "label": "Parallel ring row (body horizontal, feet on floor) — 6, 6, 4 (avg 5.3 vs target 8)"
         }
@@ -7716,11 +7829,11 @@
       "steps": [
         {
           "date": "2026-03-22",
-          "rungs": 0
+          "rungs": 1
         },
         {
           "date": "2026-07-16",
-          "rungs": 1
+          "rungs": 2
         }
       ],
       "chart": 12
@@ -7734,7 +7847,7 @@
           "date": "2026-03-22",
           "y": 0,
           "kind": "baseline",
-          "label": "Front Lever (GOAL) — 0 rungs standing at t0"
+          "label": "Front Lever (GOAL) — gated, not yet started"
         }
       ],
       "steps": [
@@ -7752,37 +7865,37 @@
       "points": [
         {
           "date": "2026-03-22",
-          "y": 0,
+          "y": 1,
           "kind": "baseline",
-          "label": "Chin-up — 0 rungs standing at t0"
+          "label": "Chin-up — on rung 1 at t0"
         },
         {
           "date": "2026-06-10",
-          "y": 0.6,
+          "y": 1.6,
           "kind": "session",
           "label": "Negative chin-up (5s) — 3, 3, 3 (avg 3 vs target 5)"
         },
         {
           "date": "2026-06-17",
-          "y": 0.6,
+          "y": 1.6,
           "kind": "session",
           "label": "Negative chin-up (5s) — 3, 3, 3 (avg 3 vs target 5)"
         },
         {
           "date": "2026-06-24",
-          "y": 0.8,
+          "y": 1.8,
           "kind": "session",
           "label": "Negative chin-up (5s) — 4, 4, 4 (avg 4 vs target 5)"
         },
         {
           "date": "2026-06-29",
-          "y": 0.97,
+          "y": 1.97,
           "kind": "session",
           "label": "Negative chin-up (5s) — 5, 5, 5 (avg 5 vs target 5)"
         },
         {
           "date": "2026-07-06",
-          "y": 1,
+          "y": 2,
           "kind": "clear",
           "label": "Chin-up — cleared: Negative chin-up (5s) (needed 5, got 5, 5, 5 — avg 5)",
           "perf": {
@@ -7793,13 +7906,13 @@
         },
         {
           "date": "2026-07-13",
-          "y": 1.78,
+          "y": 2.78,
           "kind": "session",
           "label": "Full chin-up (+ negative back-off) — 4, 2.5,  .5 (avg 2.3 vs target 3)"
         },
         {
           "date": "2026-07-20",
-          "y": 1.94,
+          "y": 2.94,
           "kind": "session",
           "label": "Full chin-up (+ negative back-off) — 4.5, 2.5, 1.5 (avg 2.8 vs target 3)"
         }
@@ -7807,11 +7920,11 @@
       "steps": [
         {
           "date": "2026-03-22",
-          "rungs": 0
+          "rungs": 1
         },
         {
           "date": "2026-07-06",
-          "rungs": 1
+          "rungs": 2
         }
       ],
       "chart": 6
@@ -7823,55 +7936,55 @@
       "points": [
         {
           "date": "2026-03-22",
-          "y": 0,
+          "y": 1,
           "kind": "baseline",
-          "label": "Grip & Forearms — 0 rungs standing at t0"
+          "label": "Grip & Forearms — on rung 1 at t0"
         },
         {
           "date": "2026-06-17",
-          "y": 0.57,
+          "y": 1.57,
           "kind": "session",
           "label": "Dead hang — 17 (avg 17 vs target 30)"
         },
         {
           "date": "2026-06-20",
-          "y": 0.63,
+          "y": 1.63,
           "kind": "session",
           "label": "Dead hang — 19 (avg 19 vs target 30)"
         },
         {
           "date": "2026-06-24",
-          "y": 0.47,
+          "y": 1.47,
           "kind": "session",
           "label": "Dead hang — 14 (avg 14 vs target 30)"
         },
         {
           "date": "2026-06-29",
-          "y": 0.5,
+          "y": 1.5,
           "kind": "session",
           "label": "Dead hang — 15 (avg 15 vs target 30)"
         },
         {
           "date": "2026-07-01",
-          "y": 0.27,
+          "y": 1.27,
           "kind": "session",
           "label": "Dead hang — 8 (avg 8 vs target 30)"
         },
         {
           "date": "2026-07-06",
-          "y": 0.8,
+          "y": 1.8,
           "kind": "session",
           "label": "Dead hang — 24 (avg 24 vs target 30)"
         },
         {
           "date": "2026-07-08",
-          "y": 0.77,
+          "y": 1.77,
           "kind": "session",
           "label": "Dead hang — 23 (avg 23 vs target 30)"
         },
         {
           "date": "2026-07-12",
-          "y": 1,
+          "y": 2,
           "kind": "clear",
           "label": "Grip & Forearms — cleared: Dead hang (needed 30s, got 30, 30 — avg 30)",
           "perf": {
@@ -7882,19 +7995,19 @@
         },
         {
           "date": "2026-07-13",
-          "y": 1.37,
+          "y": 2.37,
           "kind": "session",
           "label": "Dead hang — 20, 13 (avg 16.5 vs target 45)"
         },
         {
           "date": "2026-07-15",
-          "y": 1.42,
+          "y": 2.42,
           "kind": "session",
           "label": "Dead hang — 18, 20 (avg 19 vs target 45)"
         },
         {
           "date": "2026-07-16",
-          "y": 2,
+          "y": 3,
           "kind": "clear",
           "label": "Grip & Forearms — cleared: Dead hang (needed 45s, got 45, 45 — avg 45)",
           "perf": {
@@ -7905,23 +8018,29 @@
         },
         {
           "date": "2026-07-20",
-          "y": 2.22,
+          "y": 3.22,
           "kind": "session",
           "label": "Dead hang — 15, 11 (avg 13 vs target 60)"
+        },
+        {
+          "date": "2026-07-22",
+          "y": 3.25,
+          "kind": "session",
+          "label": "Dead hang — 13, 17 (avg 15 vs target 60)"
         }
       ],
       "steps": [
         {
           "date": "2026-03-22",
-          "rungs": 0
-        },
-        {
-          "date": "2026-07-12",
           "rungs": 1
         },
         {
-          "date": "2026-07-16",
+          "date": "2026-07-12",
           "rungs": 2
+        },
+        {
+          "date": "2026-07-16",
+          "rungs": 3
         }
       ],
       "chart": 7
@@ -7933,68 +8052,68 @@
       "points": [
         {
           "date": "2026-03-22",
-          "y": 4,
+          "y": 5,
           "kind": "baseline",
-          "label": "Legs — Pistol — 4 rungs standing at t0"
+          "label": "Legs — Pistol — on rung 5 at t0"
         },
         {
           "date": "2026-06-05",
-          "y": 4.77,
+          "y": 5.77,
           "kind": "session",
           "label": "Box pistol — low box — 5, 4, 2.5 (avg 3.8 vs target 5)"
         },
         {
           "date": "2026-06-08",
-          "y": 3.97,
+          "y": 4.97,
           "kind": "session-extra",
           "label": "Box pistol — high box — 8, 10, 10 (avg 9.3 vs target 5)",
           "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
         },
         {
           "date": "2026-06-10",
-          "y": 4.5,
+          "y": 5.5,
           "kind": "session",
           "label": "Box pistol — low box — 4, 2, 1.5 (avg 2.5 vs target 5)"
         },
         {
           "date": "2026-06-17",
-          "y": 4.77,
+          "y": 5.77,
           "kind": "session",
           "label": "Box pistol — low box — 4, 5, 2.5 (avg 3.8 vs target 5)"
         },
         {
           "date": "2026-06-22",
-          "y": 4.83,
+          "y": 5.83,
           "kind": "session",
           "label": "Box pistol — low box — 6, 3.5, 3 (avg 4.2 vs target 5)"
         },
         {
           "date": "2026-06-24",
-          "y": 4.87,
+          "y": 5.87,
           "kind": "session",
           "label": "Box pistol — low box — 6, 4, 3 (avg 4.3 vs target 5)"
         },
         {
           "date": "2026-06-27",
-          "y": 4.97,
+          "y": 5.97,
           "kind": "session",
           "label": "Box pistol — low box — 8, 7, 4 (avg 6.3 vs target 5)"
         },
         {
           "date": "2026-06-29",
-          "y": 4.87,
+          "y": 5.87,
           "kind": "session",
           "label": "Box pistol — low box — 6, 4, 3 (avg 4.3 vs target 5)"
         },
         {
           "date": "2026-07-04",
-          "y": 4.67,
+          "y": 5.67,
           "kind": "session",
           "label": "Box pistol — low box — 4, 3, 3 (avg 3.3 vs target 5)"
         },
         {
           "date": "2026-07-11",
-          "y": 5,
+          "y": 6,
           "kind": "clear",
           "label": "Legs — Pistol — cleared: Box pistol — low box (needed 5/leg, got 5, 5, 5 — avg 5)",
           "perf": {
@@ -8005,7 +8124,7 @@
         },
         {
           "date": "2026-07-18",
-          "y": 5.9,
+          "y": 6.9,
           "kind": "session",
           "label": "Assisted floor pistol (hand on frame) — 5, 4.5, 4 (avg 4.5 vs target 5)"
         }
@@ -8013,11 +8132,11 @@
       "steps": [
         {
           "date": "2026-03-22",
-          "rungs": 4
+          "rungs": 5
         },
         {
           "date": "2026-07-11",
-          "rungs": 5
+          "rungs": 6
         }
       ],
       "chart": 8
@@ -8029,43 +8148,43 @@
       "points": [
         {
           "date": "2026-03-22",
-          "y": 0,
+          "y": 1,
           "kind": "baseline",
-          "label": "Core — FLOOR — 0 rungs standing at t0"
+          "label": "Core — FLOOR — on rung 1 at t0"
         },
         {
           "date": "2026-06-06",
-          "y": 0.92,
+          "y": 1.92,
           "kind": "session",
           "label": "Hollow hold — 35, 20 (avg 27.5 vs target 30)"
         },
         {
           "date": "2026-06-13",
-          "y": 0.58,
+          "y": 1.58,
           "kind": "session",
           "label": "Hollow hold — 15, 20 (avg 17.5 vs target 30)"
         },
         {
           "date": "2026-06-20",
-          "y": 0.77,
+          "y": 1.77,
           "kind": "session",
           "label": "Hollow hold — 28, 18 (avg 23 vs target 30)"
         },
         {
           "date": "2026-07-01",
-          "y": 0.83,
+          "y": 1.83,
           "kind": "session",
           "label": "Hollow hold — 30, 20 (avg 25 vs target 30)"
         },
         {
           "date": "2026-07-08",
-          "y": 0.53,
+          "y": 1.53,
           "kind": "session",
           "label": "Hollow hold — 16, 16 (avg 16 vs target 30)"
         },
         {
           "date": "2026-07-12",
-          "y": 1,
+          "y": 2,
           "kind": "clear",
           "label": "Core — FLOOR — cleared: Hollow hold (needed 30s, got 31, 31 — avg 31)",
           "perf": {
@@ -8076,13 +8195,13 @@
         },
         {
           "date": "2026-07-15",
-          "y": 1.39,
+          "y": 2.39,
           "kind": "session",
           "label": "Hollow hold — 15, 20 (avg 17.5 vs target 45)"
         },
         {
           "date": "2026-07-16",
-          "y": 2,
+          "y": 3,
           "kind": "clear",
           "label": "Core — FLOOR — cleared: Hollow hold (needed 45s, got 45, 45 — avg 45)",
           "perf": {
@@ -8090,20 +8209,26 @@
             "got": "45, 45",
             "avg": 45
           }
+        },
+        {
+          "date": "2026-07-22",
+          "y": 3.33,
+          "kind": "session",
+          "label": "V-up / tuck-up — 6, 4 (avg 5 vs target 15)"
         }
       ],
       "steps": [
         {
           "date": "2026-03-22",
-          "rungs": 0
-        },
-        {
-          "date": "2026-07-12",
           "rungs": 1
         },
         {
-          "date": "2026-07-16",
+          "date": "2026-07-12",
           "rungs": 2
+        },
+        {
+          "date": "2026-07-16",
+          "rungs": 3
         }
       ],
       "chart": 9
@@ -8115,73 +8240,73 @@
       "points": [
         {
           "date": "2026-03-22",
-          "y": 0,
+          "y": 1,
           "kind": "baseline",
-          "label": "Core — HANGING — 0 rungs standing at t0"
+          "label": "Core — HANGING — on rung 1 at t0"
         },
         {
           "date": "2026-06-05",
-          "y": 0.51,
+          "y": 1.51,
           "kind": "session",
           "label": "Hanging knee raise — 7, 6, 5.5 (avg 6.2 vs target 12)"
         },
         {
           "date": "2026-06-06",
-          "y": 0.61,
+          "y": 1.61,
           "kind": "session",
           "label": "Hanging knee raise — 8 (with breaks), 7 (non stop), 7 (with b (avg 7.3 vs target 12)"
         },
         {
           "date": "2026-06-08",
-          "y": 0.31,
+          "y": 1.31,
           "kind": "session",
           "label": "Hanging knee raise — 3, 4,  4 (avg 3.7 vs target 12)"
         },
         {
           "date": "2026-06-10",
-          "y": 0.58,
+          "y": 1.58,
           "kind": "session",
           "label": "Hanging knee raise — 7, 7, 7 (avg 7 vs target 12)"
         },
         {
           "date": "2026-06-13",
-          "y": 0.69,
+          "y": 1.69,
           "kind": "session",
           "label": "Hanging knee raise — 10, 9, 6 (avg 8.3 vs target 12)"
         },
         {
           "date": "2026-06-17",
-          "y": 0.67,
+          "y": 1.67,
           "kind": "session",
           "label": "Hanging knee raise — 9, 9, 6 (avg 8 vs target 12)"
         },
         {
           "date": "2026-06-20",
-          "y": 0.61,
+          "y": 1.61,
           "kind": "session",
           "label": "Hanging knee raise — 10, 7, 5 (avg 7.3 vs target 12)"
         },
         {
           "date": "2026-06-22",
-          "y": 0.47,
+          "y": 1.47,
           "kind": "session",
           "label": "Hanging knee raise — 6, 7, 4 (avg 5.7 vs target 12)"
         },
         {
           "date": "2026-06-24",
-          "y": 0.42,
+          "y": 1.42,
           "kind": "session",
           "label": "Hanging knee raise — 6, 6, 3 (avg 5 vs target 12)"
         },
         {
           "date": "2026-06-29",
-          "y": 0.75,
+          "y": 1.75,
           "kind": "session",
           "label": "Hanging knee raise — 12, 10, 5 (avg 9 vs target 12)"
         },
         {
           "date": "2026-07-01",
-          "y": 1,
+          "y": 2,
           "kind": "clear",
           "label": "Core — HANGING — cleared: Hanging knee raise (needed 12, got 14, 12, 12 — avg 12.67)",
           "perf": {
@@ -8192,63 +8317,69 @@
         },
         {
           "date": "2026-07-04",
-          "y": 0.83,
+          "y": 1.83,
           "kind": "session-extra",
           "label": "Hanging knee raise — 12,  10, 8 (avg 10 vs target 12)",
           "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
         },
         {
           "date": "2026-07-06",
-          "y": 0.67,
+          "y": 1.67,
           "kind": "session-extra",
           "label": "Hanging knee raise — 12, 7, 5 (avg 8 vs target 12)",
           "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
         },
         {
           "date": "2026-07-08",
-          "y": 1.5,
+          "y": 2.5,
           "kind": "session",
           "label": "Hanging knee raise — slow eccentric (normal up, 3s down) — 5, 5, 5 (avg 5 vs target 10)"
         },
         {
           "date": "2026-07-11",
-          "y": 1.7,
+          "y": 2.7,
           "kind": "session",
           "label": "Hanging knee raise — slow eccentric (normal up, 3s down) — 8, 8, 5 (avg 7 vs target 10)"
         },
         {
           "date": "2026-07-13",
-          "y": 1.73,
+          "y": 2.73,
           "kind": "session",
           "label": "Hanging knee raise — slow eccentric (normal up, 3s down) — 10,  6,  6 (avg 7.3 vs target 10)"
         },
         {
           "date": "2026-07-15",
-          "y": 1.63,
+          "y": 2.63,
           "kind": "session",
           "label": "Hanging knee raise — slow eccentric (normal up, 3s down) — 7, 6, 6 (avg 6.3 vs target 10)"
         },
         {
           "date": "2026-07-18",
-          "y": 1.77,
+          "y": 2.77,
           "kind": "session",
           "label": "Hanging knee raise — slow eccentric (normal up, 3s down) — 10, 7, 6 (avg 7.7 vs target 10)"
         },
         {
           "date": "2026-07-20",
-          "y": 1.73,
+          "y": 2.73,
           "kind": "session",
           "label": "Hanging knee raise — slow eccentric (normal up, 3s down) — 10, 5.5, 6.5 (avg 7.3 vs target 10)"
+        },
+        {
+          "date": "2026-07-22",
+          "y": 2.93,
+          "kind": "session",
+          "label": "Hanging knee raise — slow eccentric (normal up, 3s down) — 10, 10, 8 (avg 9.3 vs target 10)"
         }
       ],
       "steps": [
         {
           "date": "2026-03-22",
-          "rungs": 0
+          "rungs": 1
         },
         {
           "date": "2026-07-01",
-          "rungs": 1
+          "rungs": 2
         }
       ],
       "chart": 10
@@ -8256,8 +8387,8 @@
   ],
   "ladder_parity": {
     "push": {
-      "candidates": 6,
-      "plotted": 6,
+      "candidates": 7,
+      "plotted": 7,
       "rejected": []
     },
     "explosive": {
@@ -8266,8 +8397,8 @@
       "rejected": []
     },
     "planche": {
-      "candidates": 6,
-      "plotted": 6,
+      "candidates": 7,
+      "plotted": 7,
       "rejected": []
     },
     "handstand": {
@@ -8276,8 +8407,8 @@
       "rejected": []
     },
     "pull": {
-      "candidates": 21,
-      "plotted": 21,
+      "candidates": 22,
+      "plotted": 22,
       "rejected": [
         {
           "date": "2026-06-23",
@@ -8291,8 +8422,8 @@
       "rejected": []
     },
     "grip": {
-      "candidates": 12,
-      "plotted": 12,
+      "candidates": 13,
+      "plotted": 13,
       "rejected": []
     },
     "legs": {
@@ -8301,13 +8432,13 @@
       "rejected": []
     },
     "corefloor": {
-      "candidates": 8,
-      "plotted": 8,
+      "candidates": 9,
+      "plotted": 9,
       "rejected": []
     },
     "corehang": {
-      "candidates": 20,
-      "plotted": 19,
+      "candidates": 21,
+      "plotted": 20,
       "rejected": [
         {
           "date": "2026-06-27",
@@ -8337,21 +8468,21 @@
             "name": "Push-up (archer)",
             "raw": "6, 7, 6",
             "avg": 6.3,
-            "status": "● plotted at 2.79"
+            "status": "● plotted at 3.79"
           },
           {
             "date": "2026-06-13",
             "name": "Push-up (archer, one side fully then switch)",
             "raw": "7, 6, 4",
             "avg": 5.7,
-            "status": "● plotted at 2.71"
+            "status": "● plotted at 3.71"
           },
           {
             "date": "2026-06-20",
             "name": "Push-up (archer, one side fully then switch)",
             "raw": "10, 7, 4",
             "avg": 7,
-            "status": "● plotted at 2.88"
+            "status": "● plotted at 3.88"
           },
           {
             "date": "2026-07-01",
@@ -8372,7 +8503,14 @@
             "name": "Typewriter push-up (★slide side-to-side)",
             "raw": "2, 3, 2",
             "avg": 2.3,
-            "status": "● plotted at 4.29"
+            "status": "● plotted at 5.29"
+          },
+          {
+            "date": "2026-07-22",
+            "name": "Typewriter push-up (★slide side-to-side)",
+            "raw": "3, 2, 3",
+            "avg": 2.7,
+            "status": "● plotted at 5.33"
           }
         ]
       },
@@ -8385,21 +8523,21 @@
             "name": "Clap push-up (explosive)",
             "raw": "4, 5, 4",
             "avg": 4.3,
-            "status": "● plotted at 1.54"
+            "status": "● plotted at 2.54"
           },
           {
             "date": "2026-06-17",
             "name": "Clap push-up (explosive)",
             "raw": "7, 6, 4.5",
             "avg": 5.8,
-            "status": "● plotted at 1.73"
+            "status": "● plotted at 2.73"
           },
           {
             "date": "2026-06-24",
             "name": "Clap push-up (explosive)",
             "raw": "6, 7, 7",
             "avg": 6.7,
-            "status": "● plotted at 1.83"
+            "status": "● plotted at 2.83"
           },
           {
             "date": "2026-06-29",
@@ -8413,21 +8551,21 @@
             "name": "Chest-tap clap (★explosive)",
             "raw": "4, 4, 5",
             "avg": 4.3,
-            "status": "● plotted at 2.54"
+            "status": "● plotted at 3.54"
           },
           {
             "date": "2026-07-13",
             "name": "Chest-tap push-up (★explosive)",
             "raw": "4, 5, 6",
             "avg": 5,
-            "status": "● plotted at 2.63"
+            "status": "● plotted at 3.63"
           },
           {
             "date": "2026-07-20",
             "name": "Chest-tap push-up (★explosive)",
             "raw": "8, 5, 6",
             "avg": 6.3,
-            "status": "● plotted at 2.79"
+            "status": "● plotted at 3.79"
           }
         ]
       },
@@ -8440,28 +8578,28 @@
             "name": "Planche lean (flex, light)",
             "raw": "10, 5",
             "avg": 7.5,
-            "status": "● plotted at 0.38"
+            "status": "● plotted at 1.38"
           },
           {
             "date": "2026-06-20",
             "name": "Planche lean (flex, light)",
             "raw": "15, 10",
             "avg": 12.5,
-            "status": "● plotted at 0.63"
+            "status": "● plotted at 1.63"
           },
           {
             "date": "2026-07-01",
             "name": "Planche lean (flex, light)",
             "raw": "30",
             "avg": 30,
-            "status": "● plotted at 0.97"
+            "status": "● plotted at 1.97"
           },
           {
             "date": "2026-07-08",
             "name": "Planche lean (flex, light)",
             "raw": "16",
             "avg": 16,
-            "status": "● plotted at 0.8"
+            "status": "● plotted at 1.8"
           },
           {
             "date": "2026-07-12",
@@ -8475,7 +8613,14 @@
             "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
             "raw": "2, 3",
             "avg": 2.5,
-            "status": "● plotted at 1.31"
+            "status": "● plotted at 2.31"
+          },
+          {
+            "date": "2026-07-22",
+            "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
+            "raw": "5, 5",
+            "avg": 5,
+            "status": "● plotted at 2.63"
           }
         ]
       },
@@ -8488,21 +8633,21 @@
             "name": "Wall handstand hold (kick-up)",
             "raw": "5, 20, 15,",
             "avg": 13.3,
-            "status": "● plotted at 2.44"
+            "status": "● plotted at 3.44"
           },
           {
             "date": "2026-06-17",
             "name": "Wall handstand hold (kick-up)",
             "raw": "12, 25, 25, 15",
             "avg": 19.3,
-            "status": "● plotted at 2.64"
+            "status": "● plotted at 3.64"
           },
           {
             "date": "2026-06-24",
             "name": "Wall handstand hold (kick-up)",
             "raw": "24, 33, 20, 22",
             "avg": 24.8,
-            "status": "● plotted at 2.83"
+            "status": "● plotted at 3.83"
           },
           {
             "date": "2026-06-29",
@@ -8516,14 +8661,14 @@
             "name": "Chest-to-wall handstand hold (★)",
             "raw": "20, 20, 20, 32",
             "avg": 23,
-            "status": "● plotted at 3.77"
+            "status": "● plotted at 4.77"
           },
           {
             "date": "2026-07-13",
             "name": "Chest-to-wall handstand hold (★)",
             "raw": "26, 34, 25, 31",
             "avg": 29,
-            "status": "● plotted at 3.97"
+            "status": "● plotted at 4.97"
           },
           {
             "date": "2026-07-20",
@@ -8543,175 +8688,189 @@
             "name": "Pull-up (negatives)",
             "raw": "3.5, 3, 3",
             "avg": 3.2,
-            "status": "● plotted at 2.4"
+            "status": "● plotted at 3.4"
           },
           {
             "date": "2026-06-06",
             "name": "Pull-up (negatives)",
             "raw": "5, 5, 5",
             "avg": 5,
-            "status": "● plotted at 2.63"
+            "status": "● plotted at 3.63"
           },
           {
             "date": "2026-06-08",
             "name": "Pull-up (negatives)",
             "raw": "3, 2, 2",
             "avg": 2.3,
-            "status": "● plotted at 2.29"
+            "status": "● plotted at 3.29"
           },
           {
             "date": "2026-06-13",
             "name": "Pull-up (negatives)",
             "raw": "6, 6, 5.5",
             "avg": 5.8,
-            "status": "● plotted at 2.73"
+            "status": "● plotted at 3.73"
           },
           {
             "date": "2026-06-17",
             "name": "Grip+trap (flex): dead hang + scap shrugs",
             "raw": "17",
             "avg": 17,
-            "status": "◦ floating dot at 0.38 (cleared-rung work)"
+            "status": "◦ floating dot at 1.38 (cleared-rung work)"
           },
           {
             "date": "2026-06-20",
             "name": "Pull-up (negatives)",
             "raw": "6, 5, 2.5",
             "avg": 4.5,
-            "status": "● plotted at 2.56"
+            "status": "● plotted at 3.56"
           },
           {
             "date": "2026-06-20",
             "name": "Grip+trap (flex): dead hang + scap shrugs",
             "raw": "19",
             "avg": 19,
-            "status": "● plotted at 2.56"
+            "status": "● plotted at 3.56"
           },
           {
             "date": "2026-06-22",
             "name": "Pull-up (negatives)",
             "raw": "6, 5, 4.5",
             "avg": 5.2,
-            "status": "● plotted at 2.65"
+            "status": "● plotted at 3.65"
           },
           {
             "date": "2026-06-24",
             "name": "Grip+trap (flex): dead hang + scap shrugs",
             "raw": "14",
             "avg": 14,
-            "status": "◦ floating dot at 0.31 (cleared-rung work)"
+            "status": "◦ floating dot at 1.31 (cleared-rung work)"
           },
           {
             "date": "2026-06-27",
             "name": "Pull-up (★full — max clean reps; then negatives as back-off)",
             "raw": "2, 1, 1",
             "avg": 1.3,
-            "status": "● plotted at 3.44"
+            "status": "● plotted at 4.44"
           },
           {
             "date": "2026-06-29",
             "name": "Grip+trap (flex): dead hang + scap shrugs",
             "raw": "15",
             "avg": 15,
-            "status": "◦ floating dot at 0.33 (cleared-rung work)"
+            "status": "◦ floating dot at 1.33 (cleared-rung work)"
           },
           {
             "date": "2026-07-01",
             "name": "Pull-up (★full — then negatives as back-off)",
             "raw": "3, 1.5,  l.5",
             "avg": 2,
-            "status": "● plotted at 3.67"
+            "status": "● plotted at 4.67"
           },
           {
             "date": "2026-07-01",
             "name": "Grip+trap (flex): dead hang + scap shrugs",
             "raw": "8",
             "avg": 8,
-            "status": "● plotted at 3.67"
+            "status": "● plotted at 4.67"
           },
           {
             "date": "2026-07-04",
             "name": "Pull-up (★full — then negatives as back-off)",
             "raw": "3, 2, .5",
             "avg": 1.8,
-            "status": "● plotted at 3.61"
+            "status": "● plotted at 4.61"
           },
           {
             "date": "2026-07-06",
             "name": "Grip+trap (flex): dead hang + scap shrugs",
             "raw": "24",
             "avg": 24,
-            "status": "◦ floating dot at 0.53 (cleared-rung work)"
+            "status": "◦ floating dot at 1.53 (cleared-rung work)"
           },
           {
             "date": "2026-07-08",
             "name": "Pull-up (★full — then negatives as back-off)",
             "raw": "4,  2 , 1",
             "avg": 2.3,
-            "status": "● plotted at 3.78"
+            "status": "● plotted at 4.78"
           },
           {
             "date": "2026-07-08",
             "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
             "raw": "23",
             "avg": 23,
-            "status": "● plotted at 3.78"
+            "status": "● plotted at 4.78"
           },
           {
             "date": "2026-07-11",
             "name": "Pull-up (★full — then negatives as back-off)",
             "raw": "4, 2, 1",
             "avg": 2.3,
-            "status": "● plotted at 3.78"
+            "status": "● plotted at 4.78"
           },
           {
             "date": "2026-07-12",
             "name": "Dead Hang",
             "raw": "30, 30",
             "avg": 30,
-            "status": "◦ floating dot at 0.67 (cleared-rung work)"
+            "status": "◦ floating dot at 1.67 (cleared-rung work)"
           },
           {
             "date": "2026-07-13",
             "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
             "raw": "20, 13",
             "avg": 16.5,
-            "status": "◦ floating dot at 0.37 (cleared-rung work)"
+            "status": "◦ floating dot at 1.37 (cleared-rung work)"
           },
           {
             "date": "2026-07-15",
             "name": "Pull-up (★full — then negatives as back-off)",
             "raw": "3, 2, .75",
             "avg": 1.9,
-            "status": "● plotted at 3.64"
+            "status": "● plotted at 4.64"
           },
           {
             "date": "2026-07-15",
             "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
             "raw": "18, 20",
             "avg": 19,
-            "status": "● plotted at 3.64"
+            "status": "● plotted at 4.64"
           },
           {
             "date": "2026-07-16",
             "name": "Dead Hang",
             "raw": "45, 45",
             "avg": 45,
-            "status": "◦ floating dot at 0.97 (cleared-rung work)"
+            "status": "◦ floating dot at 1.97 (cleared-rung work)"
           },
           {
             "date": "2026-07-18",
             "name": "Pull-up (★full — then negatives as back-off)",
             "raw": "4, 2, .5",
             "avg": 2.2,
-            "status": "● plotted at 3.72"
+            "status": "● plotted at 4.72"
           },
           {
             "date": "2026-07-20",
             "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
             "raw": "15, 11",
             "avg": 13,
-            "status": "◦ floating dot at 0.29 (cleared-rung work)"
+            "status": "◦ floating dot at 1.29 (cleared-rung work)"
+          },
+          {
+            "date": "2026-07-22",
+            "name": "Pull-up (★full — then negatives as back-off)",
+            "raw": "3.5,  2.5, .5",
+            "avg": 2.2,
+            "status": "● plotted at 4.72"
+          },
+          {
+            "date": "2026-07-22",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "13, 17",
+            "avg": 15,
+            "status": "● plotted at 4.72"
           }
         ]
       },
@@ -8731,7 +8890,7 @@
             "name": "Parallel Ring Row (★ body horizontal, feet on floor)",
             "raw": "6, 6, 4",
             "avg": 5.3,
-            "status": "● plotted at 1.67"
+            "status": "● plotted at 2.67"
           }
         ]
       },
@@ -8749,28 +8908,28 @@
             "name": "Chin-up (negatives, underhand)",
             "raw": "3, 3, 3",
             "avg": 3,
-            "status": "● plotted at 0.6"
+            "status": "● plotted at 1.6"
           },
           {
             "date": "2026-06-17",
             "name": "Chin-up (negatives, underhand)",
             "raw": "3, 3, 3",
             "avg": 3,
-            "status": "● plotted at 0.6"
+            "status": "● plotted at 1.6"
           },
           {
             "date": "2026-06-24",
             "name": "Chin-up (negatives, underhand)",
             "raw": "4, 4, 4",
             "avg": 4,
-            "status": "● plotted at 0.8"
+            "status": "● plotted at 1.8"
           },
           {
             "date": "2026-06-29",
             "name": "Chin-up (★negatives, underhand — 5s each)",
             "raw": "5, 5, 5",
             "avg": 5,
-            "status": "● plotted at 0.97"
+            "status": "● plotted at 1.97"
           },
           {
             "date": "2026-07-06",
@@ -8784,14 +8943,14 @@
             "name": "Chin-up (★full, underhand — then negatives as back-off)",
             "raw": "4, 2.5,  .5",
             "avg": 2.3,
-            "status": "● plotted at 1.78"
+            "status": "● plotted at 2.78"
           },
           {
             "date": "2026-07-20",
             "name": "Chin-up (★full, underhand — then negatives as back-off)",
             "raw": "4.5, 2.5, 1.5",
             "avg": 2.8,
-            "status": "● plotted at 1.94"
+            "status": "● plotted at 2.94"
           }
         ]
       },
@@ -8804,49 +8963,49 @@
             "name": "Grip+trap (flex): dead hang + scap shrugs",
             "raw": "17",
             "avg": 17,
-            "status": "● plotted at 0.57"
+            "status": "● plotted at 1.57"
           },
           {
             "date": "2026-06-20",
             "name": "Grip+trap (flex): dead hang + scap shrugs",
             "raw": "19",
             "avg": 19,
-            "status": "● plotted at 0.63"
+            "status": "● plotted at 1.63"
           },
           {
             "date": "2026-06-24",
             "name": "Grip+trap (flex): dead hang + scap shrugs",
             "raw": "14",
             "avg": 14,
-            "status": "● plotted at 0.47"
+            "status": "● plotted at 1.47"
           },
           {
             "date": "2026-06-29",
             "name": "Grip+trap (flex): dead hang + scap shrugs",
             "raw": "15",
             "avg": 15,
-            "status": "● plotted at 0.5"
+            "status": "● plotted at 1.5"
           },
           {
             "date": "2026-07-01",
             "name": "Grip+trap (flex): dead hang + scap shrugs",
             "raw": "8",
             "avg": 8,
-            "status": "● plotted at 0.27"
+            "status": "● plotted at 1.27"
           },
           {
             "date": "2026-07-06",
             "name": "Grip+trap (flex): dead hang + scap shrugs",
             "raw": "24",
             "avg": 24,
-            "status": "● plotted at 0.8"
+            "status": "● plotted at 1.8"
           },
           {
             "date": "2026-07-08",
             "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
             "raw": "23",
             "avg": 23,
-            "status": "● plotted at 0.77"
+            "status": "● plotted at 1.77"
           },
           {
             "date": "2026-07-12",
@@ -8860,14 +9019,14 @@
             "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
             "raw": "20, 13",
             "avg": 16.5,
-            "status": "● plotted at 1.37"
+            "status": "● plotted at 2.37"
           },
           {
             "date": "2026-07-15",
             "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
             "raw": "18, 20",
             "avg": 19,
-            "status": "● plotted at 1.42"
+            "status": "● plotted at 2.42"
           },
           {
             "date": "2026-07-16",
@@ -8881,7 +9040,14 @@
             "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
             "raw": "15, 11",
             "avg": 13,
-            "status": "● plotted at 2.22"
+            "status": "● plotted at 3.22"
+          },
+          {
+            "date": "2026-07-22",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "13, 17",
+            "avg": 15,
+            "status": "● plotted at 3.25"
           }
         ]
       },
@@ -8894,63 +9060,63 @@
             "name": "Box pistol (low)",
             "raw": "5, 4, 2.5",
             "avg": 3.8,
-            "status": "● plotted at 4.77"
+            "status": "● plotted at 5.77"
           },
           {
             "date": "2026-06-08",
             "name": "Box pistol (high)",
             "raw": "8, 10, 10",
             "avg": 9.3,
-            "status": "◦ floating dot at 3.97 (cleared-rung work)"
+            "status": "◦ floating dot at 4.97 (cleared-rung work)"
           },
           {
             "date": "2026-06-10",
             "name": "Box pistol (low)",
             "raw": "4, 2, 1.5",
             "avg": 2.5,
-            "status": "● plotted at 4.5"
+            "status": "● plotted at 5.5"
           },
           {
             "date": "2026-06-17",
             "name": "Box pistol (low)",
             "raw": "4, 5, 2.5",
             "avg": 3.8,
-            "status": "● plotted at 4.77"
+            "status": "● plotted at 5.77"
           },
           {
             "date": "2026-06-22",
             "name": "Box pistol (low)",
             "raw": "6, 3.5, 3",
             "avg": 4.2,
-            "status": "● plotted at 4.83"
+            "status": "● plotted at 5.83"
           },
           {
             "date": "2026-06-24",
             "name": "Box pistol (low)",
             "raw": "6, 4, 3",
             "avg": 4.3,
-            "status": "● plotted at 4.87"
+            "status": "● plotted at 5.87"
           },
           {
             "date": "2026-06-27",
             "name": "Box pistol (low)",
             "raw": "8, 7, 4",
             "avg": 6.3,
-            "status": "● plotted at 4.97"
+            "status": "● plotted at 5.97"
           },
           {
             "date": "2026-06-29",
             "name": "Box pistol (★low)",
             "raw": "6, 4, 3",
             "avg": 4.3,
-            "status": "● plotted at 4.87"
+            "status": "● plotted at 5.87"
           },
           {
             "date": "2026-07-04",
             "name": "Box pistol (★low)",
             "raw": "4, 3, 3",
             "avg": 3.3,
-            "status": "● plotted at 4.67"
+            "status": "● plotted at 5.67"
           },
           {
             "date": "2026-07-11",
@@ -8964,7 +9130,7 @@
             "name": "Assisted floor pistol (★hand on frame)",
             "raw": "5, 4.5, 4",
             "avg": 4.5,
-            "status": "● plotted at 5.9"
+            "status": "● plotted at 6.9"
           }
         ]
       },
@@ -8977,35 +9143,35 @@
             "name": "Hollow hold (finisher)",
             "raw": "35, 20",
             "avg": 27.5,
-            "status": "● plotted at 0.92"
+            "status": "● plotted at 1.92"
           },
           {
             "date": "2026-06-13",
             "name": "Hollow hold (finisher)",
             "raw": "15, 20",
             "avg": 17.5,
-            "status": "● plotted at 0.58"
+            "status": "● plotted at 1.58"
           },
           {
             "date": "2026-06-20",
             "name": "Hollow hold (finisher)",
             "raw": "28, 18",
             "avg": 23,
-            "status": "● plotted at 0.77"
+            "status": "● plotted at 1.77"
           },
           {
             "date": "2026-07-01",
             "name": "Hollow hold (finisher)",
             "raw": "30, 20",
             "avg": 25,
-            "status": "● plotted at 0.83"
+            "status": "● plotted at 1.83"
           },
           {
             "date": "2026-07-08",
             "name": "Hollow hold (★finisher)",
             "raw": "16, 16",
             "avg": 16,
-            "status": "● plotted at 0.53"
+            "status": "● plotted at 1.53"
           },
           {
             "date": "2026-07-12",
@@ -9019,7 +9185,7 @@
             "name": "Hollow hold (★finisher)",
             "raw": "15, 20",
             "avg": 17.5,
-            "status": "● plotted at 1.39"
+            "status": "● plotted at 2.39"
           },
           {
             "date": "2026-07-16",
@@ -9027,6 +9193,13 @@
             "raw": "45, 45",
             "avg": 45,
             "status": "✓ CLEAR DAY — carried by the clear dot (needed 45s, avg 45)"
+          },
+          {
+            "date": "2026-07-22",
+            "name": "V-up / tuck-up (★finisher)",
+            "raw": "6, 4",
+            "avg": 5,
+            "status": "● plotted at 3.33"
           }
         ]
       },
@@ -9039,63 +9212,63 @@
             "name": "Hanging knee raise",
             "raw": "7, 6, 5.5",
             "avg": 6.2,
-            "status": "● plotted at 0.51"
+            "status": "● plotted at 1.51"
           },
           {
             "date": "2026-06-06",
             "name": "Hanging knee raise",
             "raw": "8 (with breaks), 7 (non stop), 7 (with breaks)",
             "avg": 7.3,
-            "status": "● plotted at 0.61"
+            "status": "● plotted at 1.61"
           },
           {
             "date": "2026-06-08",
             "name": "Hanging knee raise",
             "raw": "3, 4,  4",
             "avg": 3.7,
-            "status": "● plotted at 0.31"
+            "status": "● plotted at 1.31"
           },
           {
             "date": "2026-06-10",
             "name": "Hanging knee raise",
             "raw": "7, 7, 7",
             "avg": 7,
-            "status": "● plotted at 0.58"
+            "status": "● plotted at 1.58"
           },
           {
             "date": "2026-06-13",
             "name": "Hanging knee raise",
             "raw": "10, 9, 6",
             "avg": 8.3,
-            "status": "● plotted at 0.69"
+            "status": "● plotted at 1.69"
           },
           {
             "date": "2026-06-17",
             "name": "Hanging knee raise",
             "raw": "9, 9, 6",
             "avg": 8,
-            "status": "● plotted at 0.67"
+            "status": "● plotted at 1.67"
           },
           {
             "date": "2026-06-20",
             "name": "Hanging knee raise",
             "raw": "10, 7, 5",
             "avg": 7.3,
-            "status": "● plotted at 0.61"
+            "status": "● plotted at 1.61"
           },
           {
             "date": "2026-06-22",
             "name": "Hanging knee raise",
             "raw": "6, 7, 4",
             "avg": 5.7,
-            "status": "● plotted at 0.47"
+            "status": "● plotted at 1.47"
           },
           {
             "date": "2026-06-24",
             "name": "Hanging knee raise",
             "raw": "6, 6, 3",
             "avg": 5,
-            "status": "● plotted at 0.42"
+            "status": "● plotted at 1.42"
           },
           {
             "date": "2026-06-27",
@@ -9109,7 +9282,7 @@
             "name": "Hanging knee raise",
             "raw": "12, 10, 5",
             "avg": 9,
-            "status": "● plotted at 0.75"
+            "status": "● plotted at 1.75"
           },
           {
             "date": "2026-07-01",
@@ -9123,56 +9296,63 @@
             "name": "Hanging knee raise",
             "raw": "12,  10, 8",
             "avg": 10,
-            "status": "◦ floating dot at 0.83 (cleared-rung work)"
+            "status": "◦ floating dot at 1.83 (cleared-rung work)"
           },
           {
             "date": "2026-07-06",
             "name": "Hanging knee raise",
             "raw": "12, 7, 5",
             "avg": 8,
-            "status": "◦ floating dot at 0.67 (cleared-rung work)"
+            "status": "◦ floating dot at 1.67 (cleared-rung work)"
           },
           {
             "date": "2026-07-08",
             "name": "Hanging knee raise (★slow ecc — 3s down)",
             "raw": "5, 5, 5",
             "avg": 5,
-            "status": "● plotted at 1.5"
+            "status": "● plotted at 2.5"
           },
           {
             "date": "2026-07-11",
             "name": "Hanging knee raise (★slow ecc — 3s down)",
             "raw": "8, 8, 5",
             "avg": 7,
-            "status": "● plotted at 1.7"
+            "status": "● plotted at 2.7"
           },
           {
             "date": "2026-07-13",
             "name": "Hanging knee raise (★slow ecc — 3s down)",
             "raw": "10,  6,  6",
             "avg": 7.3,
-            "status": "● plotted at 1.73"
+            "status": "● plotted at 2.73"
           },
           {
             "date": "2026-07-15",
             "name": "Hanging knee raise (★slow ecc — 3s down)",
             "raw": "7, 6, 6",
             "avg": 6.3,
-            "status": "● plotted at 1.63"
+            "status": "● plotted at 2.63"
           },
           {
             "date": "2026-07-18",
             "name": "Hanging knee raise (★slow ecc — 3s down)",
             "raw": "10, 7, 6",
             "avg": 7.7,
-            "status": "● plotted at 1.77"
+            "status": "● plotted at 2.77"
           },
           {
             "date": "2026-07-20",
             "name": "Hanging knee raise (★slow ecc — 3s down)",
             "raw": "10, 5.5, 6.5",
             "avg": 7.3,
-            "status": "● plotted at 1.73"
+            "status": "● plotted at 2.73"
+          },
+          {
+            "date": "2026-07-22",
+            "name": "Hanging knee raise (★slow ecc — 3s down)",
+            "raw": "10, 10, 8",
+            "avg": 9.3,
+            "status": "● plotted at 2.93"
           }
         ]
       }
@@ -9281,6 +9461,10 @@
           {
             "date": "2026-07-20",
             "detail": "hang: 15, 11 · shrugs: 8, 8"
+          },
+          {
+            "date": "2026-07-22",
+            "detail": "hang: 13, 17 · shrugs: 5, 4"
           }
         ]
       },
@@ -9355,6 +9539,72 @@
           {
             "date": "2026-07-18",
             "detail": "held: 30, 25"
+          }
+        ]
+      },
+      {
+        "name": "Pull-up (★full — then negatives as back-off)",
+        "rows": [
+          {
+            "date": "2026-07-01",
+            "detail": "full reps: 3, 1.5,  l.5 · neg back-off: 3, 3, 2"
+          },
+          {
+            "date": "2026-07-04",
+            "detail": "full reps: 3, 2, .5 · neg back-off: 2, 4, 2.5"
+          },
+          {
+            "date": "2026-07-08",
+            "detail": "full reps: 4,  2 , 1 · neg back-off: 4, 4, 2"
+          },
+          {
+            "date": "2026-07-11",
+            "detail": "full reps: 4, 2, 1 · neg back-off: 4, 4, 3.5"
+          },
+          {
+            "date": "2026-07-15",
+            "detail": "full reps: 3, 2, .75 · neg back-off: 4, 3, 3"
+          },
+          {
+            "date": "2026-07-18",
+            "detail": "full reps: 4, 2, .5 · neg back-off: 6, 5, 3"
+          },
+          {
+            "date": "2026-07-22",
+            "detail": "full reps: 3.5,  2.5, .5 · neg back-off: 5, 5, 3"
+          }
+        ]
+      },
+      {
+        "name": "Hanging knee raise (★slow ecc — 3s down)",
+        "rows": [
+          {
+            "date": "2026-07-08",
+            "detail": "reps: 5, 5, 5"
+          },
+          {
+            "date": "2026-07-11",
+            "detail": "reps: 8, 8, 5"
+          },
+          {
+            "date": "2026-07-13",
+            "detail": "reps: 10,  6,  6"
+          },
+          {
+            "date": "2026-07-15",
+            "detail": "reps: 7, 6, 6"
+          },
+          {
+            "date": "2026-07-18",
+            "detail": "reps: 10, 7, 6"
+          },
+          {
+            "date": "2026-07-20",
+            "detail": "reps: 10, 5.5, 6.5"
+          },
+          {
+            "date": "2026-07-22",
+            "detail": "reps: 10, 10, 8"
           }
         ]
       },
@@ -9471,64 +9721,6 @@
           {
             "date": "2026-07-14",
             "detail": "reps / held: 10, 5, 5"
-          }
-        ]
-      },
-      {
-        "name": "Pull-up (★full — then negatives as back-off)",
-        "rows": [
-          {
-            "date": "2026-07-01",
-            "detail": "full reps: 3, 1.5,  l.5 · neg back-off: 3, 3, 2"
-          },
-          {
-            "date": "2026-07-04",
-            "detail": "full reps: 3, 2, .5 · neg back-off: 2, 4, 2.5"
-          },
-          {
-            "date": "2026-07-08",
-            "detail": "full reps: 4,  2 , 1 · neg back-off: 4, 4, 2"
-          },
-          {
-            "date": "2026-07-11",
-            "detail": "full reps: 4, 2, 1 · neg back-off: 4, 4, 3.5"
-          },
-          {
-            "date": "2026-07-15",
-            "detail": "full reps: 3, 2, .75 · neg back-off: 4, 3, 3"
-          },
-          {
-            "date": "2026-07-18",
-            "detail": "full reps: 4, 2, .5 · neg back-off: 6, 5, 3"
-          }
-        ]
-      },
-      {
-        "name": "Hanging knee raise (★slow ecc — 3s down)",
-        "rows": [
-          {
-            "date": "2026-07-08",
-            "detail": "reps: 5, 5, 5"
-          },
-          {
-            "date": "2026-07-11",
-            "detail": "reps: 8, 8, 5"
-          },
-          {
-            "date": "2026-07-13",
-            "detail": "reps: 10,  6,  6"
-          },
-          {
-            "date": "2026-07-15",
-            "detail": "reps: 7, 6, 6"
-          },
-          {
-            "date": "2026-07-18",
-            "detail": "reps: 10, 7, 6"
-          },
-          {
-            "date": "2026-07-20",
-            "detail": "reps: 10, 5.5, 6.5"
           }
         ]
       },
@@ -9877,6 +10069,32 @@
         ]
       },
       {
+        "name": "Typewriter push-up (★slide side-to-side)",
+        "rows": [
+          {
+            "date": "2026-07-15",
+            "detail": "reps: 2, 3, 2"
+          },
+          {
+            "date": "2026-07-22",
+            "detail": "reps: 3, 2, 3"
+          }
+        ]
+      },
+      {
+        "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
+        "rows": [
+          {
+            "date": "2026-07-15",
+            "detail": "reps: 2, 3"
+          },
+          {
+            "date": "2026-07-22",
+            "detail": "reps: 5, 5"
+          }
+        ]
+      },
+      {
         "name": "Push-up (archer)",
         "rows": [
           {
@@ -9976,24 +10194,6 @@
         ]
       },
       {
-        "name": "Typewriter push-up (★slide side-to-side)",
-        "rows": [
-          {
-            "date": "2026-07-15",
-            "detail": "reps: 2, 3, 2"
-          }
-        ]
-      },
-      {
-        "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
-        "rows": [
-          {
-            "date": "2026-07-15",
-            "detail": "reps: 2, 3"
-          }
-        ]
-      },
-      {
         "name": "Incline Ring Row (~45 degree)",
         "rows": [
           {
@@ -10028,9 +10228,92 @@
             "detail": "reps: 3, 4, 5"
           }
         ]
+      },
+      {
+        "name": "Feet -elevated Pike push-up (accessory)",
+        "rows": [
+          {
+            "date": "2026-07-22",
+            "detail": "reps: 5, 4, 5"
+          }
+        ]
+      },
+      {
+        "name": "V-up / tuck-up (★finisher)",
+        "rows": [
+          {
+            "date": "2026-07-22",
+            "detail": "reps: 6, 4"
+          }
+        ]
       }
     ],
     "dates": [
+      {
+        "date": "2026-07-22",
+        "rows": [
+          {
+            "ladderId": "pull",
+            "ladderName": "Pull",
+            "name": "Pull-up (★full — then negatives as back-off)",
+            "raw": "3.5,  2.5, .5",
+            "avg": 2.2,
+            "target": "3",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "corehang",
+            "ladderName": "Core — HANGING",
+            "name": "Hanging knee raise (★slow ecc — 3s down)",
+            "raw": "10, 10, 8",
+            "avg": 9.3,
+            "target": "10",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "pull",
+            "ladderName": "Pull",
+            "name": "Dead hang ★",
+            "raw": "13, 17",
+            "avg": 15,
+            "target": "45s",
+            "sets": 2,
+            "cleared": false
+          },
+          {
+            "ladderId": "push",
+            "ladderName": "Horizontal Push — STRENGTH",
+            "name": "Typewriter push-up (★slide side-to-side)",
+            "raw": "3, 2, 3",
+            "avg": 2.7,
+            "target": "8/side",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "corefloor",
+            "ladderName": "Core — FLOOR",
+            "name": "V-up / tuck-up (★finisher)",
+            "raw": "6, 4",
+            "avg": 5,
+            "target": "15",
+            "sets": 2,
+            "cleared": false
+          },
+          {
+            "ladderId": "planche",
+            "ladderName": "Horizontal Push — PLANCHE",
+            "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
+            "raw": "5, 5",
+            "avg": 5,
+            "target": "8",
+            "sets": 2,
+            "cleared": false
+          }
+        ]
+      },
       {
         "date": "2026-07-20",
         "rows": [
@@ -11141,21 +11424,33 @@
     }
   ],
   "last_perf": {
+    "pull": {
+      "date": "2026-07-22",
+      "detail": "3.5,  2.5, .5"
+    },
+    "corehang": {
+      "date": "2026-07-22",
+      "detail": "10, 10, 8"
+    },
+    "grip": {
+      "date": "2026-07-22",
+      "detail": "13, 17"
+    },
+    "push": {
+      "date": "2026-07-22",
+      "detail": "3, 2, 3"
+    },
+    "corefloor": {
+      "date": "2026-07-22",
+      "detail": "6, 4"
+    },
+    "planche": {
+      "date": "2026-07-22",
+      "detail": "5, 5"
+    },
     "chinup": {
       "date": "2026-07-20",
       "detail": "4.5, 2.5, 1.5"
-    },
-    "corehang": {
-      "date": "2026-07-20",
-      "detail": "10, 5.5, 6.5"
-    },
-    "pull": {
-      "date": "2026-07-20",
-      "detail": "15, 11"
-    },
-    "grip": {
-      "date": "2026-07-20",
-      "detail": "15, 11"
     },
     "handstand": {
       "date": "2026-07-20",
@@ -11172,18 +11467,6 @@
     "legs": {
       "date": "2026-07-18",
       "detail": "5, 4.5, 4"
-    },
-    "corefloor": {
-      "date": "2026-07-16",
-      "detail": "45, 45"
-    },
-    "push": {
-      "date": "2026-07-15",
-      "detail": "2, 3, 2"
-    },
-    "planche": {
-      "date": "2026-07-15",
-      "detail": "2, 3"
     }
   },
   "health": {
@@ -11651,11 +11934,19 @@
       {
         "date": "2026-07-21",
         "w": 218.2,
-        "kcal": 0,
-        "protein": 0,
-        "dayType": "empty",
-        "provisional": true,
+        "kcal": 1580,
+        "protein": 192,
+        "dayType": "strict",
+        "provisional": false,
         "spike": true
+      },
+      {
+        "date": "2026-07-22",
+        "w": 219.2,
+        "kcal": 1069,
+        "protein": 134,
+        "dayType": "strict",
+        "provisional": true
       }
     ],
     "trend": [
@@ -11934,6 +12225,10 @@
       {
         "date": "2026-07-21",
         "w": 217.94
+      },
+      {
+        "date": "2026-07-22",
+        "w": 218.09
       }
     ],
     "noiseBand": 1.4,
@@ -12135,27 +12430,22 @@
       },
       {
         "date": "2026-07-22",
-        "w": 218.4,
+        "w": 218.6,
         "week": "Jul 19–Jul 25",
-        "n": 3
+        "n": 4
       }
     ],
     "banner": {
       "startDate": "2026-03-22",
       "startW": 235,
-      "lost": 17.1,
+      "lost": 16.9,
       "goal": 180,
-      "pct": 31,
+      "pct": 30.7,
       "nextFloor": 210,
-      "toGo": 7.9,
+      "toGo": 8.1,
       "newLow": false
     },
     "strip": [
-      {
-        "date": "2026-06-22",
-        "state": "good",
-        "kcal": 1573
-      },
       {
         "date": "2026-06-23",
         "state": "good",
@@ -12298,8 +12588,13 @@
       },
       {
         "date": "2026-07-21",
+        "state": "good",
+        "kcal": 1580
+      },
+      {
+        "date": "2026-07-22",
         "state": "partial",
-        "kcal": 0
+        "kcal": 1069
       }
     ],
     "days": [
@@ -12753,10 +13048,18 @@
       },
       {
         "date": "2026-07-21",
-        "kcal": 0,
-        "protein": 0,
-        "dayType": "empty",
-        "logged": "empty",
+        "kcal": 1580,
+        "protein": 192,
+        "dayType": "strict",
+        "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-07-22",
+        "kcal": 1069,
+        "protein": 134,
+        "dayType": "strict",
+        "logged": "full",
         "provisional": true
       }
     ],
