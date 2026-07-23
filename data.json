@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 740,
+    "overall_total": 741,
     "generated_for": "2026-07-23",
-    "built_at": "2026-07-23T22:46:17.246Z",
+    "built_at": "2026-07-23T23:40:55.155Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 343
+      "ft_to_go": 342
     }
   },
   "lanes": [
@@ -57,7 +57,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 29,
+      "current": 30,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -3832,6 +3832,18 @@
       "reasoning": "A measurement-day set logged = tiny (codebook: full tape set taken + logged on/around the monthly measuring day). Full set, all sites, logged to body-measurements.md — the inclusion, not the partial-set/scale-only exclusion. NO per-site drop-small stacks: the ratchet needs ≥1\" below each site's prior benchmark, and the moves are all sub-1\" tape noise — belly 43.3→43.0 (−0.3\"), hips 44.0→43.75 (−0.25\"), waist 37.5→38.0 (UP +0.5\"). Per the lowest-ever ratchet the belly and hips benchmarks RESET DOWN to their new lows (43.0 / 43.75) so a future 1\"-drop tick can't farm a partially-already-achieved move; the waist benchmark is NOT raised (never raise a ratchet) — it holds at the lowest-ever 37.5. The measurement tiny prices the ACT; the drops price the progress, and there is no qualifying drop this month. Dedup: no prior 7/23 measurement row",
       "evidence": "body-measurements.md LOG row 2026-07-23",
       "booked": "2026-07-23"
+    },
+    {
+      "date": "2026-07-23",
+      "lane": "method",
+      "activity": "Osiris working session — directed the substrate pilot-fix campaign through Odin (PILOT-FIX-3 model pins · PILOT-FIX-4 the O-4 download step · PILOT-FIX-5 the watcher repin — launched, re-cut and cleared in the loop) AND personally executed the YouTube OAuth credential-vault transfer (the one step the permission classifier reserved for him; refresh flow live-proven after). Campaign outcome: all 7 boot-blocking defects closed; the studio's first two end-to-end video renders produced; first same-mind AI self-review recorded; the gate blocked the \"What I Am\" script twice (study data)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 30,
+      "cum_overall": 741,
+      "reasoning": "ONE session tiny for the continuous evening campaign — build direction + the owner-executed credential act FOLD into one sitting on one project, the same blended-evening ground as 7/14 and 7/22; where a split is arguable I take the lower call. Tool-vs-job boundary: the coding was agent work and books nothing — the launches, re-cuts, authorizations and the credential act are his, which is the inclusion side. Substance floor comfortably met (three goal launches + in-run calls + the credential act). Day-keyed; dedup grepped — no prior 7/23 📕 row",
+      "evidence": "Codebase/Osiris Substrate/_build/pilot-fix-{3,4,5}-report.md + verify reports; Odin journal S71",
+      "booked": "2026-07-23"
     }
   ],
   "series": {
@@ -4840,6 +4852,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Osiris working session (the whole evening's sitting) — (a) BUILD DIRECTION in the loop: enacted his own four-wave G11 bullet plan on the Osiris Lens, launched each phase, cleared/re-cut goals when they stalled, switched models twice; all 4 waves completed + independently countersigned, Lens smoke 41→48; (b) declared the Lens iteration freeze (\"no more revisions without real data\"), ordered the pilot boot sequence started, diagnosed the PILOT-BOOT stop-hook loop himself and issued a standing goal-design rule (a /goal may contain ONLY work the agent can do 100% alone), under which PILOT-FIX then ran end-to-end; (c) OWNER OPS: the YouTube API compliance second-notice reply — caught two substantive errors in the draft before send (it claimed the 12-month study is private/non-distributed, which is false by design; and justified a quota increase never filed), questioned the made-for-kids declaration and thereby exposed a real COPPA blanket-declaration design gap (captured to roadmap #30), then sent the final v3 in-thread from the pilot account with 3 attachments inside the 7-business-day deadline"
+      },
+      {
+        "date": "2026-07-23",
+        "cum": 30,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris working session — directed the substrate pilot-fix campaign through Odin (PILOT-FIX-3 model pins · PILOT-FIX-4 the O-4 download step · PILOT-FIX-5 the watcher repin — launched, re-cut and cleared in the loop) AND personally executed the YouTube OAuth credential-vault transfer (the one step the permission classifier reserved for him; refresh flow live-proven after). Campaign outcome: all 7 boot-blocking defects closed; the studio's first two end-to-end video renders produced; first same-mind AI self-review recorded; the gate blocked the \"What I Am\" script twice (study data)"
       }
     ],
     "literature": [
@@ -12065,8 +12084,8 @@
       {
         "date": "2026-07-23",
         "w": 217.8,
-        "kcal": 652,
-        "protein": 61,
+        "kcal": 1539,
+        "protein": 159,
         "dayType": "strict",
         "provisional": true
       }
@@ -12720,7 +12739,7 @@
       {
         "date": "2026-07-23",
         "state": "partial",
-        "kcal": 652
+        "kcal": 1539
       }
     ],
     "days": [
@@ -13190,8 +13209,8 @@
       },
       {
         "date": "2026-07-23",
-        "kcal": 652,
-        "protein": 61,
+        "kcal": 1539,
+        "protein": 159,
         "dayType": "strict",
         "logged": "full",
         "provisional": true
