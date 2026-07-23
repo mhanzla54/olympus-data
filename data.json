@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 736,
-    "generated_for": "2026-07-22",
-    "built_at": "2026-07-23T02:20:59.266Z",
+    "overall_total": 740,
+    "generated_for": "2026-07-23",
+    "built_at": "2026-07-23T22:46:17.246Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 347
+      "ft_to_go": 343
     }
   },
   "lanes": [
@@ -37,7 +37,7 @@
       "t0_note": "couldn't write a single line of Python — ran his first print() the day before t0",
       "endpoint": "Replicate AND extend a frontier alignment result — public, runnable code",
       "endpoint_tier": "verylarge",
-      "current": 96,
+      "current": 97,
       "working_on": "Automate the Boring Stuff textbook"
     },
     {
@@ -47,7 +47,7 @@
       "t0_note": "didn't hold the transformer internals — attention, embeddings, the residual stream were only 'encountered'",
       "endpoint": "A from-memory \"mini-textbook\" of the whole ML/alignment stack (FF is the floor; endpoint stays provisional)",
       "endpoint_tier": "verylarge",
-      "current": 106,
+      "current": 107,
       "working_on": "Field Foundations"
     },
     {
@@ -87,7 +87,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 317,
+      "current": 319,
       "working_on": "the next new-pound low (≤ 214.8 lb)"
     }
   ],
@@ -3784,6 +3784,54 @@
       "reasoning": "ONE `Osiris working session` tiny for the whole evening, not three and not two. The extension dedups per (date, session-type), and I first read the compliance reply as a distinct **owner ops** type sitting alongside **build direction** — two tinies. My own audit gate stopped me, and it was right to: the ledger has never carried two Osiris session rows on one date, and on a closer look this was one continuous sitting (Odin journal S68-70 spans the lot) in which he steered the same project through build, freeze, and correspondence without a break. Where a split is arguable I take the lower call — that is the strictness rule, and it is the same call I made on the coding drill round earlier today. The substance floor is cleared many times over; the tool-vs-job boundary is the INCLUSION side throughout, and the capture states it plainly — the coding was agent work and books him nothing, while the launches, re-cuts, model switches, the freeze call, the goal-design rule, and two substantive factual corrections that would otherwise have gone to a platform reviewer are all his. The COPPA gap he surfaced by questioning a declaration is new design work, not review. Dedup grepped — no prior 📕 row on 7/22",
       "evidence": "Osiris Lens/_build/lens2-g11-wave{1..4}-report.md; Codebase/Osiris Substrate/_build/pilot-fix-report.md; Owner Inbox/youtube-api-compliance-reply-2026-07-22.md; osiris-study pending-flesh-out #30; Odin journal S68-70",
       "booked": "2026-07-22"
+    },
+    {
+      "date": "2026-07-22",
+      "lane": "body",
+      "activity": "Calorie-day 1,514 kcal on the strict plan (target 1,500, band 1,200–1,800; logged full, warehouse FINAL)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 318,
+      "cum_overall": 737,
+      "reasoning": "Calorie-day tiny — the cure of the hold I opened twice on 7/22. At both 7/22 closes this half read `provisional: true` and I refused it: calories are NOT monotonic against a band, so a provisional figure can still climb toward and past the 1,800 edge, which §0.5 forbids me to price. The 7/23 morning true-up pull flipped the row `provisional: false` — FINAL at 1,514, sitting mid-band, 14 under the 1,500 aim. The condition I held for is now met by a FINAL upstream row, not by inference; I did not backfill from the data file myself — an upstream capturer placed the true-up row. Dedup grepped FIRST (late capture = highest-risk path): 7/22 carries Strength, ML/AI, Coding, Protein and Osiris rows but NO calorie row — a real gap, the exact half I held. The 176g protein in the true-up line was ALREADY booked (row 359) and is NOT re-booked. Late booking → booked-date tag",
+      "evidence": "health-data.json (2026-07-22 row, kcal 1514, logged full, provisional false, pull 2026-07-23T10:11)",
+      "booked": "2026-07-23"
+    },
+    {
+      "date": "2026-07-23",
+      "lane": "mlai",
+      "activity": "FF Cluster 2 (M8 Scaling Laws + M9 The Emergence Debate) re-study plus a 6-question closed-book cold open-recall session — power law + Chinchilla + Schaeffer-mirage + skill⁴ mechanism cold; two gaps taught in place",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 107,
+      "cum_overall": 738,
+      "reasoning": "A consolidation / review session = tiny, NO CAP (constitution §5) — genuine active recall is encouraged, never rationed. This closes the Cluster-2 re-study (M6+M7 booked 7/22 as their own consolidation tiny; M8+M9 are the final two modules, a distinct session on a distinct day). Priced identically to the 7/20 Cluster-1 and 7/22 Cluster-2(M6+M7) re-studies: read the modules, notes away, cold open-recall graded live. Squarely the inclusion — not a passive reread; he self-corrected \"approaches zero\" to the irreducible-entropy floor unaided and ran ahead to the M8→M9 bridge and the honest-middle position on his own, which is the recall the tick is for. NOT a module re-tick: M8, M9 are earned-once and M1–M21 stay gate-only under the forward-only 2026-07-13 rule, so re-reading re-ticks nothing — the consolidation entry is the only thing paying. There is no per-cluster gate in the re-study phase; the whole-FF Final is the only scored gate still ahead. Day-keyed; dedup clean, no prior 7/23 ML row",
+      "evidence": "learning-state.md §3 \"FF Cluster 2 re-study, S61\"; retrieval-ledger rows 2026-07-23",
+      "booked": "2026-07-23"
+    },
+    {
+      "date": "2026-07-23",
+      "lane": "coding",
+      "activity": "ATBS ch.7 mini-drill blocks 14–16 worked (the deferred remainder of the 24-drill set; 9–13 were 7/22) — greedy/lazy regex, the prescription zoo, strings→float→average→aligned report; two write-himself/build-to-goal drills",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 97,
+      "cum_overall": 739,
+      "reasoning": "A micro-drill round = tiny (constitution §6). His authorship throughout: drill 15.5 written himself from an English design-recipe carrying NO code (ran correct first try, then improved it into a for-loop); drill 16.4 a build-to-goal where he hit a real tuple-unpacking gap, was taught it, fixed it, and produced correct HIT/MISSED verdicts. `ast.parse` clean; Athena never executed the drills (his to predict). Day-keyed one per (date, kind): the 7/22 blocks 9–13 were a separate round on a separate day, so this is its own tiny, not a re-book. This completes the 24-drill set, but completing a drill set is not a program-completion event — it is a drill round, which is exactly what the tiny prices. Dedup clean, no prior 7/23 Coding row",
+      "evidence": "Ch7_miniDrills.py blocks 14–16; ast.parse clean; Athena capture S61",
+      "booked": "2026-07-23"
+    },
+    {
+      "date": "2026-07-23",
+      "lane": "body",
+      "activity": "Monthly body-measurement set logged (measuring day = the 23rd) — neck 16.25 · shoulders 52.0 · chest 44.0 · waist 38.0 · belly 43.0 · hips 43.75 · arm 17.0 · bw 217.8",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 319,
+      "cum_overall": 740,
+      "reasoning": "A measurement-day set logged = tiny (codebook: full tape set taken + logged on/around the monthly measuring day). Full set, all sites, logged to body-measurements.md — the inclusion, not the partial-set/scale-only exclusion. NO per-site drop-small stacks: the ratchet needs ≥1\" below each site's prior benchmark, and the moves are all sub-1\" tape noise — belly 43.3→43.0 (−0.3\"), hips 44.0→43.75 (−0.25\"), waist 37.5→38.0 (UP +0.5\"). Per the lowest-ever ratchet the belly and hips benchmarks RESET DOWN to their new lows (43.0 / 43.75) so a future 1\"-drop tick can't farm a partially-already-achieved move; the waist benchmark is NOT raised (never raise a ratchet) — it holds at the lowest-ever 37.5. The measurement tiny prices the ACT; the drops price the progress, and there is no qualifying drop this month. Dedup: no prior 7/23 measurement row",
+      "evidence": "body-measurements.md LOG row 2026-07-23",
+      "booked": "2026-07-23"
     }
   ],
   "series": {
@@ -4144,6 +4192,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Micro-drill round — ATBS ch.7 regex post-mortem set, blocks 9–13 of 24 worked (drill 9 6/6 incl. the fix-the-bug, drill 10 rewritten to all-correct with his own written reasoning + an unprompted extension question, drill 11 3/3, drill 12 correct, drill 13 5/6); at 12.3 he REBUILT `format_dates()` himself from an English design recipe with no code and it ran correct first attempt on both inputs"
+      },
+      {
+        "date": "2026-07-23",
+        "cum": 97,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "ATBS ch.7 mini-drill blocks 14–16 worked (the deferred remainder of the 24-drill set; 9–13 were 7/22) — greedy/lazy regex, the prescription zoo, strings→float→average→aligned report; two write-himself/build-to-goal drills"
       }
     ],
     "mlai": [
@@ -4573,6 +4628,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "FF Cluster 2 (M6 Training Setup + M7 The Training Loop) re-study plus a 6-question closed-book cold open-recall discussion — 4 correct (2 at mastery), 1 correct-with-gap, 1 miss (weight sharing)"
+      },
+      {
+        "date": "2026-07-23",
+        "cum": 107,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "FF Cluster 2 (M8 Scaling Laws + M9 The Emergence Debate) re-study plus a 6-question closed-book cold open-recall session — power law + Chinchilla + Schaeffer-mirage + skill⁴ mechanism cold; two gaps taught in place"
       }
     ],
     "method": [
@@ -5862,6 +5924,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Protein-day 176g (the 160g floor crossed by 16g; logged full)"
+      },
+      {
+        "date": "2026-07-22",
+        "cum": 318,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Calorie-day 1,514 kcal on the strict plan (target 1,500, band 1,200–1,800; logged full, warehouse FINAL)"
+      },
+      {
+        "date": "2026-07-23",
+        "cum": 319,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Monthly body-measurement set logged (measuring day = the 23rd) — neck 16.25 · shoulders 52.0 · chest 44.0 · waist 38.0 · belly 43.0 · hips 43.75 · arm 17.0 · bw 217.8"
       }
     ]
   },
@@ -11984,6 +12060,14 @@
         "kcal": 1514,
         "protein": 176,
         "dayType": "strict",
+        "provisional": false
+      },
+      {
+        "date": "2026-07-23",
+        "w": 217.8,
+        "kcal": 652,
+        "protein": 61,
+        "dayType": "strict",
         "provisional": true
       }
     ],
@@ -12267,6 +12351,10 @@
       {
         "date": "2026-07-22",
         "w": 218.09
+      },
+      {
+        "date": "2026-07-23",
+        "w": 218.17
       }
     ],
     "noiseBand": 1.4,
@@ -12468,27 +12556,22 @@
       },
       {
         "date": "2026-07-22",
-        "w": 218.6,
+        "w": 218.4,
         "week": "Jul 19–Jul 25",
-        "n": 4
+        "n": 5
       }
     ],
     "banner": {
       "startDate": "2026-03-22",
       "startW": 235,
-      "lost": 16.9,
+      "lost": 16.8,
       "goal": 180,
-      "pct": 30.7,
+      "pct": 30.6,
       "nextFloor": 210,
-      "toGo": 8.1,
+      "toGo": 8.2,
       "newLow": false
     },
     "strip": [
-      {
-        "date": "2026-06-23",
-        "state": "good",
-        "kcal": 1561
-      },
       {
         "date": "2026-06-24",
         "state": "good",
@@ -12631,8 +12714,13 @@
       },
       {
         "date": "2026-07-22",
-        "state": "partial",
+        "state": "good",
         "kcal": 1514
+      },
+      {
+        "date": "2026-07-23",
+        "state": "partial",
+        "kcal": 652
       }
     ],
     "days": [
@@ -13096,6 +13184,14 @@
         "date": "2026-07-22",
         "kcal": 1514,
         "protein": 176,
+        "dayType": "strict",
+        "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-07-23",
+        "kcal": 652,
+        "protein": 61,
         "dayType": "strict",
         "logged": "full",
         "provisional": true
