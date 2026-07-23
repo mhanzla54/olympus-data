@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 734,
+    "overall_total": 736,
     "generated_for": "2026-07-22",
-    "built_at": "2026-07-22T22:50:26.667Z",
+    "built_at": "2026-07-23T02:20:59.266Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 349
+      "ft_to_go": 347
     }
   },
   "lanes": [
@@ -57,7 +57,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 28,
+      "current": 29,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -87,7 +87,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 316,
+      "current": 317,
       "working_on": "the next new-pound low (≤ 214.8 lb)"
     }
   ],
@@ -3760,6 +3760,30 @@
       "reasoning": "A micro-drill round = tiny (five construct-named blocks worked through, far past the single-trivial-drill exclusion). ONE tiny, not two: the `format_dates()` rebuild happened at drill 12.3, inside this same round, same file, same purpose — Amendment C splits two same-session coding acts only when each is a SUBSTANTIAL, DISTINCT act with its own file and purpose, and this is a drill within the set. Default to the lower call when the split is arguable. **The authorship note matters beyond the feet, and I record it here deliberately:** this is the same function whose Athena-authored body I ruled on 2026-07-20 — the session tiny survived, but the compromise stayed LIVE against the future completed-program tick for `ch7_workout_log_parser.py`. He has now written that function himself, unaided, from a purpose/input/examples/steps recipe containing no code, and it ran correct on the first attempt. The knowledge is demonstrably his. The flag lifts on the parser the moment HIS version is what stands in that artifact — the ruling was always about whose code sits in the deliverable, not about whether he could write it. Dedup: no prior 7/22 Coding row; the 7/20 row is a program-building work session on a different artifact, a different kind",
       "evidence": "Ch7_miniDrills.py blocks 9–13, d12_test 3; `ast.parse` clean; Athena journal S60",
       "booked": "2026-07-22"
+    },
+    {
+      "date": "2026-07-22",
+      "lane": "body",
+      "activity": "Protein-day 176g (the 160g floor crossed by 16g; logged full)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 317,
+      "cum_overall": 735,
+      "reasoning": "Protein-day tiny, fully INDEPENDENT of the calorie tick per the codebook — the two halves of a diet day are never fused. Floor = goal minus 20 = 160 (warehouse proteinFloor 160, proteinTarget 180); 176g clears the floor by 16 and lands 4 under the coaching aim, which the codebook prices as a TICK regardless (the tick threshold is deliberately more lenient than the coaching aim). This is exactly the row I HELD at the earlier close today, when the day-so-far read 134g and the floor was uncrossed — and I said then that protein is monotonic, so tonight might yet deliver it and an upstream capturer would have to place a new row. Both happened. **The `provisional: true` flag does NOT block this half:** protein accumulates monotonically within a day, so a crossed floor can never un-cross — more eating can only raise it. Dedup grepped: 7/22 carries Strength, ML/AI and Coding rows and NO Body row of any kind; a real gap, not a re-book. Same-day booking, no tag",
+      "evidence": "health-data.json (2026-07-22 row, protein 176, logged full); Athena capture 22:13 pull",
+      "booked": "2026-07-22"
+    },
+    {
+      "date": "2026-07-22",
+      "lane": "method",
+      "activity": "Osiris working session (the whole evening's sitting) — (a) BUILD DIRECTION in the loop: enacted his own four-wave G11 bullet plan on the Osiris Lens, launched each phase, cleared/re-cut goals when they stalled, switched models twice; all 4 waves completed + independently countersigned, Lens smoke 41→48; (b) declared the Lens iteration freeze (\"no more revisions without real data\"), ordered the pilot boot sequence started, diagnosed the PILOT-BOOT stop-hook loop himself and issued a standing goal-design rule (a /goal may contain ONLY work the agent can do 100% alone), under which PILOT-FIX then ran end-to-end; (c) OWNER OPS: the YouTube API compliance second-notice reply — caught two substantive errors in the draft before send (it claimed the 12-month study is private/non-distributed, which is false by design; and justified a quota increase never filed), questioned the made-for-kids declaration and thereby exposed a real COPPA blanket-declaration design gap (captured to roadmap #30), then sent the final v3 in-thread from the pilot account with 3 attachments inside the 7-business-day deadline",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 29,
+      "cum_overall": 736,
+      "reasoning": "ONE `Osiris working session` tiny for the whole evening, not three and not two. The extension dedups per (date, session-type), and I first read the compliance reply as a distinct **owner ops** type sitting alongside **build direction** — two tinies. My own audit gate stopped me, and it was right to: the ledger has never carried two Osiris session rows on one date, and on a closer look this was one continuous sitting (Odin journal S68-70 spans the lot) in which he steered the same project through build, freeze, and correspondence without a break. Where a split is arguable I take the lower call — that is the strictness rule, and it is the same call I made on the coding drill round earlier today. The substance floor is cleared many times over; the tool-vs-job boundary is the INCLUSION side throughout, and the capture states it plainly — the coding was agent work and books him nothing, while the launches, re-cuts, model switches, the freeze call, the goal-design rule, and two substantive factual corrections that would otherwise have gone to a platform reviewer are all his. The COPPA gap he surfaced by questioning a declaration is new design work, not review. Dedup grepped — no prior 📕 row on 7/22",
+      "evidence": "Osiris Lens/_build/lens2-g11-wave{1..4}-report.md; Codebase/Osiris Substrate/_build/pilot-fix-report.md; Owner Inbox/youtube-api-compliance-reply-2026-07-22.md; osiris-study pending-flesh-out #30; Odin journal S68-70",
+      "booked": "2026-07-22"
     }
   ],
   "series": {
@@ -4747,6 +4771,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Osiris working session — SECOND owner review of the refreshed Lens: 10 further recorded findings across seven pages, his own fix design (\"every chart a button — click to expand, hover to grow\"), a NEW feature design (restartable tutorial mode, self-connected to the funder-evidence package), a substrate design question (top-5 retrieval cap / embedding-blur with long chunks, correctly articulated), identity-versioning reading verified, and the next work phase directed (Olympus-dashboard deep-study merged with both sittings; art deferred)"
+      },
+      {
+        "date": "2026-07-22",
+        "cum": 29,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris working session (the whole evening's sitting) — (a) BUILD DIRECTION in the loop: enacted his own four-wave G11 bullet plan on the Osiris Lens, launched each phase, cleared/re-cut goals when they stalled, switched models twice; all 4 waves completed + independently countersigned, Lens smoke 41→48; (b) declared the Lens iteration freeze (\"no more revisions without real data\"), ordered the pilot boot sequence started, diagnosed the PILOT-BOOT stop-hook loop himself and issued a standing goal-design rule (a /goal may contain ONLY work the agent can do 100% alone), under which PILOT-FIX then ran end-to-end; (c) OWNER OPS: the YouTube API compliance second-notice reply — caught two substantive errors in the draft before send (it claimed the 12-month study is private/non-distributed, which is false by design; and justified a quota increase never filed), questioned the made-for-kids declaration and thereby exposed a real COPPA blanket-declaration design gap (captured to roadmap #30), then sent the final v3 in-thread from the pilot account with 3 attachments inside the 7-business-day deadline"
       }
     ],
     "literature": [
@@ -5824,6 +5855,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Protein-day 192g (the 160g floor cleared by 32g; logged full, warehouse FINAL)"
+      },
+      {
+        "date": "2026-07-22",
+        "cum": 317,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Protein-day 176g (the 160g floor crossed by 16g; logged full)"
       }
     ]
   },
@@ -11943,8 +11981,8 @@
       {
         "date": "2026-07-22",
         "w": 219.2,
-        "kcal": 1069,
-        "protein": 134,
+        "kcal": 1514,
+        "protein": 176,
         "dayType": "strict",
         "provisional": true
       }
@@ -12594,7 +12632,7 @@
       {
         "date": "2026-07-22",
         "state": "partial",
-        "kcal": 1069
+        "kcal": 1514
       }
     ],
     "days": [
@@ -13056,8 +13094,8 @@
       },
       {
         "date": "2026-07-22",
-        "kcal": 1069,
-        "protein": 134,
+        "kcal": 1514,
+        "protein": 176,
         "dayType": "strict",
         "logged": "full",
         "provisional": true
@@ -13069,7 +13107,7 @@
       "proteinFloor": 160,
       "proteinTarget": 180,
       "cheatCadenceDays": 9,
-      "nextPlannedCheat": "2026-07-28",
+      "nextPlannedCheat": "2026-07-29",
       "blowoutCapKcal": 3300
     }
   },
