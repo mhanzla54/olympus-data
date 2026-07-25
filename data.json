@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 741,
-    "generated_for": "2026-07-23",
-    "built_at": "2026-07-23T23:40:55.155Z",
+    "overall_total": 743,
+    "generated_for": "2026-07-24",
+    "built_at": "2026-07-25T00:26:27.130Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 342
+      "ft_to_go": 340
     }
   },
   "lanes": [
@@ -87,7 +87,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 319,
+      "current": 321,
       "working_on": "the next new-pound low (≤ 214.8 lb)"
     }
   ],
@@ -3844,6 +3844,30 @@
       "reasoning": "ONE session tiny for the continuous evening campaign — build direction + the owner-executed credential act FOLD into one sitting on one project, the same blended-evening ground as 7/14 and 7/22; where a split is arguable I take the lower call. Tool-vs-job boundary: the coding was agent work and books nothing — the launches, re-cuts, authorizations and the credential act are his, which is the inclusion side. Substance floor comfortably met (three goal launches + in-run calls + the credential act). Day-keyed; dedup grepped — no prior 7/23 📕 row",
       "evidence": "Codebase/Osiris Substrate/_build/pilot-fix-{3,4,5}-report.md + verify reports; Odin journal S71",
       "booked": "2026-07-23"
+    },
+    {
+      "date": "2026-07-23",
+      "lane": "body",
+      "activity": "Calorie-day 1,702 kcal on the strict plan (target ~1,500, band 1,200–1,800; logged full, warehouse FINAL)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 320,
+      "cum_overall": 742,
+      "reasoning": "Calorie-day tiny — the cure of the 7/23 hold I opened + re-affirmed at the S61 closes. At the 19:34 pull that day the row read 1,539 kcal `provisional: true`; a band is not monotonic, so §0.5 forbade me pricing a still-moving number. The 2026-07-24 20:13 warehouse pull flipped the 7/23 row `provisional: false` — FINAL at 1,702, sitting inside the 1,200–1,800 strict band. The condition I held for is met by a FINAL upstream row, not by inference — an upstream capturer placed the true-up row; I did not backfill from the data file. Dedup grepped FIRST (late capture = highest-risk path): 7/23 carries ML/AI, Coding, a measurement set and an Osiris row but NO calorie row — a real gap, the exact half I held. Late booking → booked-date tag",
+      "evidence": "health-data.json (2026-07-23 row, kcal 1702, logged full, provisional false, pull 2026-07-24T20:13)",
+      "booked": "2026-07-24"
+    },
+    {
+      "date": "2026-07-23",
+      "lane": "body",
+      "activity": "Protein-day 187g on the strict plan (floor 160; logged full, warehouse FINAL)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 321,
+      "cum_overall": 743,
+      "reasoning": "Protein-day tiny — the second half of the 7/23 cure. At the 19:34 pull protein read 159g, ONE gram short of the 160 floor, and I refused it: I book off the data as it stands, not off a guess about eating after the pull. The FINAL row reads 187g — over the floor by 27. Protein is monotonic against a floor, so a later cross is exactly the lawful cure, and the FINAL upstream row supplies it. Dedup grepped: no prior 7/23 protein row (the half was HELD, never booked). Independent of the calorie tick per the codebook. Late booking → booked-date tag",
+      "evidence": "health-data.json (2026-07-23 row, protein 187g, logged full, provisional false, pull 2026-07-24T20:13)",
+      "booked": "2026-07-24"
     }
   ],
   "series": {
@@ -5957,6 +5981,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Monthly body-measurement set logged (measuring day = the 23rd) — neck 16.25 · shoulders 52.0 · chest 44.0 · waist 38.0 · belly 43.0 · hips 43.75 · arm 17.0 · bw 217.8"
+      },
+      {
+        "date": "2026-07-23",
+        "cum": 320,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Calorie-day 1,702 kcal on the strict plan (target ~1,500, band 1,200–1,800; logged full, warehouse FINAL)"
+      },
+      {
+        "date": "2026-07-23",
+        "cum": 321,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Protein-day 187g on the strict plan (floor 160; logged full, warehouse FINAL)"
       }
     ]
   },
@@ -12084,10 +12122,10 @@
       {
         "date": "2026-07-23",
         "w": 217.8,
-        "kcal": 1539,
-        "protein": 159,
+        "kcal": 1702,
+        "protein": 187,
         "dayType": "strict",
-        "provisional": true
+        "provisional": false
       }
     ],
     "trend": [
@@ -12592,11 +12630,6 @@
     },
     "strip": [
       {
-        "date": "2026-06-24",
-        "state": "good",
-        "kcal": 1408
-      },
-      {
         "date": "2026-06-25",
         "state": "good",
         "kcal": 1579
@@ -12738,8 +12771,13 @@
       },
       {
         "date": "2026-07-23",
+        "state": "good",
+        "kcal": 1702
+      },
+      {
+        "date": "2026-07-24",
         "state": "partial",
-        "kcal": 1539
+        "kcal": 1150
       }
     ],
     "days": [
@@ -13209,8 +13247,16 @@
       },
       {
         "date": "2026-07-23",
-        "kcal": 1539,
-        "protein": 159,
+        "kcal": 1702,
+        "protein": 187,
+        "dayType": "strict",
+        "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-07-24",
+        "kcal": 1150,
+        "protein": 91,
         "dayType": "strict",
         "logged": "full",
         "provisional": true
