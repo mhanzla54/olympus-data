@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 762,
-    "generated_for": "2026-07-25",
-    "built_at": "2026-07-26T03:05:47.784Z",
+    "overall_total": 763,
+    "generated_for": "2026-07-26",
+    "built_at": "2026-07-26T22:49:58.887Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 321
+      "ft_to_go": 320
     }
   },
   "lanes": [
@@ -87,7 +87,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 323,
+      "current": 324,
       "working_on": "the next new-pound low (≤ 214.8 lb)"
     }
   ],
@@ -3988,6 +3988,18 @@
       "reasoning": "A THIRD 📕 tiny, same lawful basis as the second: artifact review/walkthrough is its own named session-type, and the extension's own exemplar for it is — word for word — \"a seed-bible line-edit.\" The two capture rows fold into ONE tick because they are the same type on the same date. Substance: on the Bible he caught a genuine self-contradiction rather than a preference — \"You are this channel\" against \"You are not a content channel\" three sentences earlier in the same paragraph — and his reasoning is the locked terminology working (the agent RUNS the channel and expresses itself through it; it is not the channel). Odin verified the contradiction before editing, and the installed pilot copy was flagged for re-seeding before boot, which is the review doing its actual job. On the cleanup he set the discipline himself — \"minimal changes, just make the terminology accurate, don't change the substance of those locks\" — which drew the line between the definitional/operational-verbatim blocks that get quoted forward into the protocol document (edited) and the discussion narratives, rejected-option records and source pointers (left alone, 13 mentions verified as genuine history). Directing a bounded, correctly-scoped pass over the study's primary decision record is owner shaping under the tool-vs-job boundary. NOT an artifact tick: no roadmap artifact was completed here — these are review acts, and the session tiny is their whole price",
       "evidence": "config/seed-bible.md; master-decision-log.md; osiris-study/pending-flesh-out.md S73; Odin journal S73",
       "booked": "2026-07-25"
+    },
+    {
+      "date": "2026-07-25",
+      "lane": "body",
+      "activity": "Calorie-day ON PLAN — reverse-ramp day 1 at 1,753 kcal against the PRE-REGISTERED ~1,750 target (band 1,450–2,050), logged full and final",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 324,
+      "cum_overall": 763,
+      "reasoning": "RE-DERIVED under C3 AMENDMENT G-1 (owner challenge 2026-07-26, CONCEDED). I refused this half twice on 7/25 against a day-1 target of ~2,350, band 2,050–2,650, calling it 214 under the floor. The target was wrong and the defect was mine. THE PROVENANCE, verified live: refeed-experiment.md line 207 — 'Reverse to TRUE maintenance: step calories UP (~+100/day: 1600 -> 1700 -> 1800 -> ... -> 2000+)' — first committed c8007c6, Athena S42, 2026-07-06, as part of the PRE-REGISTERED diet-break plan. That is nineteen days before the eating. The 2,350 was written 2026-07-23, anchored to a TDEE estimate (2,116–2,371) since fallen to 1,923 last-14 / 1,884 last-30 — roughly +420 over maintenance, sold as maintenance. So the 2,350 was never a correction the owner adopted; it was the DEVIATION FROM the pre-registration, and his 7/26 statement RESTORED the plan rather than replacing it. MY OWN TEST WAS ALREADY MET: the 7/24 cheat-day ruling requires that 'a green-lit plan demonstrably pre-existed the eating' — it did, dated, committed, on the record. On 7/25 I fact-checked the day's NUMBERS against the warehouse and never once checked where the TARGET came from; the lane-source map now carries that as a standing instruction. THE RE-DERIVATION: corrected day-1 target ~1,750, band ±300 = 1,450–2,050; the warehouse FINAL reads 1,753 kcal, provisional false — three calories off dead-on, mid-band by any reading. Books. ALL FOUR G-1 BOUNDS CLEAR: provenance (the 2,350 is on the record in Athena's voice, never an owner decision) · reach (the correction moved every day through 8/15, not this one day) · independent grounds (the TDEE revision stands without reference to any scoring question, and Athena raised the challenge, not the owner) · formula-not-outcome (the +100/day rate from a ~1,600–1,650 baseline was fixed 7/06, so the day falls in the band as a consequence, never as a construction). DEDUP GREPPED FIRST: 7/25 carried exactly one ⚖️ row — the protein tiny (row 380) — and no calorie row, because both halves were HELD and only protein cured. This is a C3 re-derivation of an ALREADY-PLACED row, not a backfill from evidence: §0.5 is intact. Nothing else re-opens — no other day, no sweep, and no day whose miss was against a target the owner himself set",
+      "evidence": "health-data.json 2026-07-25 FINAL (1,753 kcal / 179g, provisional false, dayType reverse-ramp); refeed-experiment.md line 207 (pre-registered +100/day, commit c8007c6 2026-07-06) + THE RAMP block (OWNER'S PROGRAM, locked 2026-07-26) + line 244 (superseded 2,350 reasoning recorded); protocol.reverseRamp startKcal 1750 / stepPerDay 100",
+      "booked": "2026-07-26"
     }
   ],
   "series": {
@@ -6185,6 +6197,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Protein-day 188g on the reverse-ramp branch (floor 160 = goal 180 − 20; logged full, owner's FINAL close of the day)"
+      },
+      {
+        "date": "2026-07-25",
+        "cum": 324,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Calorie-day ON PLAN — reverse-ramp day 1 at 1,753 kcal against the PRE-REGISTERED ~1,750 target (band 1,450–2,050), logged full and final"
       }
     ]
   },
@@ -12200,7 +12219,8 @@
         "kcal": 1445,
         "protein": 174,
         "dayType": "strict",
-        "provisional": false
+        "provisional": false,
+        "spike": true
       },
       {
         "date": "2026-06-22",
@@ -12453,6 +12473,23 @@
         "protein": 187,
         "dayType": "strict",
         "provisional": false
+      },
+      {
+        "date": "2026-07-25",
+        "w": 220.2,
+        "kcal": 1753,
+        "protein": 179,
+        "dayType": "reverse-ramp",
+        "provisional": false,
+        "spike": true
+      },
+      {
+        "date": "2026-07-26",
+        "w": 218.2,
+        "kcal": 983,
+        "protein": 102,
+        "dayType": "reverse-ramp",
+        "provisional": true
       }
     ],
     "trend": [
@@ -12739,9 +12776,17 @@
       {
         "date": "2026-07-23",
         "w": 218.17
+      },
+      {
+        "date": "2026-07-25",
+        "w": 218.73
+      },
+      {
+        "date": "2026-07-26",
+        "w": 219.13
       }
     ],
-    "noiseBand": 1.4,
+    "noiseBand": 1.43,
     "floors": [
       {
         "y": 230,
@@ -12852,6 +12897,11 @@
         "date": "2026-07-19",
         "w": 215.8,
         "week": "Jul 19–Jul 25"
+      },
+      {
+        "date": "2026-07-26",
+        "w": 218.2,
+        "week": "Jul 26–Aug 1"
       }
     ],
     "weeklyAvgs": [
@@ -12941,27 +12991,28 @@
       },
       {
         "date": "2026-07-22",
-        "w": 218.4,
+        "w": 218.7,
         "week": "Jul 19–Jul 25",
-        "n": 5
+        "n": 6
+      },
+      {
+        "date": "2026-07-29",
+        "w": 218.2,
+        "week": "Jul 26–Aug 1",
+        "n": 1
       }
     ],
     "banner": {
       "startDate": "2026-03-22",
       "startW": 235,
-      "lost": 16.8,
+      "lost": 15.9,
       "goal": 180,
-      "pct": 30.6,
+      "pct": 28.9,
       "nextFloor": 210,
-      "toGo": 8.2,
+      "toGo": 9.1,
       "newLow": false
     },
     "strip": [
-      {
-        "date": "2026-06-26",
-        "state": "cheat",
-        "kcal": 3299
-      },
       {
         "date": "2026-06-27",
         "state": "good",
@@ -13104,8 +13155,13 @@
       },
       {
         "date": "2026-07-25",
+        "state": "good",
+        "kcal": 1753
+      },
+      {
+        "date": "2026-07-26",
         "state": "partial",
-        "kcal": 1836
+        "kcal": 983
       }
     ],
     "days": [
@@ -13591,8 +13647,16 @@
       },
       {
         "date": "2026-07-25",
-        "kcal": 1836,
-        "protein": 188,
+        "kcal": 1753,
+        "protein": 179,
+        "dayType": "reverse-ramp",
+        "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-07-26",
+        "kcal": 983,
+        "protein": 102,
         "dayType": "reverse-ramp",
         "logged": "full",
         "provisional": true
