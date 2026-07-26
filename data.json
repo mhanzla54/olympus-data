@@ -21,7 +21,7 @@
     ],
     "overall_total": 763,
     "generated_for": "2026-07-26",
-    "built_at": "2026-07-26T22:49:58.887Z",
+    "built_at": "2026-07-26T23:30:39.579Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
@@ -89,6 +89,16 @@
       "endpoint_tier": "large",
       "current": 324,
       "working_on": "the next new-pound low (≤ 214.8 lb)"
+    },
+    {
+      "id": "fieldpresence",
+      "ledger_key": "✍️",
+      "name": "Field Presence",
+      "t0_note": "no public track record — not known in the field; every post, repo and paper still ahead",
+      "endpoint": "A recognized public body of work — provisional and open by design (§14.0.2); this lane has no terminus",
+      "endpoint_tier": "enormous",
+      "current": 0,
+      "working_on": "Not yet started — the first public thing ships from here"
     }
   ],
   "tiers": [
@@ -6205,7 +6215,8 @@
         "tier": "tiny",
         "activity": "Calorie-day ON PLAN — reverse-ramp day 1 at 1,753 kcal against the PRE-REGISTERED ~1,750 target (band 1,450–2,050), logged full and final"
       }
-    ]
+    ],
+    "fieldpresence": []
   },
   "path_steps": {
     "coding": [
@@ -6768,6 +6779,63 @@
         "name": "ENDPOINT — ~180 lb / lean proportions",
         "criterion": "~180 lb, 12–16% BF, waist 31.5–33\"",
         "tier": "large",
+        "status": "locked",
+        "endpoint": true
+      }
+    ],
+    "fieldpresence": [
+      {
+        "name": "First public post shipped",
+        "criterion": "A Substack or own-site piece, live at a URL a stranger can open",
+        "tier": "tiny",
+        "status": "next"
+      },
+      {
+        "name": "AF / LessWrong presence",
+        "criterion": "The intro post + substantive comments that make an argument",
+        "tier": "tiny",
+        "status": "locked"
+      },
+      {
+        "name": "Public GitHub repo",
+        "criterion": "Real content, a README that explains it to someone else",
+        "tier": "tiny",
+        "status": "locked"
+      },
+      {
+        "name": "Personal site LIVE, under his own name",
+        "criterion": "Shipped and reachable — the first artifact-tier milestone",
+        "tier": "small",
+        "status": "locked"
+      },
+      {
+        "name": "A published course / series",
+        "criterion": "The revised Field-Foundations set, shipped as a coherent body",
+        "tier": "small",
+        "status": "locked"
+      },
+      {
+        "name": "A large original synthesis piece",
+        "criterion": "Multi-day original thinking — not distillation",
+        "tier": "small",
+        "status": "locked"
+      },
+      {
+        "name": "A substantial released tool for others",
+        "criterion": "1–4 months of work, built to be used by others, shipped",
+        "tier": "medium",
+        "status": "locked"
+      },
+      {
+        "name": "A research paper / preprint released",
+        "criterion": "Paper and preprint are ONE artifact — the first release pays",
+        "tier": "medium",
+        "status": "locked"
+      },
+      {
+        "name": "ENDPOINT — a recognized public body of work",
+        "criterion": "Provisional and open by design (§14.0.2) — this lane has no terminus",
+        "tier": "enormous",
         "status": "locked",
         "endpoint": true
       }
@@ -13684,6 +13752,8 @@
       "name": "The Summit Warrior (crimson)"
     }
   ],
+  "fieldpresence_bg_options": [],
+  "fieldpresence_hero_options": [],
   "codebook": {
     "coding": {
       "headline": "A skill becomes fluent, OR a reviewed build / stage-gate is cleared.",
