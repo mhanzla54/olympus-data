@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 743,
-    "generated_for": "2026-07-24",
-    "built_at": "2026-07-25T00:26:27.130Z",
+    "overall_total": 758,
+    "generated_for": "2026-07-25",
+    "built_at": "2026-07-26T01:19:14.129Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 340
+      "ft_to_go": 325
     }
   },
   "lanes": [
@@ -37,7 +37,7 @@
       "t0_note": "couldn't write a single line of Python — ran his first print() the day before t0",
       "endpoint": "Replicate AND extend a frontier alignment result — public, runnable code",
       "endpoint_tier": "verylarge",
-      "current": 97,
+      "current": 98,
       "working_on": "Automate the Boring Stuff textbook"
     },
     {
@@ -47,7 +47,7 @@
       "t0_note": "didn't hold the transformer internals — attention, embeddings, the residual stream were only 'encountered'",
       "endpoint": "A from-memory \"mini-textbook\" of the whole ML/alignment stack (FF is the floor; endpoint stays provisional)",
       "endpoint_tier": "verylarge",
-      "current": 107,
+      "current": 108,
       "working_on": "Field Foundations"
     },
     {
@@ -77,7 +77,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 175,
+      "current": 187,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -87,7 +87,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 321,
+      "current": 322,
       "working_on": "the next new-pound low (≤ 214.8 lb)"
     }
   ],
@@ -3868,6 +3868,78 @@
       "reasoning": "Protein-day tiny — the second half of the 7/23 cure. At the 19:34 pull protein read 159g, ONE gram short of the 160 floor, and I refused it: I book off the data as it stands, not off a guess about eating after the pull. The FINAL row reads 187g — over the floor by 27. Protein is monotonic against a floor, so a later cross is exactly the lawful cure, and the FINAL upstream row supplies it. Dedup grepped: no prior 7/23 protein row (the half was HELD, never booked). Independent of the calorie tick per the codebook. Late booking → booked-date tag",
       "evidence": "health-data.json (2026-07-23 row, protein 187g, logged full, provisional false, pull 2026-07-24T20:13)",
       "booked": "2026-07-24"
+    },
+    {
+      "date": "2026-07-24",
+      "lane": "body",
+      "activity": "Calorie-day 3,065 kcal on a DECLARED cheat/refeed day — the reverse-diet kickoff, off the 9-day cadence (warehouse dayType `cheat-planned`, logged full, provisional false)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 322,
+      "cum_overall": 744,
+      "reasoning": "Calorie-day tiny under the planned-blowout inclusion (\"a planned blowout / refeed day ALSO ticks — planned + logged\"). Three things had to hold and all three do. FIRST, the number: 3,065 sits UNDER the ~3,200 aim and under the 3,300 machine cap — comfortably inside the band, and the contrast with 7/19 is the calibration (3,525 = 25 over the 3,500 outer edge = NO TICK; this is 135 under the aim itself). SECOND, FINAL: the row reads provisional false, logged full — the still-moving-number objection that held 7/22 and 7/23 does not apply. THIRD, and the only hard part: was it PLANNED? The declaration arrived with the true-up on the morning of 7/25, AFTER the eating — and a post-hoc \"it was planned\" is precisely the exclusion (\"unplanned overeating... with no plan\"), because if a day can be re-labelled planned once the number is known, the guardrail is worthless. What saves it is that a green-lit plan pre-existed the plate: on 7/24 itself the owner proposed ending the cut and running his pre-registered diet-break, Athena green-lit it with guardrails, and a kickoff cheat is a NAMED part of that plan. The eating was the kickoff of a plan formed that day; the 7/25 paperwork was the wiring, not the invention. Warehouse concurs — 2026-07-24 is written into cheatDates and dayType reads cheat-planned. THE LINE I HOLD FORWARD: a cheat declared only after the data lands ticks only where a green-lit plan demonstrably pre-existed the eating; absent that, it is the exclusion. Correcting my own record: my 7/24 ruling said \"no cheat taken\" — that was reported in good faith off an incomplete 1,150 kcal log, and the settle-correction flag (1,150→3,065) is the machine catching it. The protein half of the same day does NOT tick — 131g against a 160 floor (goal 180 − 20), 29g short, and a cheat day carries no protein exemption. Dedup grepped: 7/24 carried NO Body row of any kind. Late booking → booked-date tag",
+      "evidence": "health-data.json (2026-07-24 row: 3,065 kcal / 131g, dayType cheat-planned, logged full, provisional false; protocol.cheatDates gained 2026-07-24; settle-correction flag resolved 2026-07-25), refeed-experiment.md",
+      "booked": "2026-07-25"
+    },
+    {
+      "date": "2026-07-25",
+      "lane": "mlai",
+      "activity": "FF Cluster 3 re-study, first half — M10 (The Fine-Tuning Family) + M11 (Preference Optimization) read, then a long closed-book understand-first discussion, ~10 open-recall probes, notes away",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 108,
+      "cum_overall": 745,
+      "reasoning": "A consolidation / review session = tiny, NO CAP (constitution §5) — priced identically to the 7/20 Cluster-1 re-study and the two Cluster-2 halves (7/22 M6+M7, 7/23 M8+M9). Squarely the inclusion, not the passive-reread exclusion: notes closed, cold recall, graded live. Cold and unaided he gave warm-start-leads-the-answer, the two axes and how they compose, the LoRA freeze/train split with the effective matrix W + A×B formed at use time, the DPO frozen reference model — which is ABSENT from his own written notes, so that one is genuine retrieval and not a read-back — per-position vs per-pair loss, both Constitutional-AI phases with all three roles and whose weights move, and \"another layer of proxy\" reached on his own. He also DERIVED the reward-model length/verbosity bias from first principles unprompted, which is the shape of understanding rather than recall. Six gaps corrected in place. NOT a module re-tick: M10 and M11 are earned-once and stay gate-only under the 2026-07-13 forward-only rule, so re-reading them re-ticks nothing — the consolidation entry is the only thing paying, exactly as I priced the three prior re-studies. No scored gate exists in the re-study phase; the whole-FF Final is the only remaining gate. Day-keyed, dedup grepped — no prior 7/25 🧠 row",
+      "evidence": "active-learning-context.md S63; Notes on Field Foundations.md (M10/M11 sections)",
+      "booked": "2026-07-25"
+    },
+    {
+      "date": "2026-07-25",
+      "lane": "coding",
+      "activity": "ATBS ch.7 workout-log parser REBUILT from an empty file — a ~3-hour working session; seven functions authored by him (date_regex, normalize_dates, find_sessions, find_session_names, find_excersise_lines, find_targets, find_reps), two bugs found by him, program NOT complete",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 98,
+      "cum_overall": 746,
+      "reasoning": "A substantial program-building WORK SESSION whose goal is not yet met = tiny (C3 amendment D, 2026-07-20). Every inclusion condition is met. PROVABLE: an agent in-session throughout, the file on disk, attempt 1 archived before the wipe. AUTHORSHIP THE SUBSTANTIAL MAJORITY: seven functions written by him from an empty file, including the hard one — an exercise-line pattern with no delimiters, anchored between the list number and the prescription, returning all 7 tuples correctly on its first run. He also found two bugs himself: the missing `return` in find_targets (once the two functions were set side by side, which is guidance, not authorship) and the .search()→.findall() switch, unprompted, off a prediction question. Athena supplied the corrected find_reps pattern and its wiring at his direct request — that is a taught portion, and per the partial-authorship ruling it does NOT void the session tiny (teaching is endemic to this lane), but it STAYS LIVE against the future completed-program tick, joining the same open flag the 7/20 build carries. Goal not met and not required: find_sessions still has a known bug, the math and report sections are unwritten. Day-keyed one per (date, kind); the 7/20 parser session was a different build on a different date and this is a REBUILD from empty, not a continuation of a scored sitting. Substance floor comfortably met at ~3 hours and seven functions. Dedup grepped — no prior 7/25 🐍 row",
+      "evidence": "ch7_workout_log_parser_v2.py; ch7-workout-log-parser-v2.md; _archive/ch7_workout_log_parser_ATTEMPT1_2026-07-25.py",
+      "booked": "2026-07-25"
+    },
+    {
+      "date": "2026-07-25",
+      "lane": "strength",
+      "activity": "Day B Legs+Core full-force workout logged — 6 exercises: pull-up 3/3/2 + negatives 4/5/4, hanging knee raise slow-ecc 10/10/10, parallel ring row 5.5/4.5/5, assisted floor pistol 5/5/5, single-leg hip thrust 10/7/6, plank 30s/30s",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 176,
+      "cum_overall": 747,
+      "reasoning": "A logged full-force workout = session tiny (constitution §6). Six exercises across the full prescribed Day B block, real working numbers, logged — the inclusion, not the coast exclusion and not the bad-day floor. Worth the record: the pull-up line was a PRE-REGISTERED test written before the session — the 7/22 protocol change (3-minute rests on pull/chin only, stop AT 3 on set 1) with the prediction recorded in advance as \"3,3,2 or better, and if sets 2–3 don't move the diagnosis is wrong.\" Set 2 had never exceeded 2.5 and set 3 had never exceeded 1.5 across seven prior sessions; both moved. That is a falsifiable prediction he wrote and then beat, and it books nothing extra — the session tiny is the whole price of a training day, and predicting well inside it is not a separate lane act. The pull-up rung gate is 3×3 and set 3 landed at 2, so no rung clear there. Stacks with the rung-clear small below per the 2026-07-09 ruling (session and achievement are different events). Dedup grepped — no prior 7/25 workout row",
+      "evidence": "workout-log.md 2026-07-25 entry; calisthenics-plan.md",
+      "booked": "2026-07-25"
+    },
+    {
+      "date": "2026-07-25",
+      "lane": "strength",
+      "activity": "LADDER RUNG CLEARED — 🟦 Core-Hanging Bar rung 2 (hanging knee raise, slow eccentric, normal up / 3s down): 10/10/10 against a 10 × 3 target, every set at target",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 186,
+      "cum_overall": 757,
+      "reasoning": "A calisthenics ladder rung unlocked = small. Fact-checked against the live path file before booking, per the lane-source map: workout-split.md §10 carries rung 2 at target 10, Sets 3 — so the SETS-STANDARD law needs a per-set average of clean reps ≥ 10 across the first 3 sets in one session. Logged 10/10/10: average exactly 10, and no set is carried by another — every set met the target outright, which is the strongest form of a clear the averaging rule admits. Clean quality is not inferred: the owner gave an explicit confirm (\"the hanging knee raises were clean\"), which is the exclusion this ladder most often trips on. Prior best was 10/10/8 on 7/22 — the last set is precisely what moved. Earned-once: Hanging-knee-raise-slow-eccentric was NOT in the earned-once list (the 7/01 rung-1 clear at ×12 is a different rung); no re-tick. Path state confirmed live — rung 2 marked ✅ cleared 2026-07-25 and ★ advanced to rung 3 (full slow tempo, 3s up / 3s down, 10 × 3) in all three day-blocks, workout-audit green at 18 matched / 0 problems. Stacks on top of the session tiny above",
+      "evidence": "workout-split.md §10; workout-log.md 2026-07-25 entry; workout-audit.mjs run this session",
+      "booked": "2026-07-25"
+    },
+    {
+      "date": "2026-07-25",
+      "lane": "strength",
+      "activity": "Sparse-training accessory day logged — the FIRST day of a new capture stream: eight distinct mobility / asymmetry / physique items done in scattered few-minute blocks through the day (hand-finger-wrist ×3, ankle dorsiflexion ×2, hamstring, calf, chest-arm-shoulder, hip-flexor stretch, forearm, right bicep)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 187,
+      "cum_overall": 758,
+      "reasoning": "A NOVEL deed the owner brought to me directly — Athena stated no opinion and previewed no tier, which is the separation working. I judged it by §4 generalization, not by a lookup. NEAREST ENTRY: \"an ad-hoc accessory session (neck / grip / MOBILITY, logged) = tiny,\" whose inclusion is ~6+ meaningful working sets of chosen supplemental work done as extra or on an off day, and whose exclusion is a token 2–3-set dabble in passing. Eight distinct items with several repeated (13 total executions) clears that count-bar, and the CONTENT is the entry's named content — mobility, grip/forearm, and deliberate asymmetry correction. TIME BASIS (§3): a day's worth of scattered accessory work is well inside \"up to ~4 days\" — tiny is the ceiling here by construction, and no argument reaches small. WHY IT IS NOT A DOUBLE-COUNT with the Day B session tiny above: the accessory entry has always been its own kind, explicitly \"on a rest/off day OR AS EXTRA,\" and it is different work from the prescribed block — nothing in the sparse list appears in the Day B log. WHY IT IS NOT FARMABLE: DAY-KEYED, one per (date, kind), and it requires the owner's own floor — ≥6 DISTINCT items actually done, which is a real bar that a lazy day fails; the items are also the unglamorous ones, and the ankle-dorsiflexion work is already visibly paying in the pistol form report. NOT scoreboard-building: Athena built the /sparsetraining capture mechanism today and THAT ticks nothing (her work, and infrastructure besides) — what ticks is his doing. This is a generalization, not a codebook amendment; the codebook owes a proper entry and the C3 door is open if the owner reads the floor differently",
+      "evidence": "sparse-training-log.md; sparse-training.md; owner report this session",
+      "booked": "2026-07-25"
     }
   ],
   "series": {
@@ -4235,6 +4307,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "ATBS ch.7 mini-drill blocks 14–16 worked (the deferred remainder of the 24-drill set; 9–13 were 7/22) — greedy/lazy regex, the prescription zoo, strings→float→average→aligned report; two write-himself/build-to-goal drills"
+      },
+      {
+        "date": "2026-07-25",
+        "cum": 98,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "ATBS ch.7 workout-log parser REBUILT from an empty file — a ~3-hour working session; seven functions authored by him (date_regex, normalize_dates, find_sessions, find_session_names, find_excersise_lines, find_targets, find_reps), two bugs found by him, program NOT complete"
       }
     ],
     "mlai": [
@@ -4671,6 +4750,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "FF Cluster 2 (M8 Scaling Laws + M9 The Emergence Debate) re-study plus a 6-question closed-book cold open-recall session — power law + Chinchilla + Schaeffer-mirage + skill⁴ mechanism cold; two gaps taught in place"
+      },
+      {
+        "date": "2026-07-25",
+        "cum": 108,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "FF Cluster 3 re-study, first half — M10 (The Fine-Tuning Family) + M11 (Preference Optimization) read, then a long closed-book understand-first discussion, ~10 open-recall probes, notes away"
       }
     ],
     "method": [
@@ -5195,6 +5281,27 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Day A Push+Pull full-force workout logged — 7 exercises: pull-up 3.5/2.5/0.5 + negatives 5/5/3, hanging knee raise slow-ecc 10/10/8, dead hang 13s/17s + scap shrugs, typewriter push-up 3/2/3, feet-elevated pike push-up 5/4/5, V-up 6/4, PPP 5/5"
+      },
+      {
+        "date": "2026-07-25",
+        "cum": 176,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Day B Legs+Core full-force workout logged — 6 exercises: pull-up 3/3/2 + negatives 4/5/4, hanging knee raise slow-ecc 10/10/10, parallel ring row 5.5/4.5/5, assisted floor pistol 5/5/5, single-leg hip thrust 10/7/6, plank 30s/30s"
+      },
+      {
+        "date": "2026-07-25",
+        "cum": 186,
+        "feet": 10,
+        "tier": "small",
+        "activity": "LADDER RUNG CLEARED — 🟦 Core-Hanging Bar rung 2 (hanging knee raise, slow eccentric, normal up / 3s down): 10/10/10 against a 10 × 3 target, every set at target"
+      },
+      {
+        "date": "2026-07-25",
+        "cum": 187,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Sparse-training accessory day logged — the FIRST day of a new capture stream: eight distinct mobility / asymmetry / physique items done in scattered few-minute blocks through the day (hand-finger-wrist ×3, ankle dorsiflexion ×2, hamstring, calf, chest-arm-shoulder, hip-flexor stretch, forearm, right bicep)"
       }
     ],
     "body": [
@@ -5995,6 +6102,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Protein-day 187g on the strict plan (floor 160; logged full, warehouse FINAL)"
+      },
+      {
+        "date": "2026-07-24",
+        "cum": 322,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Calorie-day 3,065 kcal on a DECLARED cheat/refeed day — the reverse-diet kickoff, off the 9-day cadence (warehouse dayType `cheat-planned`, logged full, provisional false)"
       }
     ]
   },
@@ -7297,7 +7411,7 @@
           "sets": 3
         },
         {
-          "name": "Assisted floor pistol (hand on frame)",
+          "name": "Assisted floor pistol (hands on rings)",
           "target": "5/leg",
           "sets": 3
         },
@@ -7421,9 +7535,10 @@
       "id": "corehang",
       "name": "Core — HANGING",
       "elite": "windshield wipers",
-      "current": 2,
+      "current": 3,
       "cleared_dates": {
-        "1": "2026-07-01"
+        "1": "2026-07-01",
+        "2": "2026-07-25"
       },
       "rungs": [
         {
@@ -7478,8 +7593,8 @@
         }
       ],
       "chart": 10,
-      "cleared_count": 1,
-      "height": 1,
+      "cleared_count": 2,
+      "height": 3,
       "triangular": [
         0,
         1,
@@ -7954,6 +8069,12 @@
           "y": 4.72,
           "kind": "session",
           "label": "Full pull-up — 3.5,  2.5, .5 (avg 2.2 vs target 3)"
+        },
+        {
+          "date": "2026-07-25",
+          "y": 4.89,
+          "kind": "session",
+          "label": "Full pull-up — 3, 3, 2 (avg 2.7 vs target 3)"
         }
       ],
       "steps": [
@@ -7995,6 +8116,12 @@
           "y": 2.67,
           "kind": "session",
           "label": "Parallel ring row (body horizontal, feet on floor) — 6, 6, 4 (avg 5.3 vs target 8)"
+        },
+        {
+          "date": "2026-07-25",
+          "y": 2.63,
+          "kind": "session",
+          "label": "Parallel ring row (body horizontal, feet on floor) — 5.5, 4.5, 5 (avg 5 vs target 8)"
         }
       ],
       "steps": [
@@ -8297,7 +8424,13 @@
           "date": "2026-07-18",
           "y": 6.9,
           "kind": "session",
-          "label": "Assisted floor pistol (hand on frame) — 5, 4.5, 4 (avg 4.5 vs target 5)"
+          "label": "Assisted floor pistol (hands on rings) — 5, 4.5, 4 (avg 4.5 vs target 5)"
+        },
+        {
+          "date": "2026-07-25",
+          "y": 6.97,
+          "kind": "session",
+          "label": "Assisted floor pistol (hands on rings) — 5, 5, 5 (avg 5 vs target 5)"
         }
       ],
       "steps": [
@@ -8502,45 +8635,58 @@
         },
         {
           "date": "2026-07-08",
-          "y": 2.5,
-          "kind": "session",
-          "label": "Hanging knee raise — slow eccentric (normal up, 3s down) — 5, 5, 5 (avg 5 vs target 10)"
+          "y": 1.42,
+          "kind": "session-extra",
+          "label": "Hanging knee raise — 5, 5, 5 (avg 5 vs target 12)",
+          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
         },
         {
           "date": "2026-07-11",
-          "y": 2.7,
-          "kind": "session",
-          "label": "Hanging knee raise — slow eccentric (normal up, 3s down) — 8, 8, 5 (avg 7 vs target 10)"
+          "y": 1.58,
+          "kind": "session-extra",
+          "label": "Hanging knee raise — 8, 8, 5 (avg 7 vs target 12)",
+          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
         },
         {
           "date": "2026-07-13",
-          "y": 2.73,
-          "kind": "session",
-          "label": "Hanging knee raise — slow eccentric (normal up, 3s down) — 10,  6,  6 (avg 7.3 vs target 10)"
+          "y": 1.61,
+          "kind": "session-extra",
+          "label": "Hanging knee raise — 10,  6,  6 (avg 7.3 vs target 12)",
+          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
         },
         {
           "date": "2026-07-15",
-          "y": 2.63,
-          "kind": "session",
-          "label": "Hanging knee raise — slow eccentric (normal up, 3s down) — 7, 6, 6 (avg 6.3 vs target 10)"
+          "y": 1.53,
+          "kind": "session-extra",
+          "label": "Hanging knee raise — 7, 6, 6 (avg 6.3 vs target 12)",
+          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
         },
         {
           "date": "2026-07-18",
-          "y": 2.77,
-          "kind": "session",
-          "label": "Hanging knee raise — slow eccentric (normal up, 3s down) — 10, 7, 6 (avg 7.7 vs target 10)"
+          "y": 1.64,
+          "kind": "session-extra",
+          "label": "Hanging knee raise — 10, 7, 6 (avg 7.7 vs target 12)",
+          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
         },
         {
           "date": "2026-07-20",
-          "y": 2.73,
-          "kind": "session",
-          "label": "Hanging knee raise — slow eccentric (normal up, 3s down) — 10, 5.5, 6.5 (avg 7.3 vs target 10)"
+          "y": 1.61,
+          "kind": "session-extra",
+          "label": "Hanging knee raise — 10, 5.5, 6.5 (avg 7.3 vs target 12)",
+          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
         },
         {
           "date": "2026-07-22",
-          "y": 2.93,
-          "kind": "session",
-          "label": "Hanging knee raise — slow eccentric (normal up, 3s down) — 10, 10, 8 (avg 9.3 vs target 10)"
+          "y": 1.78,
+          "kind": "session-extra",
+          "label": "Hanging knee raise — 10, 10, 8 (avg 9.3 vs target 12)",
+          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
+        },
+        {
+          "date": "2026-07-25",
+          "y": 3,
+          "kind": "clear",
+          "label": "Core — HANGING — cleared: Hanging knee raise — slow eccentric (normal up, 3s down)"
         }
       ],
       "steps": [
@@ -8551,6 +8697,10 @@
         {
           "date": "2026-07-01",
           "rungs": 2
+        },
+        {
+          "date": "2026-07-25",
+          "rungs": 3
         }
       ],
       "chart": 10
@@ -8578,8 +8728,8 @@
       "rejected": []
     },
     "pull": {
-      "candidates": 22,
-      "plotted": 22,
+      "candidates": 23,
+      "plotted": 23,
       "rejected": [
         {
           "date": "2026-06-23",
@@ -8598,8 +8748,8 @@
       "rejected": []
     },
     "legs": {
-      "candidates": 11,
-      "plotted": 11,
+      "candidates": 12,
+      "plotted": 12,
       "rejected": []
     },
     "corefloor": {
@@ -8608,9 +8758,13 @@
       "rejected": []
     },
     "corehang": {
-      "candidates": 21,
-      "plotted": 20,
+      "candidates": 22,
+      "plotted": 21,
       "rejected": [
+        {
+          "date": "2026-07-25",
+          "why": "clear-point has no matching logged session that day — rendered without performance numbers (never invented)"
+        },
         {
           "date": "2026-06-27",
           "why": "\"Hanging knee raise\" logged no usable numbers (skipped)"
@@ -8623,8 +8777,8 @@
       "rejected": []
     },
     "hpull": {
-      "candidates": 2,
-      "plotted": 2,
+      "candidates": 3,
+      "plotted": 3,
       "rejected": []
     }
   },
@@ -9042,6 +9196,13 @@
             "raw": "13, 17",
             "avg": 15,
             "status": "● plotted at 4.72"
+          },
+          {
+            "date": "2026-07-25",
+            "name": "Pull-up (★full — then negatives as back-off)",
+            "raw": "3, 3, 2",
+            "avg": 2.7,
+            "status": "● plotted at 4.89"
           }
         ]
       },
@@ -9062,6 +9223,13 @@
             "raw": "6, 6, 4",
             "avg": 5.3,
             "status": "● plotted at 2.67"
+          },
+          {
+            "date": "2026-07-25",
+            "name": "Parallel Ring Row (★ body horizontal, feet on floor)",
+            "raw": "5.5, 4.5, 5",
+            "avg": 5,
+            "status": "● plotted at 2.63"
           }
         ]
       },
@@ -9298,10 +9466,17 @@
           },
           {
             "date": "2026-07-18",
-            "name": "Assisted floor pistol (★hand on frame)",
+            "name": "Assisted floor pistol (★hands on rings)",
             "raw": "5, 4.5, 4",
             "avg": 4.5,
             "status": "● plotted at 6.9"
+          },
+          {
+            "date": "2026-07-25",
+            "name": "Assisted floor pistol (★hands on rings)",
+            "raw": "5, 5, 5",
+            "avg": 5,
+            "status": "● plotted at 6.97"
           }
         ]
       },
@@ -9478,52 +9653,59 @@
           },
           {
             "date": "2026-07-08",
-            "name": "Hanging knee raise (★slow ecc — 3s down)",
+            "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "5, 5, 5",
             "avg": 5,
-            "status": "● plotted at 2.5"
+            "status": "◦ floating dot at 1.42 (cleared-rung work)"
           },
           {
             "date": "2026-07-11",
-            "name": "Hanging knee raise (★slow ecc — 3s down)",
+            "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "8, 8, 5",
             "avg": 7,
-            "status": "● plotted at 2.7"
+            "status": "◦ floating dot at 1.58 (cleared-rung work)"
           },
           {
             "date": "2026-07-13",
-            "name": "Hanging knee raise (★slow ecc — 3s down)",
+            "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "10,  6,  6",
             "avg": 7.3,
-            "status": "● plotted at 2.73"
+            "status": "◦ floating dot at 1.61 (cleared-rung work)"
           },
           {
             "date": "2026-07-15",
-            "name": "Hanging knee raise (★slow ecc — 3s down)",
+            "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "7, 6, 6",
             "avg": 6.3,
-            "status": "● plotted at 2.63"
+            "status": "◦ floating dot at 1.53 (cleared-rung work)"
           },
           {
             "date": "2026-07-18",
-            "name": "Hanging knee raise (★slow ecc — 3s down)",
+            "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "10, 7, 6",
             "avg": 7.7,
-            "status": "● plotted at 2.77"
+            "status": "◦ floating dot at 1.64 (cleared-rung work)"
           },
           {
             "date": "2026-07-20",
-            "name": "Hanging knee raise (★slow ecc — 3s down)",
+            "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "10, 5.5, 6.5",
             "avg": 7.3,
-            "status": "● plotted at 2.73"
+            "status": "◦ floating dot at 1.61 (cleared-rung work)"
           },
           {
             "date": "2026-07-22",
-            "name": "Hanging knee raise (★slow ecc — 3s down)",
+            "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "10, 10, 8",
             "avg": 9.3,
-            "status": "● plotted at 2.93"
+            "status": "◦ floating dot at 1.78 (cleared-rung work)"
+          },
+          {
+            "date": "2026-07-25",
+            "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
+            "raw": "10, 10, 10",
+            "avg": 10,
+            "status": "✓ CLEAR DAY — carried by the clear dot (no perf numbers)"
           }
         ]
       }
@@ -9710,6 +9892,10 @@
           {
             "date": "2026-07-18",
             "detail": "held: 30, 25"
+          },
+          {
+            "date": "2026-07-25",
+            "detail": "held: 30, 30"
           }
         ]
       },
@@ -9743,11 +9929,15 @@
           {
             "date": "2026-07-22",
             "detail": "full reps: 3.5,  2.5, .5 · neg back-off: 5, 5, 3"
+          },
+          {
+            "date": "2026-07-25",
+            "detail": "full reps: 3, 3, 2 · neg back-off: 4, 5, 4"
           }
         ]
       },
       {
-        "name": "Hanging knee raise (★slow ecc — 3s down)",
+        "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
         "rows": [
           {
             "date": "2026-07-08",
@@ -9776,6 +9966,10 @@
           {
             "date": "2026-07-22",
             "detail": "reps: 10, 10, 8"
+          },
+          {
+            "date": "2026-07-25",
+            "detail": "reps: 10, 10, 10"
           }
         ]
       },
@@ -10266,6 +10460,45 @@
         ]
       },
       {
+        "name": "Parallel Ring Row (★ body horizontal, feet on floor)",
+        "rows": [
+          {
+            "date": "2026-07-18",
+            "detail": "reps: 6, 6, 4"
+          },
+          {
+            "date": "2026-07-25",
+            "detail": "reps: 5.5, 4.5, 5"
+          }
+        ]
+      },
+      {
+        "name": "Assisted floor pistol (★hands on rings)",
+        "rows": [
+          {
+            "date": "2026-07-18",
+            "detail": "reps: 5, 4.5, 4"
+          },
+          {
+            "date": "2026-07-25",
+            "detail": "reps: 5, 5, 5"
+          }
+        ]
+      },
+      {
+        "name": "Single-leg hip thrust (shoulders on bed/chair)",
+        "rows": [
+          {
+            "date": "2026-07-18",
+            "detail": "reps: 3, 4, 5"
+          },
+          {
+            "date": "2026-07-25",
+            "detail": "reps: 10, 7, 6"
+          }
+        ]
+      },
+      {
         "name": "Push-up (archer)",
         "rows": [
           {
@@ -10374,33 +10607,6 @@
         ]
       },
       {
-        "name": "Parallel Ring Row (★ body horizontal, feet on floor)",
-        "rows": [
-          {
-            "date": "2026-07-18",
-            "detail": "reps: 6, 6, 4"
-          }
-        ]
-      },
-      {
-        "name": "Assisted floor pistol (★hand on frame)",
-        "rows": [
-          {
-            "date": "2026-07-18",
-            "detail": "reps: 5, 4.5, 4"
-          }
-        ]
-      },
-      {
-        "name": "Single-leg hip thrust (shoulders on bed/chair)",
-        "rows": [
-          {
-            "date": "2026-07-18",
-            "detail": "reps: 3, 4, 5"
-          }
-        ]
-      },
-      {
         "name": "Feet -elevated Pike push-up (accessory)",
         "rows": [
           {
@@ -10421,6 +10627,51 @@
     ],
     "dates": [
       {
+        "date": "2026-07-25",
+        "rows": [
+          {
+            "ladderId": "pull",
+            "ladderName": "Pull",
+            "name": "Pull-up (★full — then negatives as back-off)",
+            "raw": "3, 3, 2",
+            "avg": 2.7,
+            "target": "3",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "corehang",
+            "ladderName": "Core — HANGING",
+            "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
+            "raw": "10, 10, 10",
+            "avg": 10,
+            "target": "12",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "hpull",
+            "ladderName": "Horizontal Pull — ROWS",
+            "name": "Parallel Ring Row (★ body horizontal, feet on floor)",
+            "raw": "5.5, 4.5, 5",
+            "avg": 5,
+            "target": "8",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "legs",
+            "ladderName": "Legs — Pistol",
+            "name": "Assisted floor pistol (★hands on rings)",
+            "raw": "5, 5, 5",
+            "avg": 5,
+            "target": "5/leg",
+            "sets": 3,
+            "cleared": false
+          }
+        ]
+      },
+      {
         "date": "2026-07-22",
         "rows": [
           {
@@ -10436,10 +10687,10 @@
           {
             "ladderId": "corehang",
             "ladderName": "Core — HANGING",
-            "name": "Hanging knee raise (★slow ecc — 3s down)",
+            "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "10, 10, 8",
             "avg": 9.3,
-            "target": "10",
+            "target": "12",
             "sets": 3,
             "cleared": false
           },
@@ -10501,10 +10752,10 @@
           {
             "ladderId": "corehang",
             "ladderName": "Core — HANGING",
-            "name": "Hanging knee raise (★slow ecc — 3s down)",
+            "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "10, 5.5, 6.5",
             "avg": 7.3,
-            "target": "10",
+            "target": "12",
             "sets": 3,
             "cleared": false
           },
@@ -10556,10 +10807,10 @@
           {
             "ladderId": "corehang",
             "ladderName": "Core — HANGING",
-            "name": "Hanging knee raise (★slow ecc — 3s down)",
+            "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "10, 7, 6",
             "avg": 7.7,
-            "target": "10",
+            "target": "12",
             "sets": 3,
             "cleared": false
           },
@@ -10576,7 +10827,7 @@
           {
             "ladderId": "legs",
             "ladderName": "Legs — Pistol",
-            "name": "Assisted floor pistol (★hand on frame)",
+            "name": "Assisted floor pistol (★hands on rings)",
             "raw": "5, 4.5, 4",
             "avg": 4.5,
             "target": "5/leg",
@@ -10636,10 +10887,10 @@
           {
             "ladderId": "corehang",
             "ladderName": "Core — HANGING",
-            "name": "Hanging knee raise (★slow ecc — 3s down)",
+            "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "7, 6, 6",
             "avg": 6.3,
-            "target": "10",
+            "target": "12",
             "sets": 3,
             "cleared": false
           },
@@ -10701,10 +10952,10 @@
           {
             "ladderId": "corehang",
             "ladderName": "Core — HANGING",
-            "name": "Hanging knee raise (★slow ecc — 3s down)",
+            "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "10,  6,  6",
             "avg": 7.3,
-            "target": "10",
+            "target": "12",
             "sets": 3,
             "cleared": false
           },
@@ -10791,10 +11042,10 @@
           {
             "ladderId": "corehang",
             "ladderName": "Core — HANGING",
-            "name": "Hanging knee raise (★slow ecc — 3s down)",
+            "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "8, 8, 5",
             "avg": 7,
-            "target": "10",
+            "target": "12",
             "sets": 3,
             "cleared": false
           },
@@ -10826,10 +11077,10 @@
           {
             "ladderId": "corehang",
             "ladderName": "Core — HANGING",
-            "name": "Hanging knee raise (★slow ecc — 3s down)",
+            "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "5, 5, 5",
             "avg": 5,
-            "target": "10",
+            "target": "12",
             "sets": 3,
             "cleared": false
           },
@@ -11596,12 +11847,20 @@
   ],
   "last_perf": {
     "pull": {
-      "date": "2026-07-22",
-      "detail": "3.5,  2.5, .5"
+      "date": "2026-07-25",
+      "detail": "3, 3, 2"
     },
     "corehang": {
-      "date": "2026-07-22",
-      "detail": "10, 10, 8"
+      "date": "2026-07-25",
+      "detail": "10, 10, 10"
+    },
+    "hpull": {
+      "date": "2026-07-25",
+      "detail": "5.5, 4.5, 5"
+    },
+    "legs": {
+      "date": "2026-07-25",
+      "detail": "5, 5, 5"
     },
     "grip": {
       "date": "2026-07-22",
@@ -11630,14 +11889,6 @@
     "explosive": {
       "date": "2026-07-20",
       "detail": "8, 5, 6"
-    },
-    "hpull": {
-      "date": "2026-07-18",
-      "detail": "6, 6, 4"
-    },
-    "legs": {
-      "date": "2026-07-18",
-      "detail": "5, 4.5, 4"
     }
   },
   "health": {
@@ -12447,7 +12698,8 @@
       "2026-06-26",
       "2026-07-03",
       "2026-07-10",
-      "2026-07-19"
+      "2026-07-19",
+      "2026-07-24"
     ],
     "weeklyLows": [
       {
@@ -12630,11 +12882,6 @@
     },
     "strip": [
       {
-        "date": "2026-06-25",
-        "state": "good",
-        "kcal": 1579
-      },
-      {
         "date": "2026-06-26",
         "state": "cheat",
         "kcal": 3299
@@ -12776,8 +13023,13 @@
       },
       {
         "date": "2026-07-24",
+        "state": "cheat",
+        "kcal": 3065
+      },
+      {
+        "date": "2026-07-25",
         "state": "partial",
-        "kcal": 1150
+        "kcal": 1009
       }
     ],
     "days": [
@@ -13255,9 +13507,17 @@
       },
       {
         "date": "2026-07-24",
-        "kcal": 1150,
-        "protein": 91,
-        "dayType": "strict",
+        "kcal": 3065,
+        "protein": 131,
+        "dayType": "cheat-planned",
+        "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-07-25",
+        "kcal": 1009,
+        "protein": 109,
+        "dayType": "reverse-ramp",
         "logged": "full",
         "provisional": true
       }
@@ -13268,7 +13528,7 @@
       "proteinFloor": 160,
       "proteinTarget": 180,
       "cheatCadenceDays": 9,
-      "nextPlannedCheat": "2026-07-29",
+      "nextPlannedCheat": null,
       "blowoutCapKcal": 3300
     }
   },
