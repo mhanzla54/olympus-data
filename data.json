@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 758,
+    "overall_total": 762,
     "generated_for": "2026-07-25",
-    "built_at": "2026-07-26T01:46:07.792Z",
+    "built_at": "2026-07-26T03:05:47.784Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 325
+      "ft_to_go": 321
     }
   },
   "lanes": [
@@ -57,7 +57,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 30,
+      "current": 33,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -87,7 +87,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 322,
+      "current": 323,
       "working_on": "the next new-pound low (≤ 214.8 lb)"
     }
   ],
@@ -3940,6 +3940,54 @@
       "reasoning": "A NOVEL deed the owner brought to me directly — Athena stated no opinion and previewed no tier, which is the separation working. I judged it by §4 generalization, not by a lookup. NEAREST ENTRY: \"an ad-hoc accessory session (neck / grip / MOBILITY, logged) = tiny,\" whose inclusion is ~6+ meaningful working sets of chosen supplemental work done as extra or on an off day, and whose exclusion is a token 2–3-set dabble in passing. Eight distinct items with several repeated (13 total executions) clears that count-bar, and the CONTENT is the entry's named content — mobility, grip/forearm, and deliberate asymmetry correction. TIME BASIS (§3): a day's worth of scattered accessory work is well inside \"up to ~4 days\" — tiny is the ceiling here by construction, and no argument reaches small. WHY IT IS NOT A DOUBLE-COUNT with the Day B session tiny above: the accessory entry has always been its own kind, explicitly \"on a rest/off day OR AS EXTRA,\" and it is different work from the prescribed block — nothing in the sparse list appears in the Day B log. WHY IT IS NOT FARMABLE: DAY-KEYED, one per (date, kind), and it requires the owner's own floor — ≥6 DISTINCT items actually done, which is a real bar that a lazy day fails; the items are also the unglamorous ones, and the ankle-dorsiflexion work is already visibly paying in the pistol form report. NOT scoreboard-building: Athena built the /sparsetraining capture mechanism today and THAT ticks nothing (her work, and infrastructure besides) — what ticks is his doing. This is a generalization, not a codebook amendment; the codebook owes a proper entry and the C3 door is open if the owner reads the floor differently",
       "evidence": "sparse-training-log.md; sparse-training.md; owner report this session",
       "booked": "2026-07-25"
+    },
+    {
+      "date": "2026-07-25",
+      "lane": "body",
+      "activity": "Protein-day 188g on the reverse-ramp branch (floor 160 = goal 180 − 20; logged full, owner's FINAL close of the day)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 323,
+      "cum_overall": 759,
+      "reasoning": "The cure of the hold I opened at the 21:05 pull, and it cured on the half I said could — protein is MONOTONIC against a floor, so a later cross is the lawful cure, and 109g became 188g at the owner's final 22:58 close. Over the 160 floor by 28. Independent of the calorie tick per the codebook (two separate entries, always). Dedup grepped FIRST: 7/25 carried NO ⚖️ Body row before this — ML/AI, Coding and three Strength rows only; the food halves were HELD, never booked. The floor is read off the CURRENT goal (180 − 20), never hardcoded — and the reverse-diet branch did NOT move it; only the calorie band moved",
+      "evidence": "health-data.json (2026-07-25 row, protein 188g, logged full, final close); health-query.mjs --summary this session",
+      "booked": "2026-07-25"
+    },
+    {
+      "date": "2026-07-25",
+      "lane": "method",
+      "activity": "Osiris DECISION-LOCK / MDL session with Odin — three new decisions locked (MDL-147 agent-routed autonomy · MDL-148 pilot memory + continuity, scoped INTERIM · MDL-149 output-wall construction rule), MDL-146 amended to nine agent-chosen working modes, MDL-149 Block 2 re-amended same session off a build finding; numbering audit PASS at 149 entries",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 31,
+      "cum_overall": 760,
+      "reasoning": "Osiris working session, type = decision-lock/MDL, per the 2026-07-09 extension. SUBSTANCE FLOOR cleared several times over: the owner's own anchor is ~3 MDL locks or an equivalent mix, and this is three fresh locks plus two amendments plus a same-session correction — nowhere near the token drop-in exclusion. HIS shaping is the substance, not Odin's typing: he rejected Odin's fixed-pipeline premise outright and argued the grounded-theory frame that became MDL-147 (Odin adopted the flip and named the deciding argument — and then found the owner had made the IDENTICAL correction in MDL-075 eight weeks earlier); he set the output-wall policy that became MDL-149 and rejected Odin's first narrower replacement as still wrong in SHAPE, specifying the explicit-non-coverage requirement himself; he declined to remove the three values-family walls and held them for a pre-boot sitting. That is the Atlas tool-vs-job boundary landing on the owner's side — in the loop, making the calls, the artifact IS the job. DAY-KEYED, one per (date, session-type): the owner-flip row and the output-wall row in the capture tail are the SAME session and fold in here — they are the reasoning inside these locks, not a second sitting",
+      "evidence": "master-decision-log.md MDL-146/147/148/149 + MDL-075; .claude/scripts/audit-decisions.sh; Odin journal S73",
+      "booked": "2026-07-25"
+    },
+    {
+      "date": "2026-07-25",
+      "lane": "method",
+      "activity": "Osiris ROADMAP / PLANNING session — the whole September chain re-baselined into October on two owner arguments (12 re-dates + a new required item #37), the memory & autonomy architecture review pulled ahead of the pre-registration draft",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 32,
+      "cum_overall": 761,
+      "reasoning": "A SECOND 📕 tiny on the same date, and it is lawful because the dedup rule is per (date, SESSION-TYPE), not per date: a roadmap/planning session is a named type distinct from a decision-lock session, and a different-type sitting on the same day is its own tick. The substance is his, twice over. (1) He caught a SEQUENCING error Odin had shipped — the architecture review was scheduled AFTER the funder applications, and he pointed out the pre-registration DESCRIBES the apparatus, so a redesign landing after publication means amending the study's primary credibility artifact weeks after funders have read it. Moved Sep 26 → Sep 5, ahead of the pre-reg draft. (2) He then raised a TAX-YEAR argument Odin had not considered — December-resolving applications land 2026 income against 2027 expenses on a pass-through, and asking a funder to re-date a cheque on first contact is a favour some structurally cannot grant. On those two arguments alone the entire chain moved (pre-reg published Sep 2→Oct 5, funder package Sep 10→Oct 12, applications Sep 12→Oct 17, Manifund Sep 15→Oct 20), tax research was promoted OPTIONAL→required and pulled ahead, and the LTFF round calendar was promoted from routine to a gating input. He also priced the cost out loud himself — later applications mean more months on the shuttle job before the funding-triggered exit fires, which is the mark of a real planning call and not a preference. The re-dates are marked provisional pending the live calendar check; that does not touch the tick, because the session tiny prices the WORK that showed up, not a deliverable",
+      "evidence": "execution-roadmap.md (12 re-dates, new item #37, re-baseline banner); active-context.md S73; Odin journal S73",
+      "booked": "2026-07-25"
+    },
+    {
+      "date": "2026-07-25",
+      "lane": "method",
+      "activity": "Osiris ARTIFACT REVIEW / WALKTHROUGH session — the seed Bible read line by line with one directed deletion, and an owner-constrained terminology cleanup pass across the master decision log (46 line-level edits over 11 entries, historical record deliberately left in the original words)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 33,
+      "cum_overall": 762,
+      "reasoning": "A THIRD 📕 tiny, same lawful basis as the second: artifact review/walkthrough is its own named session-type, and the extension's own exemplar for it is — word for word — \"a seed-bible line-edit.\" The two capture rows fold into ONE tick because they are the same type on the same date. Substance: on the Bible he caught a genuine self-contradiction rather than a preference — \"You are this channel\" against \"You are not a content channel\" three sentences earlier in the same paragraph — and his reasoning is the locked terminology working (the agent RUNS the channel and expresses itself through it; it is not the channel). Odin verified the contradiction before editing, and the installed pilot copy was flagged for re-seeding before boot, which is the review doing its actual job. On the cleanup he set the discipline himself — \"minimal changes, just make the terminology accurate, don't change the substance of those locks\" — which drew the line between the definitional/operational-verbatim blocks that get quoted forward into the protocol document (edited) and the discussion narratives, rejected-option records and source pointers (left alone, 13 mentions verified as genuine history). Directing a bounded, correctly-scoped pass over the study's primary decision record is owner shaping under the tool-vs-job boundary. NOT an artifact tick: no roadmap artifact was completed here — these are review acts, and the session tiny is their whole price",
+      "evidence": "config/seed-bible.md; master-decision-log.md; osiris-study/pending-flesh-out.md S73; Odin journal S73",
+      "booked": "2026-07-25"
     }
   ],
   "series": {
@@ -4969,6 +5017,27 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Osiris working session — directed the substrate pilot-fix campaign through Odin (PILOT-FIX-3 model pins · PILOT-FIX-4 the O-4 download step · PILOT-FIX-5 the watcher repin — launched, re-cut and cleared in the loop) AND personally executed the YouTube OAuth credential-vault transfer (the one step the permission classifier reserved for him; refresh flow live-proven after). Campaign outcome: all 7 boot-blocking defects closed; the studio's first two end-to-end video renders produced; first same-mind AI self-review recorded; the gate blocked the \"What I Am\" script twice (study data)"
+      },
+      {
+        "date": "2026-07-25",
+        "cum": 31,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris DECISION-LOCK / MDL session with Odin — three new decisions locked (MDL-147 agent-routed autonomy · MDL-148 pilot memory + continuity, scoped INTERIM · MDL-149 output-wall construction rule), MDL-146 amended to nine agent-chosen working modes, MDL-149 Block 2 re-amended same session off a build finding; numbering audit PASS at 149 entries"
+      },
+      {
+        "date": "2026-07-25",
+        "cum": 32,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris ROADMAP / PLANNING session — the whole September chain re-baselined into October on two owner arguments (12 re-dates + a new required item #37), the memory & autonomy architecture review pulled ahead of the pre-registration draft"
+      },
+      {
+        "date": "2026-07-25",
+        "cum": 33,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris ARTIFACT REVIEW / WALKTHROUGH session — the seed Bible read line by line with one directed deletion, and an owner-constrained terminology cleanup pass across the master decision log (46 line-level edits over 11 entries, historical record deliberately left in the original words)"
       }
     ],
     "literature": [
@@ -6109,6 +6178,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Calorie-day 3,065 kcal on a DECLARED cheat/refeed day — the reverse-diet kickoff, off the 9-day cadence (warehouse dayType `cheat-planned`, logged full, provisional false)"
+      },
+      {
+        "date": "2026-07-25",
+        "cum": 323,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Protein-day 188g on the reverse-ramp branch (floor 160 = goal 180 − 20; logged full, owner's FINAL close of the day)"
       }
     ]
   },
