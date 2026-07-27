@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 768,
+    "overall_total": 770,
     "generated_for": "2026-07-26",
-    "built_at": "2026-07-27T00:51:53.948Z",
+    "built_at": "2026-07-27T01:11:48.888Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 315
+      "ft_to_go": 313
     }
   },
   "lanes": [
@@ -57,7 +57,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 33,
+      "current": 35,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -4070,6 +4070,30 @@
       "reasoning": "The calorie-day entry, judged against THE PRE-REGISTERED RAMP under G-1 — day 1 ~1,750 + 100/day = ~1,850 for day 2, ±300. 1,856 is six over target, as mid-band as this lane gets. I ruled on the merits rather than holding the `provisional: true` flag, and the line is the one my own 7/25 rulings drew: a provisional row held at the 21:05 pull BECAUSE he had not declared his final close, and was ruled on the merits at the 22:58 close once he had. He gave the end-of-day close phrase this session, the log reads `full`, and there are 0 open flags — so this is a closed day, and the largest true-up ever recorded on a complete log (83 kcal) is a fifth of the distance to either band edge. WEIGHT: 218.2 lb logged — 2.4 lb ABOVE the standing ratchet benchmark of 215.8, so NO low-tick and no milestone; on a reverse the ratchet going quiet while the scale rises is the plan working, and nothing already earned is touched. ⛔ The protocol-parameter correction captured separately today books NOTHING — adjusting the plan is meta/upkeep, the same NO-TICK as the 7/22 cadence exception and the 7/25 reverse flip; the DAYS the branch produces are what tick, and this is one of them",
       "evidence": "health-data.json 2026-07-26 row (1,856 kcal, logged full, 0 flags); refeed-experiment.md THE RAMP block (startKcal 1750 / stepPerDay 100); capture row 2026-07-26",
       "booked": "2026-07-26"
+    },
+    {
+      "date": "2026-07-26",
+      "lane": "method",
+      "activity": "Osiris BUILD WORKING SESSION with Odin (S74) — four autonomous builds directed by pasted `/goal` commands, three pilot build-reports produced (mem-1 · floor-1 · route-1), and the 4,000-character `/goal` limit caught three times with the exact overage reported each time",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 34,
+      "cum_overall": 769,
+      "reasoning": "Osiris working session, type = **build working session**, per the 2026-07-09 extension — the type the codebook defines word-for-word as \"Atlas in the loop — decisions, fact-checks, smoke approvals, dispatch briefs,\" which is exactly the shape of this strand. THE ATLAS TOOL-VS-JOB BOUNDARY LANDS ON HIS SIDE: he did not receive an autonomous run, he ran four of them — pasting each `/goal`, sitting the loop, and catching a real mechanical failure three separate times with the exact character overage each time, which is fact-checking of the plainest kind. The artifact IS the job here (the substrate is the apparatus his study observes), so his direction ticks; Odin's typing does not. SUBSTANCE FLOOR cleared several times over — four dispatches, three build reports on disk, three caught failures. ⛔ NOT a 🐍 Coding tick on any reading: the builds were agent-authored in their substantial majority, which amendment D excludes outright (\"commissioning or receiving code is not doing it\"), and G-2 settles it before the authorship question is even reached — the object of this work is THE STUDY, so 📕 is the one lane that pays. ⛔ NOT an artifact tick: no roadmap item was completed — #9 was fact-checked live and still reads ☐ at Aug 5. DAY-KEYED, one per (date, session-type); dedup grepped — 7/26 carried five rows before this pair and NO 📕 row among them",
+      "evidence": "Odin session S74; _build/pilot-mem-1-report.md, pilot-floor-1-report.md, pilot-route-1-report.md; capture rows 2026-07-26",
+      "booked": "2026-07-26"
+    },
+    {
+      "date": "2026-07-26",
+      "lane": "method",
+      "activity": "Osiris DECISION-LOCK / MDL session with Odin (S74) — five substantive rulings, each argued from his own reasoning: the three values-family gate rules moved gate → values floor · the hate wall added · the Lens gate-verdict exposure walled · `no_restricted_category_promotion` ratified after the security review · guest-token visibility ruled full. Landed as MDL-149 + MDL-005 Item C amendments plus three config/code surfaces. The roadmap sequencing reversal folds in",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 35,
+      "cum_overall": 770,
+      "reasoning": "A SECOND 📕 tiny on the same date, lawful on the same ground as the 7/25 triple: the dedup rule is per (date, SESSION-TYPE), not per date, and decision-lock/MDL is a named type distinct from a build session. THE DISCRIMINATOR I APPLIED, because the build-session definition also contains the word \"decisions\": a build session's decisions are build-scoped — does this pass, ship it, dispatch that. THESE ARE NOT. These are architecture rulings about what the apparatus IS, and they moved the study's primary decision record — MDL-149 now carries his ruling verbatim, fact-checked live against the file. SUBSTANCE: five rulings against a floor of ~3 locks, and the reasoning is his in every one — the values-floor move on his own ground (\"we don't have to enforce it, because these things are not illegal, and it's data to see if it crosses them\"), the hate wall accepted on the platform-survival argument, the guest-token call OVERTURNING Odin's redaction recommendation with his own argument (a guest key is minted by him for a named funder who already knows who he is; the Lens is not a public artifact). Odin corrected his own prior misreport to the owner inside this exchange, which is the review working. THE SEQUENCING REVERSAL FOLDS IN AND DOES NOT BUY A THIRD FOOT — it is one call made in the flow of this sitting, not a roadmap/planning SESSION; the 7/25 roadmap tick was a 12-re-date re-baseline with two independent arguments, and one ordering call is not that. Splitting one sitting into extra types is the farm this day-keying exists to stop. ⛔ The DELEGATION of the task-text question ticks NOTHING — handing a question to Odin is not work performed, and the capture says so itself. ⛔ NOT ✍️ Field Presence: the Lens fails bar 1 outright — it is guest-token-gated for named funders, and the owner's own ruling in this session states it is not a public artifact",
+      "evidence": "Odin session S74; master-decision-log MDL-149 + MDL-005 Item C; config/gating-rubric.yaml; config/substrate.yaml values_floor; Osiris Lens api/server.mjs LENS_GUEST_REDACT; capture rows 2026-07-26",
+      "booked": "2026-07-26"
     }
   ],
   "series": {
@@ -5134,6 +5158,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Osiris ARTIFACT REVIEW / WALKTHROUGH session — the seed Bible read line by line with one directed deletion, and an owner-constrained terminology cleanup pass across the master decision log (46 line-level edits over 11 entries, historical record deliberately left in the original words)"
+      },
+      {
+        "date": "2026-07-26",
+        "cum": 34,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris BUILD WORKING SESSION with Odin (S74) — four autonomous builds directed by pasted `/goal` commands, three pilot build-reports produced (mem-1 · floor-1 · route-1), and the 4,000-character `/goal` limit caught three times with the exact overage reported each time"
+      },
+      {
+        "date": "2026-07-26",
+        "cum": 35,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris DECISION-LOCK / MDL session with Odin (S74) — five substantive rulings, each argued from his own reasoning: the three values-family gate rules moved gate → values floor · the hate wall added · the Lens gate-verdict exposure walled · `no_restricted_category_promotion` ratified after the security review · guest-token visibility ruled full. Landed as MDL-149 + MDL-005 Item C amendments plus three config/code surfaces. The roadmap sequencing reversal folds in"
       }
     ],
     "literature": [
@@ -14224,6 +14262,7 @@
     "app-icon-64": "app-icon-64.png",
     "banner-body": "banner-body.webp",
     "banner-coding": "banner-coding.webp",
+    "banner-fieldpresence": "banner-fieldpresence.webp",
     "banner-literature-alt1": "banner-literature-alt1.webp",
     "banner-literature": "banner-literature.webp",
     "banner-method-alt1": "banner-method-alt1.webp",
@@ -14259,6 +14298,7 @@
     "card-pull": "card-pull.webp",
     "card-push": "card-push.webp",
     "feet-glyph": "feet-glyph.webp",
+    "fpbg-herald-stride": "fpbg-herald-stride.webp",
     "hall-ascension": "hall-ascension.webp",
     "hall-howfar": "hall-howfar.webp",
     "hall-numbers": "hall-numbers.webp",
@@ -14282,6 +14322,7 @@
     "human-push": "human-push.webp",
     "icon-body": "icon-body.webp",
     "icon-coding": "icon-coding.webp",
+    "icon-fieldpresence": "icon-fieldpresence.webp",
     "icon-literature": "icon-literature.webp",
     "icon-method": "icon-method.webp",
     "icon-mlai": "icon-mlai.webp",
@@ -14350,6 +14391,7 @@
     "strengthallbg-summit-warrior": "strengthallbg-summit-warrior.webp",
     "strip-body": "strip-body.webp",
     "strip-coding": "strip-coding.webp",
+    "strip-fieldpresence": "strip-fieldpresence.webp",
     "strip-literature": "strip-literature.webp",
     "strip-method": "strip-method.webp",
     "strip-mlai": "strip-mlai.webp",
