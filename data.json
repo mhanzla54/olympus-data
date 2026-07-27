@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 763,
+    "overall_total": 768,
     "generated_for": "2026-07-26",
-    "built_at": "2026-07-26T23:30:39.579Z",
+    "built_at": "2026-07-27T00:51:53.948Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 320
+      "ft_to_go": 315
     }
   },
   "lanes": [
@@ -37,7 +37,7 @@
       "t0_note": "couldn't write a single line of Python — ran his first print() the day before t0",
       "endpoint": "Replicate AND extend a frontier alignment result — public, runnable code",
       "endpoint_tier": "verylarge",
-      "current": 98,
+      "current": 99,
       "working_on": "Automate the Boring Stuff textbook"
     },
     {
@@ -47,7 +47,7 @@
       "t0_note": "didn't hold the transformer internals — attention, embeddings, the residual stream were only 'encountered'",
       "endpoint": "A from-memory \"mini-textbook\" of the whole ML/alignment stack (FF is the floor; endpoint stays provisional)",
       "endpoint_tier": "verylarge",
-      "current": 108,
+      "current": 109,
       "working_on": "Field Foundations"
     },
     {
@@ -77,7 +77,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 187,
+      "current": 188,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -87,7 +87,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 324,
+      "current": 326,
       "working_on": "the next new-pound low (≤ 214.8 lb)"
     },
     {
@@ -4010,6 +4010,66 @@
       "reasoning": "RE-DERIVED under C3 AMENDMENT G-1 (owner challenge 2026-07-26, CONCEDED). I refused this half twice on 7/25 against a day-1 target of ~2,350, band 2,050–2,650, calling it 214 under the floor. The target was wrong and the defect was mine. THE PROVENANCE, verified live: refeed-experiment.md line 207 — 'Reverse to TRUE maintenance: step calories UP (~+100/day: 1600 -> 1700 -> 1800 -> ... -> 2000+)' — first committed c8007c6, Athena S42, 2026-07-06, as part of the PRE-REGISTERED diet-break plan. That is nineteen days before the eating. The 2,350 was written 2026-07-23, anchored to a TDEE estimate (2,116–2,371) since fallen to 1,923 last-14 / 1,884 last-30 — roughly +420 over maintenance, sold as maintenance. So the 2,350 was never a correction the owner adopted; it was the DEVIATION FROM the pre-registration, and his 7/26 statement RESTORED the plan rather than replacing it. MY OWN TEST WAS ALREADY MET: the 7/24 cheat-day ruling requires that 'a green-lit plan demonstrably pre-existed the eating' — it did, dated, committed, on the record. On 7/25 I fact-checked the day's NUMBERS against the warehouse and never once checked where the TARGET came from; the lane-source map now carries that as a standing instruction. THE RE-DERIVATION: corrected day-1 target ~1,750, band ±300 = 1,450–2,050; the warehouse FINAL reads 1,753 kcal, provisional false — three calories off dead-on, mid-band by any reading. Books. ALL FOUR G-1 BOUNDS CLEAR: provenance (the 2,350 is on the record in Athena's voice, never an owner decision) · reach (the correction moved every day through 8/15, not this one day) · independent grounds (the TDEE revision stands without reference to any scoring question, and Athena raised the challenge, not the owner) · formula-not-outcome (the +100/day rate from a ~1,600–1,650 baseline was fixed 7/06, so the day falls in the band as a consequence, never as a construction). DEDUP GREPPED FIRST: 7/25 carried exactly one ⚖️ row — the protein tiny (row 380) — and no calorie row, because both halves were HELD and only protein cured. This is a C3 re-derivation of an ALREADY-PLACED row, not a backfill from evidence: §0.5 is intact. Nothing else re-opens — no other day, no sweep, and no day whose miss was against a target the owner himself set",
       "evidence": "health-data.json 2026-07-25 FINAL (1,753 kcal / 179g, provisional false, dayType reverse-ramp); refeed-experiment.md line 207 (pre-registered +100/day, commit c8007c6 2026-07-06) + THE RAMP block (OWNER'S PROGRAM, locked 2026-07-26) + line 244 (superseded 2,350 reasoning recorded); protocol.reverseRamp startKcal 1750 / stepPerDay 100",
       "booked": "2026-07-26"
+    },
+    {
+      "date": "2026-07-26",
+      "lane": "mlai",
+      "activity": "CONSOLIDATION / RE-STUDY session — Field-Foundations Cluster-3, modules M12 (Goodhart & Gaming in the Wild) + M13 (The Alignment Hinge), four cold probes aimed at the section his notes do not cover",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 109,
+      "cum_overall": 764,
+      "reasoning": "The consolidation / review entry, and it clears the entry's own bar rather than the reread exclusion: the probes were OPEN-RECALL and cold, and he produced the content himself — the hide-the-ball distinction in his own words ('it hacked the camera, not the task itself'), the RLHF-installed explanation for an agreeable agent plus the correct judgment that it is the one to suspect first, and both Olympus intent/measure gap examples unprompted. Athena read both module files and both sets of his notes first and confirmed the M12/M13 three-actor material was already covered and was NOT re-taught — so this was recall, not re-explanation, which is exactly the line the entry draws. NO per-cluster cap on consolidation (owner ruling S31 — it is only a tiny and consolidation gets more necessary as the base grows), and the 7/20 Cluster-1 lock-in + 7/25 M10/M11 sitting are the standing precedent for the same shape. NOT a module reading-tick: M12/M13 were read and gated 2026-07-02, the reading tick is bounded one-per-module, and the unified reading rule is forward-only from 2026-07-13 in any case. The misses (the untracked-work item, intent stated as the reward signal, the missing 'it is the agent' half) do not reduce a consolidation tiny — the entry prices the act of active recall, not the score",
+      "evidence": "field-foundations/m12-reward-hacking-part1.md; m13-reward-hacking-part2.md; Module Notes/Notes on Field Foundations.md; capture row 2026-07-26",
+      "booked": "2026-07-26"
+    },
+    {
+      "date": "2026-07-26",
+      "lane": "coding",
+      "activity": "Program-building WORK SESSION — several hours on `ch7_workout_log_parser_v2.py`; the pipeline runs end to end at close (log parsed into session dicts of exercise dicts + a per-session report)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 99,
+      "cum_overall": 765,
+      "reasoning": "The substantial-work-session entry (C3 amendment D, 2026-07-20), day-keyed one per (date, kind). Provable presence: Athena in-session throughout, a named artifact, a running pipeline at close. HIS authorship is the substantial majority and the capture itemises it — he diagnosed the core design problem himself and unprompted before Athena named it ('organise it into a clean dictionary', which was the correct answer), wrote `find_excersise_lines` correctly and unaided, applied all six `find_reps` changes himself and got every one right, and wrote `build_sessions` and the report function. Athena supplied the `find_sessions` lookahead fix, two `find_targets` bug identifications and a stub shape — guidance and fixes, which amendment D's partial-authorship ruling explicitly does not treat as voiding (teaching is endemic to this lane). ⛔ THE COMPLETED-PROGRAM TICK IS **HELD**, NOT REFUSED — see the standings note; the encumbrance is authorship, not function. ⛔ drill17 books nothing: Athena built it and he has not worked the drills (her work never ticks; he stated he will do them tomorrow). Noted for the record and not scored: he corrected Athena on the drill scope himself, excluding `\\Z` as outside the book-frontier rule",
+      "evidence": "ch7_workout_log_parser_v2.py; Ch7_miniDrills.py drill17; capture row 2026-07-26",
+      "booked": "2026-07-26"
+    },
+    {
+      "date": "2026-07-26",
+      "lane": "strength",
+      "activity": "SPARSE-TRAINING DAY — nine distinct items, fourteen executions (hand/finger/wrist ×3 · ankle dorsiflexion ×2 · hamstring · calf ×2 · hip-flexor stretch ×2 · vacuum/TVA · hip-flexor training · forearm · right bicep)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 188,
+      "cum_overall": 766,
+      "reasoning": "The sparse-training-day entry (C3 amendment E, 2026-07-25). The floor is ≥6 DISTINCT items each genuinely performed at least once within one EST day; nine items and fourteen executions clears it by three, and this is not the token-pass exclusion — most items were doubled and two new ones enter the rotation (vacuum/TVA and hip-flexor training, neither done on 7/25). TIMING IS IRRELEVANT by the entry's own wording, so the scatter across the day costs nothing. THE DISJOINT-WORK RULE is satisfied trivially: today was a REST day with NO main workout and no ad-hoc accessory session, so nothing here is workout volume being re-labelled — Day C falls tomorrow. Day-keyed, one per (date, kind); this is the only sparse row on 2026-07-26 and the second sparse day ever booked. Athena's `/sparsetraining` capture mechanism ticks nothing (her work); I book the placed row and never infer a sparse day from the log file",
+      "evidence": "sparse-training-log.md 2026-07-26 row; capture row 2026-07-26",
+      "booked": "2026-07-26"
+    },
+    {
+      "date": "2026-07-26",
+      "lane": "body",
+      "activity": "Protein-goal day — 169g logged against the 160g floor (goal 180 − 20), reverse-ramp day 2",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 325,
+      "cum_overall": 767,
+      "reasoning": "The protein-day entry, fully independent of the calorie tick. 169g clears the floor by 9. Fact-checked live per the lane-source map: `health-data.json` 2026-07-26 reads protein 169, `logged: full`, phase `reverse`, dayType `reverse-ramp`, 0 open flags. The row is `provisional: true` at the 20:39 pull and I book it anyway, for the reason the 7/25 ruling already set out: protein is judged against a FLOOR, and the only true-up ever observed on a complete log moved it 9g (188→179) without touching the verdict. Dedup grepped first: 2026-07-26 carried NO ⚖️ Body row before this pair. The 160 floor is goal-derived and never hardcoded",
+      "evidence": "health-data.json 2026-07-26 row; health-pull.mjs + health-query.mjs --summary 20:39; capture row 2026-07-26",
+      "booked": "2026-07-26"
+    },
+    {
+      "date": "2026-07-26",
+      "lane": "body",
+      "activity": "Calorie-day ON PLAN — 1,856 kcal against the reverse-ramp day-2 target of ~1,850 (band 1,550–2,150), six calories over dead-centre",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 326,
+      "cum_overall": 768,
+      "reasoning": "The calorie-day entry, judged against THE PRE-REGISTERED RAMP under G-1 — day 1 ~1,750 + 100/day = ~1,850 for day 2, ±300. 1,856 is six over target, as mid-band as this lane gets. I ruled on the merits rather than holding the `provisional: true` flag, and the line is the one my own 7/25 rulings drew: a provisional row held at the 21:05 pull BECAUSE he had not declared his final close, and was ruled on the merits at the 22:58 close once he had. He gave the end-of-day close phrase this session, the log reads `full`, and there are 0 open flags — so this is a closed day, and the largest true-up ever recorded on a complete log (83 kcal) is a fifth of the distance to either band edge. WEIGHT: 218.2 lb logged — 2.4 lb ABOVE the standing ratchet benchmark of 215.8, so NO low-tick and no milestone; on a reverse the ratchet going quiet while the scale rises is the plan working, and nothing already earned is touched. ⛔ The protocol-parameter correction captured separately today books NOTHING — adjusting the plan is meta/upkeep, the same NO-TICK as the 7/22 cadence exception and the 7/25 reverse flip; the DAYS the branch produces are what tick, and this is one of them",
+      "evidence": "health-data.json 2026-07-26 row (1,856 kcal, logged full, 0 flags); refeed-experiment.md THE RAMP block (startKcal 1750 / stepPerDay 100); capture row 2026-07-26",
+      "booked": "2026-07-26"
     }
   ],
   "series": {
@@ -4384,6 +4444,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "ATBS ch.7 workout-log parser REBUILT from an empty file — a ~3-hour working session; seven functions authored by him (date_regex, normalize_dates, find_sessions, find_session_names, find_excersise_lines, find_targets, find_reps), two bugs found by him, program NOT complete"
+      },
+      {
+        "date": "2026-07-26",
+        "cum": 99,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Program-building WORK SESSION — several hours on `ch7_workout_log_parser_v2.py`; the pipeline runs end to end at close (log parsed into session dicts of exercise dicts + a per-session report)"
       }
     ],
     "mlai": [
@@ -4827,6 +4894,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "FF Cluster 3 re-study, first half — M10 (The Fine-Tuning Family) + M11 (Preference Optimization) read, then a long closed-book understand-first discussion, ~10 open-recall probes, notes away"
+      },
+      {
+        "date": "2026-07-26",
+        "cum": 109,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "CONSOLIDATION / RE-STUDY session — Field-Foundations Cluster-3, modules M12 (Goodhart & Gaming in the Wild) + M13 (The Alignment Hinge), four cold probes aimed at the section his notes do not cover"
       }
     ],
     "method": [
@@ -5393,6 +5467,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Sparse-training accessory day logged — the FIRST day of a new capture stream: eight distinct mobility / asymmetry / physique items done in scattered few-minute blocks through the day (hand-finger-wrist ×3, ankle dorsiflexion ×2, hamstring, calf, chest-arm-shoulder, hip-flexor stretch, forearm, right bicep)"
+      },
+      {
+        "date": "2026-07-26",
+        "cum": 188,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "SPARSE-TRAINING DAY — nine distinct items, fourteen executions (hand/finger/wrist ×3 · ankle dorsiflexion ×2 · hamstring · calf ×2 · hip-flexor stretch ×2 · vacuum/TVA · hip-flexor training · forearm · right bicep)"
       }
     ],
     "body": [
@@ -6214,6 +6295,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Calorie-day ON PLAN — reverse-ramp day 1 at 1,753 kcal against the PRE-REGISTERED ~1,750 target (band 1,450–2,050), logged full and final"
+      },
+      {
+        "date": "2026-07-26",
+        "cum": 325,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Protein-goal day — 169g logged against the 160g floor (goal 180 − 20), reverse-ramp day 2"
+      },
+      {
+        "date": "2026-07-26",
+        "cum": 326,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Calorie-day ON PLAN — 1,856 kcal against the reverse-ramp day-2 target of ~1,850 (band 1,550–2,150), six calories over dead-centre"
       }
     ],
     "fieldpresence": []
@@ -12554,8 +12649,8 @@
       {
         "date": "2026-07-26",
         "w": 218.2,
-        "kcal": 983,
-        "protein": 102,
+        "kcal": 1856,
+        "protein": 169,
         "dayType": "reverse-ramp",
         "provisional": true
       }
@@ -13229,7 +13324,7 @@
       {
         "date": "2026-07-26",
         "state": "partial",
-        "kcal": 983
+        "kcal": 1856
       }
     ],
     "days": [
@@ -13723,8 +13818,8 @@
       },
       {
         "date": "2026-07-26",
-        "kcal": 983,
-        "protein": 102,
+        "kcal": 1856,
+        "protein": 169,
         "dayType": "reverse-ramp",
         "logged": "full",
         "provisional": true
