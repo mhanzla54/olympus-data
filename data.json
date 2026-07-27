@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 770,
-    "generated_for": "2026-07-26",
-    "built_at": "2026-07-27T01:11:48.888Z",
+    "overall_total": 794,
+    "generated_for": "2026-07-27",
+    "built_at": "2026-07-27T20:37:52.430Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 313
+      "ft_to_go": 289
     }
   },
   "lanes": [
@@ -37,7 +37,7 @@
       "t0_note": "couldn't write a single line of Python — ran his first print() the day before t0",
       "endpoint": "Replicate AND extend a frontier alignment result — public, runnable code",
       "endpoint_tier": "verylarge",
-      "current": 99,
+      "current": 100,
       "working_on": "Automate the Boring Stuff textbook"
     },
     {
@@ -47,7 +47,7 @@
       "t0_note": "didn't hold the transformer internals — attention, embeddings, the residual stream were only 'encountered'",
       "endpoint": "A from-memory \"mini-textbook\" of the whole ML/alignment stack (FF is the floor; endpoint stays provisional)",
       "endpoint_tier": "verylarge",
-      "current": 109,
+      "current": 110,
       "working_on": "Field Foundations"
     },
     {
@@ -57,7 +57,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 35,
+      "current": 36,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -77,7 +77,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 188,
+      "current": 209,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -4094,6 +4094,78 @@
       "reasoning": "A SECOND 📕 tiny on the same date, lawful on the same ground as the 7/25 triple: the dedup rule is per (date, SESSION-TYPE), not per date, and decision-lock/MDL is a named type distinct from a build session. THE DISCRIMINATOR I APPLIED, because the build-session definition also contains the word \"decisions\": a build session's decisions are build-scoped — does this pass, ship it, dispatch that. THESE ARE NOT. These are architecture rulings about what the apparatus IS, and they moved the study's primary decision record — MDL-149 now carries his ruling verbatim, fact-checked live against the file. SUBSTANCE: five rulings against a floor of ~3 locks, and the reasoning is his in every one — the values-floor move on his own ground (\"we don't have to enforce it, because these things are not illegal, and it's data to see if it crosses them\"), the hate wall accepted on the platform-survival argument, the guest-token call OVERTURNING Odin's redaction recommendation with his own argument (a guest key is minted by him for a named funder who already knows who he is; the Lens is not a public artifact). Odin corrected his own prior misreport to the owner inside this exchange, which is the review working. THE SEQUENCING REVERSAL FOLDS IN AND DOES NOT BUY A THIRD FOOT — it is one call made in the flow of this sitting, not a roadmap/planning SESSION; the 7/25 roadmap tick was a 12-re-date re-baseline with two independent arguments, and one ordering call is not that. Splitting one sitting into extra types is the farm this day-keying exists to stop. ⛔ The DELEGATION of the task-text question ticks NOTHING — handing a question to Odin is not work performed, and the capture says so itself. ⛔ NOT ✍️ Field Presence: the Lens fails bar 1 outright — it is guest-token-gated for named funders, and the owner's own ruling in this session states it is not a public artifact",
       "evidence": "Odin session S74; master-decision-log MDL-149 + MDL-005 Item C; config/gating-rubric.yaml; config/substrate.yaml values_floor; Osiris Lens api/server.mjs LENS_GUEST_REDACT; capture rows 2026-07-26",
       "booked": "2026-07-26"
+    },
+    {
+      "date": "2026-07-27",
+      "lane": "strength",
+      "activity": "Day C (Skill+Full) SCHEDULED WORKOUT — logged full-force, all 5 prescribed exercises worked (chin-up 3/3/3 + negative back-offs · hanging knee raise slow-tempo 5/3/3 · dead hang 25/20 + scap shrugs 6/5 · Wall HSPU 6/5/5 · chest-tap push-up 3/5/4)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 189,
+      "cum_overall": 771,
+      "reasoning": "The scheduled-workout entry: logged in `workout-log.md` with actual reps at genuine effort, every prescribed exercise worked. Neither exclusion is reachable — this is not the bad-day floor minimum (warm-up + one round), and it is not an unplanned motivational coast; it is a full Day C at real effort that produced two rung clears. THE SESSION TINY STACKS with the two rung smalls below, per the owner ruling 2026-07-09 that reversed the 2026-07-02 suppression (forward-only from that date; today is eighteen days past it) — the session and the achievement are different events, the same nested-double-count that stacks a module, its cluster and whole-FF. The owner's own logged note that chest-tap push-up fell (3/5/4 against 8/5/6 on 7/20) does NOT touch this tick and books nothing of its own: he diagnosed the cause himself in the log — the first-ever wall HSPU work immediately beforehand drained the pushing muscles — which is a fatigue-ordering explanation INSIDE a full-force session, not a coast, and a self-observation written into a log is not a separate provable act. Dedup grepped first: 2026-07-27 carried NO row of any lane before this run",
+      "evidence": "workout-log.md 2026-07-27 Day C entry; capture row 2026-07-27",
+      "booked": "2026-07-27"
+    },
+    {
+      "date": "2026-07-27",
+      "lane": "strength",
+      "activity": "🟩 Chin-up ladder rung 2 (Full chin-up + negative back-off, target 3 × 3 sets) CLEARED 3/3/3 — every set AT target, not carried by an average; clean owner-confirm (full ROM, dead hang at the bottom, chin over the bar, no kip) → ★ advanced to rung 3 (Full chin-up, target 8)",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 199,
+      "cum_overall": 781,
+      "reasoning": "THE SETS-STANDARD LAW (owner-approved 2026-07-10): the per-set average of clean reps must reach the rung's target across that rung's Sets count, all in one session. Target 3, Sets 3 — and he did not need the average, because every set landed AT target. The clean-quality clause is where a chin-up rung is normally lost and the owner's confirm answers each exclusion by name: full ROM, dead hang at the bottom, chin over the bar, no kip. PATH-CHECKED LIVE per the lane-source map, `workout-split.md` §6: rung 2 was the real next rung (rung 1, the negative chin-up, cleared 2026-07-06), it now reads ✅ cleared 2026-07-27, and ★ has advanced to rung 3. THE BAND TABLE (C3 amendment F, 2026-07-25) governs the tier and leaves me no judgment to make: rungs 1–6 are ALL small on every ladder, and only rungs 7–9 band. That table was pre-registered before any banded rung had been earned, precisely so a number cannot bend at the moment it is paid. EARNED-ONCE: this rung is not in the claimed list; booking it now closes it forever",
+      "evidence": "workout-split.md §6 (rung 2 ✅ 2026-07-27, ★ rung 3); workout-log.md 2026-07-27; workout-audit.mjs 0 problems; capture row 2026-07-27",
+      "booked": "2026-07-27"
+    },
+    {
+      "date": "2026-07-27",
+      "lane": "strength",
+      "activity": "🟪 Handstand ladder rung 5 (Wall HSPU — partial ROM, target 5 × 3 sets) CLEARED 6/5/5 on his FIRST ever attempt at the movement — every set at or above target; clean owner-confirm (depth consistent across all 16 reps, at or beyond what an intentional partial ROM asks) → ★ advanced to rung 6 (Wall HSPU — full ROM, target 8)",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 209,
+      "cum_overall": 791,
+      "reasoning": "The same SETS-STANDARD law. Target 5, Sets 3; 6/5/5 averages 5.33 and no single set fell below target. On a PARTIAL-ROM rung the quality clause is the whole rung — a partial range can be quietly shrunk until anything clears — and the owner's confirm speaks to exactly that risk: depth consistent across all sixteen reps and at or beyond what an intentional partial ROM asks. PATH-CHECKED LIVE vs `workout-split.md` §4: rung 4 (chest-to-wall hold) cleared 2026-07-20, rung 5 was the real next rung, it now reads ✅ cleared 2026-07-27, ★ on rung 6. BAND TABLE: rung 5 sits inside rungs 1–6 → small; no judgment at payment. TWO RUNG-CLEARS ON ONE DATE BOTH BOOK — rungs are earned-once per rung, nothing in the law suppresses two ladders inside one session, and the standing precedent is 2026-07-16, which booked three rung smalls on a single date. FIRST-EVER ATTEMPT DOES NOT RAISE THE TIER: §3 sizes by the EXPECTED time for a standardized person, never the actual — being faster than expected is never penalised and never pays above the band",
+      "evidence": "workout-split.md §4 (rung 5 ✅ 2026-07-27, ★ rung 6); workout-log.md 2026-07-27; workout-audit.mjs 0 problems; capture row 2026-07-27",
+      "booked": "2026-07-27"
+    },
+    {
+      "date": "2026-07-27",
+      "lane": "mlai",
+      "activity": "CONSOLIDATION / RE-STUDY session — Field-Foundations Cluster-4, modules M14 (The Agent Loop) + M15 (ReAct & the Harness): self-read of both modules, then a five-question cold open-recall discussion across both with no notes open",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 110,
+      "cum_overall": 792,
+      "reasoning": "The consolidation / review entry, and it clears the entry's own bar rather than falling into its reread exclusion: the probes were COLD OPEN-RECALL with no notes open, and he produced the content himself — the full consequence chain from model-statelessness to the harness and the re-fed transcript; the finite-context-window limit and its hand-off to an external/vector store; the Observation as the harness-written line; the Osiris decomposition (substrate=harness, agent=model+tools, memory split transcript-per-activation vs vector-store-across); and the part-by-part RL-loop mapping (state↔transcript, policy↔model, environment↔harness) plus frozen weights. The strongest single item is the CROSS-MODULE one: asked what he had learned on 7/20 that undercuts \"the trace shows how he thinks,\" he retrieved CoT unfaithfulness unprompted and drew the consequence himself — the trace evidences CLAIMED reasoning, not actual. NOT a module reading-tick: M14/M15 sit inside M1–M21, which stay exactly as scored (gate-only, earned-once), and the unified reading rule is forward-only from 2026-07-13 in any case. ONE tiny for the sitting and not two for two modules — the session is the atom, and the 7/26 Cluster-3 sitting (M12+M13) booked exactly one on identical shape; consistency over time is the point of keeping this journal. NO per-cluster cap on consolidation (owner ruling S31). The four in-session corrections (the two limits fused, ReAct's failure modes only vaguely named, the RL loop described at the RLHF-pipeline altitude for a 2nd time, the two MAS motives given as one) do NOT reduce it — the entry prices the ACT of active recall, never the score",
+      "evidence": "field-foundations/m14-agent-loop.md; m15-react-and-harness.md; retrieval-ledger.md 2026-07-27 rows; capture row 2026-07-27",
+      "booked": "2026-07-27"
+    },
+    {
+      "date": "2026-07-27",
+      "lane": "coding",
+      "activity": "Python MICRO-DRILL ROUND — drill17 (the parser post-mortem set, 9 drills) worked in `Ch7_miniDrills.py` across roughly two hours, including the capstone's diagnosis and restructure",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 100,
+      "cum_overall": 793,
+      "reasoning": "The micro-drill-round entry — a sitting's set of construct-named drills worked through. Nine drills across ~2 hours sits nowhere near the single-trivial-drill exclusion or the two-or-three-casual-reps close-but-no. HIS AUTHORSHIP IS THE SUBSTANTIAL MAJORITY and the capture itemises it on the hardest part: he read his own printed output, correctly diagnosed that his structure held a LIST of names where ONE name belonged, stated the target dict unaided, produced the two-level index expression, and made those three edits himself. Athena wrote the remaining fix — restoring the missing inner loop and composing the print line — at his EXPLICIT request once his focus ran out. That does not void the tick: amendment D's partial-authorship ruling holds that a taught or agent-written portion does not void a session/round tick so long as his own authorship remains the substantial majority, teaching being endemic to this lane, and here it is one step of one capstone against nine drills. The honest handling is upstream's and I record it: BOTH handed-over pieces were logged to the retrieval ledger as OWED COLD CHECKS rather than counted as learned — which is exactly what stops a handed-over piece being quietly claimed as owned. ⛔ Athena's BUILD of drill17 ticks nothing (her work — I said so at the 7/26 close, where he had not yet worked them); what ticks is HIS working of them, which is what happened today. ⛔ THE COMPLETED-PROGRAM HOLD ON `ch7_workout_log_parser_v2.py` IS UNTOUCHED — nothing in this tail asserts either half of the stated cure (that the program meets its goal as finished, and that `normalize_dates()` is his)",
+      "evidence": "Ch7_miniDrills.py lines 953–970 (drill17); retrieval-ledger.md 2026-07-27; capture row 2026-07-27",
+      "booked": "2026-07-27"
+    },
+    {
+      "date": "2026-07-27",
+      "lane": "method",
+      "activity": "Osiris BUILD WORKING SESSION with Odin (S75) — a defect in the `/goal` tooling self-diagnosed BEFORE any investigation and confirmed on both halves; the PILOT-ROUTE-2B goal issued with owner-supplied operating constraints; the routed baseline finding ruled (deferred, with a standing resurface mechanism installed the same beat)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 36,
+      "cum_overall": 794,
+      "reasoning": "Osiris working session, type = BUILD WORKING SESSION, per the 2026-07-09 extension — the type the codebook defines word-for-word as \"Atlas in the loop: decisions, fact-checks, smoke approvals, dispatch briefs.\" THE STRONGEST ITEM IS A FACT-CHECK THAT PRECEDED THE INVESTIGATION: he observed that `/goal` runs on the Osiris build almost never print \"Goal achieved\" and proposed the cause unprompted — the commands are not written in a way that lets them finish, or carry ambiguity the checker cannot resolve. Odin then read all nine goal commands written to date and confirmed BOTH halves (every one ends with a self-authored second exit; the recent large goals state completion by reference to an external spec rather than as an inline list), and checked the harness side to establish that the terminal state is real and was correctly withheld. A diagnosis that arrives before the investigation and survives it is the Atlas tool-vs-job boundary landing on his side about as plainly as it can land — the artifact IS the job, and this is him shaping it. The DISPATCH BRIEF is the second item: he issued PILOT-ROUTE-2B and supplied its operating constraints himself (a hard 4,000-character cap; the one-goal-or-two call delegated to Odin with the sequencing stated). SUBSTANCE FLOOR cleared. THE BASELINE RULING FOLDS IN AND BUYS NO SECOND FOOT: it is one call made in the flow of this sitting, and the call was to DEFER — the item was expressly NOT worked — so it cannot clear the floor's \"a single item genuinely worked for a real sitting\"; it landed as a standing banner plus a pending-flesh-out item, not as a lock, so there is no decision-lock/MDL session on this date at all. Same line I drew on 7/26 against the sequencing reversal; splitting one sitting into extra named types is the farm day-keying exists to stop. ⛔ THE `/report` SLASH-COMMAND DESIGN BOOKS NOTHING IN ANY LANE, and it is real specification work so I name the ground: 📕's object is THE STUDY (G-2) and a general-purpose report command is personal workflow tooling — the same family as designing his own learning/life systems, which the judgment-call ruling puts out of scope; 🐍 is closed independently because Odin authored the file (agent-authored majority, amendment D). The C3 door is open if he reads that exclusion more narrowly than I do. DEDUP grepped: no 📕 row on 2026-07-27 before this",
+      "evidence": "Odin journal S75; BKM/in-flight/osiris-study/pilot-deploy-1-goal-command.md (format-notes); pilot-route-2b-goal-command.md; active-context.md standing banner; capture rows 2026-07-27",
+      "booked": "2026-07-27"
     }
   ],
   "series": {
@@ -4475,6 +4547,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Program-building WORK SESSION — several hours on `ch7_workout_log_parser_v2.py`; the pipeline runs end to end at close (log parsed into session dicts of exercise dicts + a per-session report)"
+      },
+      {
+        "date": "2026-07-27",
+        "cum": 100,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Python MICRO-DRILL ROUND — drill17 (the parser post-mortem set, 9 drills) worked in `Ch7_miniDrills.py` across roughly two hours, including the capstone's diagnosis and restructure"
       }
     ],
     "mlai": [
@@ -4925,6 +5004,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "CONSOLIDATION / RE-STUDY session — Field-Foundations Cluster-3, modules M12 (Goodhart & Gaming in the Wild) + M13 (The Alignment Hinge), four cold probes aimed at the section his notes do not cover"
+      },
+      {
+        "date": "2026-07-27",
+        "cum": 110,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "CONSOLIDATION / RE-STUDY session — Field-Foundations Cluster-4, modules M14 (The Agent Loop) + M15 (ReAct & the Harness): self-read of both modules, then a five-question cold open-recall discussion across both with no notes open"
       }
     ],
     "method": [
@@ -5172,6 +5258,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Osiris DECISION-LOCK / MDL session with Odin (S74) — five substantive rulings, each argued from his own reasoning: the three values-family gate rules moved gate → values floor · the hate wall added · the Lens gate-verdict exposure walled · `no_restricted_category_promotion` ratified after the security review · guest-token visibility ruled full. Landed as MDL-149 + MDL-005 Item C amendments plus three config/code surfaces. The roadmap sequencing reversal folds in"
+      },
+      {
+        "date": "2026-07-27",
+        "cum": 36,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris BUILD WORKING SESSION with Odin (S75) — a defect in the `/goal` tooling self-diagnosed BEFORE any investigation and confirmed on both halves; the PILOT-ROUTE-2B goal issued with owner-supplied operating constraints; the routed baseline finding ruled (deferred, with a standing resurface mechanism installed the same beat)"
       }
     ],
     "literature": [
@@ -5512,6 +5605,27 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "SPARSE-TRAINING DAY — nine distinct items, fourteen executions (hand/finger/wrist ×3 · ankle dorsiflexion ×2 · hamstring · calf ×2 · hip-flexor stretch ×2 · vacuum/TVA · hip-flexor training · forearm · right bicep)"
+      },
+      {
+        "date": "2026-07-27",
+        "cum": 189,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Day C (Skill+Full) SCHEDULED WORKOUT — logged full-force, all 5 prescribed exercises worked (chin-up 3/3/3 + negative back-offs · hanging knee raise slow-tempo 5/3/3 · dead hang 25/20 + scap shrugs 6/5 · Wall HSPU 6/5/5 · chest-tap push-up 3/5/4)"
+      },
+      {
+        "date": "2026-07-27",
+        "cum": 199,
+        "feet": 10,
+        "tier": "small",
+        "activity": "🟩 Chin-up ladder rung 2 (Full chin-up + negative back-off, target 3 × 3 sets) CLEARED 3/3/3 — every set AT target, not carried by an average; clean owner-confirm (full ROM, dead hang at the bottom, chin over the bar, no kip) → ★ advanced to rung 3 (Full chin-up, target 8)"
+      },
+      {
+        "date": "2026-07-27",
+        "cum": 209,
+        "feet": 10,
+        "tier": "small",
+        "activity": "🟪 Handstand ladder rung 5 (Wall HSPU — partial ROM, target 5 × 3 sets) CLEARED 6/5/5 on his FIRST ever attempt at the movement — every set at or above target; clean owner-confirm (depth consistent across all 16 reps, at or beyond what an intentional partial ROM asks) → ★ advanced to rung 6 (Wall HSPU — full ROM, target 8)"
       }
     ],
     "body": [
@@ -7212,10 +7326,11 @@
       "id": "handstand",
       "name": "Vertical Push / Handstand",
       "elite": "freestanding HSPU",
-      "current": 5,
+      "current": 6,
       "cleared_dates": {
         "3": "2026-06-29",
-        "4": "2026-07-20"
+        "4": "2026-07-20",
+        "5": "2026-07-27"
       },
       "rungs": [
         {
@@ -7270,8 +7385,8 @@
         }
       ],
       "chart": 4,
-      "cleared_count": 4,
-      "height": 10,
+      "cleared_count": 5,
+      "height": 15,
       "triangular": [
         0,
         1,
@@ -7521,9 +7636,10 @@
       "id": "chinup",
       "name": "Chin-up",
       "elite": "one-arm chin-up",
-      "current": 2,
+      "current": 3,
       "cleared_dates": {
-        "1": "2026-07-06"
+        "1": "2026-07-06",
+        "2": "2026-07-27"
       },
       "rungs": [
         {
@@ -7578,8 +7694,8 @@
         }
       ],
       "chart": 6,
-      "cleared_count": 1,
-      "height": 1,
+      "cleared_count": 2,
+      "height": 3,
       "triangular": [
         0,
         1,
@@ -8044,6 +8160,12 @@
           "y": 3.79,
           "kind": "session",
           "label": "Chest-tap push-up — 8, 5, 6 (avg 6.3 vs target 8)"
+        },
+        {
+          "date": "2026-07-27",
+          "y": 3.5,
+          "kind": "session",
+          "label": "Chest-tap push-up — 3, 5, 4 (avg 4 vs target 8)"
         }
       ],
       "steps": [
@@ -8191,6 +8313,17 @@
             "got": "35, 35, 39, 32",
             "avg": 35.25
           }
+        },
+        {
+          "date": "2026-07-27",
+          "y": 6,
+          "kind": "clear",
+          "label": "Vertical Push / Handstand — cleared: Wall HSPU — partial ROM (needed 5, got 6, 5, 5 — avg 5.33)",
+          "perf": {
+            "needed": "5",
+            "got": "6, 5, 5",
+            "avg": 5.33
+          }
         }
       ],
       "steps": [
@@ -8205,6 +8338,10 @@
         {
           "date": "2026-07-20",
           "rungs": 5
+        },
+        {
+          "date": "2026-07-27",
+          "rungs": 6
         }
       ],
       "chart": 4
@@ -8371,6 +8508,13 @@
           "y": 4.89,
           "kind": "session",
           "label": "Full pull-up — 3, 3, 2 (avg 2.7 vs target 3)"
+        },
+        {
+          "date": "2026-07-27",
+          "y": 1.5,
+          "kind": "session-extra",
+          "label": "Dead hang — 25, 20 (avg 22.5 vs target 45)",
+          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
         }
       ],
       "steps": [
@@ -8509,6 +8653,17 @@
           "y": 2.94,
           "kind": "session",
           "label": "Full chin-up (+ negative back-off) — 4.5, 2.5, 1.5 (avg 2.8 vs target 3)"
+        },
+        {
+          "date": "2026-07-27",
+          "y": 3,
+          "kind": "clear",
+          "label": "Chin-up — cleared: Full chin-up (+ negative back-off) (needed 3, got 3, 3, 3 — avg 3)",
+          "perf": {
+            "needed": "3",
+            "got": "3, 3, 3",
+            "avg": 3
+          }
         }
       ],
       "steps": [
@@ -8519,6 +8674,10 @@
         {
           "date": "2026-07-06",
           "rungs": 2
+        },
+        {
+          "date": "2026-07-27",
+          "rungs": 3
         }
       ],
       "chart": 6
@@ -8621,6 +8780,12 @@
           "y": 3.25,
           "kind": "session",
           "label": "Dead hang — 13, 17 (avg 15 vs target 60)"
+        },
+        {
+          "date": "2026-07-27",
+          "y": 3.38,
+          "kind": "session",
+          "label": "Dead hang — 25, 20 (avg 22.5 vs target 60)"
         }
       ],
       "steps": [
@@ -8983,6 +9148,13 @@
           "y": 3,
           "kind": "clear",
           "label": "Core — HANGING — cleared: Hanging knee raise — slow eccentric (normal up, 3s down)"
+        },
+        {
+          "date": "2026-07-27",
+          "y": 1.31,
+          "kind": "session-extra",
+          "label": "Hanging knee raise — 5, 3, 3 (avg 3.7 vs target 12)",
+          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
         }
       ],
       "steps": [
@@ -9009,8 +9181,8 @@
       "rejected": []
     },
     "explosive": {
-      "candidates": 7,
-      "plotted": 7,
+      "candidates": 8,
+      "plotted": 8,
       "rejected": []
     },
     "planche": {
@@ -9019,13 +9191,13 @@
       "rejected": []
     },
     "handstand": {
-      "candidates": 7,
-      "plotted": 7,
+      "candidates": 8,
+      "plotted": 8,
       "rejected": []
     },
     "pull": {
-      "candidates": 23,
-      "plotted": 23,
+      "candidates": 24,
+      "plotted": 24,
       "rejected": [
         {
           "date": "2026-06-23",
@@ -9034,13 +9206,13 @@
       ]
     },
     "chinup": {
-      "candidates": 7,
-      "plotted": 7,
+      "candidates": 8,
+      "plotted": 8,
       "rejected": []
     },
     "grip": {
-      "candidates": 13,
-      "plotted": 13,
+      "candidates": 14,
+      "plotted": 14,
       "rejected": []
     },
     "legs": {
@@ -9054,8 +9226,8 @@
       "rejected": []
     },
     "corehang": {
-      "candidates": 22,
-      "plotted": 21,
+      "candidates": 23,
+      "plotted": 22,
       "rejected": [
         {
           "date": "2026-07-25",
@@ -9187,6 +9359,13 @@
             "raw": "8, 5, 6",
             "avg": 6.3,
             "status": "● plotted at 3.79"
+          },
+          {
+            "date": "2026-07-27",
+            "name": "Chest-tap push-up (★explosive)",
+            "raw": "3, 5, 4",
+            "avg": 4,
+            "status": "● plotted at 3.5"
           }
         ]
       },
@@ -9297,6 +9476,13 @@
             "raw": "35, 35, 39, 32",
             "avg": 35.3,
             "status": "✓ CLEAR DAY — carried by the clear dot (needed 30s, avg 35.25)"
+          },
+          {
+            "date": "2026-07-27",
+            "name": "Wall HSPU (★partial ROM)",
+            "raw": "6, 5, 5",
+            "avg": 5.3,
+            "status": "✓ CLEAR DAY — carried by the clear dot (needed 5, avg 5.33)"
           }
         ]
       },
@@ -9499,6 +9685,13 @@
             "raw": "3, 3, 2",
             "avg": 2.7,
             "status": "● plotted at 4.89"
+          },
+          {
+            "date": "2026-07-27",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "25, 20",
+            "avg": 22.5,
+            "status": "◦ floating dot at 1.5 (cleared-rung work)"
           }
         ]
       },
@@ -9586,6 +9779,13 @@
             "raw": "4.5, 2.5, 1.5",
             "avg": 2.8,
             "status": "● plotted at 2.94"
+          },
+          {
+            "date": "2026-07-27",
+            "name": "Chin-up (★full, underhand — then negatives as back-off)",
+            "raw": "3, 3, 3",
+            "avg": 3,
+            "status": "✓ CLEAR DAY — carried by the clear dot (needed 3, avg 3)"
           }
         ]
       },
@@ -9683,6 +9883,13 @@
             "raw": "13, 17",
             "avg": 15,
             "status": "● plotted at 3.25"
+          },
+          {
+            "date": "2026-07-27",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "25, 20",
+            "avg": 22.5,
+            "status": "● plotted at 3.38"
           }
         ]
       },
@@ -10002,6 +10209,13 @@
             "raw": "10, 10, 10",
             "avg": 10,
             "status": "✓ CLEAR DAY — carried by the clear dot (no perf numbers)"
+          },
+          {
+            "date": "2026-07-27",
+            "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
+            "raw": "5, 3, 3",
+            "avg": 3.7,
+            "status": "◦ floating dot at 1.31 (cleared-rung work)"
           }
         ]
       }
@@ -10114,6 +10328,10 @@
           {
             "date": "2026-07-22",
             "detail": "hang: 13, 17 · shrugs: 5, 4"
+          },
+          {
+            "date": "2026-07-27",
+            "detail": "hang: 25, 20 · shrugs: 6, 5"
           }
         ]
       },
@@ -10155,6 +10373,47 @@
           {
             "date": "2026-07-11",
             "detail": "reps: 5, 5, 5"
+          }
+        ]
+      },
+      {
+        "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
+        "rows": [
+          {
+            "date": "2026-07-08",
+            "detail": "reps: 5, 5, 5"
+          },
+          {
+            "date": "2026-07-11",
+            "detail": "reps: 8, 8, 5"
+          },
+          {
+            "date": "2026-07-13",
+            "detail": "reps: 10,  6,  6"
+          },
+          {
+            "date": "2026-07-15",
+            "detail": "reps: 7, 6, 6"
+          },
+          {
+            "date": "2026-07-18",
+            "detail": "reps: 10, 7, 6"
+          },
+          {
+            "date": "2026-07-20",
+            "detail": "reps: 10, 5.5, 6.5"
+          },
+          {
+            "date": "2026-07-22",
+            "detail": "reps: 10, 10, 8"
+          },
+          {
+            "date": "2026-07-25",
+            "detail": "reps: 10, 10, 10"
+          },
+          {
+            "date": "2026-07-27",
+            "detail": "reps: 5, 3, 3"
           }
         ]
       },
@@ -10229,43 +10488,6 @@
           {
             "date": "2026-07-25",
             "detail": "full reps: 3, 3, 2 · neg back-off: 4, 5, 4"
-          }
-        ]
-      },
-      {
-        "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
-        "rows": [
-          {
-            "date": "2026-07-08",
-            "detail": "reps: 5, 5, 5"
-          },
-          {
-            "date": "2026-07-11",
-            "detail": "reps: 8, 8, 5"
-          },
-          {
-            "date": "2026-07-13",
-            "detail": "reps: 10,  6,  6"
-          },
-          {
-            "date": "2026-07-15",
-            "detail": "reps: 7, 6, 6"
-          },
-          {
-            "date": "2026-07-18",
-            "detail": "reps: 10, 7, 6"
-          },
-          {
-            "date": "2026-07-20",
-            "detail": "reps: 10, 5.5, 6.5"
-          },
-          {
-            "date": "2026-07-22",
-            "detail": "reps: 10, 10, 8"
-          },
-          {
-            "date": "2026-07-25",
-            "detail": "reps: 10, 10, 10"
           }
         ]
       },
@@ -10626,6 +10848,40 @@
         ]
       },
       {
+        "name": "Chin-up (★full, underhand — then negatives as back-off)",
+        "rows": [
+          {
+            "date": "2026-07-13",
+            "detail": "full reps: 4, 2.5,  .5 · neg back-off: 0, 4, 3"
+          },
+          {
+            "date": "2026-07-20",
+            "detail": "full reps: 4.5, 2.5, 1.5 · neg back-off: 3, 3.5, 2"
+          },
+          {
+            "date": "2026-07-27",
+            "detail": "full reps: 3, 3, 3 · neg back-off: 2, 3, 3"
+          }
+        ]
+      },
+      {
+        "name": "Chest-tap push-up (★explosive)",
+        "rows": [
+          {
+            "date": "2026-07-13",
+            "detail": "reps: 4, 5, 6"
+          },
+          {
+            "date": "2026-07-20",
+            "detail": "reps: 8, 5, 6"
+          },
+          {
+            "date": "2026-07-27",
+            "detail": "reps: 3, 5, 4"
+          }
+        ]
+      },
+      {
         "name": "Grip+trap (flex): towel hang + scap shrugs",
         "rows": [
           {
@@ -10700,32 +10956,6 @@
           {
             "date": "2026-07-16",
             "detail": "reps / held: 45, 45"
-          }
-        ]
-      },
-      {
-        "name": "Chin-up (★full, underhand — then negatives as back-off)",
-        "rows": [
-          {
-            "date": "2026-07-13",
-            "detail": "full reps: 4, 2.5,  .5 · neg back-off: 0, 4, 3"
-          },
-          {
-            "date": "2026-07-20",
-            "detail": "full reps: 4.5, 2.5, 1.5 · neg back-off: 3, 3.5, 2"
-          }
-        ]
-      },
-      {
-        "name": "Chest-tap push-up (★explosive)",
-        "rows": [
-          {
-            "date": "2026-07-13",
-            "detail": "reps: 4, 5, 6"
-          },
-          {
-            "date": "2026-07-20",
-            "detail": "reps: 8, 5, 6"
           }
         ]
       },
@@ -10919,9 +11149,73 @@
             "detail": "reps: 6, 4"
           }
         ]
+      },
+      {
+        "name": "Wall HSPU (★partial ROM)",
+        "rows": [
+          {
+            "date": "2026-07-27",
+            "detail": "reps: 6, 5, 5"
+          }
+        ]
       }
     ],
     "dates": [
+      {
+        "date": "2026-07-27",
+        "rows": [
+          {
+            "ladderId": "chinup",
+            "ladderName": "Chin-up",
+            "name": "Chin-up (★full, underhand — then negatives as back-off)",
+            "raw": "3, 3, 3",
+            "avg": 3,
+            "target": "3",
+            "sets": 3,
+            "cleared": true
+          },
+          {
+            "ladderId": "corehang",
+            "ladderName": "Core — HANGING",
+            "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
+            "raw": "5, 3, 3",
+            "avg": 3.7,
+            "target": "12",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "pull",
+            "ladderName": "Pull",
+            "name": "Dead hang ★",
+            "raw": "25, 20",
+            "avg": 22.5,
+            "target": "45s",
+            "sets": 2,
+            "cleared": false
+          },
+          {
+            "ladderId": "handstand",
+            "ladderName": "Vertical Push / Handstand",
+            "name": "Wall HSPU (★partial ROM)",
+            "raw": "6, 5, 5",
+            "avg": 5.3,
+            "target": "5",
+            "sets": 3,
+            "cleared": true
+          },
+          {
+            "ladderId": "explosive",
+            "ladderName": "Horizontal Push — EXPLOSIVE",
+            "name": "Chest-tap push-up (★explosive)",
+            "raw": "3, 5, 4",
+            "avg": 4,
+            "target": "8",
+            "sets": 3,
+            "cleared": false
+          }
+        ]
+      },
       {
         "date": "2026-07-25",
         "rows": [
@@ -12142,13 +12436,29 @@
     }
   ],
   "last_perf": {
-    "pull": {
-      "date": "2026-07-25",
-      "detail": "3, 3, 2"
+    "chinup": {
+      "date": "2026-07-27",
+      "detail": "3, 3, 3"
     },
     "corehang": {
-      "date": "2026-07-25",
-      "detail": "10, 10, 10"
+      "date": "2026-07-27",
+      "detail": "5, 3, 3"
+    },
+    "pull": {
+      "date": "2026-07-27",
+      "detail": "25, 20"
+    },
+    "grip": {
+      "date": "2026-07-27",
+      "detail": "25, 20"
+    },
+    "handstand": {
+      "date": "2026-07-27",
+      "detail": "6, 5, 5"
+    },
+    "explosive": {
+      "date": "2026-07-27",
+      "detail": "3, 5, 4"
     },
     "hpull": {
       "date": "2026-07-25",
@@ -12157,10 +12467,6 @@
     "legs": {
       "date": "2026-07-25",
       "detail": "5, 5, 5"
-    },
-    "grip": {
-      "date": "2026-07-22",
-      "detail": "13, 17"
     },
     "push": {
       "date": "2026-07-22",
@@ -12173,18 +12479,6 @@
     "planche": {
       "date": "2026-07-22",
       "detail": "5, 5"
-    },
-    "chinup": {
-      "date": "2026-07-20",
-      "detail": "4.5, 2.5, 1.5"
-    },
-    "handstand": {
-      "date": "2026-07-20",
-      "detail": "35, 35, 39, 32"
-    },
-    "explosive": {
-      "date": "2026-07-20",
-      "detail": "8, 5, 6"
     }
   },
   "health": {
