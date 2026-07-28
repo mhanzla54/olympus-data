@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 794,
+    "overall_total": 795,
     "generated_for": "2026-07-27",
-    "built_at": "2026-07-27T20:37:52.430Z",
+    "built_at": "2026-07-28T00:32:27.477Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 289
+      "ft_to_go": 288
     }
   },
   "lanes": [
@@ -77,7 +77,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 209,
+      "current": 210,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -4166,6 +4166,18 @@
       "reasoning": "Osiris working session, type = BUILD WORKING SESSION, per the 2026-07-09 extension — the type the codebook defines word-for-word as \"Atlas in the loop: decisions, fact-checks, smoke approvals, dispatch briefs.\" THE STRONGEST ITEM IS A FACT-CHECK THAT PRECEDED THE INVESTIGATION: he observed that `/goal` runs on the Osiris build almost never print \"Goal achieved\" and proposed the cause unprompted — the commands are not written in a way that lets them finish, or carry ambiguity the checker cannot resolve. Odin then read all nine goal commands written to date and confirmed BOTH halves (every one ends with a self-authored second exit; the recent large goals state completion by reference to an external spec rather than as an inline list), and checked the harness side to establish that the terminal state is real and was correctly withheld. A diagnosis that arrives before the investigation and survives it is the Atlas tool-vs-job boundary landing on his side about as plainly as it can land — the artifact IS the job, and this is him shaping it. The DISPATCH BRIEF is the second item: he issued PILOT-ROUTE-2B and supplied its operating constraints himself (a hard 4,000-character cap; the one-goal-or-two call delegated to Odin with the sequencing stated). SUBSTANCE FLOOR cleared. THE BASELINE RULING FOLDS IN AND BUYS NO SECOND FOOT: it is one call made in the flow of this sitting, and the call was to DEFER — the item was expressly NOT worked — so it cannot clear the floor's \"a single item genuinely worked for a real sitting\"; it landed as a standing banner plus a pending-flesh-out item, not as a lock, so there is no decision-lock/MDL session on this date at all. Same line I drew on 7/26 against the sequencing reversal; splitting one sitting into extra named types is the farm day-keying exists to stop. ⛔ THE `/report` SLASH-COMMAND DESIGN BOOKS NOTHING IN ANY LANE, and it is real specification work so I name the ground: 📕's object is THE STUDY (G-2) and a general-purpose report command is personal workflow tooling — the same family as designing his own learning/life systems, which the judgment-call ruling puts out of scope; 🐍 is closed independently because Odin authored the file (agent-authored majority, amendment D). The C3 door is open if he reads that exclusion more narrowly than I do. DEDUP grepped: no 📕 row on 2026-07-27 before this",
       "evidence": "Odin journal S75; BKM/in-flight/osiris-study/pilot-deploy-1-goal-command.md (format-notes); pilot-route-2b-goal-command.md; active-context.md standing banner; capture rows 2026-07-27",
       "booked": "2026-07-27"
+    },
+    {
+      "date": "2026-07-27",
+      "lane": "strength",
+      "activity": "SPARSE-TRAINING DAY — ELEVEN distinct items, nineteen executions (hand/finger/wrist ×3 · ankle dorsiflexion · hamstring · calf ×2 · chest/arm/shoulder ×2 · hip-flexor stretch · vacuum/TVA ×2 · hip-flexor training · right bicep · right tricep overhead band ×2 · band external rotation left-only ×3)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 210,
+      "cum_overall": 795,
+      "reasoning": "The sparse-training-day entry (C3 amendment E, 2026-07-25). The floor is ≥6 DISTINCT menu items each genuinely performed at least once inside one EST day; eleven clears it by five and is the HIGHEST distinct count since the stream opened on 7/25 (8 items) — nowhere near the token-pass exclusion, with five of the eleven doubled or tripled. TIMING IS IRRELEVANT by the entry's own wording, so the scatter across the day costs nothing. THE DISJOINT-WORK RULE is the only real question on a training day and it is satisfied on the capture's own facts: today WAS a Day C workout (chin-up · hanging knee raise · dead hang + scap shrugs · Wall HSPU · chest-tap push-up), and NOT ONE of the eleven sparse items is that work re-labelled — items 1–8 are stretches and deep-core/hip work per the menu (`sparse-training.md`), items 10–11 and 15 are right-side isolation and left-only cuff control, and the three menu items that could plausibly have collided with Day C volume — FOREARM (grip, vs the dead hang) and SCAPULAR PULL-UPS / SCAPULAR PUSH-UPS (vs the scap shrugs) — are named in the capture's own NOT-DONE list. No rep is counted twice. Item 5 is \"Chest, arm, shoulder STRETCHING\" per the menu, not pressing volume, so it does not touch the chest-tap push-up either. DAY-KEYED, one per (date, kind): DEDUP GREPPED — 2026-07-27 carried no sparse row before this, and the entry has always stacked with a main session (\"on a rest/off day OR AS EXTRA\"), exactly as the 7/25 first booking did on a Day B date. Third sparse day booked, and the first on a full training day. Athena's `/sparsetraining` capture mechanism ticks nothing (her work + scoreboard infrastructure); I book the placed row and never infer a sparse day from the log file",
+      "evidence": "sparse-training-log.md 2026-07-27 row; sparse-training.md menu (day-counts rule + not-done items); capture row 2026-07-27",
+      "booked": "2026-07-27"
     }
   ],
   "series": {
@@ -5626,6 +5638,13 @@
         "feet": 10,
         "tier": "small",
         "activity": "🟪 Handstand ladder rung 5 (Wall HSPU — partial ROM, target 5 × 3 sets) CLEARED 6/5/5 on his FIRST ever attempt at the movement — every set at or above target; clean owner-confirm (depth consistent across all 16 reps, at or beyond what an intentional partial ROM asks) → ★ advanced to rung 6 (Wall HSPU — full ROM, target 8)"
+      },
+      {
+        "date": "2026-07-27",
+        "cum": 210,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "SPARSE-TRAINING DAY — ELEVEN distinct items, nineteen executions (hand/finger/wrist ×3 · ankle dorsiflexion · hamstring · calf ×2 · chest/arm/shoulder ×2 · hip-flexor stretch · vacuum/TVA ×2 · hip-flexor training · right bicep · right tricep overhead band ×2 · band external rotation left-only ×3)"
       }
     ],
     "body": [
@@ -12714,8 +12733,7 @@
         "kcal": 1445,
         "protein": 174,
         "dayType": "strict",
-        "provisional": false,
-        "spike": true
+        "provisional": false
       },
       {
         "date": "2026-06-22",
@@ -12983,6 +13001,14 @@
         "w": 218.2,
         "kcal": 1856,
         "protein": 169,
+        "dayType": "reverse-ramp",
+        "provisional": false
+      },
+      {
+        "date": "2026-07-27",
+        "w": 218,
+        "kcal": 2142,
+        "protein": 152,
         "dayType": "reverse-ramp",
         "provisional": true
       }
@@ -13279,9 +13305,13 @@
       {
         "date": "2026-07-26",
         "w": 219.13
+      },
+      {
+        "date": "2026-07-27",
+        "w": 218.6
       }
     ],
-    "noiseBand": 1.43,
+    "noiseBand": 1.4,
     "floors": [
       {
         "y": 230,
@@ -13394,8 +13424,8 @@
         "week": "Jul 19–Jul 25"
       },
       {
-        "date": "2026-07-26",
-        "w": 218.2,
+        "date": "2026-07-27",
+        "w": 218,
         "week": "Jul 26–Aug 1"
       }
     ],
@@ -13492,27 +13522,22 @@
       },
       {
         "date": "2026-07-29",
-        "w": 218.2,
+        "w": 218.1,
         "week": "Jul 26–Aug 1",
-        "n": 1
+        "n": 2
       }
     ],
     "banner": {
       "startDate": "2026-03-22",
       "startW": 235,
-      "lost": 15.9,
+      "lost": 16.4,
       "goal": 180,
-      "pct": 28.9,
+      "pct": 29.8,
       "nextFloor": 210,
-      "toGo": 9.1,
+      "toGo": 8.6,
       "newLow": false
     },
     "strip": [
-      {
-        "date": "2026-06-27",
-        "state": "good",
-        "kcal": 1455
-      },
       {
         "date": "2026-06-28",
         "state": "good",
@@ -13655,8 +13680,13 @@
       },
       {
         "date": "2026-07-26",
-        "state": "partial",
+        "state": "off",
         "kcal": 1856
+      },
+      {
+        "date": "2026-07-27",
+        "state": "partial",
+        "kcal": 2142
       }
     ],
     "days": [
@@ -14152,6 +14182,14 @@
         "date": "2026-07-26",
         "kcal": 1856,
         "protein": 169,
+        "dayType": "reverse-ramp",
+        "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-07-27",
+        "kcal": 2142,
+        "protein": 152,
         "dayType": "reverse-ramp",
         "logged": "full",
         "provisional": true
