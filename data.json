@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 800,
-    "generated_for": "2026-07-28",
-    "built_at": "2026-07-28T23:24:21.068Z",
+    "overall_total": 801,
+    "generated_for": "2026-07-29",
+    "built_at": "2026-07-29T12:56:25.557Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 283
+      "ft_to_go": 282
     }
   },
   "lanes": [
@@ -57,7 +57,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 36,
+      "current": 37,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -4238,6 +4238,18 @@
       "reasoning": "The sparse-training-day entry (C3 amendment E, 2026-07-25). The floor is ≥6 DISTINCT menu items each genuinely performed at least once inside one EST day; nine clears it by three, and three of the nine were doubled — clear of the token-pass exclusion. TIMING IS IRRELEVANT by the entry's own wording. THE DISJOINT-WORK RULE DOES NOT ARISE TODAY, and this is the first sparse day where that is true by ABSENCE rather than by adjudication: the capture states that NO main workout was performed — a declared rest day, with Day A tomorrow (7/29) — so there is no workout volume for a sparse item to be re-labelled out of. On 7/27 I had to walk the collision item by item; today there is nothing to collide with. Fact-checked against the live sparse log per the lane-source map: the 2026-07-28 row reads 9 distinct, floor ✅ MET, and independently records \"Rest day — no main workout logged 7/28.\" Day-keyed, one per (date, kind); dedup grepped — no sparse row on 2026-07-28 before this. Fourth day of the stream (run: 8, 9, 11, 9). → 🔺 the climb reaches 800 ft",
       "evidence": "fitness/sparse-training-log.md row 2026-07-28; fitness/sparse-training.md; capture row 2026-07-28",
       "booked": "2026-07-28"
+    },
+    {
+      "date": "2026-07-28",
+      "lane": "method",
+      "activity": "Osiris BUILD WORKING SESSION with Odin (S77–S78, one overnight sitting) — the MDL-147 agent-routed-autonomy flip carried through a bounded PILOT-DEPLOY-1 close-out and then a scoped PILOT-ROUTE-2C build: the goal issued and re-issued under the 4,000-character cap, six gate rounds run under his direction, the certification attempt STOPPED by his call, a diagnostic report ordered, and the follow-on build's scope set by him in six named boundaries",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 37,
+      "cum_overall": 801,
+      "reasoning": "Osiris working session, type = BUILD WORKING SESSION, per the 2026-07-09 extension — the type the codebook defines word-for-word as \"Atlas in the loop: decisions, fact-checks, smoke approvals, dispatch briefs.\" ⚠️ AUTHORSHIP RULED FIRST, because the capture put it first: the owner wrote NO code and ran NO commands; every build step, test, gate round and repair was executed by Odin and dispatched sub-agents. That is the Atlas tool-vs-job boundary's exact question, and it lands on his side — the boundary excludes \"a fully autonomous build the owner merely received,\" and this was not received, it was steered. TWO ACTS CARRY IT. (1) THE STOP CALL: he ended a certification attempt that had been open across THREE sessions, choosing to clear the goal rather than let it keep running. That is a judgment with a cost, made against the momentum of his own agents, and it is the single most owner-shaped act in the tail. (2) THE SCOPE MESSAGE: for the follow-on he set six boundaries himself — fold three gate-4 repairs into a bounded step 0 (revert the fail-open tolerance Odin had added to the deploy boundary check; make the churn-rig row rename a DIRECTORY not files; resolve the systemd hardening flag silently disabling a jail mode), KEEP the two fixes that had verified good rather than re-doing them, do NOT open a tenth security-review round, and leave the two remaining HIGH findings rated and open rather than blocking. Selecting which reported defects to act on and where to stop reviewing is scope control, not receipt. Supporting: he asked to be shown the command with its character count plus what had to be guessed and which acceptance criterion was most at risk of never evaluating true — a fact-check demanded BEFORE pasting, the same shape as the 7/27 pre-investigation diagnosis. SUBSTANCE FLOOR cleared several times over. 🔒 ONE TICK, NOT TWO — the two capture rows are the SAME (date, session-type) and the entry is day-keyed: \"a second same-type sitting the same day folds in.\" Both rows are build direction on 2026-07-28; the second is the continuation of the first, and the capturer states plainly that the work ran overnight into the early hours of 7/29 and is correctly dated 7/28. Splitting one continuous sitting into two named sessions is precisely the farm day-keying exists to stop — the same line I drew 7/26 against the sequencing reversal and 7/27 against the baseline ruling. 🔒 THE ORDERED REPORT BOOKS NOTHING EXTRA: he ordered it and received it, Odin authored it, and it is not a roadmap artifact — received agent work is the excluded half of the tool-vs-job boundary. ⛔ NO OTHER LANE PAYS. 🐍 is closed twice over: agent-authored majority is an outright amendment-D exclusion, and G-2 settles it anyway — this work's object is THE STUDY, not his learning. ✍️ is closed by the same object test plus bar 1: the substrate is not public and no stranger can open it. DEDUP grepped: no 📕 row of any type on 2026-07-28 before this, and no row anywhere referencing PILOT-DEPLOY-1 close-out or PILOT-ROUTE-2C",
+      "evidence": "commits ab46183, 9d1b644, 341a8af (S77 close-out), ad8ffb5, 6d06f94, cce6d22, 3fba355, 0a5fdec (S78 step 0+1, step 8, gate-4 R5); _build/pilot-deploy-1-report.md; _build/pilot-route-2c-report.md; Owner Inbox/2026-07-28 Why The Gate Keeps Not Closing.html; Odin journal S77/S78; capture rows 2026-07-28",
+      "booked": "2026-07-29"
     }
   ],
   "series": {
@@ -5351,6 +5363,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Osiris BUILD WORKING SESSION with Odin (S75) — a defect in the `/goal` tooling self-diagnosed BEFORE any investigation and confirmed on both halves; the PILOT-ROUTE-2B goal issued with owner-supplied operating constraints; the routed baseline finding ruled (deferred, with a standing resurface mechanism installed the same beat)"
+      },
+      {
+        "date": "2026-07-28",
+        "cum": 37,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris BUILD WORKING SESSION with Odin (S77–S78, one overnight sitting) — the MDL-147 agent-routed-autonomy flip carried through a bounded PILOT-DEPLOY-1 close-out and then a scoped PILOT-ROUTE-2C build: the goal issued and re-issued under the 4,000-character cap, six gate rounds run under his direction, the certification attempt STOPPED by his call, a diagnostic report ordered, and the follow-on build's scope set by him in six named boundaries"
       }
     ],
     "literature": [
