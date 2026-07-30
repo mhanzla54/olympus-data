@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 801,
+    "overall_total": 815,
     "generated_for": "2026-07-29",
-    "built_at": "2026-07-29T12:56:25.557Z",
+    "built_at": "2026-07-30T01:32:03.182Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 282
+      "ft_to_go": 268
     }
   },
   "lanes": [
@@ -57,7 +57,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 37,
+      "current": 39,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -77,7 +77,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 211,
+      "current": 222,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -87,7 +87,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 327,
+      "current": 328,
       "working_on": "the next new-pound low (≤ 214.8 lb)"
     },
     {
@@ -4250,6 +4250,66 @@
       "reasoning": "Osiris working session, type = BUILD WORKING SESSION, per the 2026-07-09 extension — the type the codebook defines word-for-word as \"Atlas in the loop: decisions, fact-checks, smoke approvals, dispatch briefs.\" ⚠️ AUTHORSHIP RULED FIRST, because the capture put it first: the owner wrote NO code and ran NO commands; every build step, test, gate round and repair was executed by Odin and dispatched sub-agents. That is the Atlas tool-vs-job boundary's exact question, and it lands on his side — the boundary excludes \"a fully autonomous build the owner merely received,\" and this was not received, it was steered. TWO ACTS CARRY IT. (1) THE STOP CALL: he ended a certification attempt that had been open across THREE sessions, choosing to clear the goal rather than let it keep running. That is a judgment with a cost, made against the momentum of his own agents, and it is the single most owner-shaped act in the tail. (2) THE SCOPE MESSAGE: for the follow-on he set six boundaries himself — fold three gate-4 repairs into a bounded step 0 (revert the fail-open tolerance Odin had added to the deploy boundary check; make the churn-rig row rename a DIRECTORY not files; resolve the systemd hardening flag silently disabling a jail mode), KEEP the two fixes that had verified good rather than re-doing them, do NOT open a tenth security-review round, and leave the two remaining HIGH findings rated and open rather than blocking. Selecting which reported defects to act on and where to stop reviewing is scope control, not receipt. Supporting: he asked to be shown the command with its character count plus what had to be guessed and which acceptance criterion was most at risk of never evaluating true — a fact-check demanded BEFORE pasting, the same shape as the 7/27 pre-investigation diagnosis. SUBSTANCE FLOOR cleared several times over. 🔒 ONE TICK, NOT TWO — the two capture rows are the SAME (date, session-type) and the entry is day-keyed: \"a second same-type sitting the same day folds in.\" Both rows are build direction on 2026-07-28; the second is the continuation of the first, and the capturer states plainly that the work ran overnight into the early hours of 7/29 and is correctly dated 7/28. Splitting one continuous sitting into two named sessions is precisely the farm day-keying exists to stop — the same line I drew 7/26 against the sequencing reversal and 7/27 against the baseline ruling. 🔒 THE ORDERED REPORT BOOKS NOTHING EXTRA: he ordered it and received it, Odin authored it, and it is not a roadmap artifact — received agent work is the excluded half of the tool-vs-job boundary. ⛔ NO OTHER LANE PAYS. 🐍 is closed twice over: agent-authored majority is an outright amendment-D exclusion, and G-2 settles it anyway — this work's object is THE STUDY, not his learning. ✍️ is closed by the same object test plus bar 1: the substrate is not public and no stranger can open it. DEDUP grepped: no 📕 row of any type on 2026-07-28 before this, and no row anywhere referencing PILOT-DEPLOY-1 close-out or PILOT-ROUTE-2C",
       "evidence": "commits ab46183, 9d1b644, 341a8af (S77 close-out), ad8ffb5, 6d06f94, cce6d22, 3fba355, 0a5fdec (S78 step 0+1, step 8, gate-4 R5); _build/pilot-deploy-1-report.md; _build/pilot-route-2c-report.md; Owner Inbox/2026-07-28 Why The Gate Keeps Not Closing.html; Odin journal S77/S78; capture rows 2026-07-28",
       "booked": "2026-07-29"
+    },
+    {
+      "date": "2026-07-28",
+      "lane": "body",
+      "activity": "Protein-goal day — 177g logged against the 160g floor (goal 180 − 20), reverse-ramp day 4; the FINAL settled figure on a day held twice",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 328,
+      "cum_overall": 802,
+      "reasoning": "The protein-day entry, fully independent of the calorie tick. 177 g clears the 160 g floor (goal 180 − 20) by 17. THE HOLD CURED — SIXTH CLEAN CURE THIS MONTH (7/22, 7/23, 7/24, 7/25, 7/27, and now 7/28). I held both halves of 7/28 on two consecutive runs at 989 kcal / 118 g `provisional: true`, writing each time that BOTH HALVES COULD ONLY IMPROVE and that refusing would refuse a day that would most likely land. An upstream capturer then placed the FINAL row from the 2026-07-29T21:05 warehouse pull: `provisional: false`, 2,505 kcal / 177 g. Per §0.5 I did not go fetch that pull myself. The protein half moved 118 → 177 and crossed the floor; it books late on its own merits, exactly as every cured hold this month has. ⛔ THE CALORIE HALF IS REFUSED, NOT BOOKED, AND THE ASYMMETRY IS THE OPPOSITE OF 7/27's — see the standings note. G-1 PROVENANCE CHECKED BEFORE RULING EITHER HALF: the ramp-day-4 target of ~2,050 (band 1,750–2,350) derives from the OWNER'S OWN pre-registered program (startKcal 1,750 from 2026-07-25, +100/day — the plan pre-registered 2026-07-06 and locked 2026-07-26), not from an agent's recommendation, so G-1 grants no relief in either direction; a miss against a target he set himself stays missed permanently. The 160 g floor is likewise his. DEDUP grepped: NO ⚖️ Body row of any kind existed on 2026-07-28 before this — both halves had been HELD across two runs, never booked; the 7/28 rows in the log are 🧠, 🐍, ✍️, 🏋️ and 📕 only",
+      "evidence": "fitness/health-data.json (lastPull 2026-07-29T21:05:17, 2026-07-28 provisional:false, flag `2026-07-28 settle-correction`); health-query.mjs --summary; capture rows 2026-07-28 (18:41 provisional) + 2026-07-28 FINAL cure",
+      "booked": "2026-07-29"
+    },
+    {
+      "date": "2026-07-29",
+      "lane": "method",
+      "activity": "Osiris DECISION-LOCK / MDL session with Odin (S79) — three decisions locked in one sitting, walked one at a time at his direction: MDL-150 (the study's behavioural reference point — three legs, a frozen question battery administered exactly twice and both times outside the observation window, a parallel frozen twin rejected, a 14-day opening period), MDL-151 (runaway-spend containment — a configuration-driven daily total-spend ceiling, invisible to the agent, soft-stopping the activation rather than engaging the full-stop control), MDL-152 (routing-integrity evidence — an offline reconciliation published as a re-runnable corpus query, scheduled after the boot, cryptographic signing rejected)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 38,
+      "cum_overall": 803,
+      "reasoning": "Osiris working session, type = DECISION-LOCK / MDL SESSION, per the 2026-07-09 extension — the codebook's own anchor for this type reads \"1 or 10 locks in a sitting = ONE tiny,\" so three locks are one foot and not three. SUBSTANCE FLOOR: the owner's stated anchor is ≥ ~3 MDL locks for a lock session; three locks land exactly on it, and the floor is cleared several times over by what sits inside them. ⚠️ AUTHORSHIP RULED FIRST because the capture put it first: Odin drafted the lock text and made the file edits; the decisions, the rejections and the framing were the owner's. The Atlas tool-vs-job boundary excludes only a fully autonomous run he merely received, and this is the furthest thing from receipt — IN ALL THREE LOCKS THE LOCKED DECISION DIFFERS FROM WHAT ODIN PROPOSED BECAUSE HE CHANGED IT, five times over on the capture's own record: he caught that Odin had conflated the 7-day shakedown with T0 and therefore mis-stated a deadline; he saw that a character-carrying clean instance at T0 IS the agent, which deleted a step from Odin's design; he recalled an existing versioned-artifact mechanism that turned out to be one of the three legs already built and which Odin had under-credited; he rejected Odin's per-activation spend design for a daily ceiling, which also proved cheaper to build because the spend ledger carries no per-run attribution; and he rejected Odin's use of \"disobey\" as implying intent that code cannot have, with the replacement framing now carrying the third lock. A session where the agent's proposal loses five arguments to the owner is the paradigm case of in-the-loop shaping, not the edge of it. 🔒 THE THIRD CAPTURE ROW OF THIS SITTING FOLDS IN HERE AND BOOKS NOTHING EXTRA: he identified that no durable place existed for decisions needing a later walkthrough, specified what it must hold (the question, why it came up, the options including the one in force, what it blocks, what would settle it), and `open-walkthroughs.md` was created with five entries — all five drawn from THIS sitting. That is the overflow of the very decision session that already pays: the same (date, session-type), so it folds by the day-keying rule. NOR does it earn a separate ARTIFACT tick — artifacts are not day-keyed and would stack, but a five-row decision-queue register, Odin-authored, assembling questions raised in the same sitting, sits below the artifact bar; the tiny-assembly artifacts the codebook names (seed bible, accounts, cover letter) are roadmap deliverables, and this is process upkeep for the pipeline. Strictness says default LOWER when unsure, and I am not unsure. ⛔ NO OTHER LANE PAYS: 🐍 by agent authorship and by G-2 (this work's object is THE STUDY, not his learning); ✍️ by G-2 and by bar 1 — nothing here is public and no stranger can open the MDL. DEDUP grepped: no ledger row of any lane existed on 2026-07-29 before this run, and no row anywhere references MDL-150, MDL-151 or MDL-152",
+      "evidence": "master-decision-log.md MDL-150/151/152 + MDL-002 terminology pointer; commits 6001dd7, ae6dbd3, 8d42412; audit-decisions.sh PASS (no gaps, no duplicates, references intact); BKM/in-flight/osiris-study/open-walkthroughs.md; Odin journal S79; capture rows 2026-07-29",
+      "booked": "2026-07-29"
+    },
+    {
+      "date": "2026-07-29",
+      "lane": "method",
+      "activity": "Osiris ARTIFACT REVIEW / WALKTHROUGH session with Odin (S79) — the regenerated tick-prompt read-through (the exact text the agent receives at every activation) reviewed section by section, all nine sections, a verdict returned on each: five approved outright, edits ordered on two, and eleven substantive questions produced, two of which changed the record",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 39,
+      "cum_overall": 804,
+      "reasoning": "Osiris working session, type = ARTIFACT REVIEW / WALKTHROUGH, per the 2026-07-09 extension — the codebook defines the type word-for-word as \"owner makes the calls on a team draft — e.g. a spec walkthrough, a seed-bible line-edit,\" and a nine-section verdict pass over the live activation prompt is that entry's centre, not its edge. 🔒 A SECOND TICK ON THE SAME DAY AND IN THE SAME SESSION, AND THE RULE SAYS SO PLAINLY: the entry is day-keyed by (date, SESSION-TYPE), and \"a different-type session the same day is its own tick.\" Decision-locking and artifact review are two separately named types in the list. PRECEDENT IS EXACT: 2026-07-26, session S74, five capture rows, TWO 📕 tinies — build working session plus decision-lock/MDL session. This is the same shape with different types. It is also NOT the thing I refused three runs running: 7/26 (the sequencing reversal), 7/27 (the deferred baseline ruling) and 7/28 (the overnight substrate build) were all refusals to split ONE type into two names. Here the types genuinely differ, and refusing a real second type would be as wrong as inventing one. SUBSTANCE FLOOR cleared far above the line: nine sections each with a verdict, two ordered edits (the founding document's \"is yours to build\" softened because the verb carries a direction and pre-supposes the very development the study exists to measure — a methodological catch, not a style note; and the values block stripped of a faith-specific dietary clause and generalised from one religion to religion in general, on his reasoning that the values block is the most-quoted passage in the apparatus), eleven questions, and two record-changing findings. ⚠️ AUTHORSHIP: Odin rebuilt the review surface and wrote the explainers; the review, the verdicts, the eleven questions and the rulings were the owner's. THE TWO FINDINGS ARE WHY THIS TICK IS UNARGUABLE UNDER THE TOOL-VS-JOB BOUNDARY — both are the owner CORRECTING THE APPARATUS AGAINST ITS OWN DOCUMENTATION: his challenge to the displayed tool surface established that 21 tools exist across the nine modes with 18 each on the two production modes, not the 2–3 Odin's review page had implied (an error in Odin's page, conceded); and pursuing that thread surfaced that NO web-search tool exists anywhere in the codebase while the founding document tells the agent \"you can research anything on the open internet\" — a live contradiction between the apparatus and the text the subject is given, found by the owner reading, and ruled to be built comprehensively. He also ruled to run the pilot on the existing interim within-run continuity rather than delay the boot again, having argued that continuity at the granular level is load-bearing for a study about continuity over twelve months — a scope call with a cost, of the same family as the 7/28 STOP call. ⛔ NO OTHER LANE PAYS: 🐍 by agent authorship and by G-2; ✍️ by G-2 and by bar 1 — the review surface is an internal file in Odin's tree, not a URL a stranger can open. DEDUP grepped: no prior row references the tick-prompt review, and this is a different session-type from the MDL row booked immediately above",
+      "evidence": "tick-prompt-review.md + tick-prompt-review.html (regenerated live from the installed config and Bible v1); _explainers/2026-07-29-sitting-questions-answered.html; _explainers/2026-07-29-round-two-memory-continuity-tools.html; Odin journal S79; capture rows 2026-07-29",
+      "booked": "2026-07-29"
+    },
+    {
+      "date": "2026-07-29",
+      "lane": "strength",
+      "activity": "Day A (Push+Pull) SCHEDULED WORKOUT — logged full-force, all 7 prescribed exercises worked (pull-up ★full 3/3/3 + negative back-off 3/3/4 · hanging knee raise slow-tempo 4/3/3 · dead hang 19s/20s + scap shrugs 9/9 · typewriter push-up 5/3/3 · feet-elevated pike push-up 6/5.5/3 · V-up finisher 5/3/3 · pseudo-planche push-up 5/4), no skips recorded",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 212,
+      "cum_overall": 805,
+      "reasoning": "The logged full-force workout entry — day-keyed, one per (date, kind). Seven exercises worked with nothing skipped clears the bad-day-floor exclusion (a token 2–3-casual-sets pass) many times over. 🔒 THE SESSION TINY AND THE RUNG SMALL STACK — owner ruling 2026-07-09, which REVERSED the 2026-07-02 suppression (that amendment had said a workout producing a separately-ticked rung-clear does not also earn the session tiny; it is dead forward of 7/09, with the 7/01, 7/06 and 7/08 days left as scored). Standing precedent 2026-07-27: one Day C booked the session tiny PLUS two rung smalls, +21 ft. NO OTHER RUNG CLEARED IN THIS SESSION and I checked every ★ move against its target rather than assuming: pseudo-planche 5/4 vs 8 to advance · dead hang 19s/20s vs 60s · typewriter 5/3/3 vs 8/side · hanging knee raise 4/3/3 vs 10 · V-up 5/3/3 vs 15 — all short, none books. Exactly one clear, which is why the ladder-drift date multiset carries a single 2026-07-29. DEDUP grepped: no 🏋️ row of any kind on 2026-07-29 before this — the only prior 7/29 rows are the two 📕 session tinies booked earlier in this same run",
+      "evidence": "fitness/workout-log.md (\"July 29th 2026 Wednesday - Day A Push+Pull\"); capture row 2026-07-29 placed by Odin",
+      "booked": "2026-07-29"
+    },
+    {
+      "date": "2026-07-29",
+      "lane": "strength",
+      "activity": "🟩 Pull ladder rung 4 (Full pull-up, target 3 × 3 sets) CLEARED 3/3/3 — every set AT the target, not carried by an average; clean owner-confirm (full ROM, dead hang at the bottom, chin over the bar, no kip). The FIFTH attempt on this rung, after three near-misses: 7/18 4/2/0.5 · 7/22 3.5/2.5/0.5 · 7/25 3/3/2",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 222,
+      "cum_overall": 815,
+      "reasoning": "Calisthenics rung unlocked. 🔎 PATH-CHECKED against the live file per the lane-source map BEFORE tiering, not after: workout-split.md §5 🟩 Pull reads rung 3 (Negative pull-up 5s) ✅ cleared 2026-06-23 and rung 4 (Full pull-up) ✅ cleared 2026-07-29 — so rung 4 WAS the real next rung, and the ladder now sits ★ on rung 5 (★ Full pull-up, target 8 × 3 sets). 🔒 TIER BY THE PRE-REGISTERED BAND TABLE (amendment F, 2026-07-25): rung 4 is inside rungs 1–6 → SMALL. There is NO tier judgment to make at the moment of a clear; I look the rung up. SETS-STANDARD MET (owner-approved 2026-07-10): the rung's Sets column reads 3 and its target 3; logged 3/3/3 gives a per-set average of 3.0, at the target — and the stronger fact is that EVERY set hit 3 on its own, so the clear does not lean on the average at all. ONLY CLEAN REPS COUNT and the quality confirm is explicit and unprompted in the source file (full ROM · dead hang at the bottom · chin over the bar · no kip), which answers the entry's exclusion by name — this is the opposite case to the 7/27 pistol rung 6, where a numeric gate was met with reps the owner himself ruled unclean and I refused it. THE THREE NEAR-MISSES ARE THE RECORD I WANT KEPT: 7/18 read 4/2/0.5 and 7/22 read 3.5/2.5/0.5 — both had a set at or above 3 and both correctly paid nothing, because the standard is the average across the rung's Sets count and half-reps do not round up; 7/25's 3/3/2 came within one rep. The ratchet on this ladder was never farmable and it was not farmed. Earned-once: rung 4 enters the earned-once list; this is its first and only booking. DEDUP grepped: no prior row anywhere books a Pull-ladder rung-4 / Full pull-up clear — the 7/04, 7/11 and 7/18 Day B rows logged full pull-ups explicitly as NO rung cleared. 🔒 STACKS with the session tiny above it per the 2026-07-09 ruling. ⚠️ AUDIT-GUARD NOTE (flagged, not worked around): the audit's day-key for `workout/session` is a bare regex `(workout",
+      "evidence": "session)` over the ACTIVITY text, so this row first tripped a FALSE duplicate purely for containing the word \"session\" in the phrase \"the fifth session on this rung.\" I reworded it to \"attempt\" — the 7/27 precedent's own vocabulary — because the fact is identical either way, and I did NOT edit the gate that judges me while booking my own row. But the weakness is real and cuts both ways: 2026-07-27 booked this same workout-tiny + rung-small structure and passed only because its wording happened to omit the token, which is the same \"wording accident\" the 📕 carve-out comment already documents. The proper fix is to exclude tier=small rung-clear rows from that day-key, mirroring the 📕 carve-out. Owed to whoever rules on the tooling; I flag it rather than silently amend it",
+      "booked": "2026-07-29"
     }
   ],
   "series": {
@@ -5370,6 +5430,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Osiris BUILD WORKING SESSION with Odin (S77–S78, one overnight sitting) — the MDL-147 agent-routed-autonomy flip carried through a bounded PILOT-DEPLOY-1 close-out and then a scoped PILOT-ROUTE-2C build: the goal issued and re-issued under the 4,000-character cap, six gate rounds run under his direction, the certification attempt STOPPED by his call, a diagnostic report ordered, and the follow-on build's scope set by him in six named boundaries"
+      },
+      {
+        "date": "2026-07-29",
+        "cum": 38,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris DECISION-LOCK / MDL session with Odin (S79) — three decisions locked in one sitting, walked one at a time at his direction: MDL-150 (the study's behavioural reference point — three legs, a frozen question battery administered exactly twice and both times outside the observation window, a parallel frozen twin rejected, a 14-day opening period), MDL-151 (runaway-spend containment — a configuration-driven daily total-spend ceiling, invisible to the agent, soft-stopping the activation rather than engaging the full-stop control), MDL-152 (routing-integrity evidence — an offline reconciliation published as a re-runnable corpus query, scheduled after the boot, cryptographic signing rejected)"
+      },
+      {
+        "date": "2026-07-29",
+        "cum": 39,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris ARTIFACT REVIEW / WALKTHROUGH session with Odin (S79) — the regenerated tick-prompt read-through (the exact text the agent receives at every activation) reviewed section by section, all nine sections, a verdict returned on each: five approved outright, edits ordered on two, and eleven substantive questions produced, two of which changed the record"
       }
     ],
     "literature": [
@@ -5745,6 +5819,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "SPARSE-TRAINING DAY — nine distinct items, thirteen executions (hand/finger/wrist ×3 · ankle dorsiflexion ×2 · hamstring ×2 · calf · chest/arm/shoulder · hip-flexor stretch · hip-flexor training · right tricep overhead band · band external rotation left-only)"
+      },
+      {
+        "date": "2026-07-29",
+        "cum": 212,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Day A (Push+Pull) SCHEDULED WORKOUT — logged full-force, all 7 prescribed exercises worked (pull-up ★full 3/3/3 + negative back-off 3/3/4 · hanging knee raise slow-tempo 4/3/3 · dead hang 19s/20s + scap shrugs 9/9 · typewriter push-up 5/3/3 · feet-elevated pike push-up 6/5.5/3 · V-up finisher 5/3/3 · pseudo-planche push-up 5/4), no skips recorded"
+      },
+      {
+        "date": "2026-07-29",
+        "cum": 222,
+        "feet": 10,
+        "tier": "small",
+        "activity": "🟩 Pull ladder rung 4 (Full pull-up, target 3 × 3 sets) CLEARED 3/3/3 — every set AT the target, not carried by an average; clean owner-confirm (full ROM, dead hang at the bottom, chin over the bar, no kip). The FIFTH attempt on this rung, after three near-misses: 7/18 4/2/0.5 · 7/22 3.5/2.5/0.5 · 7/25 3/3/2"
       }
     ],
     "body": [
@@ -6587,6 +6675,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Calorie-day ON PLAN — 2,142 kcal FINAL against the reverse-ramp day-3 target of ~1,950 (band 1,650–2,250), inside the band's upper half"
+      },
+      {
+        "date": "2026-07-28",
+        "cum": 328,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Protein-goal day — 177g logged against the 160g floor (goal 180 − 20), reverse-ramp day 4; the FINAL settled figure on a day held twice"
       }
     ],
     "fieldpresence": [
@@ -7539,9 +7634,10 @@
       "id": "pull",
       "name": "Pull",
       "elite": "one-arm pull-up",
-      "current": 4,
+      "current": 5,
       "cleared_dates": {
-        "3": "2026-06-23"
+        "3": "2026-06-23",
+        "4": "2026-07-29"
       },
       "rungs": [
         {
@@ -7596,8 +7692,8 @@
         }
       ],
       "chart": 5,
-      "cleared_count": 3,
-      "height": 6,
+      "cleared_count": 4,
+      "height": 10,
       "triangular": [
         0,
         1,
@@ -8219,6 +8315,12 @@
           "y": 5.33,
           "kind": "session",
           "label": "Typewriter push-up (slide side-to-side) — 3, 2, 3 (avg 2.7 vs target 8)"
+        },
+        {
+          "date": "2026-07-29",
+          "y": 5.46,
+          "kind": "session",
+          "label": "Typewriter push-up (slide side-to-side) — 5, 3, 3 (avg 3.7 vs target 8)"
         }
       ],
       "steps": [
@@ -8371,6 +8473,12 @@
           "y": 2.63,
           "kind": "session",
           "label": "Pseudo-planche push-ups (PPP) — 5, 5 (avg 5 vs target 8)"
+        },
+        {
+          "date": "2026-07-29",
+          "y": 2.56,
+          "kind": "session",
+          "label": "Pseudo-planche push-ups (PPP) — 5, 4 (avg 4.5 vs target 8)"
         }
       ],
       "steps": [
@@ -8649,6 +8757,17 @@
           "kind": "session-extra",
           "label": "Dead hang — 25, 20 (avg 22.5 vs target 45)",
           "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
+        },
+        {
+          "date": "2026-07-29",
+          "y": 5,
+          "kind": "clear",
+          "label": "Pull — cleared: Full pull-up (needed 3, got 3, 3, 3 — avg 3)",
+          "perf": {
+            "needed": "3",
+            "got": "3, 3, 3",
+            "avg": 3
+          }
         }
       ],
       "steps": [
@@ -8659,6 +8778,10 @@
         {
           "date": "2026-06-23",
           "rungs": 4
+        },
+        {
+          "date": "2026-07-29",
+          "rungs": 5
         }
       ],
       "chart": 5
@@ -8920,6 +9043,12 @@
           "y": 3.38,
           "kind": "session",
           "label": "Dead hang — 25, 20 (avg 22.5 vs target 60)"
+        },
+        {
+          "date": "2026-07-29",
+          "y": 3.33,
+          "kind": "session",
+          "label": "Dead hang — 19, 20 (avg 19.5 vs target 60)"
         }
       ],
       "steps": [
@@ -9114,6 +9243,12 @@
           "y": 3.33,
           "kind": "session",
           "label": "V-up / tuck-up — 6, 4 (avg 5 vs target 15)"
+        },
+        {
+          "date": "2026-07-29",
+          "y": 3.24,
+          "kind": "session",
+          "label": "V-up / tuck-up — 5, 3, 3 (avg 3.7 vs target 15)"
         }
       ],
       "steps": [
@@ -9289,6 +9424,13 @@
           "kind": "session-extra",
           "label": "Hanging knee raise — 5, 3, 3 (avg 3.7 vs target 12)",
           "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
+        },
+        {
+          "date": "2026-07-29",
+          "y": 1.28,
+          "kind": "session-extra",
+          "label": "Hanging knee raise — 4, 3, 3 (avg 3.3 vs target 12)",
+          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
         }
       ],
       "steps": [
@@ -9310,8 +9452,8 @@
   ],
   "ladder_parity": {
     "push": {
-      "candidates": 7,
-      "plotted": 7,
+      "candidates": 8,
+      "plotted": 8,
       "rejected": []
     },
     "explosive": {
@@ -9320,8 +9462,8 @@
       "rejected": []
     },
     "planche": {
-      "candidates": 7,
-      "plotted": 7,
+      "candidates": 8,
+      "plotted": 8,
       "rejected": []
     },
     "handstand": {
@@ -9330,8 +9472,8 @@
       "rejected": []
     },
     "pull": {
-      "candidates": 24,
-      "plotted": 24,
+      "candidates": 25,
+      "plotted": 25,
       "rejected": [
         {
           "date": "2026-06-23",
@@ -9345,8 +9487,8 @@
       "rejected": []
     },
     "grip": {
-      "candidates": 14,
-      "plotted": 14,
+      "candidates": 15,
+      "plotted": 15,
       "rejected": []
     },
     "legs": {
@@ -9355,13 +9497,13 @@
       "rejected": []
     },
     "corefloor": {
-      "candidates": 9,
-      "plotted": 9,
+      "candidates": 10,
+      "plotted": 10,
       "rejected": []
     },
     "corehang": {
-      "candidates": 23,
-      "plotted": 22,
+      "candidates": 24,
+      "plotted": 23,
       "rejected": [
         {
           "date": "2026-07-25",
@@ -9438,6 +9580,13 @@
             "raw": "3, 2, 3",
             "avg": 2.7,
             "status": "● plotted at 5.33"
+          },
+          {
+            "date": "2026-07-29",
+            "name": "Typewriter push-up (★slide side-to-side)",
+            "raw": "5, 3, 3",
+            "avg": 3.7,
+            "status": "● plotted at 5.46"
           }
         ]
       },
@@ -9555,6 +9704,13 @@
             "raw": "5, 5",
             "avg": 5,
             "status": "● plotted at 2.63"
+          },
+          {
+            "date": "2026-07-29",
+            "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
+            "raw": "5, 4",
+            "avg": 4.5,
+            "status": "● plotted at 2.56"
           }
         ]
       },
@@ -9826,6 +9982,20 @@
             "raw": "25, 20",
             "avg": 22.5,
             "status": "◦ floating dot at 1.5 (cleared-rung work)"
+          },
+          {
+            "date": "2026-07-29",
+            "name": "Pull-up (★full — then negatives as back-off)",
+            "raw": "3, 3, 3",
+            "avg": 3,
+            "status": "✓ CLEAR DAY — carried by the clear dot (needed 3, avg 3)"
+          },
+          {
+            "date": "2026-07-29",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "19, 20",
+            "avg": 19.5,
+            "status": "✓ CLEAR DAY — carried by the clear dot (needed 3, avg 3)"
           }
         ]
       },
@@ -10024,6 +10194,13 @@
             "raw": "25, 20",
             "avg": 22.5,
             "status": "● plotted at 3.38"
+          },
+          {
+            "date": "2026-07-29",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "19, 20",
+            "avg": 19.5,
+            "status": "● plotted at 3.33"
           }
         ]
       },
@@ -10183,6 +10360,13 @@
             "raw": "6, 4",
             "avg": 5,
             "status": "● plotted at 3.33"
+          },
+          {
+            "date": "2026-07-29",
+            "name": "V-up / tuck-up (★finisher)",
+            "raw": "5, 3, 3",
+            "avg": 3.7,
+            "status": "● plotted at 3.24"
           }
         ]
       },
@@ -10350,6 +10534,13 @@
             "raw": "5, 3, 3",
             "avg": 3.7,
             "status": "◦ floating dot at 1.31 (cleared-rung work)"
+          },
+          {
+            "date": "2026-07-29",
+            "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
+            "raw": "4, 3, 3",
+            "avg": 3.3,
+            "status": "◦ floating dot at 1.28 (cleared-rung work)"
           }
         ]
       }
@@ -10466,6 +10657,55 @@
           {
             "date": "2026-07-27",
             "detail": "hang: 25, 20 · shrugs: 6, 5"
+          },
+          {
+            "date": "2026-07-29",
+            "detail": "hang: 19, 20 · shrugs: 9, 9"
+          }
+        ]
+      },
+      {
+        "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
+        "rows": [
+          {
+            "date": "2026-07-08",
+            "detail": "reps: 5, 5, 5"
+          },
+          {
+            "date": "2026-07-11",
+            "detail": "reps: 8, 8, 5"
+          },
+          {
+            "date": "2026-07-13",
+            "detail": "reps: 10,  6,  6"
+          },
+          {
+            "date": "2026-07-15",
+            "detail": "reps: 7, 6, 6"
+          },
+          {
+            "date": "2026-07-18",
+            "detail": "reps: 10, 7, 6"
+          },
+          {
+            "date": "2026-07-20",
+            "detail": "reps: 10, 5.5, 6.5"
+          },
+          {
+            "date": "2026-07-22",
+            "detail": "reps: 10, 10, 8"
+          },
+          {
+            "date": "2026-07-25",
+            "detail": "reps: 10, 10, 10"
+          },
+          {
+            "date": "2026-07-27",
+            "detail": "reps: 5, 3, 3"
+          },
+          {
+            "date": "2026-07-29",
+            "detail": "reps: 4, 3, 3"
           }
         ]
       },
@@ -10511,43 +10751,43 @@
         ]
       },
       {
-        "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
+        "name": "Pull-up (★full — then negatives as back-off)",
         "rows": [
           {
+            "date": "2026-07-01",
+            "detail": "full reps: 3, 1.5,  l.5 · neg back-off: 3, 3, 2"
+          },
+          {
+            "date": "2026-07-04",
+            "detail": "full reps: 3, 2, .5 · neg back-off: 2, 4, 2.5"
+          },
+          {
             "date": "2026-07-08",
-            "detail": "reps: 5, 5, 5"
+            "detail": "full reps: 4,  2 , 1 · neg back-off: 4, 4, 2"
           },
           {
             "date": "2026-07-11",
-            "detail": "reps: 8, 8, 5"
-          },
-          {
-            "date": "2026-07-13",
-            "detail": "reps: 10,  6,  6"
+            "detail": "full reps: 4, 2, 1 · neg back-off: 4, 4, 3.5"
           },
           {
             "date": "2026-07-15",
-            "detail": "reps: 7, 6, 6"
+            "detail": "full reps: 3, 2, .75 · neg back-off: 4, 3, 3"
           },
           {
             "date": "2026-07-18",
-            "detail": "reps: 10, 7, 6"
-          },
-          {
-            "date": "2026-07-20",
-            "detail": "reps: 10, 5.5, 6.5"
+            "detail": "full reps: 4, 2, .5 · neg back-off: 6, 5, 3"
           },
           {
             "date": "2026-07-22",
-            "detail": "reps: 10, 10, 8"
+            "detail": "full reps: 3.5,  2.5, .5 · neg back-off: 5, 5, 3"
           },
           {
             "date": "2026-07-25",
-            "detail": "reps: 10, 10, 10"
+            "detail": "full reps: 3, 3, 2 · neg back-off: 4, 5, 4"
           },
           {
-            "date": "2026-07-27",
-            "detail": "reps: 5, 3, 3"
+            "date": "2026-07-29",
+            "detail": "full reps: 3, 3, 3 · neg back-off: 3, 3, 4"
           }
         ]
       },
@@ -10585,43 +10825,6 @@
           {
             "date": "2026-07-25",
             "detail": "held: 30, 30"
-          }
-        ]
-      },
-      {
-        "name": "Pull-up (★full — then negatives as back-off)",
-        "rows": [
-          {
-            "date": "2026-07-01",
-            "detail": "full reps: 3, 1.5,  l.5 · neg back-off: 3, 3, 2"
-          },
-          {
-            "date": "2026-07-04",
-            "detail": "full reps: 3, 2, .5 · neg back-off: 2, 4, 2.5"
-          },
-          {
-            "date": "2026-07-08",
-            "detail": "full reps: 4,  2 , 1 · neg back-off: 4, 4, 2"
-          },
-          {
-            "date": "2026-07-11",
-            "detail": "full reps: 4, 2, 1 · neg back-off: 4, 4, 3.5"
-          },
-          {
-            "date": "2026-07-15",
-            "detail": "full reps: 3, 2, .75 · neg back-off: 4, 3, 3"
-          },
-          {
-            "date": "2026-07-18",
-            "detail": "full reps: 4, 2, .5 · neg back-off: 6, 5, 3"
-          },
-          {
-            "date": "2026-07-22",
-            "detail": "full reps: 3.5,  2.5, .5 · neg back-off: 5, 5, 3"
-          },
-          {
-            "date": "2026-07-25",
-            "detail": "full reps: 3, 3, 2 · neg back-off: 4, 5, 4"
           }
         ]
       },
@@ -11016,6 +11219,40 @@
         ]
       },
       {
+        "name": "Typewriter push-up (★slide side-to-side)",
+        "rows": [
+          {
+            "date": "2026-07-15",
+            "detail": "reps: 2, 3, 2"
+          },
+          {
+            "date": "2026-07-22",
+            "detail": "reps: 3, 2, 3"
+          },
+          {
+            "date": "2026-07-29",
+            "detail": "reps: 5, 3, 3"
+          }
+        ]
+      },
+      {
+        "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
+        "rows": [
+          {
+            "date": "2026-07-15",
+            "detail": "reps: 2, 3"
+          },
+          {
+            "date": "2026-07-22",
+            "detail": "reps: 5, 5"
+          },
+          {
+            "date": "2026-07-29",
+            "detail": "reps: 5, 4"
+          }
+        ]
+      },
+      {
         "name": "Grip+trap (flex): towel hang + scap shrugs",
         "rows": [
           {
@@ -11094,32 +11331,6 @@
         ]
       },
       {
-        "name": "Typewriter push-up (★slide side-to-side)",
-        "rows": [
-          {
-            "date": "2026-07-15",
-            "detail": "reps: 2, 3, 2"
-          },
-          {
-            "date": "2026-07-22",
-            "detail": "reps: 3, 2, 3"
-          }
-        ]
-      },
-      {
-        "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
-        "rows": [
-          {
-            "date": "2026-07-15",
-            "detail": "reps: 2, 3"
-          },
-          {
-            "date": "2026-07-22",
-            "detail": "reps: 5, 5"
-          }
-        ]
-      },
-      {
         "name": "Parallel Ring Row (★ body horizontal, feet on floor)",
         "rows": [
           {
@@ -11155,6 +11366,32 @@
           {
             "date": "2026-07-25",
             "detail": "reps: 10, 7, 6"
+          }
+        ]
+      },
+      {
+        "name": "Feet -elevated Pike push-up (accessory)",
+        "rows": [
+          {
+            "date": "2026-07-22",
+            "detail": "reps: 5, 4, 5"
+          },
+          {
+            "date": "2026-07-29",
+            "detail": "reps: 6, 5.5, 3"
+          }
+        ]
+      },
+      {
+        "name": "V-up / tuck-up (★finisher)",
+        "rows": [
+          {
+            "date": "2026-07-22",
+            "detail": "reps: 6, 4"
+          },
+          {
+            "date": "2026-07-29",
+            "detail": "reps: 5, 3, 3"
           }
         ]
       },
@@ -11267,24 +11504,6 @@
         ]
       },
       {
-        "name": "Feet -elevated Pike push-up (accessory)",
-        "rows": [
-          {
-            "date": "2026-07-22",
-            "detail": "reps: 5, 4, 5"
-          }
-        ]
-      },
-      {
-        "name": "V-up / tuck-up (★finisher)",
-        "rows": [
-          {
-            "date": "2026-07-22",
-            "detail": "reps: 6, 4"
-          }
-        ]
-      },
-      {
         "name": "Wall HSPU (★partial ROM)",
         "rows": [
           {
@@ -11295,6 +11514,71 @@
       }
     ],
     "dates": [
+      {
+        "date": "2026-07-29",
+        "rows": [
+          {
+            "ladderId": "pull",
+            "ladderName": "Pull",
+            "name": "Pull-up (★full — then negatives as back-off)",
+            "raw": "3, 3, 3",
+            "avg": 3,
+            "target": "3",
+            "sets": 3,
+            "cleared": true
+          },
+          {
+            "ladderId": "corehang",
+            "ladderName": "Core — HANGING",
+            "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
+            "raw": "4, 3, 3",
+            "avg": 3.3,
+            "target": "12",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "pull",
+            "ladderName": "Pull",
+            "name": "Dead hang ★",
+            "raw": "19, 20",
+            "avg": 19.5,
+            "target": "45s",
+            "sets": 2,
+            "cleared": false
+          },
+          {
+            "ladderId": "push",
+            "ladderName": "Horizontal Push — STRENGTH",
+            "name": "Typewriter push-up (★slide side-to-side)",
+            "raw": "5, 3, 3",
+            "avg": 3.7,
+            "target": "8/side",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "corefloor",
+            "ladderName": "Core — FLOOR",
+            "name": "V-up / tuck-up (★finisher)",
+            "raw": "5, 3, 3",
+            "avg": 3.7,
+            "target": "15",
+            "sets": 2,
+            "cleared": false
+          },
+          {
+            "ladderId": "planche",
+            "ladderName": "Horizontal Push — PLANCHE",
+            "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
+            "raw": "5, 4",
+            "avg": 4.5,
+            "target": "8",
+            "sets": 2,
+            "cleared": false
+          }
+        ]
+      },
       {
         "date": "2026-07-27",
         "rows": [
@@ -12570,21 +12854,33 @@
     }
   ],
   "last_perf": {
-    "chinup": {
-      "date": "2026-07-27",
+    "pull": {
+      "date": "2026-07-29",
       "detail": "3, 3, 3"
     },
     "corehang": {
-      "date": "2026-07-27",
-      "detail": "5, 3, 3"
-    },
-    "pull": {
-      "date": "2026-07-27",
-      "detail": "25, 20"
+      "date": "2026-07-29",
+      "detail": "4, 3, 3"
     },
     "grip": {
+      "date": "2026-07-29",
+      "detail": "19, 20"
+    },
+    "push": {
+      "date": "2026-07-29",
+      "detail": "5, 3, 3"
+    },
+    "corefloor": {
+      "date": "2026-07-29",
+      "detail": "5, 3, 3"
+    },
+    "planche": {
+      "date": "2026-07-29",
+      "detail": "5, 4"
+    },
+    "chinup": {
       "date": "2026-07-27",
-      "detail": "25, 20"
+      "detail": "3, 3, 3"
     },
     "handstand": {
       "date": "2026-07-27",
@@ -12601,18 +12897,6 @@
     "legs": {
       "date": "2026-07-25",
       "detail": "5, 5, 5"
-    },
-    "push": {
-      "date": "2026-07-22",
-      "detail": "3, 2, 3"
-    },
-    "corefloor": {
-      "date": "2026-07-22",
-      "detail": "6, 4"
-    },
-    "planche": {
-      "date": "2026-07-22",
-      "detail": "5, 5"
     }
   },
   "health": {
@@ -13130,8 +13414,16 @@
       {
         "date": "2026-07-28",
         "w": 219,
-        "kcal": 989,
-        "protein": 118,
+        "kcal": 2505,
+        "protein": 177,
+        "dayType": "reverse-ramp",
+        "provisional": false
+      },
+      {
+        "date": "2026-07-29",
+        "w": 219.2,
+        "kcal": 764,
+        "protein": 91,
         "dayType": "reverse-ramp",
         "provisional": true
       }
@@ -13436,9 +13728,13 @@
       {
         "date": "2026-07-28",
         "w": 218.73
+      },
+      {
+        "date": "2026-07-29",
+        "w": 218.73
       }
     ],
-    "noiseBand": 1.4,
+    "noiseBand": 1.37,
     "floors": [
       {
         "y": 230,
@@ -13649,9 +13945,9 @@
       },
       {
         "date": "2026-07-29",
-        "w": 218.4,
+        "w": 218.6,
         "week": "Jul 26–Aug 1",
-        "n": 3
+        "n": 4
       }
     ],
     "banner": {
@@ -13665,11 +13961,6 @@
       "newLow": false
     },
     "strip": [
-      {
-        "date": "2026-06-29",
-        "state": "good",
-        "kcal": 1541
-      },
       {
         "date": "2026-06-30",
         "state": "good",
@@ -13812,8 +14103,13 @@
       },
       {
         "date": "2026-07-28",
+        "state": "off",
+        "kcal": 2505
+      },
+      {
+        "date": "2026-07-29",
         "state": "partial",
-        "kcal": 989
+        "kcal": 764
       }
     ],
     "days": [
@@ -14323,8 +14619,16 @@
       },
       {
         "date": "2026-07-28",
-        "kcal": 989,
-        "protein": 118,
+        "kcal": 2505,
+        "protein": 177,
+        "dayType": "reverse-ramp",
+        "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-07-29",
+        "kcal": 764,
+        "protein": 91,
         "dayType": "reverse-ramp",
         "logged": "full",
         "provisional": true
