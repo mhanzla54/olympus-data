@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 815,
+    "overall_total": 820,
     "generated_for": "2026-07-29",
-    "built_at": "2026-07-30T01:32:03.182Z",
+    "built_at": "2026-07-30T02:02:59.092Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 268
+      "ft_to_go": 263
     }
   },
   "lanes": [
@@ -37,7 +37,7 @@
       "t0_note": "couldn't write a single line of Python — ran his first print() the day before t0",
       "endpoint": "Replicate AND extend a frontier alignment result — public, runnable code",
       "endpoint_tier": "verylarge",
-      "current": 101,
+      "current": 102,
       "working_on": "Automate the Boring Stuff textbook"
     },
     {
@@ -47,7 +47,7 @@
       "t0_note": "didn't hold the transformer internals — attention, embeddings, the residual stream were only 'encountered'",
       "endpoint": "A from-memory \"mini-textbook\" of the whole ML/alignment stack (FF is the floor; endpoint stays provisional)",
       "endpoint_tier": "verylarge",
-      "current": 111,
+      "current": 112,
       "working_on": "Field Foundations"
     },
     {
@@ -77,7 +77,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 222,
+      "current": 223,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -87,7 +87,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 328,
+      "current": 329,
       "working_on": "the next new-pound low (≤ 214.8 lb)"
     },
     {
@@ -97,7 +97,7 @@
       "t0_note": "no public track record — not known in the field; every post, repo and paper still ahead",
       "endpoint": "A recognized public body of work — provisional and open by design (§14.0.2); this lane has no terminus",
       "endpoint_tier": "enormous",
-      "current": 1,
+      "current": 2,
       "working_on": "Not yet started — the first public thing ships from here"
     }
   ],
@@ -4310,6 +4310,66 @@
       "reasoning": "Calisthenics rung unlocked. 🔎 PATH-CHECKED against the live file per the lane-source map BEFORE tiering, not after: workout-split.md §5 🟩 Pull reads rung 3 (Negative pull-up 5s) ✅ cleared 2026-06-23 and rung 4 (Full pull-up) ✅ cleared 2026-07-29 — so rung 4 WAS the real next rung, and the ladder now sits ★ on rung 5 (★ Full pull-up, target 8 × 3 sets). 🔒 TIER BY THE PRE-REGISTERED BAND TABLE (amendment F, 2026-07-25): rung 4 is inside rungs 1–6 → SMALL. There is NO tier judgment to make at the moment of a clear; I look the rung up. SETS-STANDARD MET (owner-approved 2026-07-10): the rung's Sets column reads 3 and its target 3; logged 3/3/3 gives a per-set average of 3.0, at the target — and the stronger fact is that EVERY set hit 3 on its own, so the clear does not lean on the average at all. ONLY CLEAN REPS COUNT and the quality confirm is explicit and unprompted in the source file (full ROM · dead hang at the bottom · chin over the bar · no kip), which answers the entry's exclusion by name — this is the opposite case to the 7/27 pistol rung 6, where a numeric gate was met with reps the owner himself ruled unclean and I refused it. THE THREE NEAR-MISSES ARE THE RECORD I WANT KEPT: 7/18 read 4/2/0.5 and 7/22 read 3.5/2.5/0.5 — both had a set at or above 3 and both correctly paid nothing, because the standard is the average across the rung's Sets count and half-reps do not round up; 7/25's 3/3/2 came within one rep. The ratchet on this ladder was never farmable and it was not farmed. Earned-once: rung 4 enters the earned-once list; this is its first and only booking. DEDUP grepped: no prior row anywhere books a Pull-ladder rung-4 / Full pull-up clear — the 7/04, 7/11 and 7/18 Day B rows logged full pull-ups explicitly as NO rung cleared. 🔒 STACKS with the session tiny above it per the 2026-07-09 ruling. ⚠️ AUDIT-GUARD NOTE (flagged, not worked around): the audit's day-key for `workout/session` is a bare regex `(workout",
       "evidence": "session)` over the ACTIVITY text, so this row first tripped a FALSE duplicate purely for containing the word \"session\" in the phrase \"the fifth session on this rung.\" I reworded it to \"attempt\" — the 7/27 precedent's own vocabulary — because the fact is identical either way, and I did NOT edit the gate that judges me while booking my own row. But the weakness is real and cuts both ways: 2026-07-27 booked this same workout-tiny + rung-small structure and passed only because its wording happened to omit the token, which is the same \"wording accident\" the 📕 carve-out comment already documents. The proper fix is to exclude tier=small rung-clear rows from that day-key, mirroring the 📕 carve-out. Owed to whoever rules on the tooling; I flag it rather than silently amend it",
       "booked": "2026-07-29"
+    },
+    {
+      "date": "2026-07-29",
+      "lane": "mlai",
+      "activity": "CONSOLIDATION / RE-STUDY session — Field-Foundations M18 (Vector Databases & Semantic Search) + M19 (Multi-Agent Systems) re-studied as a pair: both modules read, his own notes written for both, then a CLOSED-NOTES understand-first discussion of four probes",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 112,
+      "cum_overall": 816,
+      "reasoning": "The consolidation / review entry, and it clears that entry's bar rather than falling into its reread exclusion — the probes were worked CLOSED-NOTES and he produced the content himself. NOT a module reading-tick: M18 and M19 both sit inside M1–M21, which stay EXACTLY as scored (gate-only, earned-once); the unified reading rule is forward-only from 2026-07-13 and does not reach them. ONE tiny for the sitting and not two for two modules — the session is the atom (§4.5.1), and this is now the FIFTH consecutive sitting of identical shape to book exactly one: 7/26 M12+M13, 7/27 M14+M15, 7/28 M16+M17, today M18+M19. NO per-cluster cap on consolidation (owner ruling S31). THE HARDEST EVIDENCE IN THE ROW IS THE COSINE COMPUTATION, and it is hand-worked on FRESH vectors he had never seen: Q=[4,3] against A=[2,6] and B=[8,6], every step shown — dot products 26 and 50, magnitudes 5 / 6.324 / 10, results 0.8222 and exactly 1.0, correct chunk identified. That is a procedure executed, not a definition recited. He also walked the full M17→M18 retrieval chain correctly including the detail that the store holds the (embedding, literal chunk text) PAIR and returns the text, went 4/4 on module attribution with one probe worded as a trap, and argued emergence from the exists-at-the-whole-system-level-and-in-none-of-its-parts clause to settle a distinction the probe posed. TWO CORRECTIONS STOOD and neither reduces the tick — the entry prices the ACT of active recall, never its quality: he did not say what M17 left unexplained (the ranking), and he did not state why B scored exactly 1.0 (B = 2×Q, same direction). ONE EXCHANGE HE WON AGAINST THE TUTOR, recorded because it is the rarer fact: Athena called \"the agent embeds the query\" wrong; he answered that an agent is model + harness + loop + tools + memory, so the embedding happens inside the agent's boundary — he was right and the correction was withdrawn. He disproved a second correction the same way, scoping \"everything in the context window\" to inference. ⛔ The self-assessment that closed the attention answer (\"that is real understanding, that is real comprehension\") is a claim his own locked Q31 Category 1 forbids, and it changes nothing here — Olympus prices the deed, not the climber's estimate of it. No gate taken; these modules are in re-study and the whole-FF Final is the only scored gate remaining",
+      "evidence": "Module Notes/Notes on Field Foundations.md lines 1404–1546; field-foundations/m18-vector-databases.md; m19-multi-agent-systems.md; capture row 2026-07-29",
+      "booked": "2026-07-29"
+    },
+    {
+      "date": "2026-07-29",
+      "lane": "coding",
+      "activity": "Python — ATBS ch.8 read from p.178 to the top of p.182 (os.path.split returning a tuple, os.sep / os.path.sep, splitting a path into all its parts, os.path.getsize, os.listdir, os.path.exists / isfile / isdir, the three steps of reading a file) AND the Ch8_miniDrills.py block-2 round worked — six mixed drills, 12 of 15 written predictions correct",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 102,
+      "cum_overall": 817,
+      "reasoning": "ONE tiny, not two, per C3 amendment B (2026-07-07): reading a segment and drilling on that same just-read material in the same sitting is one tiny together. The reading segment is ~4 pages, under the ~5-page anchor, but it does not need to carry the tick alone — the drill round independently clears the `micro-drill round` entry (a sitting's set of construct-named drills worked through, predict-then-run; the 6-drill round is that entry's own exemplar), and amendment B folds the read into it rather than the reverse. THE SUBSTANCE IS IN WHAT HE DID WITH THE THREE MISSES, and each one resolved by his own hand: on drill 3 (fix-the-bug) he diagnosed the real fault himself — listdir lives in os, not os.path — then attached a FALSE rule beside it, that a relative-path argument needs a trailing escaped backslash, and then TESTED HIS OWN CLAIM, confirmed plain '.' works, and corrected the drill; drill 6 initially omitted the os.path.isfile filter its written spec named and he added it; drill 2 he answered correctly and raised his own question about why os.path.sep printed a single backslash. A wrong rule invented, then falsified by the author of it, is worth more than a clean prediction. Drills 1 and 4 were 3/3 and 4/4; drills 5 and 6 were write-it-yourself and he wrote both. ⚠️ AUTHORSHIP CAVEAT, stated by the capturer and it does NOT close the tick: at his explicit request Athena rewrote drill 5 (it crashed with FileNotFoundError, listing one folder and joining another) and annotated the changes, so that one drill's final code is not his. Amendment D's partial-authorship rule governs — a taught or agent-written portion does not void the tick while his own authorship is the substantial majority, and five of six drills plus 15 written predictions are his. It stays live against any future completed-program claim; there is no program claim here. ⛔ The audited answer he asked for on the whole book's scope (PDF-verified: no pages for __init__, inheritance, recursion or f-strings — ATBS teaches no OOP) books nothing: he received it, and receiving is not a deed",
+      "evidence": "curricula/python-foundations/code/Ch8_miniDrills.py block 2; Resources/coding-books/Automate the Boring Stuff with Python.pdf pp.202–206; capture row 2026-07-29",
+      "booked": "2026-07-29"
+    },
+    {
+      "date": "2026-07-29",
+      "lane": "fieldpresence",
+      "activity": "PUBLIC-WORK DAY — the researcher website taken through a full wording-and-aesthetics review and the revision then directed: a ~10-minute narrated screen walkthrough section by section producing roughly NINETEEN distinct critiques and rulings, a goal command written from them, reviewed by him, and pasted. NOT SHIPPED — no domain, no hosting, nothing public",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 2,
+      "cum_overall": 818,
+      "reasoning": "The public-work-day entry: a genuine day of work on a public artifact — drafting, revising, building, documenting OR shipping, one piece or five, ships that day or not. Day-keyed, one per (date, kind); the 7/28 tick on this same project was its own date. ALL FIVE BARS PASS. Bar 1 (ship-and-reachable) is waived for work-days by the entry's own text and the artifact tier is NOT claimed — see the refusal below. Bar 2 (addressed to someone else) holds and he applied it himself, harder than I would have: the papers section renamed and disclaimered because he caught that it read as his own publications when he has published none, every not-ready course and notes row hidden behind a render filter on his directive that he would rather the site be EMPTY than show placeholders, and the ENTIRE Research tab hashed out on his reasoning that an important tab standing empty subtracts credibility rather than adding it. ⚠️ BAR 3, THE SHAPING BAR, IS THE WHOLE QUESTION HERE, and it is cleared outright — Athena wrote all of the code and all of the replacement copy, and the bar asks whether his judgment is visible IN THE DIFFERENCE. It is, nineteen times: the identity line replaced in five places because \"Learning alignment in the open\" read as weak and unconfident; the hero headline replaced with a beginner-framed one whose content he specified; the sub-hero rewritten from \"I'm teaching myself AI alignment from outside the field\" — HE raised that concern himself, asked how it would read to a funder researching him, explicitly invited pushback, and accepted the reframe from learning-diary to researcher-who-also-teaches; \"outside a lab, outside a university, in the open\" deleted on his reasoning that it lists three absences as if they were achievements; the \"no photograph, by design\" line deleted on his call; his contact address wired with a copy button. A formatting pass plus a publish button is the exclusion, and this is its opposite. Bar 4 (substance floor) is met on the volume of rulings, not the stopwatch — nineteen distinct calls is not a token pass. Bar 5: no cross-lane double-pay — 🐍 pays NOTHING (agent-authored majority is an outright amendment-D exclusion) and 📕 pays nothing (G-2: the object here is CONTRIBUTION, not THE STUDY). G-3 satisfied and not re-litigated: the object was declared 2026-07-28 in his own words, before any number was known, and a declaration once made is settled. ⛔ NO ARTIFACT SMALL — \"first personal website LIVE\" is earned-once and the site is NOT live; bar 1 governs the artifact tier and it fails. That small is still ahead and the work-day tinies stack under it. ⛔ The ~2-minute AI-narrated explainer video he proposed, with the structural question of whether it should replace the front page, books nothing — he raised it and accepted deferring it until the copy settles; a proposal is not an artifact, and deferring one is a call with no output",
+      "evidence": "field-presence/website-mockup/COPY-PASS-2026-07-29.md; index.html; content.js; _GOAL-copy-pass-2026-07-29.txt; capture row 2026-07-29",
+      "booked": "2026-07-29"
+    },
+    {
+      "date": "2026-07-29",
+      "lane": "strength",
+      "activity": "SPARSE-TRAINING DAY — TEN distinct items, sixteen executions (hand/finger/wrist ×2 · ankle dorsiflexion · hamstring · chest/arm/shoulder ×2 · hip-flexor stretch ×2 · vacuum/TVA · hip-flexor training ×2 · right bicep · scapular push-ups · band external rotation / shoulder-stability ×2); not done: calf, forearm, right tricep, lateral delt, scapular pull-ups",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 223,
+      "cum_overall": 819,
+      "reasoning": "The sparse-training-day entry (C3 amendment E, 2026-07-25). The floor is ≥6 DISTINCT items genuinely performed within one EST day, timing irrelevant; ten clears it by four, and most items were done twice. Day-keyed, one tick per (date, kind) — repetitions inside a day multiply nothing. 🔒 THE DISJOINT-WORK RULE WAS THE LIVE QUESTION AND IT IS SATISFIED ON THE CAPTURE'S OWN FACTS, exactly as it was on 7/27: this is a full Day A training date, and every menu item that could have collided with that day's Push+Pull volume is named in the NOT-DONE list — scapular pull-ups (against the day's scap shrugs) and forearm (against the dead hang) were both skipped, and item 5 is chest/arm/shoulder STRETCHING, not pressing. No rep counts twice. The rule cuts the correct joint: the wrong thing is not two ticks in a day, it is two ticks for one body of work — so the Day A tick, the rung-4 small and this all three stand on one date. 🔎 CONFIRMED against the live file per the lane-source map (confirmation only, never a capture source): sparse-training-log.md carries the dated 2026-07-29 row reading 10 distinct, ✅ MET. SCAPULAR PUSH-UPS APPEAR FOR THE FIRST TIME IN THE STREAM — one of the two control-gap items that had never once been done, and it earns no separate anything: the day is the atom and a first appearance is not a rung. ⛔ THE MENU WIDENING BOOKS NOTHING: item 15 was broadened at his direction from \"band external rotation — LEFT arm only\" to also cover other shoulder-stability work, so banded isometric holds fall under an existing item rather than becoming a new row. Adjusting the plan is meta/upkeep — the same NO-TICK as the 7/22 cadence exception and the 7/25 reverse-diet flip — and it is worth noting the widening makes the count HARDER to farm, not easier, because it refuses to mint new items out of variations",
+      "evidence": "fitness/sparse-training-log.md 2026-07-29 (10 distinct, floor MET — confirmed); fitness/sparse-training.md item 15; capture row 2026-07-29",
+      "booked": "2026-07-29"
+    },
+    {
+      "date": "2026-07-29",
+      "lane": "body",
+      "activity": "Protein-goal day — 199g logged against the 160g floor (goal 180 − 20), reverse-ramp day 5; the floor crossed by 39g at the 21:47 warehouse pull",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 329,
+      "cum_overall": 820,
+      "reasoning": "The protein-day entry, fully independent of the calorie tick. 199 g clears the 160 g floor by 39 — the largest margin on the ramp so far. 🔒 BOOKED ON A PROVISIONAL ROW, AND THAT IS NOT A CONCESSION — IT IS THE MONOTONICITY: protein has ONE edge and only rises, so once the floor is crossed no later pull can uncross it. The row reads `provisional: true` because kcal is FINAL only on his last close of the day (health-warehouse-spec §8), and that uncertainty reaches the calorie half alone. This is the rule I wrote for myself on the twenty-eighth after getting the reasoning one clause too confident: monotonic movement toward a FLOOR is safe; monotonic movement toward a BAND is not, because a band has two edges. Same day, same pull, two different verdicts, and the difference is the shape of the target rather than the quality of the evidence. Precedent is settled and consistent: the 7/25 and 7/26 protein halves both booked on provisional rows, and the 7/28 protein half cured out of a two-run hold at 177 g. 🔎 G-1 PROVENANCE CHECKED BEFORE RULING, as it now is every run: the 160 floor is goal-minus-20 off HIS OWN 180 g protein goal, not an agent's recommendation, so no bound of the pre-registration rule is engaged. Logging complete, 0 open flags; the macro-vs-calorie reconciliation gap is +13 kcal, normal rounding, and the contradictory food entry he replaced earlier today is no longer distorting the row. ⏸️ THE CALORIE HALF IS HELD, NOT REFUSED — see the STANDINGS annotation: 2,263 sits inside the ramp-day-5 band (target ~2,150, band 1,850–2,450) with only 187 kcal of headroom to the ceiling, and the capturer did not mark the day FINAL. ⛔ The 219.2 weigh-in was already ruled NO TICK earlier today (3.4 lb above the 215.8 benchmark) and is NOT re-ruled here. ⛔ The 61-day logging streak ties his best and books nothing — ⚖️ holds no streak entry and streaks are walled",
+      "evidence": "fitness/health-data.json (lastPull 2026-07-29T21:47:29); health-query.mjs --summary; fitness/health-warehouse-spec.md §8; capture row 2026-07-29",
+      "booked": "2026-07-29"
     }
   ],
   "series": {
@@ -4705,6 +4765,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Python — ATBS ch.8 read (pp. 173 to the first half of 178: files and file paths, os.path.join, the current working directory, absolute vs relative, os.makedirs, abspath/isabs/relpath, dirname/basename) AND the Ch8_miniDrills.py round worked, all 6 drills (3 predict-then-run, 1 fix-the-bug, 2 write-it-yourself)"
+      },
+      {
+        "date": "2026-07-29",
+        "cum": 102,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Python — ATBS ch.8 read from p.178 to the top of p.182 (os.path.split returning a tuple, os.sep / os.path.sep, splitting a path into all its parts, os.path.getsize, os.listdir, os.path.exists / isfile / isdir, the three steps of reading a file) AND the Ch8_miniDrills.py block-2 round worked — six mixed drills, 12 of 15 written predictions correct"
       }
     ],
     "mlai": [
@@ -5169,6 +5236,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "CONSOLIDATION / RE-STUDY session — Field-Foundations Cluster-4 second half, modules M16 (Tool Use & Function Calling) + M17 (RAG / long-term memory): self-read of both modules, then a TEN-question cold open-recall discussion across both with no notes open"
+      },
+      {
+        "date": "2026-07-29",
+        "cum": 112,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "CONSOLIDATION / RE-STUDY session — Field-Foundations M18 (Vector Databases & Semantic Search) + M19 (Multi-Agent Systems) re-studied as a pair: both modules read, his own notes written for both, then a CLOSED-NOTES understand-first discussion of four probes"
       }
     ],
     "method": [
@@ -5833,6 +5907,13 @@
         "feet": 10,
         "tier": "small",
         "activity": "🟩 Pull ladder rung 4 (Full pull-up, target 3 × 3 sets) CLEARED 3/3/3 — every set AT the target, not carried by an average; clean owner-confirm (full ROM, dead hang at the bottom, chin over the bar, no kip). The FIFTH attempt on this rung, after three near-misses: 7/18 4/2/0.5 · 7/22 3.5/2.5/0.5 · 7/25 3/3/2"
+      },
+      {
+        "date": "2026-07-29",
+        "cum": 223,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "SPARSE-TRAINING DAY — TEN distinct items, sixteen executions (hand/finger/wrist ×2 · ankle dorsiflexion · hamstring · chest/arm/shoulder ×2 · hip-flexor stretch ×2 · vacuum/TVA · hip-flexor training ×2 · right bicep · scapular push-ups · band external rotation / shoulder-stability ×2); not done: calf, forearm, right tricep, lateral delt, scapular pull-ups"
       }
     ],
     "body": [
@@ -6682,6 +6763,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Protein-goal day — 177g logged against the 160g floor (goal 180 − 20), reverse-ramp day 4; the FINAL settled figure on a day held twice"
+      },
+      {
+        "date": "2026-07-29",
+        "cum": 329,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Protein-goal day — 199g logged against the 160g floor (goal 180 − 20), reverse-ramp day 5; the floor crossed by 39g at the 21:47 warehouse pull"
       }
     ],
     "fieldpresence": [
@@ -6691,6 +6779,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "🏔️ THE LANE'S FIRST TICK — PUBLIC-WORK DAY: the researcher website / free-modules hub, a full sitting of roughly three hours across about a dozen rounds. Architecture settled (a manifest-driven holder; modules as separate files with total design freedom), homepage rebuilt as a router, type scale and contrast ladder rebuilt, Research tab built hidden, module delivery format specified (an HTML page plus a markdown twin plus a one-click universal tutor prompt)"
+      },
+      {
+        "date": "2026-07-29",
+        "cum": 2,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "PUBLIC-WORK DAY — the researcher website taken through a full wording-and-aesthetics review and the revision then directed: a ~10-minute narrated screen walkthrough section by section producing roughly NINETEEN distinct critiques and rulings, a goal command written from them, reviewed by him, and pasted. NOT SHIPPED — no domain, no hosting, nothing public"
       }
     ]
   },
@@ -13422,8 +13517,8 @@
       {
         "date": "2026-07-29",
         "w": 219.2,
-        "kcal": 764,
-        "protein": 91,
+        "kcal": 2263,
+        "protein": 199,
         "dayType": "reverse-ramp",
         "provisional": true
       }
@@ -14109,7 +14204,7 @@
       {
         "date": "2026-07-29",
         "state": "partial",
-        "kcal": 764
+        "kcal": 2263
       }
     ],
     "days": [
@@ -14627,8 +14722,8 @@
       },
       {
         "date": "2026-07-29",
-        "kcal": 764,
-        "protein": 91,
+        "kcal": 2263,
+        "protein": 199,
         "dayType": "reverse-ramp",
         "logged": "full",
         "provisional": true
