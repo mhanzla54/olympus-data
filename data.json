@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 825,
-    "generated_for": "2026-07-30",
-    "built_at": "2026-07-31T01:37:36.286Z",
+    "overall_total": 828,
+    "generated_for": "2026-07-31",
+    "built_at": "2026-07-31T13:29:15.045Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 258
+      "ft_to_go": 255
     }
   },
   "lanes": [
@@ -57,7 +57,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 39,
+      "current": 40,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -87,7 +87,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 330,
+      "current": 332,
       "working_on": "the next new-pound low (≤ 214.8 lb)"
     },
     {
@@ -4430,6 +4430,42 @@
       "reasoning": "THE LANE'S THIRD FOOT, day-keyed one per (date, kind); the 7/28 and 7/29 ticks on this same project were their own dates and stack under the artifact tier that is still ahead. 📏 BAR 3, THE SHAPING BAR, IS THE ONLY LIVE QUESTION AND IT IS ANSWERED BEFORE THE BUILD RATHER THAN AFTER IT. Athena wrote ALL the code and ALL the module prose; he wrote none of it. But his judgment is not visible in a diff here — it is visible in a document of ~50 numbered decisions written BEFORE a line was built, which is a stronger form of the same evidence. The decisions that changed the artifact: that visuals must COMPLEMENT prose rather than replace it — HE CORRECTED ATHENA'S STATED RULE ON THIS AND IT WAS WRITTEN INTO THE LEARNING CANON AS A NEW PRINCIPLE; that all learning guidance leave the modules and live on one reusable pre-screen; that there be NO \"don't show this again\" button, on the reasoning that people are lazy and would opt out of advice they need; that the module ship its own gate questions; that the pre-screen keep its numbered-sequence layout, which he caught Athena flattening; that the field analogy start dense and thin only along the path; that a Quiz Me file of pre-made questions exist at all, WHICH WAS HIS IDEA UNPROMPTED; that accounts be refused and an email list built instead; and that the findability work be done except the one item he ruled too costly. ⭐ AND HE STRUCK A LINE IN WHICH ATHENA HAD SCOPED WHAT HE WAS PERMITTED TO USE HIS OWN EMAIL LIST FOR, on the ground that it was not hers to scope. That is not a design call; that is a man refusing to let his own tool set his boundaries, and it is the single clearest instance of direction in the capture. 📏 THE OTHER FOUR BARS: bar 1 is waived for work-days by the entry's own text (\"ships that day or not\"); bar 2 holds outright — free teaching modules a stranger can learn from; bar 4 is met many times over; bar 5 because 🐍 pays NOTHING (agent-authored majority is an outright amendment-D exclusion) and 📕 pays nothing (G-2 — the object is CONTRIBUTION, not THE STUDY). G-3 was satisfied 2026-07-28 in his own words before any number was known, and a declaration once made is settled — I do not re-litigate it on a third day. ⛔ NO ARTIFACT SMALL, AND THE 16 PASSING CHECKS DO NOT MOVE IT. \"First personal website LIVE\" is earned-once and the site is NOT live: no domain, no hosting, nothing a stranger can open. Bar 1 governs the artifact tier and it fails for the third consecutive day. Nor does the verifier help — 16/16 establishes that it WORKS, not that it is REACHABLE and not that he judges it good; he states at close that reviewing Module 1 is tomorrow's first task. The small is still ahead and every work-day stacks under it",
       "evidence": "Resources/field-presence/BUILD-DECISIONS.md (~50 numbered decisions, pre-build); website-mockup/BUILD-REPORT.md; node verify-harness.mjs 16/16 exit 0; this session's transcript; capture row 2026-07-30",
       "booked": "2026-07-30"
+    },
+    {
+      "date": "2026-07-30",
+      "lane": "method",
+      "activity": "Osiris DECISION + BUILD-DIRECTION session with Odin — the round-two memory/continuity/tools decision surface worked block by block with a ruling returned on EVERY open block (passive memory slot taken with a condition of his own attached, that the context be written down durably rather than left in conversation memory; web search ruled BUILD IT; within-run continuity ruled DO THE FIX; the opening mode agreed; goal forcefulness DEFERRED), the six approved blocks then folded into ONE goal command whose eight constraints he specified himself and which he launched as `/goal` PREBOOT-2B",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 40,
+      "cum_overall": 826,
+      "reasoning": "ONE TINY, NOT TWO, AND THE SECOND NAME WAS THE LIVE QUESTION. The Osiris session entry is day-keyed by (date, SESSION-TYPE) and a genuinely different type on the same date is its own tick — that is how 7/26 (S74) and 7/29 (S79) each booked two. Here the two candidate types collapse into ONE BODY OF WORK: the decision walkthrough and the build dispatch are the same six decisions, once ruled and once written down as an instruction. The goal command IS the rulings in another form, and amendment E's joint is the one the owner cut himself — the wrong thing is not two ticks in a day, it is two ticks for one body of work. 🔒 AND THE BUILD HALF DOES NOT INDEPENDENTLY CLEAR ITS OWN ENTRY. The Atlas tool-vs-job boundary excludes a fully autonomous build the owner merely received, and the capture states it plainly: Odin wrote the explainer surfaces, wrote all the code, RAN THE TEN GATE ROUNDS AND DEPLOYED. His shaping stops at the brief. The brief is the tail of the decision session that already pays. This is the same refusal I made on 7/26, 7/27 and 7/28 and declined to make on 7/29 — the test is whether a real second TYPE showed up, never whether a second NAME can be found. ✅ SUBSTANCE FLOOR CLEARED MANY TIMES OVER: rulings on six blocks, a response format he specified himself (each block to end with Odin's own concrete recommendation rather than options to choose between), two directives that created things which did not exist — a single named place recording every deferred decision, and a dated deadline against it — an over-limit catch, and eight named goal constraints (never ask the owner, never delete, additive migrations only, the pilot database pristine, the runner disabled, deploy only via deploy.sh, browser work headless, gates on both phases with the doer never certifying his own work). ⭐ THE STRONGEST FACT IN THE ROW IS A LOSS HE TOOK. On goal forcefulness he came in with a position, Odin pushed back against it, and he took the pushback over his own opening line and ruled to defer. A man who loses an argument to his own agent and books the loss is not rubber-stamping the agent. ⭐ AND ON WEB SEARCH HIS ANSWER WAS WIDER THAN THE QUESTION — he asked why the tools could not simply be available to every mode, and that question became the all-nine-modes scope that was actually built. Odin proposed narrow; he widened it. ⚠️ HE ALSO CAUGHT A DEFECT BEFORE IT RAN: the goal prompt came back at 5,379 characters against a 3,900 limit and he sent it back. A fact-check ahead of the work, the same shape as the 7/27 pre-investigation and the 7/28 character-count demand — three instances now, and it is becoming a habit rather than an incident. 🔎 DEDUP GREPPED BEFORE THE ROW WAS WRITTEN, as on every late booking: 2026-07-30 carried NO 📕 row at all, and the two 7/29 📕 rows are a different date on different surfaces (the MDL-150/151/152 locks; the tick-prompt nine-section read-through). The capture places its own dedup note to the same effect and it checks out. ⛔ NO OTHER LANE PAYS: 🐍 by amendment-D agent-authored-majority AND by G-2 (the object is THE STUDY, not his learning); ✍️ by G-2 and by bar 1 — the explainer surfaces and the deferred-decisions register are internal files, not URLs a stranger can open",
+      "evidence": "_explainers/2026-07-30-round-three-memory-tools-rounds-register.html (written 2026-07-30 16:32; its six do-now lists are his approved decisions); _explainers/2026-07-29-round-two-memory-continuity-tools.html (the surface he ruled on); BKM/in-flight/osiris-study/open-walkthroughs.md; commits 6bc62b6 / 55aa9a3 / caddf88 (2026-07-30 21:37 to 23:41); capture row 2026-07-30 (late capture placed 2026-07-31 by Odin)",
+      "booked": "2026-07-31"
+    },
+    {
+      "date": "2026-07-30",
+      "lane": "body",
+      "activity": "Calorie-day on plan — 2,323 kcal FINAL against the pre-registered reverse-ramp day-6 target of ~2,250 (band 1,950–2,550), 227 kcal inside the ceiling; the HELD half of 7/30, cured by the 2026-07-31T09:13:33 true-up pull",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 331,
+      "cum_overall": 827,
+      "reasoning": "THE EIGHTH CLEAN CURE THIS MONTH — AND IT CORRECTS MY OWN DIAGNOSIS OF IT, which is the reason this row is worth reading twice. Last night I called this the first hold this month caused by the INSTRUMENT rather than by the day: two scraper aborts at close, no evening reading in existence, and I filed it as a tooling failure rather than an unfinished day. The cure shows that was HALF the story. The capture states the owner confirmed at the 7/31 morning check that HE ATE AFTER the evening pull. So the day was genuinely unfinished AND the tool was genuinely broken, and my hold was right on two grounds while my reasoning named one. I write the correction down rather than let the tidier version stand in the record. 1,180 → 2,323 is the settle-correction the warehouse exists to catch, the same instrument that caught 7/24 (1,150 → 3,065) and 7/28 (989 → 2,505). ✅ THE MERITS: 2,323 sits inside the pre-registered ramp-day-6 band (1,750 start on 7/25, +100/day, so day 6 targets ~2,250) with 227 kcal of headroom to the upper edge, `provisional: false`, `logged: full`, 0 open flags. The calorie-day entry pays its tiny. 🔎 G-1 PROVENANCE CHECKED BEFORE RULING, as it now is every run, and the warehouse says it in its own words: OWNER'S PROGRAM, locked 2026-07-26, owner overrode Athena's version twice, this is his. Not an agent's recommendation, so no bound of the pre-registration rule is engaged and it grants nothing either way. 🔎 DEDUP GREPPED: 2026-07-30 carried NO ⚖️ row before this one — both halves were HELD last night and neither was booked, so nothing here is a re-book. ⛔ THE 218.2 WEIGH-IN WAS ALREADY RULED NO TICK on 7/30 (2.4 lb above the 215.8 benchmark, which needs ≤214.8) and is NOT re-ruled here. 🔒 EIGHT HOLDS THIS MONTH — 7/22, 7/23, 7/24, 7/25, 7/27, 7/28, 7/29, 7/30 — and every single one cured by an upstream capturer placing the FINAL row. Not one fetched by me (§0.5). The held foot has been recoverable eight times out of eight; a phantom band-hit would have been recoverable zero times",
+      "evidence": "fitness/health-data.json (lastPull 2026-07-31T09:13:33; the 7/30 row reads kcal 2323, protein 219, weight 218.2, provisional false, logged full, dayType reverse-ramp); protocol.reverseRamp (startDate 2026-07-25, startKcal 1750, stepPerDay 100); fitness/health-warehouse-spec.md §8; capture row 2026-07-30",
+      "booked": "2026-07-31"
+    },
+    {
+      "date": "2026-07-30",
+      "lane": "body",
+      "activity": "Protein-goal day — 219 g logged against the 160 g floor (goal 180 − 20), reverse-ramp day 6; the floor crossed by 59 g, the widest margin the ramp has produced",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 332,
+      "cum_overall": 828,
+      "reasoning": "The protein-day entry, fully independent of the calorie tick. 219 g clears the 160 g floor by 59. 📌 TWENTY-FOUR HOURS AGO I WROTE THAT 7/29's 39 g WAS THE WIDEST MARGIN THE RAMP HAD PRODUCED, and it has already been beaten by twenty grams. The number is worth keeping because a reverse diet is SUPPOSED to make protein easier — calories rising means more food on the plate — and this is what that looks like when he actually takes the room he is given rather than eating the extra calories somewhere else. 🔒 NO MONOTONICITY ARGUMENT IS NEEDED TONIGHT, AND THAT IS THE DIFFERENCE FROM THE LAST FOUR NIGHTS. On 7/25, 7/26 and 7/29 I booked a protein half on a `provisional: true` row on the ground that protein has ONE edge and only rises, so a crossed floor cannot uncross. Here the row is FINAL and the reasoning is simply unnecessary. I note it so the record does not read as though the principle had been quietly abandoned — it was not needed, which is a different thing from not holding. 🔎 G-1 PROVENANCE: the 160 floor is goal-minus-twenty off HIS OWN 180 g protein goal (`protocol.proteinTarget 180`, `protocol.proteinFloor 160`), not an agent's number, so no bound of the pre-registration rule is engaged. 🔎 DEDUP GREPPED: no ⚖️ row existed on 2026-07-30 before this run — both halves were held last night, so neither is a re-book",
+      "evidence": "fitness/health-data.json (the 7/30 row reads protein 219, provisional false, logged full); protocol.proteinFloor 160 and protocol.proteinTarget 180; capture row 2026-07-30",
+      "booked": "2026-07-31"
     }
   ],
   "series": {
@@ -5592,6 +5628,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Osiris ARTIFACT REVIEW / WALKTHROUGH session with Odin (S79) — the regenerated tick-prompt read-through (the exact text the agent receives at every activation) reviewed section by section, all nine sections, a verdict returned on each: five approved outright, edits ordered on two, and eleven substantive questions produced, two of which changed the record"
+      },
+      {
+        "date": "2026-07-30",
+        "cum": 40,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris DECISION + BUILD-DIRECTION session with Odin — the round-two memory/continuity/tools decision surface worked block by block with a ruling returned on EVERY open block (passive memory slot taken with a condition of his own attached, that the context be written down durably rather than left in conversation memory; web search ruled BUILD IT; within-run continuity ruled DO THE FIX; the opening mode agreed; goal forcefulness DEFERRED), the six approved blocks then folded into ONE goal command whose eight constraints he specified himself and which he launched as `/goal` PREBOOT-2B"
       }
     ],
     "literature": [
@@ -6858,6 +6901,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Calorie-day on plan — 2,263 kcal FINAL against the pre-registered reverse-ramp day-5 target of ~2,150 (band 1,850–2,450), 187 kcal inside the ceiling; the HELD half of 7/29, cured by the 2026-07-30T10:22 true-up pull"
+      },
+      {
+        "date": "2026-07-30",
+        "cum": 331,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Calorie-day on plan — 2,323 kcal FINAL against the pre-registered reverse-ramp day-6 target of ~2,250 (band 1,950–2,550), 227 kcal inside the ceiling; the HELD half of 7/30, cured by the 2026-07-31T09:13:33 true-up pull"
+      },
+      {
+        "date": "2026-07-30",
+        "cum": 332,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Protein-goal day — 219 g logged against the 160 g floor (goal 180 − 20), reverse-ramp day 6; the floor crossed by 59 g, the widest margin the ramp has produced"
       }
     ],
     "fieldpresence": [
@@ -13620,10 +13677,10 @@
       {
         "date": "2026-07-30",
         "w": 218.2,
-        "kcal": 1180,
-        "protein": 137,
+        "kcal": 2323,
+        "protein": 219,
         "dayType": "reverse-ramp",
-        "provisional": true
+        "provisional": false
       }
     ],
     "trend": [
@@ -14164,11 +14221,6 @@
     },
     "strip": [
       {
-        "date": "2026-07-01",
-        "state": "good",
-        "kcal": 1461
-      },
-      {
         "date": "2026-07-02",
         "state": "good",
         "kcal": 1624
@@ -14310,8 +14362,13 @@
       },
       {
         "date": "2026-07-30",
+        "state": "off",
+        "kcal": 2323
+      },
+      {
+        "date": "2026-07-31",
         "state": "partial",
-        "kcal": 1180
+        "kcal": 0
       }
     ],
     "days": [
@@ -14837,10 +14894,18 @@
       },
       {
         "date": "2026-07-30",
-        "kcal": 1180,
-        "protein": 137,
+        "kcal": 2323,
+        "protein": 219,
         "dayType": "reverse-ramp",
         "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-07-31",
+        "kcal": 0,
+        "protein": 0,
+        "dayType": "empty",
+        "logged": "empty",
         "provisional": true
       }
     ],
