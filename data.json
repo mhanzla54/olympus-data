@@ -20,8 +20,8 @@
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
     "overall_total": 834,
-    "generated_for": "2026-07-31",
-    "built_at": "2026-08-01T01:45:12.880Z",
+    "generated_for": "2026-08-01",
+    "built_at": "2026-08-01T23:59:09.898Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
@@ -8073,9 +8073,10 @@
       "id": "hpull",
       "name": "Horizontal Pull — ROWS",
       "elite": "one-arm ring row",
-      "current": 2,
+      "current": 3,
       "cleared_dates": {
-        "1": "2026-07-16"
+        "1": "2026-07-16",
+        "2": "2026-08-01"
       },
       "rungs": [
         {
@@ -8131,8 +8132,8 @@
       ],
       "gated": "gymnastic rings (hang from the doorway bar, strap-lowered so you can lean under)",
       "chart": 12,
-      "cleared_count": 1,
-      "height": 1,
+      "cleared_count": 2,
+      "height": 3,
       "triangular": [
         0,
         1,
@@ -8383,9 +8384,10 @@
       "id": "legs",
       "name": "Legs — Pistol",
       "elite": "deficit pistol",
-      "current": 6,
+      "current": 7,
       "cleared_dates": {
-        "5": "2026-07-11"
+        "5": "2026-07-11",
+        "6": "2026-08-01"
       },
       "rungs": [
         {
@@ -8440,8 +8442,8 @@
         }
       ],
       "chart": 8,
-      "cleared_count": 5,
-      "height": 15,
+      "cleared_count": 6,
+      "height": 21,
       "triangular": [
         0,
         1,
@@ -8985,13 +8987,6 @@
           "label": "Negative pull-up (5s) — 6, 6, 5.5 (avg 5.8 vs target 8)"
         },
         {
-          "date": "2026-06-17",
-          "y": 1.38,
-          "kind": "session-extra",
-          "label": "Dead hang — 17 (avg 17 vs target 45)",
-          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
-        },
-        {
           "date": "2026-06-20",
           "y": 3.56,
           "kind": "session",
@@ -9010,24 +9005,10 @@
           "label": "Pull — cleared: Negative pull-up (5s)"
         },
         {
-          "date": "2026-06-24",
-          "y": 1.31,
-          "kind": "session-extra",
-          "label": "Dead hang — 14 (avg 14 vs target 45)",
-          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
-        },
-        {
           "date": "2026-06-27",
           "y": 4.44,
           "kind": "session",
           "label": "Full pull-up — 2, 1, 1 (avg 1.3 vs target 3)"
-        },
-        {
-          "date": "2026-06-29",
-          "y": 1.33,
-          "kind": "session-extra",
-          "label": "Dead hang — 15 (avg 15 vs target 45)",
-          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
         },
         {
           "date": "2026-07-01",
@@ -9042,13 +9023,6 @@
           "label": "Full pull-up — 3, 2, .5 (avg 1.8 vs target 3)"
         },
         {
-          "date": "2026-07-06",
-          "y": 1.53,
-          "kind": "session-extra",
-          "label": "Dead hang — 24 (avg 24 vs target 45)",
-          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
-        },
-        {
           "date": "2026-07-08",
           "y": 4.78,
           "kind": "session",
@@ -9061,44 +9035,16 @@
           "label": "Full pull-up — 4, 2, 1 (avg 2.3 vs target 3)"
         },
         {
-          "date": "2026-07-12",
-          "y": 1.67,
-          "kind": "session-extra",
-          "label": "Dead hang — 30, 30 (avg 30 vs target 45)",
-          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
-        },
-        {
-          "date": "2026-07-13",
-          "y": 1.37,
-          "kind": "session-extra",
-          "label": "Dead hang — 20, 13 (avg 16.5 vs target 45)",
-          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
-        },
-        {
           "date": "2026-07-15",
           "y": 4.64,
           "kind": "session",
           "label": "Full pull-up — 3, 2, .75 (avg 1.9 vs target 3)"
         },
         {
-          "date": "2026-07-16",
-          "y": 1.97,
-          "kind": "session-extra",
-          "label": "Dead hang — 45, 45 (avg 45 vs target 45)",
-          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
-        },
-        {
           "date": "2026-07-18",
           "y": 4.72,
           "kind": "session",
           "label": "Full pull-up — 4, 2, .5 (avg 2.2 vs target 3)"
-        },
-        {
-          "date": "2026-07-20",
-          "y": 1.29,
-          "kind": "session-extra",
-          "label": "Dead hang — 15, 11 (avg 13 vs target 45)",
-          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
         },
         {
           "date": "2026-07-22",
@@ -9111,13 +9057,6 @@
           "y": 4.89,
           "kind": "session",
           "label": "Full pull-up — 3, 3, 2 (avg 2.7 vs target 3)"
-        },
-        {
-          "date": "2026-07-27",
-          "y": 1.5,
-          "kind": "session-extra",
-          "label": "Dead hang — 25, 20 (avg 22.5 vs target 45)",
-          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
         },
         {
           "date": "2026-07-29",
@@ -9170,16 +9109,10 @@
           }
         },
         {
-          "date": "2026-07-18",
-          "y": 2.67,
-          "kind": "session",
-          "label": "Parallel ring row (body horizontal, feet on floor) — 6, 6, 4 (avg 5.3 vs target 8)"
-        },
-        {
-          "date": "2026-07-25",
-          "y": 2.63,
-          "kind": "session",
-          "label": "Parallel ring row (body horizontal, feet on floor) — 5.5, 4.5, 5 (avg 5 vs target 8)"
+          "date": "2026-08-01",
+          "y": 3,
+          "kind": "clear",
+          "label": "Horizontal Pull — ROWS — cleared: Parallel ring row (body horizontal, feet on floor)"
         }
       ],
       "steps": [
@@ -9190,6 +9123,10 @@
         {
           "date": "2026-07-16",
           "rungs": 2
+        },
+        {
+          "date": "2026-08-01",
+          "rungs": 3
         }
       ],
       "chart": 12
@@ -9446,13 +9383,6 @@
           "label": "Box pistol — low box — 5, 4, 2.5 (avg 3.8 vs target 5)"
         },
         {
-          "date": "2026-06-08",
-          "y": 4.97,
-          "kind": "session-extra",
-          "label": "Box pistol — high box — 8, 10, 10 (avg 9.3 vs target 5)",
-          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
-        },
-        {
           "date": "2026-06-10",
           "y": 5.5,
           "kind": "session",
@@ -9506,16 +9436,10 @@
           }
         },
         {
-          "date": "2026-07-18",
-          "y": 6.9,
-          "kind": "session",
-          "label": "Assisted floor pistol (hands on rings) — 5, 4.5, 4 (avg 4.5 vs target 5)"
-        },
-        {
-          "date": "2026-07-25",
-          "y": 6.97,
-          "kind": "session",
-          "label": "Assisted floor pistol (hands on rings) — 5, 5, 5 (avg 5 vs target 5)"
+          "date": "2026-08-01",
+          "y": 7,
+          "kind": "clear",
+          "label": "Legs — Pistol — cleared: Assisted floor pistol (hands on rings)"
         }
       ],
       "steps": [
@@ -9526,6 +9450,10 @@
         {
           "date": "2026-07-11",
           "rungs": 6
+        },
+        {
+          "date": "2026-08-01",
+          "rungs": 7
         }
       ],
       "chart": 8
@@ -9711,87 +9639,10 @@
           }
         },
         {
-          "date": "2026-07-04",
-          "y": 1.83,
-          "kind": "session-extra",
-          "label": "Hanging knee raise — 12,  10, 8 (avg 10 vs target 12)",
-          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
-        },
-        {
-          "date": "2026-07-06",
-          "y": 1.67,
-          "kind": "session-extra",
-          "label": "Hanging knee raise — 12, 7, 5 (avg 8 vs target 12)",
-          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
-        },
-        {
-          "date": "2026-07-08",
-          "y": 1.42,
-          "kind": "session-extra",
-          "label": "Hanging knee raise — 5, 5, 5 (avg 5 vs target 12)",
-          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
-        },
-        {
-          "date": "2026-07-11",
-          "y": 1.58,
-          "kind": "session-extra",
-          "label": "Hanging knee raise — 8, 8, 5 (avg 7 vs target 12)",
-          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
-        },
-        {
-          "date": "2026-07-13",
-          "y": 1.61,
-          "kind": "session-extra",
-          "label": "Hanging knee raise — 10,  6,  6 (avg 7.3 vs target 12)",
-          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
-        },
-        {
-          "date": "2026-07-15",
-          "y": 1.53,
-          "kind": "session-extra",
-          "label": "Hanging knee raise — 7, 6, 6 (avg 6.3 vs target 12)",
-          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
-        },
-        {
-          "date": "2026-07-18",
-          "y": 1.64,
-          "kind": "session-extra",
-          "label": "Hanging knee raise — 10, 7, 6 (avg 7.7 vs target 12)",
-          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
-        },
-        {
-          "date": "2026-07-20",
-          "y": 1.61,
-          "kind": "session-extra",
-          "label": "Hanging knee raise — 10, 5.5, 6.5 (avg 7.3 vs target 12)",
-          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
-        },
-        {
-          "date": "2026-07-22",
-          "y": 1.78,
-          "kind": "session-extra",
-          "label": "Hanging knee raise — 10, 10, 8 (avg 9.3 vs target 12)",
-          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
-        },
-        {
           "date": "2026-07-25",
           "y": 3,
           "kind": "clear",
           "label": "Core — HANGING — cleared: Hanging knee raise — slow eccentric (normal up, 3s down)"
-        },
-        {
-          "date": "2026-07-27",
-          "y": 1.31,
-          "kind": "session-extra",
-          "label": "Hanging knee raise — 5, 3, 3 (avg 3.7 vs target 12)",
-          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
-        },
-        {
-          "date": "2026-07-29",
-          "y": 1.28,
-          "kind": "session-extra",
-          "label": "Hanging knee raise — 4, 3, 3 (avg 3.3 vs target 12)",
-          "extra": "work on an already-cleared rung — shown as a dot, not joined to the line (owner rule)"
         }
       ],
       "steps": [
@@ -9833,12 +9684,52 @@
       "rejected": []
     },
     "pull": {
-      "candidates": 25,
-      "plotted": 25,
+      "candidates": 26,
+      "plotted": 16,
       "rejected": [
         {
           "date": "2026-06-23",
           "why": "clear-point has no matching logged session that day — rendered without performance numbers (never invented)"
+        },
+        {
+          "date": "2026-06-17",
+          "why": "\"Grip+trap (flex): dead hang + scap shrug\" is rung-1 work while training rung 3 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-06-24",
+          "why": "\"Grip+trap (flex): dead hang + scap shrug\" is rung-1 work while training rung 4 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-06-29",
+          "why": "\"Grip+trap (flex): dead hang + scap shrug\" is rung-1 work while training rung 4 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-07-06",
+          "why": "\"Grip+trap (flex): dead hang + scap shrug\" is rung-1 work while training rung 4 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-07-12",
+          "why": "\"Dead Hang\" is rung-1 work while training rung 4 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-07-13",
+          "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 4 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-07-16",
+          "why": "\"Dead Hang\" is rung-1 work while training rung 4 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-07-20",
+          "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 4 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-07-27",
+          "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 4 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-08-01",
+          "why": "\"Pull-up (★full — then negatives as back-\" is rung-4 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
         }
       ]
     },
@@ -9853,9 +9744,26 @@
       "rejected": []
     },
     "legs": {
-      "candidates": 12,
-      "plotted": 12,
-      "rejected": []
+      "candidates": 13,
+      "plotted": 10,
+      "rejected": [
+        {
+          "date": "2026-08-01",
+          "why": "clear-point has no matching logged session that day — rendered without performance numbers (never invented)"
+        },
+        {
+          "date": "2026-06-08",
+          "why": "\"Box pistol (high)\" is rung-4 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-07-18",
+          "why": "\"Full pistol (★no assist)\" is rung-7 work, not the trained rung 6 — cleared/future-rung work does not plot (owner law)"
+        },
+        {
+          "date": "2026-07-25",
+          "why": "\"Full pistol (★no assist)\" is rung-7 work, not the trained rung 6 — cleared/future-rung work does not plot (owner law)"
+        }
+      ]
     },
     "corefloor": {
       "candidates": 10,
@@ -9863,8 +9771,8 @@
       "rejected": []
     },
     "corehang": {
-      "candidates": 24,
-      "plotted": 23,
+      "candidates": 25,
+      "plotted": 12,
       "rejected": [
         {
           "date": "2026-07-25",
@@ -9873,6 +9781,54 @@
         {
           "date": "2026-06-27",
           "why": "\"Hanging knee raise\" logged no usable numbers (skipped)"
+        },
+        {
+          "date": "2026-07-04",
+          "why": "\"Hanging knee raise\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-07-06",
+          "why": "\"Hanging knee raise\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-07-08",
+          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-07-11",
+          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-07-13",
+          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-07-15",
+          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-07-18",
+          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-07-20",
+          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-07-22",
+          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-07-27",
+          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 3 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-07-29",
+          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 3 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-08-01",
+          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 3 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
         }
       ]
     },
@@ -9882,9 +9838,22 @@
       "rejected": []
     },
     "hpull": {
-      "candidates": 3,
-      "plotted": 3,
-      "rejected": []
+      "candidates": 4,
+      "plotted": 2,
+      "rejected": [
+        {
+          "date": "2026-08-01",
+          "why": "clear-point has no matching logged session that day — rendered without performance numbers (never invented)"
+        },
+        {
+          "date": "2026-07-18",
+          "why": "\"Feet-elevated Ring Row (★ feet on a chai\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
+        },
+        {
+          "date": "2026-07-25",
+          "why": "\"Feet-elevated Ring Row (★ feet on a chai\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
+        }
+      ]
     }
   },
   "data_tab": {
@@ -10174,7 +10143,7 @@
             "name": "Grip+trap (flex): dead hang + scap shrugs",
             "raw": "17",
             "avg": 17,
-            "status": "◦ floating dot at 1.38 (cleared-rung work)"
+            "status": "✗ not plotted — \"Grip+trap (flex): dead hang + scap shrug\" is rung-1 work while training rung 3 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           },
           {
             "date": "2026-06-20",
@@ -10202,7 +10171,7 @@
             "name": "Grip+trap (flex): dead hang + scap shrugs",
             "raw": "14",
             "avg": 14,
-            "status": "◦ floating dot at 1.31 (cleared-rung work)"
+            "status": "✗ not plotted — \"Grip+trap (flex): dead hang + scap shrug\" is rung-1 work while training rung 4 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           },
           {
             "date": "2026-06-27",
@@ -10216,7 +10185,7 @@
             "name": "Grip+trap (flex): dead hang + scap shrugs",
             "raw": "15",
             "avg": 15,
-            "status": "◦ floating dot at 1.33 (cleared-rung work)"
+            "status": "✗ not plotted — \"Grip+trap (flex): dead hang + scap shrug\" is rung-1 work while training rung 4 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           },
           {
             "date": "2026-07-01",
@@ -10244,7 +10213,7 @@
             "name": "Grip+trap (flex): dead hang + scap shrugs",
             "raw": "24",
             "avg": 24,
-            "status": "◦ floating dot at 1.53 (cleared-rung work)"
+            "status": "✗ not plotted — \"Grip+trap (flex): dead hang + scap shrug\" is rung-1 work while training rung 4 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           },
           {
             "date": "2026-07-08",
@@ -10272,14 +10241,14 @@
             "name": "Dead Hang",
             "raw": "30, 30",
             "avg": 30,
-            "status": "◦ floating dot at 1.67 (cleared-rung work)"
+            "status": "✗ not plotted — \"Dead Hang\" is rung-1 work while training rung 4 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           },
           {
             "date": "2026-07-13",
             "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
             "raw": "20, 13",
             "avg": 16.5,
-            "status": "◦ floating dot at 1.37 (cleared-rung work)"
+            "status": "✗ not plotted — \"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 4 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           },
           {
             "date": "2026-07-15",
@@ -10300,7 +10269,7 @@
             "name": "Dead Hang",
             "raw": "45, 45",
             "avg": 45,
-            "status": "◦ floating dot at 1.97 (cleared-rung work)"
+            "status": "✗ not plotted — \"Dead Hang\" is rung-1 work while training rung 4 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           },
           {
             "date": "2026-07-18",
@@ -10314,7 +10283,7 @@
             "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
             "raw": "15, 11",
             "avg": 13,
-            "status": "◦ floating dot at 1.29 (cleared-rung work)"
+            "status": "✗ not plotted — \"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 4 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           },
           {
             "date": "2026-07-22",
@@ -10342,7 +10311,7 @@
             "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
             "raw": "25, 20",
             "avg": 22.5,
-            "status": "◦ floating dot at 1.5 (cleared-rung work)"
+            "status": "✗ not plotted — \"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 4 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           },
           {
             "date": "2026-07-29",
@@ -10357,6 +10326,13 @@
             "raw": "19, 20",
             "avg": 19.5,
             "status": "✓ CLEAR DAY — carried by the clear dot (needed 3, avg 3)"
+          },
+          {
+            "date": "2026-08-01",
+            "name": "Pull-up (★full — then negatives as back-off)",
+            "raw": "3, 3, 2",
+            "avg": 2.7,
+            "status": "✗ not plotted — \"Pull-up (★full — then negatives as back-\" is rung-4 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           }
         ]
       },
@@ -10373,17 +10349,24 @@
           },
           {
             "date": "2026-07-18",
-            "name": "Parallel Ring Row (★ body horizontal, feet on floor)",
+            "name": "Feet-elevated Ring Row (★ feet on a chair)",
             "raw": "6, 6, 4",
             "avg": 5.3,
-            "status": "● plotted at 2.67"
+            "status": "✗ not plotted — \"Feet-elevated Ring Row (★ feet on a chai\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
           },
           {
             "date": "2026-07-25",
-            "name": "Parallel Ring Row (★ body horizontal, feet on floor)",
+            "name": "Feet-elevated Ring Row (★ feet on a chair)",
             "raw": "5.5, 4.5, 5",
             "avg": 5,
-            "status": "● plotted at 2.63"
+            "status": "✗ not plotted — \"Feet-elevated Ring Row (★ feet on a chai\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
+          },
+          {
+            "date": "2026-08-01",
+            "name": "Feet-elevated Ring Row (★ feet on a chair)",
+            "raw": "8, 8, 8",
+            "avg": 8,
+            "status": "✓ CLEAR DAY — carried by the clear dot (no perf numbers)"
           }
         ]
       },
@@ -10581,7 +10564,7 @@
             "name": "Box pistol (high)",
             "raw": "8, 10, 10",
             "avg": 9.3,
-            "status": "◦ floating dot at 4.97 (cleared-rung work)"
+            "status": "✗ not plotted — \"Box pistol (high)\" is rung-4 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           },
           {
             "date": "2026-06-10",
@@ -10641,17 +10624,24 @@
           },
           {
             "date": "2026-07-18",
-            "name": "Assisted floor pistol (★hands on rings)",
+            "name": "Full pistol (★no assist)",
             "raw": "5, 4.5, 4",
             "avg": 4.5,
-            "status": "● plotted at 6.9"
+            "status": "✗ not plotted — \"Full pistol (★no assist)\" is rung-7 work, not the trained rung 6 — cleared/future-rung work does not plot (owner law)"
           },
           {
             "date": "2026-07-25",
-            "name": "Assisted floor pistol (★hands on rings)",
+            "name": "Full pistol (★no assist)",
             "raw": "5, 5, 5",
             "avg": 5,
-            "status": "● plotted at 6.97"
+            "status": "✗ not plotted — \"Full pistol (★no assist)\" is rung-7 work, not the trained rung 6 — cleared/future-rung work does not plot (owner law)"
+          },
+          {
+            "date": "2026-08-01",
+            "name": "Full pistol (★no assist)",
+            "raw": "5, 5, 5",
+            "avg": 5,
+            "status": "✓ CLEAR DAY — carried by the clear dot (no perf numbers)"
           }
         ]
       },
@@ -10824,63 +10814,63 @@
             "name": "Hanging knee raise",
             "raw": "12,  10, 8",
             "avg": 10,
-            "status": "◦ floating dot at 1.83 (cleared-rung work)"
+            "status": "✗ not plotted — \"Hanging knee raise\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           },
           {
             "date": "2026-07-06",
             "name": "Hanging knee raise",
             "raw": "12, 7, 5",
             "avg": 8,
-            "status": "◦ floating dot at 1.67 (cleared-rung work)"
+            "status": "✗ not plotted — \"Hanging knee raise\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           },
           {
             "date": "2026-07-08",
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "5, 5, 5",
             "avg": 5,
-            "status": "◦ floating dot at 1.42 (cleared-rung work)"
+            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           },
           {
             "date": "2026-07-11",
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "8, 8, 5",
             "avg": 7,
-            "status": "◦ floating dot at 1.58 (cleared-rung work)"
+            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           },
           {
             "date": "2026-07-13",
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "10,  6,  6",
             "avg": 7.3,
-            "status": "◦ floating dot at 1.61 (cleared-rung work)"
+            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           },
           {
             "date": "2026-07-15",
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "7, 6, 6",
             "avg": 6.3,
-            "status": "◦ floating dot at 1.53 (cleared-rung work)"
+            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           },
           {
             "date": "2026-07-18",
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "10, 7, 6",
             "avg": 7.7,
-            "status": "◦ floating dot at 1.64 (cleared-rung work)"
+            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           },
           {
             "date": "2026-07-20",
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "10, 5.5, 6.5",
             "avg": 7.3,
-            "status": "◦ floating dot at 1.61 (cleared-rung work)"
+            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           },
           {
             "date": "2026-07-22",
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "10, 10, 8",
             "avg": 9.3,
-            "status": "◦ floating dot at 1.78 (cleared-rung work)"
+            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           },
           {
             "date": "2026-07-25",
@@ -10894,14 +10884,21 @@
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "5, 3, 3",
             "avg": 3.7,
-            "status": "◦ floating dot at 1.31 (cleared-rung work)"
+            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 3 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           },
           {
             "date": "2026-07-29",
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "4, 3, 3",
             "avg": 3.3,
-            "status": "◦ floating dot at 1.28 (cleared-rung work)"
+            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 3 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+          },
+          {
+            "date": "2026-08-01",
+            "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
+            "raw": "5, 3, 5",
+            "avg": 4.3,
+            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 3 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           }
         ]
       }
@@ -11067,6 +11064,55 @@
           {
             "date": "2026-07-29",
             "detail": "reps: 4, 3, 3"
+          },
+          {
+            "date": "2026-08-01",
+            "detail": "reps: 5, 3, 5"
+          }
+        ]
+      },
+      {
+        "name": "Pull-up (★full — then negatives as back-off)",
+        "rows": [
+          {
+            "date": "2026-07-01",
+            "detail": "full reps: 3, 1.5,  l.5 · neg back-off: 3, 3, 2"
+          },
+          {
+            "date": "2026-07-04",
+            "detail": "full reps: 3, 2, .5 · neg back-off: 2, 4, 2.5"
+          },
+          {
+            "date": "2026-07-08",
+            "detail": "full reps: 4,  2 , 1 · neg back-off: 4, 4, 2"
+          },
+          {
+            "date": "2026-07-11",
+            "detail": "full reps: 4, 2, 1 · neg back-off: 4, 4, 3.5"
+          },
+          {
+            "date": "2026-07-15",
+            "detail": "full reps: 3, 2, .75 · neg back-off: 4, 3, 3"
+          },
+          {
+            "date": "2026-07-18",
+            "detail": "full reps: 4, 2, .5 · neg back-off: 6, 5, 3"
+          },
+          {
+            "date": "2026-07-22",
+            "detail": "full reps: 3.5,  2.5, .5 · neg back-off: 5, 5, 3"
+          },
+          {
+            "date": "2026-07-25",
+            "detail": "full reps: 3, 3, 2 · neg back-off: 4, 5, 4"
+          },
+          {
+            "date": "2026-07-29",
+            "detail": "full reps: 3, 3, 3 · neg back-off: 3, 3, 4"
+          },
+          {
+            "date": "2026-08-01",
+            "detail": "full reps: 3, 3, 2 · neg back-off: 5, 5, 5"
           }
         ]
       },
@@ -11112,47 +11158,6 @@
         ]
       },
       {
-        "name": "Pull-up (★full — then negatives as back-off)",
-        "rows": [
-          {
-            "date": "2026-07-01",
-            "detail": "full reps: 3, 1.5,  l.5 · neg back-off: 3, 3, 2"
-          },
-          {
-            "date": "2026-07-04",
-            "detail": "full reps: 3, 2, .5 · neg back-off: 2, 4, 2.5"
-          },
-          {
-            "date": "2026-07-08",
-            "detail": "full reps: 4,  2 , 1 · neg back-off: 4, 4, 2"
-          },
-          {
-            "date": "2026-07-11",
-            "detail": "full reps: 4, 2, 1 · neg back-off: 4, 4, 3.5"
-          },
-          {
-            "date": "2026-07-15",
-            "detail": "full reps: 3, 2, .75 · neg back-off: 4, 3, 3"
-          },
-          {
-            "date": "2026-07-18",
-            "detail": "full reps: 4, 2, .5 · neg back-off: 6, 5, 3"
-          },
-          {
-            "date": "2026-07-22",
-            "detail": "full reps: 3.5,  2.5, .5 · neg back-off: 5, 5, 3"
-          },
-          {
-            "date": "2026-07-25",
-            "detail": "full reps: 3, 3, 2 · neg back-off: 4, 5, 4"
-          },
-          {
-            "date": "2026-07-29",
-            "detail": "full reps: 3, 3, 3 · neg back-off: 3, 3, 4"
-          }
-        ]
-      },
-      {
         "name": "Plank (finisher)",
         "rows": [
           {
@@ -11186,6 +11191,10 @@
           {
             "date": "2026-07-25",
             "detail": "held: 30, 30"
+          },
+          {
+            "date": "2026-08-01",
+            "detail": "held: 22,"
           }
         ]
       },
@@ -11614,6 +11623,57 @@
         ]
       },
       {
+        "name": "Feet-elevated Ring Row (★ feet on a chair)",
+        "rows": [
+          {
+            "date": "2026-07-18",
+            "detail": "reps: 6, 6, 4"
+          },
+          {
+            "date": "2026-07-25",
+            "detail": "reps: 5.5, 4.5, 5"
+          },
+          {
+            "date": "2026-08-01",
+            "detail": "reps: 8, 8, 8"
+          }
+        ]
+      },
+      {
+        "name": "Full pistol (★no assist)",
+        "rows": [
+          {
+            "date": "2026-07-18",
+            "detail": "reps: 5, 4.5, 4"
+          },
+          {
+            "date": "2026-07-25",
+            "detail": "reps: 5, 5, 5"
+          },
+          {
+            "date": "2026-08-01",
+            "detail": "reps: 5, 5, 5"
+          }
+        ]
+      },
+      {
+        "name": "Single-leg hip thrust (shoulders on bed/chair)",
+        "rows": [
+          {
+            "date": "2026-07-18",
+            "detail": "reps: 3, 4, 5"
+          },
+          {
+            "date": "2026-07-25",
+            "detail": "reps: 10, 7, 6"
+          },
+          {
+            "date": "2026-08-01",
+            "detail": "reps: 9, 6, 6"
+          }
+        ]
+      },
+      {
         "name": "Grip+trap (flex): towel hang + scap shrugs",
         "rows": [
           {
@@ -11688,45 +11748,6 @@
           {
             "date": "2026-07-16",
             "detail": "reps / held: 45, 45"
-          }
-        ]
-      },
-      {
-        "name": "Parallel Ring Row (★ body horizontal, feet on floor)",
-        "rows": [
-          {
-            "date": "2026-07-18",
-            "detail": "reps: 6, 6, 4"
-          },
-          {
-            "date": "2026-07-25",
-            "detail": "reps: 5.5, 4.5, 5"
-          }
-        ]
-      },
-      {
-        "name": "Assisted floor pistol (★hands on rings)",
-        "rows": [
-          {
-            "date": "2026-07-18",
-            "detail": "reps: 5, 4.5, 4"
-          },
-          {
-            "date": "2026-07-25",
-            "detail": "reps: 5, 5, 5"
-          }
-        ]
-      },
-      {
-        "name": "Single-leg hip thrust (shoulders on bed/chair)",
-        "rows": [
-          {
-            "date": "2026-07-18",
-            "detail": "reps: 3, 4, 5"
-          },
-          {
-            "date": "2026-07-25",
-            "detail": "reps: 10, 7, 6"
           }
         ]
       },
@@ -11876,6 +11897,51 @@
     ],
     "dates": [
       {
+        "date": "2026-08-01",
+        "rows": [
+          {
+            "ladderId": "pull",
+            "ladderName": "Pull",
+            "name": "Pull-up (★full — then negatives as back-off)",
+            "raw": "3, 3, 2",
+            "avg": 2.7,
+            "target": "3",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "corehang",
+            "ladderName": "Core — HANGING",
+            "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
+            "raw": "5, 3, 5",
+            "avg": 4.3,
+            "target": "12",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "hpull",
+            "ladderName": "Horizontal Pull — ROWS",
+            "name": "Feet-elevated Ring Row (★ feet on a chair)",
+            "raw": "8, 8, 8",
+            "avg": 8,
+            "target": "8",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "legs",
+            "ladderName": "Legs — Pistol",
+            "name": "Full pistol (★no assist)",
+            "raw": "5, 5, 5",
+            "avg": 5,
+            "target": "5/leg",
+            "sets": 3,
+            "cleared": false
+          }
+        ]
+      },
+      {
         "date": "2026-07-29",
         "rows": [
           {
@@ -12021,7 +12087,7 @@
           {
             "ladderId": "hpull",
             "ladderName": "Horizontal Pull — ROWS",
-            "name": "Parallel Ring Row (★ body horizontal, feet on floor)",
+            "name": "Feet-elevated Ring Row (★ feet on a chair)",
             "raw": "5.5, 4.5, 5",
             "avg": 5,
             "target": "8",
@@ -12031,7 +12097,7 @@
           {
             "ladderId": "legs",
             "ladderName": "Legs — Pistol",
-            "name": "Assisted floor pistol (★hands on rings)",
+            "name": "Full pistol (★no assist)",
             "raw": "5, 5, 5",
             "avg": 5,
             "target": "5/leg",
@@ -12186,7 +12252,7 @@
           {
             "ladderId": "hpull",
             "ladderName": "Horizontal Pull — ROWS",
-            "name": "Parallel Ring Row (★ body horizontal, feet on floor)",
+            "name": "Feet-elevated Ring Row (★ feet on a chair)",
             "raw": "6, 6, 4",
             "avg": 5.3,
             "target": "8",
@@ -12196,7 +12262,7 @@
           {
             "ladderId": "legs",
             "ladderName": "Legs — Pistol",
-            "name": "Assisted floor pistol (★hands on rings)",
+            "name": "Full pistol (★no assist)",
             "raw": "5, 4.5, 4",
             "avg": 4.5,
             "target": "5/leg",
@@ -13216,12 +13282,20 @@
   ],
   "last_perf": {
     "pull": {
-      "date": "2026-07-29",
-      "detail": "3, 3, 3"
+      "date": "2026-08-01",
+      "detail": "3, 3, 2"
     },
     "corehang": {
-      "date": "2026-07-29",
-      "detail": "4, 3, 3"
+      "date": "2026-08-01",
+      "detail": "5, 3, 5"
+    },
+    "hpull": {
+      "date": "2026-08-01",
+      "detail": "8, 8, 8"
+    },
+    "legs": {
+      "date": "2026-08-01",
+      "detail": "5, 5, 5"
     },
     "grip": {
       "date": "2026-07-29",
@@ -13250,14 +13324,6 @@
     "explosive": {
       "date": "2026-07-27",
       "detail": "3, 5, 4"
-    },
-    "hpull": {
-      "date": "2026-07-25",
-      "detail": "5.5, 4.5, 5"
-    },
-    "legs": {
-      "date": "2026-07-25",
-      "detail": "5, 5, 5"
     }
   },
   "health": {
@@ -13802,7 +13868,7 @@
         "kcal": 2273,
         "protein": 200,
         "dayType": "reverse-ramp",
-        "provisional": true
+        "provisional": false
       }
     ],
     "trend": [
@@ -14347,11 +14413,6 @@
     },
     "strip": [
       {
-        "date": "2026-07-02",
-        "state": "good",
-        "kcal": 1624
-      },
-      {
         "date": "2026-07-03",
         "state": "cheat",
         "kcal": 4073
@@ -14493,8 +14554,13 @@
       },
       {
         "date": "2026-07-31",
-        "state": "partial",
+        "state": "off",
         "kcal": 2273
+      },
+      {
+        "date": "2026-08-01",
+        "state": "partial",
+        "kcal": 0
       }
     ],
     "days": [
@@ -15032,6 +15098,14 @@
         "protein": 200,
         "dayType": "reverse-ramp",
         "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-08-01",
+        "kcal": 0,
+        "protein": 0,
+        "dayType": "empty",
+        "logged": "empty",
         "provisional": true
       }
     ],
