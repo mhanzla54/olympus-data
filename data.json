@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 860,
+    "overall_total": 862,
     "generated_for": "2026-08-01",
-    "built_at": "2026-08-02T02:26:15.619Z",
+    "built_at": "2026-08-02T03:16:26.267Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 223
+      "ft_to_go": 221
     }
   },
   "lanes": [
@@ -57,7 +57,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 41,
+      "current": 43,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -4634,6 +4634,30 @@
       "reasoning": "The public-work-day entry: a genuine day of work on a public artifact — revising, documenting, judging — DAY-KEYED, one per (date, kind). ✅ ALL FIVE BARS PASS. Bar 1 is waived for work-days by the entry's own text (*ships that day or not*). Bar 2 is met by a free-modules hub built for strangers. Bar 3, THE SHAPING BAR, is the whole question on this lane and it is answered forty times over: his judgment is visible IN THE DIFFERENCE, item by item, with a written verdict on every one. Bar 4, substance, is cleared by a 40-item pass plus a recorded walkthrough. Bar 5, no cross-lane double-pay: he wrote no code, so 🐍 pays nothing (G-2 — the object here is CONTRIBUTION, and AI is method rather than contamination). ⭐ THE ACT WORTH RECORDING IS NOT THE REVIEW, IT IS THAT HE RE-VERIFIED TWO REPORTED FIXES HIMSELF RATHER THAN ACCEPTING THE BUILD'S WORD. He has now found, on three consecutive days, things that automated checks passed straight over — two unreachable items on 7/31 after sixteen checks, and tonight a feedback widget that had shipped with ZERO CSS in either file and rendered as Chrome defaults through THIRTY passing harness checks. A GREEN CHECK ESTABLISHES THAT A THING WORKS. IT HAS NEVER ESTABLISHED THAT IT LOOKS RIGHT, IS REACHABLE, OR IS GOOD. He is the only instrument that measures the second three, and he ran it again tonight. ⭐ AND HE RULED ON B5: the ported field animation contradicted a locked decision, and rather than let the build quietly resolve it he ruled the ported version stands and had the decision AMENDED with the retired wording and its pedagogical claim recorded. Overturning your own locked decision in the open, with the losing argument written down, is the shape of a decision log that stays honest. 🔒 THE v0.5 BUILD ROW ADDS NO SECOND TICK: same date, same kind, same body of work — the day is the atom and shipping adds no second tiny. It also fails independently — an agent executed it under `/goal` and he directed and reviewed it, which is exactly what this one foot is already paying for. ⛔ AND STILL NO ARTIFACT SMALL, FOR THE FIFTH CONSECUTIVE DAY. The capture says it plainly and corrected its own earlier misstatement before dispatch: NOTHING WAS PUBLISHED. The website is a local mockup with no domain, no host and no URL, and the hosting decision is still open. Bar 1 governs the artifact tier absolutely, and forty passing checks move it no closer than sixteen did. The first-personal-website SMALL is sitting one hosting decision away and it cannot be earned by more polish. 🔎 DEDUP: day-keyed; no ✍️ row existed on 2026-08-01 (the 09:18 morning capture correctly recorded no public work at that hour and is superseded by the evening rows)",
       "evidence": "_explainers/2026-08-01-site-v04-review-checklist.html; field-presence/BUILD-DECISIONS.md B5; field-presence/website-mockup/{site.css, index.html, probe-styled.mjs}; BKM/public-work-log.md row 5 (shipped: not yet); capture rows 2026-08-01 ✍️ (all three)",
       "booked": "2026-08-01"
+    },
+    {
+      "date": "2026-08-01",
+      "lane": "method",
+      "activity": "Osiris BUILD WORKING SESSION with Odin — the protocol ruling that resolved a specification contradiction five independent break-it verifiers (RE-GATE 1–5) had each returned BROKEN on: shown three options with worked before/after renderings, he ruled that an UNFENCED nonce-bearing JSON object is HIS PROSE and is left byte-identical, while a FENCED one is a secret and is removed",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 42,
+      "cum_overall": 861,
+      "reasoning": "The Osiris working-session entry (owner ruling 2026-07-09), session-type BUILD WORKING SESSION — Odin in the loop, the owner making the call. Substance floor cleared several times over: a ruling on a contradiction that had blocked six verifier rounds, which then collapsed two of three outstanding blockers into one defect. ⭐ THE THING WORTH RECORDING IS THAT THE SPECIFICATION WAS ASKING FOR OPPOSITE THINGS AND NO AMOUNT OF VERIFICATION COULD HAVE FOUND ITS WAY OUT. RE-GATE 4 R2 rated it a BLOCKER that a bare `{\"nonce\":...}` object must be SCRUBBED; R3 rated it a BLOCKER that the same input be left BYTE-IDENTICAL. Five fresh verifiers returned BROKEN because BROKEN was the only honest verdict available to them — the fifth stopped grinding and escalated the cause instead, which is the correct behaviour and the reason it reached him at all. A CONTRADICTION IN A SPEC IS NOT A BUG THAT TESTING FINDS; IT IS A DECISION NOBODY HAS MADE YET, and only the owner could make it. 📌 He took the agent's recommended option, and that costs the tick nothing — this entry prices the sitting and the call, never whether the call agreed or disagreed with what he was advised. The same principle that paid nothing extra for the 7/31 note-correction and nothing less for the 8/01 wrong regex prediction applies here in the third direction. ⚖️ THE RULING IS ALSO THE RIGHT SHAPE FOR THE STUDY, which is why it closes rather than papers over: it cuts on STRUCTURE (is the object inside a protocol fence?) rather than on DISTANCE, and the fix replaced a distance-based fence test that had been applied to only one of two code branches. It is now mechanically enforced in `test/smoke.mjs` and MUTATION-PROVEN — forcing the fence test true fails the gate, which is a test that can demonstrate it would catch its own removal. ⛔ NO ARTIFACT OR MILESTONE TICK: the Lens fence-splitting work is a subsystem inside a build, not a roadmap artifact; #6 is the pilot RUN and #13 the validation report, neither of which this is. 🔎 DEDUP: no 📕 row of any type existed on 2026-08-01 before this run",
+      "evidence": "`_build/lens-fence-1-report.md` (RE-GATE 5 verdict + DONE-WHEN 6 rating table); `api/thought-split.mjs` (`insideProtocolFence`); `test/smoke.mjs`; Odin session transcript 2026-08-01; capture row 2026-08-01 (the protocol ruling)",
+      "booked": "2026-08-01"
+    },
+    {
+      "date": "2026-08-01",
+      "lane": "method",
+      "activity": "Osiris OWNER-EXECUTED OPS session — THE PILOT WAS BOOTED FOR THE FIRST TIME on his order at 22:44:13 EST (`systemctl enable --now osiris-runner`, service active, unit enabled), the first production cycle watched and diagnosed, and the run then KILLED BY HIS OWN REVERSAL on per-cycle cost (`systemctl disable --now`)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 43,
+      "cum_overall": 862,
+      "reasoning": "The Osiris working-session entry, session-type OWNER-EXECUTED OPS TASK — a named type in the codebook's own list (account setup, OAuth flows, key management), and enabling a live production service, reading its telemetry and ruling on its spend sits squarely in it. 🔒 WHY THIS IS A SECOND 📕 TINY AND NOT A FOLD INTO THE ROW ABOVE: the dedup is one tick per (date, session-TYPE), and a different-type session on the same date is its own tick. The row above is a SPECIFICATION RULING inside a build; this is OPERATING the apparatus and making a money call on it. The roadmap keeps them apart for the same reason — #4 Substrate v1 is the build, #6 is the RUN. Direct precedent, and the reason I book two rather than one: 2026-07-29 booked TWO 📕 tinies out of ONE Odin sitting (decision-lock/MDL + artifact-review), and 2026-07-26 booked TWO (build working session + decision-lock). Type, not sitting, is what the rule keys on, and it has keyed on type every time. ✅ SUBSTANCE FLOOR CLEARED ON AN EQUIVALENT MIX, not on clock: the go/no-go call taken with the downside named out loud, the boot itself, the failure diagnosed from telemetry, the leave-it-overnight decision, the reversal, and the stop order. ⭐ THE CALL WORTH RECORDING IS THE REVERSAL, NOT THE BOOT. He gave the order knowing the Lens side was verified and THE SUBSTRATE SIDE COULD NOT BE CERTIFIED FROM THAT SESSION — a decision taken with its uncertainty named rather than hidden. Then he chose to leave it running overnight, saw ~17¢ per FAILED cycle in the cost ledger, and reversed himself inside the same sitting: *\"actually just stop it. no point in wasting the money.\"* Changing your mind on new evidence, minutes after committing, is the same faculty that refused his own pistol rung twice with passing numbers on the page. ⛔ AND THE MILESTONE DOES NOT BOOK — THIS IS A BOOT, NOT A RUN. 🔎 PATH-EVENT FACT-CHECKED against `execution-roadmap.md` THE GAME PLAN BEFORE booking: #6 Thin funding pilot run is a **1-week full-production private run**, boot ~Aug 5 → run to ~Aug 12, and it is priced a SMALL. What happened tonight is a boot four days early that produced 6 ticks / 2 runs / 6 cost rows and ONE production cycle which drew `entry_mode: shortform` by `uniform_random` and ended `cycle_failed` → `cycle_abandoned` on `AdapterError: gemini adapter: provider returned HTTP 429 on all 3 attempts — retry budget exhausted (fail-closed)`, then was disabled inside three minutes. A run that is stopped before it runs is not the run. The #6 small stays ahead and will stack above these session tinies when it lands (nested double-count). 📌 THE FAIL-CLOSED BEHAVIOUR IS ITSELF A RESULT AND I RECORD IT AT ZERO FEET: the adapter exhausted its retry budget and ABANDONED the cycle rather than degrading or inventing output, and the total damage was $0.1666 across 6 calls. The apparatus failing loudly and cheaply on its first contact with production is what you want from an instrument you intend to trust for twelve months. ⛔ NO T0 CLAIM ANYWHERE NEAR THIS — T0 is roadmap-final, gated on A5 + B4 + D-track, and pays a LARGE; the capture does not claim it and neither do I. 🔎 DEDUP: no ops-type 📕 row existed on 2026-08-01",
+      "evidence": "`journalctl -u osiris-runner`; `osiris.telemetry_events` (`cycle_failed`, `cycle_abandoned`); `osiris.cost_ledger` ($0.1666 / 6 calls); `execution-roadmap.md` THE GAME PLAN #6; Odin session transcript 2026-08-01; capture row 2026-08-01 (the pilot boot)",
+      "booked": "2026-08-01"
     }
   ],
   "series": {
@@ -5838,6 +5862,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Osiris DESIGN-AND-RULING session with Odin — six calls returned on an open decision surface, two defects caught in Odin's own design, and two `/goal` commands set. The six: web search DEFERRED out of the pilot entirely with an explicit pilot-vs-end-result reframe (\"they're going to be worlds apart in differences, and that's okay… we'll still get a lot of data from the pilot\"); MDL-151's daily spend ceiling accepted as a RECORDED GAP for the seven-day shakedown and deferred to the November rehearsal, after being told the decision is locked but does not exist in code; a durable process rule added to `/make-goal-prompt` that every goal touching code must prove the code was actually RUN and not merely reviewed; side desks extended from Odin-only to Atlas as well and from an open number to five each; every desk required to always know its constraints, with hooks and SOPs wired so none can do catastrophic damage; and — after four independent reviews returned BROKEN — the desks ruled operational anyway. He also raised the multi-session problem himself and specified its shape (copies that know everything, cannot clash, write elsewhere, and mesh back into the primary's files on command)"
+      },
+      {
+        "date": "2026-08-01",
+        "cum": 42,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris BUILD WORKING SESSION with Odin — the protocol ruling that resolved a specification contradiction five independent break-it verifiers (RE-GATE 1–5) had each returned BROKEN on: shown three options with worked before/after renderings, he ruled that an UNFENCED nonce-bearing JSON object is HIS PROSE and is left byte-identical, while a FENCED one is a secret and is removed"
+      },
+      {
+        "date": "2026-08-01",
+        "cum": 43,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris OWNER-EXECUTED OPS session — THE PILOT WAS BOOTED FOR THE FIRST TIME on his order at 22:44:13 EST (`systemctl enable --now osiris-runner`, service active, unit enabled), the first production cycle watched and diagnosed, and the run then KILLED BY HIS OWN REVERSAL on per-cycle cost (`systemctl disable --now`)"
       }
     ],
     "literature": [
@@ -14044,6 +14082,14 @@
         "protein": 200,
         "dayType": "reverse-ramp",
         "provisional": false
+      },
+      {
+        "date": "2026-08-01",
+        "w": 218.4,
+        "kcal": 2444,
+        "protein": 243,
+        "dayType": "reverse-ramp",
+        "provisional": true
       }
     ],
     "trend": [
@@ -14358,9 +14404,13 @@
       {
         "date": "2026-07-31",
         "w": 218.86
+      },
+      {
+        "date": "2026-08-01",
+        "w": 218.6
       }
     ],
-    "noiseBand": 1.36,
+    "noiseBand": 1.35,
     "floors": [
       {
         "y": 230,
@@ -14573,17 +14623,17 @@
         "date": "2026-07-29",
         "w": 218.6,
         "week": "Jul 26–Aug 1",
-        "n": 6
+        "n": 7
       }
     ],
     "banner": {
       "startDate": "2026-03-22",
       "startW": 235,
-      "lost": 16.1,
+      "lost": 16.4,
       "goal": 180,
-      "pct": 29.3,
+      "pct": 29.8,
       "nextFloor": 210,
-      "toGo": 8.9,
+      "toGo": 8.6,
       "newLow": false
     },
     "strip": [
