@@ -21,7 +21,7 @@
     ],
     "overall_total": 834,
     "generated_for": "2026-08-01",
-    "built_at": "2026-08-01T23:59:09.898Z",
+    "built_at": "2026-08-02T01:27:34.104Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
@@ -9068,6 +9068,12 @@
             "got": "3, 3, 3",
             "avg": 3
           }
+        },
+        {
+          "date": "2026-08-01",
+          "y": 5.33,
+          "kind": "session",
+          "label": "Full pull-up — 3, 3, 2 (avg 2.7 vs target 8)"
         }
       ],
       "steps": [
@@ -9643,6 +9649,24 @@
           "y": 3,
           "kind": "clear",
           "label": "Core — HANGING — cleared: Hanging knee raise — slow eccentric (normal up, 3s down)"
+        },
+        {
+          "date": "2026-07-27",
+          "y": 3.37,
+          "kind": "session",
+          "label": "Hanging knee raise — full slow tempo (3s up / 3s down) — 5, 3, 3 (avg 3.7 vs target 10)"
+        },
+        {
+          "date": "2026-07-29",
+          "y": 3.33,
+          "kind": "session",
+          "label": "Hanging knee raise — full slow tempo (3s up / 3s down) — 4, 3, 3 (avg 3.3 vs target 10)"
+        },
+        {
+          "date": "2026-08-01",
+          "y": 3.43,
+          "kind": "session",
+          "label": "Hanging knee raise — full slow tempo (3s up / 3s down) — 5, 3, 5 (avg 4.3 vs target 10)"
         }
       ],
       "steps": [
@@ -9685,7 +9709,7 @@
     },
     "pull": {
       "candidates": 26,
-      "plotted": 16,
+      "plotted": 17,
       "rejected": [
         {
           "date": "2026-06-23",
@@ -9726,10 +9750,6 @@
         {
           "date": "2026-07-27",
           "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 4 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
-        },
-        {
-          "date": "2026-08-01",
-          "why": "\"Pull-up (★full — then negatives as back-\" is rung-4 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
         }
       ]
     },
@@ -9772,7 +9792,7 @@
     },
     "corehang": {
       "candidates": 25,
-      "plotted": 12,
+      "plotted": 15,
       "rejected": [
         {
           "date": "2026-07-25",
@@ -9792,43 +9812,31 @@
         },
         {
           "date": "2026-07-08",
-          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
         },
         {
           "date": "2026-07-11",
-          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
         },
         {
           "date": "2026-07-13",
-          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
         },
         {
           "date": "2026-07-15",
-          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
         },
         {
           "date": "2026-07-18",
-          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
         },
         {
           "date": "2026-07-20",
-          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
         },
         {
           "date": "2026-07-22",
-          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
-        },
-        {
-          "date": "2026-07-27",
-          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 3 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
-        },
-        {
-          "date": "2026-07-29",
-          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 3 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
-        },
-        {
-          "date": "2026-08-01",
-          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 3 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
         }
       ]
     },
@@ -10332,7 +10340,7 @@
             "name": "Pull-up (★full — then negatives as back-off)",
             "raw": "3, 3, 2",
             "avg": 2.7,
-            "status": "✗ not plotted — \"Pull-up (★full — then negatives as back-\" is rung-4 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+            "status": "● plotted at 5.33"
           }
         ]
       },
@@ -10828,49 +10836,49 @@
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "5, 5, 5",
             "avg": 5,
-            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
           },
           {
             "date": "2026-07-11",
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "8, 8, 5",
             "avg": 7,
-            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
           },
           {
             "date": "2026-07-13",
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "10,  6,  6",
             "avg": 7.3,
-            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
           },
           {
             "date": "2026-07-15",
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "7, 6, 6",
             "avg": 6.3,
-            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
           },
           {
             "date": "2026-07-18",
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "10, 7, 6",
             "avg": 7.7,
-            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
           },
           {
             "date": "2026-07-20",
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "10, 5.5, 6.5",
             "avg": 7.3,
-            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
           },
           {
             "date": "2026-07-22",
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "10, 10, 8",
             "avg": 9.3,
-            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
           },
           {
             "date": "2026-07-25",
@@ -10884,21 +10892,21 @@
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "5, 3, 3",
             "avg": 3.7,
-            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 3 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+            "status": "● plotted at 3.37"
           },
           {
             "date": "2026-07-29",
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "4, 3, 3",
             "avg": 3.3,
-            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 3 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+            "status": "● plotted at 3.33"
           },
           {
             "date": "2026-08-01",
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "5, 3, 5",
             "avg": 4.3,
-            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-1 work while training rung 3 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+            "status": "● plotted at 3.43"
           }
         ]
       }
@@ -11905,7 +11913,7 @@
             "name": "Pull-up (★full — then negatives as back-off)",
             "raw": "3, 3, 2",
             "avg": 2.7,
-            "target": "3",
+            "target": "8",
             "sets": 3,
             "cleared": false
           },
@@ -11915,7 +11923,7 @@
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "5, 3, 5",
             "avg": 4.3,
-            "target": "12",
+            "target": "10",
             "sets": 3,
             "cleared": false
           },
@@ -11960,7 +11968,7 @@
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "4, 3, 3",
             "avg": 3.3,
-            "target": "12",
+            "target": "10",
             "sets": 3,
             "cleared": false
           },
@@ -12025,7 +12033,7 @@
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "5, 3, 3",
             "avg": 3.7,
-            "target": "12",
+            "target": "10",
             "sets": 3,
             "cleared": false
           },
@@ -12080,7 +12088,7 @@
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "10, 10, 10",
             "avg": 10,
-            "target": "12",
+            "target": "10",
             "sets": 3,
             "cleared": false
           },
@@ -12125,7 +12133,7 @@
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "10, 10, 8",
             "avg": 9.3,
-            "target": "12",
+            "target": "10",
             "sets": 3,
             "cleared": false
           },
@@ -12190,7 +12198,7 @@
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "10, 5.5, 6.5",
             "avg": 7.3,
-            "target": "12",
+            "target": "10",
             "sets": 3,
             "cleared": false
           },
@@ -12245,7 +12253,7 @@
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "10, 7, 6",
             "avg": 7.7,
-            "target": "12",
+            "target": "10",
             "sets": 3,
             "cleared": false
           },
@@ -12325,7 +12333,7 @@
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "7, 6, 6",
             "avg": 6.3,
-            "target": "12",
+            "target": "10",
             "sets": 3,
             "cleared": false
           },
@@ -12390,7 +12398,7 @@
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "10,  6,  6",
             "avg": 7.3,
-            "target": "12",
+            "target": "10",
             "sets": 3,
             "cleared": false
           },
@@ -12480,7 +12488,7 @@
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "8, 8, 5",
             "avg": 7,
-            "target": "12",
+            "target": "10",
             "sets": 3,
             "cleared": false
           },
@@ -12515,7 +12523,7 @@
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "5, 5, 5",
             "avg": 5,
-            "target": "12",
+            "target": "10",
             "sets": 3,
             "cleared": false
           },
