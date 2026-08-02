@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 862,
-    "generated_for": "2026-08-01",
-    "built_at": "2026-08-02T03:16:26.267Z",
+    "overall_total": 962,
+    "generated_for": "2026-08-02",
+    "built_at": "2026-08-02T17:42:59.564Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 221
+      "ft_to_go": 121
     }
   },
   "lanes": [
@@ -47,7 +47,7 @@
       "t0_note": "didn't hold the transformer internals — attention, embeddings, the residual stream were only 'encountered'",
       "endpoint": "A from-memory \"mini-textbook\" of the whole ML/alignment stack (FF is the floor; endpoint stays provisional)",
       "endpoint_tier": "verylarge",
-      "current": 115,
+      "current": 215,
       "working_on": "Field Foundations"
     },
     {
@@ -4658,6 +4658,18 @@
       "reasoning": "The Osiris working-session entry, session-type OWNER-EXECUTED OPS TASK — a named type in the codebook's own list (account setup, OAuth flows, key management), and enabling a live production service, reading its telemetry and ruling on its spend sits squarely in it. 🔒 WHY THIS IS A SECOND 📕 TINY AND NOT A FOLD INTO THE ROW ABOVE: the dedup is one tick per (date, session-TYPE), and a different-type session on the same date is its own tick. The row above is a SPECIFICATION RULING inside a build; this is OPERATING the apparatus and making a money call on it. The roadmap keeps them apart for the same reason — #4 Substrate v1 is the build, #6 is the RUN. Direct precedent, and the reason I book two rather than one: 2026-07-29 booked TWO 📕 tinies out of ONE Odin sitting (decision-lock/MDL + artifact-review), and 2026-07-26 booked TWO (build working session + decision-lock). Type, not sitting, is what the rule keys on, and it has keyed on type every time. ✅ SUBSTANCE FLOOR CLEARED ON AN EQUIVALENT MIX, not on clock: the go/no-go call taken with the downside named out loud, the boot itself, the failure diagnosed from telemetry, the leave-it-overnight decision, the reversal, and the stop order. ⭐ THE CALL WORTH RECORDING IS THE REVERSAL, NOT THE BOOT. He gave the order knowing the Lens side was verified and THE SUBSTRATE SIDE COULD NOT BE CERTIFIED FROM THAT SESSION — a decision taken with its uncertainty named rather than hidden. Then he chose to leave it running overnight, saw ~17¢ per FAILED cycle in the cost ledger, and reversed himself inside the same sitting: *\"actually just stop it. no point in wasting the money.\"* Changing your mind on new evidence, minutes after committing, is the same faculty that refused his own pistol rung twice with passing numbers on the page. ⛔ AND THE MILESTONE DOES NOT BOOK — THIS IS A BOOT, NOT A RUN. 🔎 PATH-EVENT FACT-CHECKED against `execution-roadmap.md` THE GAME PLAN BEFORE booking: #6 Thin funding pilot run is a **1-week full-production private run**, boot ~Aug 5 → run to ~Aug 12, and it is priced a SMALL. What happened tonight is a boot four days early that produced 6 ticks / 2 runs / 6 cost rows and ONE production cycle which drew `entry_mode: shortform` by `uniform_random` and ended `cycle_failed` → `cycle_abandoned` on `AdapterError: gemini adapter: provider returned HTTP 429 on all 3 attempts — retry budget exhausted (fail-closed)`, then was disabled inside three minutes. A run that is stopped before it runs is not the run. The #6 small stays ahead and will stack above these session tinies when it lands (nested double-count). 📌 THE FAIL-CLOSED BEHAVIOUR IS ITSELF A RESULT AND I RECORD IT AT ZERO FEET: the adapter exhausted its retry budget and ABANDONED the cycle rather than degrading or inventing output, and the total damage was $0.1666 across 6 calls. The apparatus failing loudly and cheaply on its first contact with production is what you want from an instrument you intend to trust for twelve months. ⛔ NO T0 CLAIM ANYWHERE NEAR THIS — T0 is roadmap-final, gated on A5 + B4 + D-track, and pays a LARGE; the capture does not claim it and neither do I. 🔎 DEDUP: no ops-type 📕 row existed on 2026-08-01",
       "evidence": "`journalctl -u osiris-runner`; `osiris.telemetry_events` (`cycle_failed`, `cycle_abandoned`); `osiris.cost_ledger` ($0.1666 / 6 calls); `execution-roadmap.md` THE GAME PLAN #6; Odin session transcript 2026-08-01; capture row 2026-08-01 (the pilot boot)",
       "booked": "2026-08-01"
+    },
+    {
+      "date": "2026-08-02",
+      "lane": "mlai",
+      "activity": "**COMPLETE FIELD-FOUNDATIONS — the whole-curriculum milestone. The FF FINAL comprehensive exam is now SAT IN FULL and PASSED: 83.40 / 100 against the ≥80 bar** (Part One 40.65/50 = 81.3% on 8/01 + Part Two 42.75/50 = 85.5% today), closing a curriculum of 24 modules built/read/noted/discussed/gated ≥80 and 5 cluster capstones passed, run 2026-06-08 → 2026-08-02",
+      "tier": "medium",
+      "feet": 100,
+      "cum_lane": 215,
+      "cum_overall": 962,
+      "reasoning": "THE CODEBOOK ENTRY IS EXACT AND ITS EVERY CONDITION IS NOW MET: *\"Complete Field-Foundations (curriculum done + final exam passed) → medium (100 ft)\"*, whose inclusion reads **all modules read + own notes + all module gates ≥80 + all cluster capstones ≥80 + a final comprehensive exam ≥80**, and which states in its own text that **the final may be batched into parts across days and the parts together ARE the final.** That clause is why I HELD Part One on 8/01 rather than refusing it — half an instrument has no pass/fail — and it is why the whole instrument pays now. 83.40 clears the bar by 3.40. 🔒 ONE ROW, NOT TWO, AND THIS IS THE RULING THAT MATTERS: **the final exam's pass and the whole-FF milestone are ONE event, not two nested levels.** Nested double-counting stacks module → cluster → whole, and all three tiers have now been paid in their proper places (24 module tinies, 5 cluster smalls, this medium). Booking a separate \"final gate tiny\" on top would pay the same single pass twice under two names — the module-gate tiny prices a MODULE's gate, and there is no module here. **And the sitting is not a tick either:** an exam is a gate and a gate pays on the pass, exactly as I ruled 8/01 and exactly as all 24 module gates were paid. ⚖️ 80-BAR: blind-graded by an INDEPENDENT grader who did not write the exam, did not teach the material, was instructed to read no file about the owner outside the exam directory, and was a DIFFERENT dispatch from the Part One grader under the same blindness conditions; **Athena graded neither half.** I do not re-grade (§7 — trust upstream); I check that the bar was cleared under blind conditions, and it was, twice over independently. ⭐ THE RESULT WORTH RECORDING IS THAT THE SECOND HALF SCORED HIGHER THAN THE FIRST — 85.5% against 81.3% — on the modules he had re-studied LAST, sat cold the day after the first half. A curriculum's tail is where scores normally sag. 📌 The grader's named strengths are derivations rather than recitations: the mesa-optimization stack built from scratch with instrumental convergence derived, all three deceptive-alignment conditions and the three outcomes split by HOW they break; a two-step BPE trace executed correctly on a corpus he had never seen; find-vs-clear reached independently from three directions; and the \"what it shows / what it does NOT show\" separation produced unprompted every time — that last one is the epistemic habit the whole study rests on, appearing without being asked for. ⚖️ THE MISSES CHANGE NOTHING AND ARE RECORDED HONESTLY: Turpin's demo shape absent for the 4th consecutive ask, \"both exploit the observer\" missing for the 5th, the Alignment Faking figures, the second Sleeper Agents sting, DPO's reference model, and one label inversion at Q15(d) where the two fine-tuning axes were assigned backwards **while his composing example used the relationship correctly.** The bar is a hard floor, not a quality gate above it — a marginal pass is a pass (precedent: C5 capstone at 81, 7/18) and a comfortable one is not worth more. 🔎 ADMINISTRATION, stated by the capture and not hidden: he could not parse Q15(d) and asked what it referred to; Athena restated the question's SCOPE with no content and prompted once for a concrete example, both recorded in the answers file. Scope-restatement is not content, the grader was blind to it, and it does not touch the ≥80 finding. He also directed fractional partial credit over all-or-nothing — **a harder standard on himself, chosen before the number existed.** 🔎 DEDUP + EARNED-ONCE: no prior whole-FF row exists in the row-log; \"Complete Field-Foundations\" was NOT in the earned-once list and is added by this row; the 8/01 Part One row booked nothing and is not re-presented here. Path-event fact-checked against `field-foundations-curriculum.md` (status stamped COMPLETE) before tiering. ⛔ NO ✍️ CLAIM ARISES — sitting an exam is his learning (G-2), nothing was published",
+      "evidence": "`curricula/field-foundations/ff-final-exam.md`; `ff-final-part-two-answers.md`; `ff-final-part-two-grade.md` (42.75/50, blind); `ff-final-part-one-grade.md` (40.65/50, blind); `field-foundations-curriculum.md` (COMPLETE); Athena `learning-state.md` §3h; capture row 2026-08-02 🧠",
+      "booked": "2026-08-02"
     }
   ],
   "series": {
@@ -5573,6 +5585,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "CONSOLIDATION / RE-STUDY session — Field-Foundations M24 (The Failure-Mode Zoo) re-studied the same day, then a CLOSED-NOTES discussion of three scenario-framed probes: the sandbagging/alignment-faking pair, the jailbreak/sleeper-agent contrast, and Turpin's CoT-unfaithfulness demo"
+      },
+      {
+        "date": "2026-08-02",
+        "cum": 215,
+        "feet": 100,
+        "tier": "medium",
+        "activity": "**COMPLETE FIELD-FOUNDATIONS — the whole-curriculum milestone. The FF FINAL comprehensive exam is now SAT IN FULL and PASSED: 83.40 / 100 against the ≥80 bar** (Part One 40.65/50 = 81.3% on 8/01 + Part Two 42.75/50 = 85.5% today), closing a curriculum of 24 modules built/read/noted/discussed/gated ≥80 and 5 cluster capstones passed, run 2026-06-08 → 2026-08-02"
       }
     ],
     "method": [
