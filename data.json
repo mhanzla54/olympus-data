@@ -21,7 +21,7 @@
     ],
     "overall_total": 834,
     "generated_for": "2026-08-01",
-    "built_at": "2026-08-02T01:27:34.104Z",
+    "built_at": "2026-08-02T01:46:00.886Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
@@ -9645,6 +9645,48 @@
           }
         },
         {
+          "date": "2026-07-08",
+          "y": 2.5,
+          "kind": "session",
+          "label": "Hanging knee raise — slow eccentric (normal up, 3s down) — 5, 5, 5 (avg 5 vs target 10)"
+        },
+        {
+          "date": "2026-07-11",
+          "y": 2.7,
+          "kind": "session",
+          "label": "Hanging knee raise — slow eccentric (normal up, 3s down) — 8, 8, 5 (avg 7 vs target 10)"
+        },
+        {
+          "date": "2026-07-13",
+          "y": 2.73,
+          "kind": "session",
+          "label": "Hanging knee raise — slow eccentric (normal up, 3s down) — 10,  6,  6 (avg 7.3 vs target 10)"
+        },
+        {
+          "date": "2026-07-15",
+          "y": 2.63,
+          "kind": "session",
+          "label": "Hanging knee raise — slow eccentric (normal up, 3s down) — 7, 6, 6 (avg 6.3 vs target 10)"
+        },
+        {
+          "date": "2026-07-18",
+          "y": 2.77,
+          "kind": "session",
+          "label": "Hanging knee raise — slow eccentric (normal up, 3s down) — 10, 7, 6 (avg 7.7 vs target 10)"
+        },
+        {
+          "date": "2026-07-20",
+          "y": 2.73,
+          "kind": "session",
+          "label": "Hanging knee raise — slow eccentric (normal up, 3s down) — 10, 5.5, 6.5 (avg 7.3 vs target 10)"
+        },
+        {
+          "date": "2026-07-22",
+          "y": 2.93,
+          "kind": "session",
+          "label": "Hanging knee raise — slow eccentric (normal up, 3s down) — 10, 10, 8 (avg 9.3 vs target 10)"
+        },
+        {
           "date": "2026-07-25",
           "y": 3,
           "kind": "clear",
@@ -9792,7 +9834,7 @@
     },
     "corehang": {
       "candidates": 25,
-      "plotted": 15,
+      "plotted": 22,
       "rejected": [
         {
           "date": "2026-07-25",
@@ -9809,34 +9851,6 @@
         {
           "date": "2026-07-06",
           "why": "\"Hanging knee raise\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
-        },
-        {
-          "date": "2026-07-08",
-          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
-        },
-        {
-          "date": "2026-07-11",
-          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
-        },
-        {
-          "date": "2026-07-13",
-          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
-        },
-        {
-          "date": "2026-07-15",
-          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
-        },
-        {
-          "date": "2026-07-18",
-          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
-        },
-        {
-          "date": "2026-07-20",
-          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
-        },
-        {
-          "date": "2026-07-22",
-          "why": "\"Hanging knee raise (★full slow tempo — 3\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
         }
       ]
     },
@@ -10836,49 +10850,49 @@
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "5, 5, 5",
             "avg": 5,
-            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
+            "status": "● plotted at 2.5"
           },
           {
             "date": "2026-07-11",
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "8, 8, 5",
             "avg": 7,
-            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
+            "status": "● plotted at 2.7"
           },
           {
             "date": "2026-07-13",
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "10,  6,  6",
             "avg": 7.3,
-            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
+            "status": "● plotted at 2.73"
           },
           {
             "date": "2026-07-15",
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "7, 6, 6",
             "avg": 6.3,
-            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
+            "status": "● plotted at 2.63"
           },
           {
             "date": "2026-07-18",
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "10, 7, 6",
             "avg": 7.7,
-            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
+            "status": "● plotted at 2.77"
           },
           {
             "date": "2026-07-20",
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "10, 5.5, 6.5",
             "avg": 7.3,
-            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
+            "status": "● plotted at 2.73"
           },
           {
             "date": "2026-07-22",
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "10, 10, 8",
             "avg": 9.3,
-            "status": "✗ not plotted — \"Hanging knee raise (★full slow tempo — 3\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
+            "status": "● plotted at 2.93"
           },
           {
             "date": "2026-07-25",
