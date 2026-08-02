@@ -21,7 +21,7 @@
     ],
     "overall_total": 834,
     "generated_for": "2026-08-01",
-    "built_at": "2026-08-02T01:46:00.886Z",
+    "built_at": "2026-08-02T02:08:35.870Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
@@ -9690,7 +9690,12 @@
           "date": "2026-07-25",
           "y": 3,
           "kind": "clear",
-          "label": "Core — HANGING — cleared: Hanging knee raise — slow eccentric (normal up, 3s down)"
+          "label": "Core — HANGING — cleared: Hanging knee raise — slow eccentric (normal up, 3s down) (needed 10, got 10, 10, 10 — avg 10)",
+          "perf": {
+            "needed": "10",
+            "got": "10, 10, 10",
+            "avg": 10
+          }
         },
         {
           "date": "2026-07-27",
@@ -9836,10 +9841,6 @@
       "candidates": 25,
       "plotted": 22,
       "rejected": [
-        {
-          "date": "2026-07-25",
-          "why": "clear-point has no matching logged session that day — rendered without performance numbers (never invented)"
-        },
         {
           "date": "2026-06-27",
           "why": "\"Hanging knee raise\" logged no usable numbers (skipped)"
@@ -10899,7 +10900,7 @@
             "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
             "raw": "10, 10, 10",
             "avg": 10,
-            "status": "✓ CLEAR DAY — carried by the clear dot (no perf numbers)"
+            "status": "✓ CLEAR DAY — carried by the clear dot (needed 10, avg 10)"
           },
           {
             "date": "2026-07-27",
@@ -12104,7 +12105,7 @@
             "avg": 10,
             "target": "10",
             "sets": 3,
-            "cleared": false
+            "cleared": true
           },
           {
             "ladderId": "hpull",
