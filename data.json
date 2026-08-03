@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 962,
+    "overall_total": 965,
     "generated_for": "2026-08-02",
-    "built_at": "2026-08-02T17:42:59.564Z",
+    "built_at": "2026-08-03T00:51:24.232Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 121
+      "ft_to_go": 118
     }
   },
   "lanes": [
@@ -57,7 +57,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 43,
+      "current": 45,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -87,7 +87,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 334,
+      "current": 335,
       "working_on": "the next new-pound low (≤ 214.8 lb)"
     },
     {
@@ -4670,6 +4670,42 @@
       "reasoning": "THE CODEBOOK ENTRY IS EXACT AND ITS EVERY CONDITION IS NOW MET: *\"Complete Field-Foundations (curriculum done + final exam passed) → medium (100 ft)\"*, whose inclusion reads **all modules read + own notes + all module gates ≥80 + all cluster capstones ≥80 + a final comprehensive exam ≥80**, and which states in its own text that **the final may be batched into parts across days and the parts together ARE the final.** That clause is why I HELD Part One on 8/01 rather than refusing it — half an instrument has no pass/fail — and it is why the whole instrument pays now. 83.40 clears the bar by 3.40. 🔒 ONE ROW, NOT TWO, AND THIS IS THE RULING THAT MATTERS: **the final exam's pass and the whole-FF milestone are ONE event, not two nested levels.** Nested double-counting stacks module → cluster → whole, and all three tiers have now been paid in their proper places (24 module tinies, 5 cluster smalls, this medium). Booking a separate \"final gate tiny\" on top would pay the same single pass twice under two names — the module-gate tiny prices a MODULE's gate, and there is no module here. **And the sitting is not a tick either:** an exam is a gate and a gate pays on the pass, exactly as I ruled 8/01 and exactly as all 24 module gates were paid. ⚖️ 80-BAR: blind-graded by an INDEPENDENT grader who did not write the exam, did not teach the material, was instructed to read no file about the owner outside the exam directory, and was a DIFFERENT dispatch from the Part One grader under the same blindness conditions; **Athena graded neither half.** I do not re-grade (§7 — trust upstream); I check that the bar was cleared under blind conditions, and it was, twice over independently. ⭐ THE RESULT WORTH RECORDING IS THAT THE SECOND HALF SCORED HIGHER THAN THE FIRST — 85.5% against 81.3% — on the modules he had re-studied LAST, sat cold the day after the first half. A curriculum's tail is where scores normally sag. 📌 The grader's named strengths are derivations rather than recitations: the mesa-optimization stack built from scratch with instrumental convergence derived, all three deceptive-alignment conditions and the three outcomes split by HOW they break; a two-step BPE trace executed correctly on a corpus he had never seen; find-vs-clear reached independently from three directions; and the \"what it shows / what it does NOT show\" separation produced unprompted every time — that last one is the epistemic habit the whole study rests on, appearing without being asked for. ⚖️ THE MISSES CHANGE NOTHING AND ARE RECORDED HONESTLY: Turpin's demo shape absent for the 4th consecutive ask, \"both exploit the observer\" missing for the 5th, the Alignment Faking figures, the second Sleeper Agents sting, DPO's reference model, and one label inversion at Q15(d) where the two fine-tuning axes were assigned backwards **while his composing example used the relationship correctly.** The bar is a hard floor, not a quality gate above it — a marginal pass is a pass (precedent: C5 capstone at 81, 7/18) and a comfortable one is not worth more. 🔎 ADMINISTRATION, stated by the capture and not hidden: he could not parse Q15(d) and asked what it referred to; Athena restated the question's SCOPE with no content and prompted once for a concrete example, both recorded in the answers file. Scope-restatement is not content, the grader was blind to it, and it does not touch the ≥80 finding. He also directed fractional partial credit over all-or-nothing — **a harder standard on himself, chosen before the number existed.** 🔎 DEDUP + EARNED-ONCE: no prior whole-FF row exists in the row-log; \"Complete Field-Foundations\" was NOT in the earned-once list and is added by this row; the 8/01 Part One row booked nothing and is not re-presented here. Path-event fact-checked against `field-foundations-curriculum.md` (status stamped COMPLETE) before tiering. ⛔ NO ✍️ CLAIM ARISES — sitting an exam is his learning (G-2), nothing was published",
       "evidence": "`curricula/field-foundations/ff-final-exam.md`; `ff-final-part-two-answers.md`; `ff-final-part-two-grade.md` (42.75/50, blind); `ff-final-part-one-grade.md` (40.65/50, blind); `field-foundations-curriculum.md` (COMPLETE); Athena `learning-state.md` §3h; capture row 2026-08-02 🧠",
       "booked": "2026-08-02"
+    },
+    {
+      "date": "2026-08-01",
+      "lane": "body",
+      "activity": "Calorie-day ON PLAN — 2,444 kcal FINAL against the pre-registered reverse-ramp day-8 target of ~2,450 (band 2,150–2,750), six kcal under dead centre; the row settled `provisional: false` on the 2026-08-02 20:39 pull after the puller's fault cured",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 335,
+      "cum_overall": 963,
+      "reasoning": "The calorie-day entry: hit the day's PLANNED target within ±300, logged. 2,444 against ~2,450 is the closest a day has landed to centre on this ramp — six kcal, with 306 of headroom to the band ceiling. ⏸️ THE HOLD CURED, AND IT IS THE ELEVENTH HOLD OF THE MONTH AND THE TENTH CURE — the instrument is now 10-for-10. I refused nothing across three consecutive runs (the 22:15, 22:32 and 23:30 pulls on 8/01, then twice more today when `health-pull.mjs` failed); I held, because a `provisional: true` row is an unfinished day and a rule that bends on a prettier number is not a rule. **The cure came from upstream, the only way it ever does: a capturer ran the pull again, it SUCCEEDED with no code change by anyone, and placed the FINAL row.** Per §0.5 I did not fetch the pull myself and I did not rule a provisional number on any of the five occasions I could have. 📌 Worth recording that the tool healed itself: two failures today on a NEW fault (`page.evaluate: TypeError ... reading 'queries'`) and then a clean run at 20:39 — the page shape moved and moved back, and the capture said so rather than smoothing it. 🔎 G-1 PROVENANCE CHECKED BEFORE RULING, as it is every run: the day-8 target of 2,450 derives from `protocol.reverseRamp` — startDate 2026-07-25, startKcal 1,750, +100/day — whose own note names it **THE OWNER'S PROGRAM, locked 2026-07-26**, over an agent's version, and which he re-affirmed at the 2,300 review gate on 7/31 (*\"today's goal is 2,350 and we keep ramping\"*). The number pricing this day is his. No bound of the pre-registration rule is engaged. ⛔ THE PROTEIN HALF IS NOT RE-BOOKED — 243 g was booked on 8/01 (row 364 of the run-log, the 8/01 protein-day row) and a late capture re-presenting a settled figure books nothing. Late captures are the highest-risk path for a double-dip and were grepped first. ⛔ NO WEIGHT TICK: the 8/01 weigh-in of 218.4 was ruled twice already (6th and 8th runs) — 3.6 lb ABOVE the 215.8 benchmark, which needs ≤214.8. 🔎 DEDUP: no calorie-day row existed for 2026-08-01 in any lane before this one",
+      "evidence": "`fitness/health-data.json` day 2026-08-01 (2,444 kcal / 243 g, logged full, **provisional: false**); `health-query.mjs --summary` (lastPull 2026-08-02T20:39:18); `protocol.reverseRamp` (startKcal 1750, stepPerDay 100, THE OWNER'S PROGRAM); capture row 2026-08-01 ⚖️ BODY (the late FINAL row)",
+      "booked": "2026-08-02"
+    },
+    {
+      "date": "2026-08-02",
+      "lane": "method",
+      "activity": "Osiris PRE-BOOT DECISION SITTING with Odin — eight rulings taken before the pilot was allowed to start (accept-and-amend the no-longer-pristine database rather than reset it; repin two modes to the validated `glm-5.2` rather than substitute an unvalidated tier; sweep every mode's model pin, not only the one that broke; 259200s weekly tick; accept the shortened gate-key window rather than shorten the run; decline vendor spend alerts; decline the Pexels key; correct the Bible's promise instead of building the capability), PLUS the reversal of the agent's boot-timing recommendation, PLUS the choice of an external watchdog over a one-line `Restart=always`",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 44,
+      "cum_overall": 964,
+      "reasoning": "The Osiris working-session entry (owner ruling 2026-07-09), session-type DECISION / JUDGMENT — the deciding half of the night, kept as ONE tick rather than three. 🔒 WHY ONE AND NOT THREE: the eight rulings, the timing reversal and the watchdog call are **one continuous body of deciding work in one sitting**, and the disjoint-work principle (amendment E) is explicit that *the wrong thing is not two ticks in a day, it is two ticks for one body of work.* The dedup keys on session-TYPE, and slicing one sitting's decisions into `decision-lock` + `strategy/judgment` + `roadmap` would be paying three times for one type of act. Strictness (§3, default lower) settles the rest. ✅ SUBSTANCE FLOOR CLEARED MANY TIMES OVER — the anchor is ~3 substantive items or an equivalent mix; there are ten. ⭐ THE ONE WORTH RECORDING IS THE REVERSAL, BECAUSE OF WHAT IT WAS BUILT ON. Odin had recommended waiting until Monday, written it into the boot record, the handbook and the resume payload, **and closed and pushed the session on that basis.** The owner asked four words — *\"why cant we boot now\"* — and the argument collapsed, not because he out-argued it but because being challenged forced the first measurement anyone had taken: **$0.7774 across 22 calls over the smoke box's entire history, against a $30 weekly envelope — about 3%.** A mechanism with no magnitude attached had been about to spend one of roughly six days left before the gate key expires. **An argument that has never been measured is a guess wearing a mechanism's clothes, and one question found it.** 📌 The reversal was recorded AS a reversal with the original reasoning preserved rather than deleted — the same discipline as the 8/01 decision-log amendment. ⭐ THE WATCHDOG CALL IS THE SECOND: offered a one-line fix, he rejected it on design grounds — `Restart=always` would silently clear an in-memory pause state and convert *stop and wait for a human* into *keep going*, which is precisely the failure the pause exists to cause. **He took the more expensive option because the cheap one would have hidden the thing it appeared to fix.** ⛔ NO ARTIFACT OR MILESTONE TICK: decisions are session currency here; roadmap #6 is the RUN and #13 the validation report, and neither is this. 🔎 DEDUP: the 📕 lane's dedup is per (date, session-TYPE) and no decision-type 📕 row existed on 2026-08-02 before this one; the 8/01 rows are a different date",
+      "evidence": "`pilot-boot-record.md` §1 + §3 + §7; `osiris.pilot_amendments` rows 19–22; `_build/preboot-verify-20260802.md` MAJOR-2; `_build/osiris-watchdog.{sh,service,timer}`; Odin journal S83 + addendum; capture rows 2026-08-02 (the eight rulings · the reversal · the watchdog)",
+      "booked": "2026-08-02"
+    },
+    {
+      "date": "2026-08-02",
+      "lane": "method",
+      "activity": "Osiris OWNER-EXECUTED OPS TASK — he named the blocking defect before evidence existed (*\"pretty sure Gemini is not on a paid tier\"*, later confirmed as the exact cause of the 8/01 HTTP-429 failure), then enabled billing on `pilotrun-500313`, found the vaulted key belonged to a project AI Studio could not even list, minted a replacement inside the correct project, swapped it into the vault with a backup, and measured 30 rapid calls at 30×200 / 0×429 against 7×200 / 13×429 reproduced three times on the old key; the runner was then enabled at 18:11:25 EST and closed its first cycle clean",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 45,
+      "cum_overall": 965,
+      "reasoning": "The Osiris working-session entry, session-type OWNER-EXECUTED OPS TASK — a named type in the codebook's own list (*account setup, OAuth flows, audit forms, key management*), and this is key management end to end. 🔒 WHY THIS IS A SECOND 📕 TICK AND NOT A FOLD: dedup keys on (date, session-TYPE), and *a different-type session the same day is its own tick.* The row above is DECIDING; this is DOING — cloud console, billing, a minted credential, a vault swap and a measured before/after. **Direct precedent, and I follow it because I set it yesterday:** 2026-08-01 booked exactly this pair on one date (build working session + owner-executed ops), as did 7/29 and 7/26. Type, not sitting, is what the rule has keyed on every time. ⚡ AND THE CONTRAST WITH LAST NIGHT IS THE WHOLE POINT: I refused the Blender/Tripo/Unreal ops sitting eleven hours ago on OBJECT (G-2) — internal creative tooling is not THE STUDY, and §0.5 forbade me supplying the link. **This one needs no link supplied.** It is the pilot's own provider key, on the pilot's own cloud project, fixing the fault that killed the 8/01 boot. The object is the study, and it is the study on the face of the capture. ⭐ THE DIAGNOSIS CAME BEFORE THE EVIDENCE. He said Gemini was probably unpaid at the START of the session, when the 8/01 failure was still an unexplained 429, and he was right. **Then he did not stop at plausible: the old key measured 7×200/13×429 three times, the new key 30×200/0×429.** A fix asserted is a hope; a fix measured against a reproduced failure is a fix. He also found, en route, that the previously-vaulted key belonged to a project Google's own console would not list — a defect nobody was looking for. ⛔ AND THE MILESTONE DOES NOT BOOK — THIS IS A BOOT, NOT A RUN, and the ruling is unchanged from twenty-four hours ago. 🔎 PATH-EVENT FACT-CHECKED against `execution-roadmap.md` THE GAME PLAN BEFORE booking: **#6 Thin funding pilot run is a 1-WEEK full-production private run, priced a SMALL, and it is still ☐ OPEN.** Tonight is day one of it: the unit enabled, one cycle, `self_stop` after 1 tick, $0.0937 across 4 calls. §4.5.4 governs — a partial outcome tiers BELOW the resolved one, and the #6 small stays ahead and will stack above these session tinies when the run lands (nested double-count). ⛔ NO T0 CLAIM: T0 is roadmap-final and pays a LARGE; the capture does not claim it and neither do I. 📌 RECORDED AT ZERO FEET BECAUSE IT IS WORTH RECORDING: the agent's first act on its first activation was to search an empty memory twice, check its own budget, write *\"No memories at all. This is my first activation…\"* and **stop rather than produce.** An instrument whose first observed behaviour is to orient before acting is the instrument this study was built to watch. 🔎 DEDUP: no ops-type 📕 row existed on 2026-08-02 before this one",
+      "evidence": "`osiris_pilot.run_routing` row 3 (`run-1785708686-000001`, entry_mode strategy, uniform_random); `osiris.thinking_log`; `osiris.cost_ledger` ($0.0937 / 4 calls); `osiris.pilot_amendments` row 20; `/home/osiris/.osiris/vault/editor_provider/api_key` (+ `.pre-pilotrun-swap-20260802.bak`); `pilot-boot-record.md`; `execution-roadmap.md` THE GAME PLAN #6; capture rows 2026-08-02 (the boot · the Gemini fix)",
+      "booked": "2026-08-02"
     }
   ],
   "series": {
@@ -5895,6 +5931,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Osiris OWNER-EXECUTED OPS session — THE PILOT WAS BOOTED FOR THE FIRST TIME on his order at 22:44:13 EST (`systemctl enable --now osiris-runner`, service active, unit enabled), the first production cycle watched and diagnosed, and the run then KILLED BY HIS OWN REVERSAL on per-cycle cost (`systemctl disable --now`)"
+      },
+      {
+        "date": "2026-08-02",
+        "cum": 44,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris PRE-BOOT DECISION SITTING with Odin — eight rulings taken before the pilot was allowed to start (accept-and-amend the no-longer-pristine database rather than reset it; repin two modes to the validated `glm-5.2` rather than substitute an unvalidated tier; sweep every mode's model pin, not only the one that broke; 259200s weekly tick; accept the shortened gate-key window rather than shorten the run; decline vendor spend alerts; decline the Pexels key; correct the Bible's promise instead of building the capability), PLUS the reversal of the agent's boot-timing recommendation, PLUS the choice of an external watchdog over a one-line `Restart=always`"
+      },
+      {
+        "date": "2026-08-02",
+        "cum": 45,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris OWNER-EXECUTED OPS TASK — he named the blocking defect before evidence existed (*\"pretty sure Gemini is not on a paid tier\"*, later confirmed as the exact cause of the 8/01 HTTP-429 failure), then enabled billing on `pilotrun-500313`, found the vaulted key belonged to a project AI Studio could not even list, minted a replacement inside the correct project, swapped it into the vault with a backup, and measured 30 rapid calls at 30×200 / 0×429 against 7×200 / 13×429 reproduced three times on the old key; the runner was then enabled at 18:11:25 EST and closed its first cycle clean"
       }
     ],
     "literature": [
@@ -7224,6 +7274,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Protein-goal day — 243 g logged against the 160 g floor (goal 180 − 20), reverse-ramp day 8; the floor crossed by 83 g, the highest protein figure this ramp has produced"
+      },
+      {
+        "date": "2026-08-01",
+        "cum": 335,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Calorie-day ON PLAN — 2,444 kcal FINAL against the pre-registered reverse-ramp day-8 target of ~2,450 (band 2,150–2,750), six kcal under dead centre; the row settled `provisional: false` on the 2026-08-02 20:39 pull after the puller's fault cured"
       }
     ],
     "fieldpresence": [
@@ -14108,7 +14165,7 @@
         "kcal": 2444,
         "protein": 243,
         "dayType": "reverse-ramp",
-        "provisional": true
+        "provisional": false
       }
     ],
     "trend": [
@@ -14657,11 +14714,6 @@
     },
     "strip": [
       {
-        "date": "2026-07-03",
-        "state": "cheat",
-        "kcal": 4073
-      },
-      {
         "date": "2026-07-04",
         "state": "good",
         "kcal": 1500
@@ -14803,8 +14855,13 @@
       },
       {
         "date": "2026-08-01",
-        "state": "partial",
+        "state": "off",
         "kcal": 2444
+      },
+      {
+        "date": "2026-08-02",
+        "state": "partial",
+        "kcal": 2226
       }
     ],
     "days": [
@@ -15348,6 +15405,14 @@
         "date": "2026-08-01",
         "kcal": 2444,
         "protein": 243,
+        "dayType": "reverse-ramp",
+        "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-08-02",
+        "kcal": 2226,
+        "protein": 134,
         "dayType": "reverse-ramp",
         "logged": "full",
         "provisional": true
