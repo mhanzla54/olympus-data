@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 1065,
+    "overall_total": 975,
     "generated_for": "2026-08-03",
-    "built_at": "2026-08-03T13:49:58.831Z",
+    "built_at": "2026-08-03T14:57:53.475Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 18
+      "ft_to_go": 108
     }
   },
   "lanes": [
@@ -57,7 +57,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 145,
+      "current": 55,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -4711,11 +4711,11 @@
       "date": "2026-08-02",
       "lane": "method",
       "activity": "**🔒 OSIRIS SUBSTRATE v1 — THE WORKING APPARATUS, COMPLETE AND BOOTED TO PRODUCTION.** The instrument the twelve-month study exists to observe: nine working modes, gating rubric with wall enforcement, memory + retrieval, agent routing, the long-form production chain, Hetzner deploy + systemd runner, telemetry + cost ledger, a 119-test verification battery — and the A–E pre-boot rebuild (gate-rubric rewrite + verdict recording · memory + continuity · all-nine-mode routing rework · long-form production path · full re-rehearsal). Unit enabled 2026-08-02 18:11:25 EST, cycles executing in production",
-      "tier": "medium",
-      "feet": 100,
-      "cum_lane": 145,
-      "cum_overall": 1065,
-      "reasoning": "**C3 AMENDMENT H — OWNER CHALLENGE, CONCEDED (2026-08-03).** He challenged the 8/02 boot tinies as under-priced, arguing a small. ⛔ **THE BOOT-IS-NOT-THE-RUN HOLDING IS DEFENDED AND UNCHANGED:** roadmap #6 is a 1-week full-production run, ☐ OPEN, day one ran 8/02 — its small stays PENDING, not refused, and stacks above this row when the week lands. The two 8/02 tinies priced *sittings* and were correctly tiered. ✅ **BUT THE CHALLENGE FOUND A REAL DEFECT, LARGER THAN THE ONE HE NAMED: 📕 carried 45 rows and every single one was a tiny** — six weeks of his primary work, an instrument now running in production, and the lane had **never once paid above one foot.** Every other lane stacks artifacts above its sessions; this lane had a floor and no ceiling. **CAUSE — three of my own deferrals, each lawful alone:** 7/09 (the substrate \"folds into the thin-pilot small\"), 7/17 and 7/18 (no completion tier for Lens v2, \"folds into downstream milestones\"). Each cited flag-don't-guess; together they made **deferral the lane's default**, which no rule ever authorised. ⚡ **THE SENTENCE THAT CONVICTED ME IS MY OWN, ONE DAY OLD:** booking the 8/01 ops tiny I wrote *\"the roadmap keeps them apart for the same reason — #4 Substrate v1 is the build, #6 is the RUN\"* — I used that separation to pay ONE extra foot while the codebook's tier table fused #4 INTO #6's small. **I applied the distinction where it paid a foot and ignored it where it would pay a hundred.** That is not a silence in the law; it is an inconsistency in my own hand. **TIER BY §3, TIME ALONE:** ~7 weeks of directed daily build (2026-06-17 → 2026-08-02), past the 1-month small seam. **Strictness applied and it did not save the lower call** — could a standardized person with agent tooling ship this in ≤1 month? His own record answers: #4 was declared DONE on 7/09 and still could not boot until 8/02. Not genuinely unsure → no default-lower. **MEDIUM.** 📌 **He argued 10 ft and the ladder gives 100, and it matters that the entitlement was NOT created by his asking** — it was created by my deferrals; the challenge found it. Asked to raise the boot tiny itself, the answer would still be no, and it is no. **BOUNDS:** earned-once · dated to **working-production state (8/02)**, NOT the 7/09 pilot-ready flip — the 7/25 pre-boot audit established the 7/09 build was not running the study's configuration and the A–E rebuild ran 7/25 → 8/02, **entirely post-ruling, so FORWARD-ONLY is satisfied and nothing backfills** · **§0.5 intact — I generated no capture**: the fact is already placed and already scored in the 8/01 + 8/02 ops rows, and this is a C3 re-derivation of a placed row's tier, the same mechanism that moved the 7/25 calorie half under G-1 · nested double-count ON, the 30 session tinies beneath it stand unreduced · ⛔ **NOT a T0 claim** — T0 is roadmap-final, gated on A5 + B4 + D-track, pays a large, untouched. ⛔ **NO OTHER LANE PAYS:** 🐍 by agent-authored majority (amendment D) and by G-2; ✍️ by G-2 and bar 1 — the substrate is private, no stranger can open it. **DEDUP:** no substrate-completion row has ever existed in the log (grepped); the #4 milestone has never booked",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 55,
+      "cum_overall": 975,
+      "reasoning": "**C3 AMENDMENT H — OWNER CHALLENGE, CONCEDED (2026-08-03).** He challenged the 8/02 boot tinies as under-priced, arguing a small. ⛔ **THE BOOT-IS-NOT-THE-RUN HOLDING IS DEFENDED AND UNCHANGED:** roadmap #6 is a 1-week full-production run, ☐ OPEN, day one ran 8/02 — its small stays PENDING, not refused, and stacks above this row when the week lands. The two 8/02 tinies priced *sittings* and were correctly tiered. ✅ **BUT THE CHALLENGE FOUND A REAL DEFECT, LARGER THAN THE ONE HE NAMED: 📕 carried 45 rows and every single one was a tiny** — six weeks of his primary work, an instrument now running in production, and the lane had **never once paid above one foot.** Every other lane stacks artifacts above its sessions; this lane had a floor and no ceiling. **CAUSE — three of my own deferrals, each lawful alone:** 7/09 (the substrate \"folds into the thin-pilot small\"), 7/17 and 7/18 (no completion tier for Lens v2, \"folds into downstream milestones\"). Each cited flag-don't-guess; together they made **deferral the lane's default**, which no rule ever authorised. ⚡ **THE SENTENCE THAT CONVICTED ME IS MY OWN, ONE DAY OLD:** booking the 8/01 ops tiny I wrote *\"the roadmap keeps them apart for the same reason — #4 Substrate v1 is the build, #6 is the RUN\"* — I used that separation to pay ONE extra foot while the codebook's tier table fused #4 INTO #6's small. **I applied the distinction where it paid a foot and ignored it where it would pay a hundred.** That is not a silence in the law; it is an inconsistency in my own hand. **⚠️ TIER CORRECTED THE SAME DAY, medium → SMALL, ON A SECOND OWNER CHALLENGE (C3 AMENDMENT H-2) — HE ARGUED HIS OWN SCORE DOWN AND HE WAS RIGHT.** My first ruling read *\"~7 weeks of directed daily build, 2026-06-17 → 2026-08-02.\"* **THE CODEBASE SAYS OTHERWISE: first substrate commit 2026-07-04, last 2026-08-02 — 29 calendar days, 62 commits, 18 distinct build days.** His estimate of *three weeks* was nearer the truth than my seven. ⚠️ **AND 2026-06-17 IS THE ATLAS-V2 RETHINK DATE (roadmap #28)** — I lifted a date off a nearby roadmap row I had read minutes earlier, called it the build start, **and never opened the codebase.** **§4.5.2 IS THE RULE I BROKE:** an artifact prices its **OWN DEDICATED BUILD-EFFORT — *not its calendar span*** — and I priced the calendar span, in the direction that paid more. 29 days against a small band of 4 days–1 month sits **ON THE SEAM at best**, and §3's strictness rule defaults a seam case to the **LOWER** tier. **Expected ≈ actual, so no faster-than-expected credit:** §3 sizes for a standardized person with the **same resources**, and his resources include the agents that wrote the code under `/goal` — the pace was set by the tooling, not by unusual speed. **SMALL, 10 ft.** 🔒 **THE NO-CLAWBACK WALL IS NOT BREACHED:** that constraint protects a tick from **DECAY** (rust, regain, a changed goal); it has never protected an **erroneous booking made the same day, inside the same open C3 loop, on a fact its author got wrong.** The deed is not invalidated — it ticks at its **true size**. Corrected in place rather than by a −90 offset row because nothing was booked after it and the cumulative chain must stay clean. 📌 **What SURVIVES from H, entire:** 📕 had 45 rows and had never once paid above a tiny; three of my deferrals caused it; my own 8/01 sentence convicted me; **#4 stays unfused from #6.** Only the size was wrong. 📌 **And on the record: within one day I conceded UP (+100) then DOWN (−90) to the same challenger. Neither moved on the asking — H moved on a sentence I had written myself, H-2 on a git log. He audited the judge in the direction that COST him feet** — it was created by my deferrals; the challenge found it. Asked to raise the boot tiny itself, the answer would still be no, and it is no. **BOUNDS:** earned-once · dated to **working-production state (8/02)**, NOT the 7/09 pilot-ready flip — the 7/25 pre-boot audit established the 7/09 build was not running the study's configuration and the A–E rebuild ran 7/25 → 8/02, **entirely post-ruling, so FORWARD-ONLY is satisfied and nothing backfills** · **§0.5 intact — I generated no capture**: the fact is already placed and already scored in the 8/01 + 8/02 ops rows, and this is a C3 re-derivation of a placed row's tier, the same mechanism that moved the 7/25 calorie half under G-1 · nested double-count ON, the 30 session tinies beneath it stand unreduced · ⛔ **NOT a T0 claim** — T0 is roadmap-final, gated on A5 + B4 + D-track, pays a large, untouched. ⛔ **NO OTHER LANE PAYS:** 🐍 by agent-authored majority (amendment D) and by G-2; ✍️ by G-2 and bar 1 — the substrate is private, no stranger can open it. **DEDUP:** no substrate-completion row has ever existed in the log (grepped); the #4 milestone has never booked",
       "evidence": "`execution-roadmap.md` #4 (Substrate v1) + #6 (☐ OPEN); `Codebase/Osiris Substrate/_build/` (smoke-report.md, pilot-deploy-1, pilot-route-2c, preboot-verify-20260802.md); `pilot-boot-record.md`; `journalctl -u osiris-runner` (enabled 2026-08-02 18:11:25 EST); capture rows 2026-08-01 + 2026-08-02 (already-placed, already-scored — C3 re-derivation, no new capture generated)",
       "booked": "2026-08-03"
     }
@@ -5960,9 +5960,9 @@
       },
       {
         "date": "2026-08-02",
-        "cum": 145,
-        "feet": 100,
-        "tier": "medium",
+        "cum": 55,
+        "feet": 10,
+        "tier": "small",
         "activity": "**🔒 OSIRIS SUBSTRATE v1 — THE WORKING APPARATUS, COMPLETE AND BOOTED TO PRODUCTION.** The instrument the twelve-month study exists to observe: nine working modes, gating rubric with wall enforcement, memory + retrieval, agent routing, the long-form production chain, Hetzner deploy + systemd runner, telemetry + cost ledger, a 119-test verification battery — and the A–E pre-boot rebuild (gate-rubric rewrite + verdict recording · memory + continuity · all-nine-mode routing rework · long-form production path · full re-rehearsal). Unit enabled 2026-08-02 18:11:25 EST, cycles executing in production"
       }
     ],
