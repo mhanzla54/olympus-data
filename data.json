@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 965,
-    "generated_for": "2026-08-02",
-    "built_at": "2026-08-03T00:51:24.232Z",
+    "overall_total": 1065,
+    "generated_for": "2026-08-03",
+    "built_at": "2026-08-03T13:49:58.831Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 118
+      "ft_to_go": 18
     }
   },
   "lanes": [
@@ -57,7 +57,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 45,
+      "current": 145,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -4706,6 +4706,18 @@
       "reasoning": "The Osiris working-session entry, session-type OWNER-EXECUTED OPS TASK — a named type in the codebook's own list (*account setup, OAuth flows, audit forms, key management*), and this is key management end to end. 🔒 WHY THIS IS A SECOND 📕 TICK AND NOT A FOLD: dedup keys on (date, session-TYPE), and *a different-type session the same day is its own tick.* The row above is DECIDING; this is DOING — cloud console, billing, a minted credential, a vault swap and a measured before/after. **Direct precedent, and I follow it because I set it yesterday:** 2026-08-01 booked exactly this pair on one date (build working session + owner-executed ops), as did 7/29 and 7/26. Type, not sitting, is what the rule has keyed on every time. ⚡ AND THE CONTRAST WITH LAST NIGHT IS THE WHOLE POINT: I refused the Blender/Tripo/Unreal ops sitting eleven hours ago on OBJECT (G-2) — internal creative tooling is not THE STUDY, and §0.5 forbade me supplying the link. **This one needs no link supplied.** It is the pilot's own provider key, on the pilot's own cloud project, fixing the fault that killed the 8/01 boot. The object is the study, and it is the study on the face of the capture. ⭐ THE DIAGNOSIS CAME BEFORE THE EVIDENCE. He said Gemini was probably unpaid at the START of the session, when the 8/01 failure was still an unexplained 429, and he was right. **Then he did not stop at plausible: the old key measured 7×200/13×429 three times, the new key 30×200/0×429.** A fix asserted is a hope; a fix measured against a reproduced failure is a fix. He also found, en route, that the previously-vaulted key belonged to a project Google's own console would not list — a defect nobody was looking for. ⛔ AND THE MILESTONE DOES NOT BOOK — THIS IS A BOOT, NOT A RUN, and the ruling is unchanged from twenty-four hours ago. 🔎 PATH-EVENT FACT-CHECKED against `execution-roadmap.md` THE GAME PLAN BEFORE booking: **#6 Thin funding pilot run is a 1-WEEK full-production private run, priced a SMALL, and it is still ☐ OPEN.** Tonight is day one of it: the unit enabled, one cycle, `self_stop` after 1 tick, $0.0937 across 4 calls. §4.5.4 governs — a partial outcome tiers BELOW the resolved one, and the #6 small stays ahead and will stack above these session tinies when the run lands (nested double-count). ⛔ NO T0 CLAIM: T0 is roadmap-final and pays a LARGE; the capture does not claim it and neither do I. 📌 RECORDED AT ZERO FEET BECAUSE IT IS WORTH RECORDING: the agent's first act on its first activation was to search an empty memory twice, check its own budget, write *\"No memories at all. This is my first activation…\"* and **stop rather than produce.** An instrument whose first observed behaviour is to orient before acting is the instrument this study was built to watch. 🔎 DEDUP: no ops-type 📕 row existed on 2026-08-02 before this one",
       "evidence": "`osiris_pilot.run_routing` row 3 (`run-1785708686-000001`, entry_mode strategy, uniform_random); `osiris.thinking_log`; `osiris.cost_ledger` ($0.0937 / 4 calls); `osiris.pilot_amendments` row 20; `/home/osiris/.osiris/vault/editor_provider/api_key` (+ `.pre-pilotrun-swap-20260802.bak`); `pilot-boot-record.md`; `execution-roadmap.md` THE GAME PLAN #6; capture rows 2026-08-02 (the boot · the Gemini fix)",
       "booked": "2026-08-02"
+    },
+    {
+      "date": "2026-08-02",
+      "lane": "method",
+      "activity": "**🔒 OSIRIS SUBSTRATE v1 — THE WORKING APPARATUS, COMPLETE AND BOOTED TO PRODUCTION.** The instrument the twelve-month study exists to observe: nine working modes, gating rubric with wall enforcement, memory + retrieval, agent routing, the long-form production chain, Hetzner deploy + systemd runner, telemetry + cost ledger, a 119-test verification battery — and the A–E pre-boot rebuild (gate-rubric rewrite + verdict recording · memory + continuity · all-nine-mode routing rework · long-form production path · full re-rehearsal). Unit enabled 2026-08-02 18:11:25 EST, cycles executing in production",
+      "tier": "medium",
+      "feet": 100,
+      "cum_lane": 145,
+      "cum_overall": 1065,
+      "reasoning": "**C3 AMENDMENT H — OWNER CHALLENGE, CONCEDED (2026-08-03).** He challenged the 8/02 boot tinies as under-priced, arguing a small. ⛔ **THE BOOT-IS-NOT-THE-RUN HOLDING IS DEFENDED AND UNCHANGED:** roadmap #6 is a 1-week full-production run, ☐ OPEN, day one ran 8/02 — its small stays PENDING, not refused, and stacks above this row when the week lands. The two 8/02 tinies priced *sittings* and were correctly tiered. ✅ **BUT THE CHALLENGE FOUND A REAL DEFECT, LARGER THAN THE ONE HE NAMED: 📕 carried 45 rows and every single one was a tiny** — six weeks of his primary work, an instrument now running in production, and the lane had **never once paid above one foot.** Every other lane stacks artifacts above its sessions; this lane had a floor and no ceiling. **CAUSE — three of my own deferrals, each lawful alone:** 7/09 (the substrate \"folds into the thin-pilot small\"), 7/17 and 7/18 (no completion tier for Lens v2, \"folds into downstream milestones\"). Each cited flag-don't-guess; together they made **deferral the lane's default**, which no rule ever authorised. ⚡ **THE SENTENCE THAT CONVICTED ME IS MY OWN, ONE DAY OLD:** booking the 8/01 ops tiny I wrote *\"the roadmap keeps them apart for the same reason — #4 Substrate v1 is the build, #6 is the RUN\"* — I used that separation to pay ONE extra foot while the codebook's tier table fused #4 INTO #6's small. **I applied the distinction where it paid a foot and ignored it where it would pay a hundred.** That is not a silence in the law; it is an inconsistency in my own hand. **TIER BY §3, TIME ALONE:** ~7 weeks of directed daily build (2026-06-17 → 2026-08-02), past the 1-month small seam. **Strictness applied and it did not save the lower call** — could a standardized person with agent tooling ship this in ≤1 month? His own record answers: #4 was declared DONE on 7/09 and still could not boot until 8/02. Not genuinely unsure → no default-lower. **MEDIUM.** 📌 **He argued 10 ft and the ladder gives 100, and it matters that the entitlement was NOT created by his asking** — it was created by my deferrals; the challenge found it. Asked to raise the boot tiny itself, the answer would still be no, and it is no. **BOUNDS:** earned-once · dated to **working-production state (8/02)**, NOT the 7/09 pilot-ready flip — the 7/25 pre-boot audit established the 7/09 build was not running the study's configuration and the A–E rebuild ran 7/25 → 8/02, **entirely post-ruling, so FORWARD-ONLY is satisfied and nothing backfills** · **§0.5 intact — I generated no capture**: the fact is already placed and already scored in the 8/01 + 8/02 ops rows, and this is a C3 re-derivation of a placed row's tier, the same mechanism that moved the 7/25 calorie half under G-1 · nested double-count ON, the 30 session tinies beneath it stand unreduced · ⛔ **NOT a T0 claim** — T0 is roadmap-final, gated on A5 + B4 + D-track, pays a large, untouched. ⛔ **NO OTHER LANE PAYS:** 🐍 by agent-authored majority (amendment D) and by G-2; ✍️ by G-2 and bar 1 — the substrate is private, no stranger can open it. **DEDUP:** no substrate-completion row has ever existed in the log (grepped); the #4 milestone has never booked",
+      "evidence": "`execution-roadmap.md` #4 (Substrate v1) + #6 (☐ OPEN); `Codebase/Osiris Substrate/_build/` (smoke-report.md, pilot-deploy-1, pilot-route-2c, preboot-verify-20260802.md); `pilot-boot-record.md`; `journalctl -u osiris-runner` (enabled 2026-08-02 18:11:25 EST); capture rows 2026-08-01 + 2026-08-02 (already-placed, already-scored — C3 re-derivation, no new capture generated)",
+      "booked": "2026-08-03"
     }
   ],
   "series": {
@@ -5945,6 +5957,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Osiris OWNER-EXECUTED OPS TASK — he named the blocking defect before evidence existed (*\"pretty sure Gemini is not on a paid tier\"*, later confirmed as the exact cause of the 8/01 HTTP-429 failure), then enabled billing on `pilotrun-500313`, found the vaulted key belonged to a project AI Studio could not even list, minted a replacement inside the correct project, swapped it into the vault with a backup, and measured 30 rapid calls at 30×200 / 0×429 against 7×200 / 13×429 reproduced three times on the old key; the runner was then enabled at 18:11:25 EST and closed its first cycle clean"
+      },
+      {
+        "date": "2026-08-02",
+        "cum": 145,
+        "feet": 100,
+        "tier": "medium",
+        "activity": "**🔒 OSIRIS SUBSTRATE v1 — THE WORKING APPARATUS, COMPLETE AND BOOTED TO PRODUCTION.** The instrument the twelve-month study exists to observe: nine working modes, gating rubric with wall enforcement, memory + retrieval, agent routing, the long-form production chain, Hetzner deploy + systemd runner, telemetry + cost ledger, a 119-test verification battery — and the A–E pre-boot rebuild (gate-rubric rewrite + verdict recording · memory + continuity · all-nine-mode routing rework · long-form production path · full re-rehearsal). Unit enabled 2026-08-02 18:11:25 EST, cycles executing in production"
       }
     ],
     "literature": [
@@ -14714,11 +14733,6 @@
     },
     "strip": [
       {
-        "date": "2026-07-04",
-        "state": "good",
-        "kcal": 1500
-      },
-      {
         "date": "2026-07-05",
         "state": "good",
         "kcal": 1491
@@ -14860,8 +14874,13 @@
       },
       {
         "date": "2026-08-02",
-        "state": "partial",
+        "state": "off",
         "kcal": 2226
+      },
+      {
+        "date": "2026-08-03",
+        "state": "partial",
+        "kcal": 0
       }
     ],
     "days": [
@@ -15415,6 +15434,14 @@
         "protein": 134,
         "dayType": "reverse-ramp",
         "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-08-03",
+        "kcal": 0,
+        "protein": 0,
+        "dayType": "empty",
+        "logged": "empty",
         "provisional": true
       }
     ],
