@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 981,
+    "overall_total": 982,
     "generated_for": "2026-08-03",
-    "built_at": "2026-08-04T01:40:41.101Z",
+    "built_at": "2026-08-04T02:05:37.621Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 102
+      "ft_to_go": 101
     }
   },
   "lanes": [
@@ -77,7 +77,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 248,
+      "current": 249,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -4790,6 +4790,18 @@
       "reasoning": "The `protein-goal day` entry — logged protein ≥ (goal − 20). ✅ **THE HOLD CURED, AND IT CURED ON THE ONE PROPERTY THAT MAKES A PROVISIONAL ROW RULEABLE: PROTEIN IS MONOTONIC.** It has one edge and it only rises. Once 168 g is logged, no amount of further eating can un-cross a 160 g floor — so the crossing is **provable at this pull regardless of what happens for the rest of the day**, and the `provisional: true` flag on the day row cannot touch it. That is a genuine asymmetry between the two halves of a diet day, not a convenience: I refused this same row four hours ago at 138 g and I book it now at 168 g, on the same rule. ⏸️ **AND THE CALORIE HALF IS STILL HELD — SEE THE STANDINGS NOTE.** It reads 2,578 against a 2,550 target, which is *inside* the band, and I am refusing to book it anyway, because he has not declared his close and every calorie he eats from here moves it toward the upper edge and out. A held row can only pay later; a row booked early on a number that has not stopped moving can be wrong. ✅ Twelfth cure this month, and the second in twenty-four hours to resolve **split** — one half paid, one half still open — which is the mechanism doing precisely what a single all-or-nothing verdict could not. 🔎 DEDUP: 2026-08-03 carried NO ⚖️ row of any kind before this one — both halves were HELD on the 20:33 capture, neither was booked, and the 8/02 pair closed at NO TICK on final data. The weight half (221.4) was ruled outright last run and is not re-opened",
       "evidence": "`health-data.json` day 2026-08-03; `health-pull.mjs` 21:27:24 (0 open flags); capture rows 2026-08-03 (20:33 hold + 21:27 cure)",
       "booked": "2026-08-03"
+    },
+    {
+      "date": "2026-08-03",
+      "lane": "strength",
+      "activity": "SPARSE-TRAINING DAY — **ELEVEN distinct items, nineteen total executions**, on a full Day A training date: hand/finger/wrist ×1 · ankle dorsiflexion ×1 · hamstring ×2 · calf ×2 · chest/arm/shoulder ×1 · hip-flexor stretch ×2 · vacuum/TVA ×1 · hip-flexor training ×1 · right tricep overhead band ×2 · **scapular push-ups (LEFT-biased) ×4** · band external rotation LEFT ×2. Not done: forearm, right bicep, lateral delt, **scapular pull-ups**",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 249,
+      "cum_overall": 982,
+      "reasoning": "The `SPARSE-TRAINING DAY` entry (C3 amendment E, 2026-07-25) — ≥6 distinct items genuinely performed within one EST day, timing irrelevant, day-keyed, 🏋️ Strength not ⚖️ Body. **Eleven distinct clears the floor by five**, and ties 7/27 and 7/30 for the highest count the stream has logged. 🔒 **THE DISJOINT-WORK RULE IS THE ONLY REAL QUESTION HERE, AND IT IS ANSWERED ON THE CAPTURE'S OWN FACTS — TWICE OVER.** Today carried a full Day A (row 375) containing pull-ups, hanging knee raises, **dead hang + scap shrugs**, typewriter push-ups, pike push-ups, V-ups and pseudo-planche push-ups. Two sparse items sit near that volume and neither collides: **(a) scapular push-ups** are a *push-position serratus* movement — the Day A scapular work was **scap shrugs paired with the dead hang**, a bar movement; different position, different rep. **(b) hip-flexor training** vs the hanging knee raise is the identical question I ruled on 8/01, and the answer is unchanged: **the rule cuts at the REP, not the muscle** — knee-raise reps are workout volume in `workout-log.md`, the sparse effort is separate greased work off his own menu. The owner drew that joint himself when he overturned my blunter first draft (*\"the wrong thing is not two ticks in a day, it is two ticks for one body of work\"*). ⭐ **AND THE ITEM THAT WOULD GENUINELY HAVE COLLIDED IS IN THE NOT-DONE LIST: scapular pull-ups (item 13) were not done**, exactly as on 7/27 and 7/29. **Robustness check — the tick does not depend on either contested item:** strike both and **nine distinct items remain**, still three clear of the floor. ✅ Substance floor met many times over — nineteen executions, four of them on one item. 📌 **Item 14 appears for the FIRST time since it entered the menu on 2026-07-25, and at ×4 it is his highest-count item of the day — it earns nothing extra: the day is the atom, and a first appearance is not a rung.** ⛔ **And the left-side scapular protocol he designed himself earlier today books NOTHING** — designing his own training plan is plan-adjustment / meta-upkeep, the same NO-TICK as the 7/29 item-15 widening. **The menu never pays; the days it produces do.** 🔎 DEDUP GREPPED: 2026-08-03 carried **no sparse row of any kind** before this one — the six rows already on the date are two 📕 sessions, the Day A workout tiny, the drill round, the public-work day and the protein half. **Nine sparse days now booked, one per date, never two.** 📌 Path-checked against `sparse-training-log.md` for **confirmation only** (§0.5 — the row was placed upstream by the capturer; I never read that file to find a day to score)",
+      "evidence": "`sparse-training-log.md` 2026-08-03 row (11 distinct · floor ✅ MET · 19 executions); `asymmetry-and-posture.md` (the left-side protocol); `workout-log.md` 2026-08-03 Day A (the disjointness cross-check); owner report this session",
+      "booked": "2026-08-03"
     }
   ],
   "series": {
@@ -6502,6 +6514,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Day A Push+Pull performed and logged in full, 7 exercises — pull-up ★full 4/3/3 plus 4/5/5 negative back-off, hanging knee raise ★full slow-tempo 8/5/5, dead hang 5s/8s with scap shrugs 10/9, typewriter push-up 6/5/4, feet-elevated pike push-up 8/6/5, V-up 5/6, pseudo-planche push-up 8/8. Measured against the previous Day A (2026-07-29): knee raise 4/3/3 → 8/5/5, pike push-up 6/5.5/3 → 8/6/5, typewriter 5/3/3 → 6/5/4, pull-ups 3/3/3 → 4/3/3, V-up 5/3/3 → 5/6"
+      },
+      {
+        "date": "2026-08-03",
+        "cum": 249,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "SPARSE-TRAINING DAY — **ELEVEN distinct items, nineteen total executions**, on a full Day A training date: hand/finger/wrist ×1 · ankle dorsiflexion ×1 · hamstring ×2 · calf ×2 · chest/arm/shoulder ×1 · hip-flexor stretch ×2 · vacuum/TVA ×1 · hip-flexor training ×1 · right tricep overhead band ×2 · **scapular push-ups (LEFT-biased) ×4** · band external rotation LEFT ×2. Not done: forearm, right bicep, lateral delt, **scapular pull-ups**"
       }
     ],
     "body": [
