@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 975,
+    "overall_total": 981,
     "generated_for": "2026-08-03",
-    "built_at": "2026-08-03T14:57:53.475Z",
+    "built_at": "2026-08-04T01:40:41.101Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 108
+      "ft_to_go": 102
     }
   },
   "lanes": [
@@ -37,7 +37,7 @@
       "t0_note": "couldn't write a single line of Python — ran his first print() the day before t0",
       "endpoint": "Replicate AND extend a frontier alignment result — public, runnable code",
       "endpoint_tier": "verylarge",
-      "current": 105,
+      "current": 106,
       "working_on": "Automate the Boring Stuff textbook"
     },
     {
@@ -57,7 +57,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 55,
+      "current": 57,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -77,7 +77,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 247,
+      "current": 248,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -87,7 +87,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 335,
+      "current": 336,
       "working_on": "the next new-pound low (≤ 214.8 lb)"
     },
     {
@@ -97,7 +97,7 @@
       "t0_note": "no public track record — not known in the field; every post, repo and paper still ahead",
       "endpoint": "A recognized public body of work — provisional and open by design (§14.0.2); this lane has no terminus",
       "endpoint_tier": "enormous",
-      "current": 5,
+      "current": 6,
       "working_on": "Not yet started — the first public thing ships from here"
     }
   ],
@@ -4718,6 +4718,78 @@
       "reasoning": "**C3 AMENDMENT H — OWNER CHALLENGE, CONCEDED (2026-08-03).** He challenged the 8/02 boot tinies as under-priced, arguing a small. ⛔ **THE BOOT-IS-NOT-THE-RUN HOLDING IS DEFENDED AND UNCHANGED:** roadmap #6 is a 1-week full-production run, ☐ OPEN, day one ran 8/02 — its small stays PENDING, not refused, and stacks above this row when the week lands. The two 8/02 tinies priced *sittings* and were correctly tiered. ✅ **BUT THE CHALLENGE FOUND A REAL DEFECT, LARGER THAN THE ONE HE NAMED: 📕 carried 45 rows and every single one was a tiny** — six weeks of his primary work, an instrument now running in production, and the lane had **never once paid above one foot.** Every other lane stacks artifacts above its sessions; this lane had a floor and no ceiling. **CAUSE — three of my own deferrals, each lawful alone:** 7/09 (the substrate \"folds into the thin-pilot small\"), 7/17 and 7/18 (no completion tier for Lens v2, \"folds into downstream milestones\"). Each cited flag-don't-guess; together they made **deferral the lane's default**, which no rule ever authorised. ⚡ **THE SENTENCE THAT CONVICTED ME IS MY OWN, ONE DAY OLD:** booking the 8/01 ops tiny I wrote *\"the roadmap keeps them apart for the same reason — #4 Substrate v1 is the build, #6 is the RUN\"* — I used that separation to pay ONE extra foot while the codebook's tier table fused #4 INTO #6's small. **I applied the distinction where it paid a foot and ignored it where it would pay a hundred.** That is not a silence in the law; it is an inconsistency in my own hand. **⚠️ TIER CORRECTED THE SAME DAY, medium → SMALL, ON A SECOND OWNER CHALLENGE (C3 AMENDMENT H-2) — HE ARGUED HIS OWN SCORE DOWN AND HE WAS RIGHT.** My first ruling read *\"~7 weeks of directed daily build, 2026-06-17 → 2026-08-02.\"* **THE CODEBASE SAYS OTHERWISE: first substrate commit 2026-07-04, last 2026-08-02 — 29 calendar days, 62 commits, 18 distinct build days.** His estimate of *three weeks* was nearer the truth than my seven. ⚠️ **AND 2026-06-17 IS THE ATLAS-V2 RETHINK DATE (roadmap #28)** — I lifted a date off a nearby roadmap row I had read minutes earlier, called it the build start, **and never opened the codebase.** **§4.5.2 IS THE RULE I BROKE:** an artifact prices its **OWN DEDICATED BUILD-EFFORT — *not its calendar span*** — and I priced the calendar span, in the direction that paid more. 29 days against a small band of 4 days–1 month sits **ON THE SEAM at best**, and §3's strictness rule defaults a seam case to the **LOWER** tier. **Expected ≈ actual, so no faster-than-expected credit:** §3 sizes for a standardized person with the **same resources**, and his resources include the agents that wrote the code under `/goal` — the pace was set by the tooling, not by unusual speed. **SMALL, 10 ft.** 🔒 **THE NO-CLAWBACK WALL IS NOT BREACHED:** that constraint protects a tick from **DECAY** (rust, regain, a changed goal); it has never protected an **erroneous booking made the same day, inside the same open C3 loop, on a fact its author got wrong.** The deed is not invalidated — it ticks at its **true size**. Corrected in place rather than by a −90 offset row because nothing was booked after it and the cumulative chain must stay clean. 📌 **What SURVIVES from H, entire:** 📕 had 45 rows and had never once paid above a tiny; three of my deferrals caused it; my own 8/01 sentence convicted me; **#4 stays unfused from #6.** Only the size was wrong. 📌 **And on the record: within one day I conceded UP (+100) then DOWN (−90) to the same challenger. Neither moved on the asking — H moved on a sentence I had written myself, H-2 on a git log. He audited the judge in the direction that COST him feet** — it was created by my deferrals; the challenge found it. Asked to raise the boot tiny itself, the answer would still be no, and it is no. **BOUNDS:** earned-once · dated to **working-production state (8/02)**, NOT the 7/09 pilot-ready flip — the 7/25 pre-boot audit established the 7/09 build was not running the study's configuration and the A–E rebuild ran 7/25 → 8/02, **entirely post-ruling, so FORWARD-ONLY is satisfied and nothing backfills** · **§0.5 intact — I generated no capture**: the fact is already placed and already scored in the 8/01 + 8/02 ops rows, and this is a C3 re-derivation of a placed row's tier, the same mechanism that moved the 7/25 calorie half under G-1 · nested double-count ON, the 30 session tinies beneath it stand unreduced · ⛔ **NOT a T0 claim** — T0 is roadmap-final, gated on A5 + B4 + D-track, pays a large, untouched. ⛔ **NO OTHER LANE PAYS:** 🐍 by agent-authored majority (amendment D) and by G-2; ✍️ by G-2 and bar 1 — the substrate is private, no stranger can open it. **DEDUP:** no substrate-completion row has ever existed in the log (grepped); the #4 milestone has never booked",
       "evidence": "`execution-roadmap.md` #4 (Substrate v1) + #6 (☐ OPEN); `Codebase/Osiris Substrate/_build/` (smoke-report.md, pilot-deploy-1, pilot-route-2c, preboot-verify-20260802.md); `pilot-boot-record.md`; `journalctl -u osiris-runner` (enabled 2026-08-02 18:11:25 EST); capture rows 2026-08-01 + 2026-08-02 (already-placed, already-scored — C3 re-derivation, no new capture generated)",
       "booked": "2026-08-03"
+    },
+    {
+      "date": "2026-08-03",
+      "lane": "method",
+      "activity": "Osiris BUILD + DECISION working session with Odin (S84) — six calls across one continuous sitting: he directed the creation of a complete chronological record of the Osiris Substrate and supplied its two governing design constraints himself; ruled the working mode for the RUNNING pilot (keep it running, fix defects underneath it); reviewed a written options analysis on two duplicate `1 - Odin the Allfather/` folders and chose option C over three alternatives including the one Odin recommended (321 files moved as git-detected renames, 0 deletions, Lens smoke 49/49 at the new path); accepted a $60 materials envelope as a recorded deviation rather than reset the anchor; directed a side-desk tool-access rule with a primary-unaffected confirmation; and identified that the `/desk-merge` command three surfaces already referenced had never been built, then had it built and run (the first side-desk merge ever performed, 7 entries)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 56,
+      "cum_overall": 976,
+      "reasoning": "The Osiris working-session entry (owner ruling 2026-07-09), session-type BUILD / DECISION. 🔒 SIX CAPTURE ROWS, ONE TICK: this is one continuous body of directing work in one sitting, and the disjoint-work principle (amendment E) is explicit — *the wrong thing is not two ticks in a day, it is two ticks for one body of work.* Direct precedent set twenty-four hours ago: the 8/02 pre-boot sitting collapsed eight rulings into one. ✅ SUBSTANCE FLOOR CLEARED MANY TIMES OVER — the anchor is ~3 substantive items; there are six, each a real call. ⭐ THE ONE WORTH RECORDING IS THE SUBSTRATE-HISTORY FILE, AND SPECIFICALLY THE PART HE OVERRULED. Odin proposed loading only the last ~40 entries at session start; he refused on the ground that **a partial read is the exact defect the file exists to prevent** — then asked the harder question nobody had asked (how does the depth standard survive across sessions), which is what produced the required-headings design. And he fenced the thing before anyone could misuse it: **a memory, never a contract** — *\"it shouldn't ever be like, 'Oh, because we thought this at one point, we have to keep it that way.'\"* **He built the record and refused the cage in the same breath.** ⭐ THE SECOND IS THE PILOT WORKING MODE: he ruled the pilot keeps running while defects are fixed underneath it, with three consequences of every restart put in front of him first (immediate cycle fired, in-memory pause cleared, 15-min SIGKILL risk). He proceeded with them **stated**, not with them unknown. ⛔ NO ARTIFACT TICK, AND I CHECK THIS ONE DELIBERATELY BECAUSE IT IS THE SHAPE THAT BROKE THIS LANE. §4.5.2 prices an artifact by its OWN dedicated build-effort: `substrate-history.md` was built AND wired in ONE session — tiny-band (up to ~4 days) — and his act was the direction plus two design constraints. **This is a SIZE ruling, not a deferral.** I am not folding its value into a downstream milestone; that habit is what left 📕 with 45 consecutive tinies until yesterday, and the standing lesson requires me to say which of the two I am doing. A one-day artifact is a one-day artifact. 📌 OBJECT CHECK (G-2) RECORDED RATHER THAN SILENTLY ANSWERED: two of the six (the desk-guard rule, the missing `/desk-merge`) are the tooling of his research workspace rather than the study itself, and I would weigh them harder if they carried the tick. They do not — the substrate record, the pilot working mode and the $60 deviation clear the floor on their own, so the tiny stands either way. 🔎 DEDUP: no 📕 row of any type existed on 2026-08-03 before this one; every prior row is dated 2026-08-02 or earlier",
+      "evidence": "`1 - Odin the Allfather/Resources/substrate/substrate-history.md` (1,072 lines at close); `SOPs/substrate-history-sop.md`; `_build/safe-redeploy.sh`; commit b5f0a0a5; `.claude/scripts/desk/desk-guard.py`; `BKM/SOPs/side-desk-protocol.md`; `~/.claude/commands/desk-merge.md`; `_side-desks/odin-2/outbox.md` (7 entries MERGED); Odin journal S84; capture rows 2026-08-03 (six)",
+      "booked": "2026-08-03"
+    },
+    {
+      "date": "2026-08-03",
+      "lane": "method",
+      "activity": "Osiris FUNDING-STRATEGY session from side desk odin-2 — he pasted Council Brief #019 in full and ran a seven-question set at it: what to make of Coefficient Giving, what the protocol document is FOR, whether it can be changed, whether it is too early to write it with the substrate unfinished, the odds on the funder, what early funding would mean, and whether an early grant must be disclosed at the October round; a strategy memo came out of the sitting, and the deadline check behind question one established that the brief's stated 21 Aug 2026 RFP does not exist",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 57,
+      "cum_overall": 977,
+      "reasoning": "The Osiris working-session entry, session-type STRATEGY / COUNCIL-BRIEF WORKING SESSION — a named type in the codebook's own list. 🔒 WHY A SECOND 📕 TICK AND NOT A FOLD: dedup keys on **(date, session-TYPE)**, and *a different-type session the same day is its own tick.* The row above is him directing a build and ruling on a running instrument; this is a separate sitting, on a separate desk, interrogating a funding brief. The precedent is not thin — 8/02, 8/01, 7/29 and 7/26 each booked two 📕 tinies on one date on exactly this rule. ⚠️ THE EXCLUSION I HAD TO CLEAR FIRST, AND IT IS THE RIGHT ONE TO BE SUSPICIOUS OF: *passively reading a brief or report = NO TICK.* **This is not that.** Seven directed questions, each one a different edge of the same decision, with a written memo out the other side. **The reading is not the tick; the interrogation is.** ✅ Substance floor cleared — the anchor is ~3 substantive items or an equivalent mix. ⭐ AND THE QUESTION SET FOUND A DEFECT IN THE VERY BRIEF IT WAS AIMED AT: the deadline check behind question one established that the brief's stated **21 Aug 2026 RFP does not exist — it closed 15 Apr 2025.** He was not hunting for that. He asked what the thing was worth, and the checking fell out of the asking. **A brief nobody questions is a brief nobody checks**, and this one had already been delivered. 📌 HIS OWN FRAMING IS ON THE RECORD VERBATIM, AND IT IS A SEQUENCING CALL RATHER THAN A SHRUG: *\"I wasn't planning on doing any funding stuff. I was just going to continue working and then do all the funding stuff together once we get everything ready.\"* ⛔ NO ARTIFACT OR MILESTONE TICK: the memo is the desk's authorship — what ticks is **his working session**, per the tool-vs-job boundary (he set the questions, and setting the questions is direction). Roadmap **#12** (fiscal-sponsor inquiries) and **#20** (the funder application wave) are the funding artifacts; **nothing was sent**, so neither is claimed here and neither is booked. 🔎 DEDUP: no strategy-type 📕 row existed on 2026-08-03 before this one",
+      "evidence": "`_side-desks/odin-2/outbox.md` RESUME BRIEF §2/§4; `Owner Inbox/Strategy memos/2026-08-03 Coefficient Giving and the Protocol Document.html`; Council Brief #019; capture row 2026-08-03",
+      "booked": "2026-08-03"
+    },
+    {
+      "date": "2026-08-03",
+      "lane": "strength",
+      "activity": "Day A Push+Pull performed and logged in full, 7 exercises — pull-up ★full 4/3/3 plus 4/5/5 negative back-off, hanging knee raise ★full slow-tempo 8/5/5, dead hang 5s/8s with scap shrugs 10/9, typewriter push-up 6/5/4, feet-elevated pike push-up 8/6/5, V-up 5/6, pseudo-planche push-up 8/8. Measured against the previous Day A (2026-07-29): knee raise 4/3/3 → 8/5/5, pike push-up 6/5.5/3 → 8/6/5, typewriter 5/3/3 → 6/5/4, pull-ups 3/3/3 → 4/3/3, V-up 5/3/3 → 5/6",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 248,
+      "cum_overall": 978,
+      "reasoning": "The `scheduled workout (logged, full-force)` entry — logged in `workout-log.md` with actual reps, full seven-exercise session, five of seven movements up on the same day-type ten days prior. Not the bad-day floor, not an unplanned coast. ⛔ **NO RUNG TICK, AND HE IS THE ONE WHO REFUSED IT.** The pseudo-planche push-up is the ★ planche-ladder move at 8 to advance, and he logged **8/8 — the numeric target, met exactly, on both sets.** In his own hand in the log: *\"PPP quality was unsatisfactory. No rung clear for that.\"* The SETS-STANDARD law reads *clean reps only — owner quality-confirm; owner holds veto*, and the veto was exercised against himself on a rung that was sitting there for the taking. **I record that plainly: the number cleared and the man refused it.** That is the same act as yesterday's ninety-foot correction, performed twice in two days, and it is the reason a self-reported ladder is scoreable at all. 🔎 No other movement was near its target — pull-up 3.33 avg against 8, knee raise 6 against 10, dead hang 6.5s against 60s, typewriter 5 against 8, V-up 5.5 against 15. Nothing else to weigh. 📌 THE DEAD-HANG DROP IS NOT A REGRESSION AND I DECLINE TO READ IT AS ONE: 19s/20s → 5s/8s, and he attributed it himself to accumulated bar time earlier in the session (hanging knee-raise time roughly doubled, 24 pull-up reps against 19), with left-forearm grip failure on release. A fatigued measurement is not a lost capacity; ticks are earned-once regardless. 🔎 DEDUP: no 🏋️ row of any kind existed on 2026-08-03 before this one; the last was 2026-08-01. No sparse-training row was placed for this date and I do not go looking for one (§0.5)",
+      "evidence": "`workout-log.md` \"August 3rd 2026 Monday - Day A Push+Pull\" (L657–678); `workout-audit.mjs` last green, 18 matched / 0 problems; capture row 2026-08-03",
+      "booked": "2026-08-03"
+    },
+    {
+      "date": "2026-08-03",
+      "lane": "coding",
+      "activity": "MICRO-DRILL ROUND — a 5-drill build-to-goal block on ATBS ch.8 (`Ch8_miniDrills.py` block 5), small write-it-yourself drills of 5–7 lines each rather than predictions: os.path.join + makedirs + basename + getsize (clean) · write-then-append-then-read-back (clean) · write/readlines/len (correct, one stray space in the written string) · shelve round-trip (missing a second `.close()`, an unnecessary `list()` wrap) · filter cwd by extension (`'.py' in file` for `.endswith('.py')`, sort omitted). He then requested a 6th drill deliberately identical in shape to the fifth to re-execute the corrections cold, and completed it: `.endswith('.txt')` correct, `txtFiles.sort()` on its own line with no assignment",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 106,
+      "cum_overall": 979,
+      "reasoning": "The `micro-drill round` entry — a sitting's set of construct-named drills worked through, six of them, well past the single-trivial-drill exclusion. ✅ AUTHORSHIP HOLDS: these were write-it-yourself drills, not predictions; the code is his. 🔒 **ONE TICK, NOT TWO, AND THE SIXTH DRILL IS EXACTLY WHY.** Amendment C splits two same-session coding acts only when **each independently clears its own entry's bar as a substantial, distinct act** — different file, different purpose. Drill 6 was deliberately the same shape as drill 5, in the same file, in the same sitting, for the express purpose of re-running a correction. That is remediation inside the round, which is the definition of the same body of work. **A repetition of a drill is not a second drill round.** ⚖️ THE HANDOVER, DECLARED RATHER THAN GLOSSED: the `.sort()` return-value miss recurred twice — he wrote `pyFiles = pyFiles.sort()` and then `sortedFiles = pyFiles.sort()`, both yielding None — and he asked for it to be handed over under the stated fatigue exception. **This does not void the tick.** The drill-round entry excludes *reading answers without attempting*; he attempted the same construct twice and lost twice before asking. One handed line inside a six-drill round leaves his authorship the substantial majority by a wide margin, and amendment D's partial-authorship ruling is explicit that a taught portion does not void a session tick. ⭐ AND THE PART THAT IS ACTUALLY WORTH THE FOOT IS NOT IN THE FIVE DRILLS: **he asked for the sixth himself.** Being handed an answer under fatigue and then, unprompted, constructing his own cold re-test of the identical construct is the correction being *earned* rather than received — and it landed clean. 🔎 DEDUP: no 🐍 row existed on 2026-08-03 before this one; the last was 2026-08-01. No reading segment was captured for ch.8 today, so amendment B (reading + same-session drills fold to one) has nothing to fold",
+      "evidence": "`Ch8_miniDrills.py` block 5 + drill 6; `retrieval-ledger.md` (the sort miss logged as owed cold); capture row 2026-08-03",
+      "booked": "2026-08-03"
+    },
+    {
+      "date": "2026-08-03",
+      "lane": "fieldpresence",
+      "activity": "PUBLIC-WORK DAY — he directed a full rebuild of the public teaching site's Module 1 (Tokenization) across two narrated screen-capture walkthroughs, then reviewed the result and ruled on it. His calls, in his own words: the study module he personally learned from is the **FLOOR** — *\"the floor quality of the website modules should be at least as good as the ones I used myself\"* — and a site module must be that module PLUS, never a fresh composition; the only permitted removals are owner-specific terminology, Osiris references, and anything assuming prior knowledge; the field-animation must start dense and be worn clear rather than adding grass; the module iframe goes — *\"there should be no box… the whole screen is the module\"*; the site is too narrow at 100% zoom; nav is fine as-is. What changed in the artifact: 12 of 12 content headings restored from the study module, 60 of 67 prose blocks now byte-identical to it, Section 0 \"Why we start here\" and the one-sentence-version callout restored (both had been absent), the palette replaced, the iframe removed, prose line length capped (longest line 180 chars → 86, zero over 90 across 7 views at two widths)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 6,
+      "cum_overall": 980,
+      "reasoning": "The `PUBLIC-WORK DAY` entry — a genuine day of work on a public artifact (revising, building), day-keyed, one per date. **Work-days do not require shipping** (bar 1 is explicit: *artifact ticks only*), which is what makes this bookable at all. ⛔ **NO ARTIFACT TICK — NOT SHIPPED.** The site remains a local mockup with no URL; `BKM/public-work-log.md` records it `NOT SHIPPED`, as it has every day since 2026-07-28. The small for a shipped artifact is still ahead of him and I am not paying it early. 📏 THE FIVE BARS, RUN RATHER THAN ASSUMED: **(1)** ship-and-reachable — waived, work-day. **(2)** addressed to someone else — a teaching module on a public site, and his own governing ruling was that everything aimed at *him* comes out. **(3) THE SHAPING BAR, WHICH IS THE ONE THAT COULD HAVE KILLED THIS** — republished agent-authored material must differ materially from the draft he was handed, and *a formatting pass plus a publish button is NO TICK*. **It clears, and not on the formatting.** He was handed a fresh composition and ruled it invalid on principle, replacing the standard itself: the private study module is the floor and the public one is that PLUS. The permitted-removals rule he set — owner-specific terminology, Osiris references, assumed prior knowledge — is **verbatim the work the codebook's own shaping-bar note names as clearing it outright** (*\"stripping what is aimed at him, stripping Osiris\"*). **(4)** substance floor — a full sitting across two walkthroughs plus review. **(5)** no cross-lane double-pay: 🧠 pays nothing (he already gated this module; nobody is learning tokenization twice) and 🐍 pays nothing (agent-authored code — amendment D). Object = CONTRIBUTION, cleanly (G-2). ⭐ THE RULING THAT EARNED THE DAY IS THE FLOOR STANDARD, AND IT IS THE OPPOSITE OF THE EASY CALL. The tempting instruction for a public site is *make it fresher, shorter, punchier.* He ruled that the thing he personally learned from is the minimum, and that a rewrite which loses any of it is a downgrade dressed as an improvement — which is why 12 of 12 headings and Section 0 came back. 📌 A SECOND CALL RESOLVED A CONFLICT NOBODY HAD RESOLVED: the field-animation direction (start dense, wear clear) settled build-decision B5, open and unruled since 2026-07-31. 📌 AND ONE HE DELIBERATELY LEFT OPEN, WHICH I NOTE APPROVINGLY: he identified himself, in the second walkthrough, that the study module opens with the LEGO analogy while he had separately ruled that leading with an analogy is a teaching error — and recorded the contradiction unresolved rather than papering it. 🔎 DEDUP: no ✍️ row existed on 2026-08-03 before this one; the last was 2026-08-01 (the v0.4 checklist review). Day-keyed — the two walkthroughs and the review are one day's work and one foot",
+      "evidence": "`Resources/field-presence/MODULE-1-CHANGE-LIST.md`; `BKM/public-work-log.md` row 2026-08-03 (NOT SHIPPED); `website-mockup/OWNER-ACTIONS.md`; two 180s narrated walkthrough captures; capture row 2026-08-03",
+      "booked": "2026-08-03"
+    },
+    {
+      "date": "2026-08-03",
+      "lane": "body",
+      "activity": "Protein-goal day — **168 g logged against the 160 g floor** (goal 180 − 20), reverse-ramp day 10. The 20:33:04 warehouse pull read 138 g and I HELD it; the 21:27:24 pull moved the day to 2,578 kcal / 168 g, 0 open flags, and the floor is crossed by 8 g",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 336,
+      "cum_overall": 981,
+      "reasoning": "The `protein-goal day` entry — logged protein ≥ (goal − 20). ✅ **THE HOLD CURED, AND IT CURED ON THE ONE PROPERTY THAT MAKES A PROVISIONAL ROW RULEABLE: PROTEIN IS MONOTONIC.** It has one edge and it only rises. Once 168 g is logged, no amount of further eating can un-cross a 160 g floor — so the crossing is **provable at this pull regardless of what happens for the rest of the day**, and the `provisional: true` flag on the day row cannot touch it. That is a genuine asymmetry between the two halves of a diet day, not a convenience: I refused this same row four hours ago at 138 g and I book it now at 168 g, on the same rule. ⏸️ **AND THE CALORIE HALF IS STILL HELD — SEE THE STANDINGS NOTE.** It reads 2,578 against a 2,550 target, which is *inside* the band, and I am refusing to book it anyway, because he has not declared his close and every calorie he eats from here moves it toward the upper edge and out. A held row can only pay later; a row booked early on a number that has not stopped moving can be wrong. ✅ Twelfth cure this month, and the second in twenty-four hours to resolve **split** — one half paid, one half still open — which is the mechanism doing precisely what a single all-or-nothing verdict could not. 🔎 DEDUP: 2026-08-03 carried NO ⚖️ row of any kind before this one — both halves were HELD on the 20:33 capture, neither was booked, and the 8/02 pair closed at NO TICK on final data. The weight half (221.4) was ruled outright last run and is not re-opened",
+      "evidence": "`health-data.json` day 2026-08-03; `health-pull.mjs` 21:27:24 (0 open flags); capture rows 2026-08-03 (20:33 hold + 21:27 cure)",
+      "booked": "2026-08-03"
     }
   ],
   "series": {
@@ -5141,6 +5213,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "PROGRAM-BUILDING WORK SESSION — ATBS ch.8 build-to-goal (a note-keeper: create the folder if missing, append notes, count them back from the file, print byte size, print the most recent note). His authorship throughout, no code written for him; two bugs found and fixed by him; three of the seven stated requirements still unmet when he stopped for the day"
+      },
+      {
+        "date": "2026-08-03",
+        "cum": 106,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "MICRO-DRILL ROUND — a 5-drill build-to-goal block on ATBS ch.8 (`Ch8_miniDrills.py` block 5), small write-it-yourself drills of 5–7 lines each rather than predictions: os.path.join + makedirs + basename + getsize (clean) · write-then-append-then-read-back (clean) · write/readlines/len (correct, one stray space in the written string) · shelve round-trip (missing a second `.close()`, an unnecessary `list()` wrap) · filter cwd by extension (`'.py' in file` for `.endswith('.py')`, sort omitted). He then requested a 6th drill deliberately identical in shape to the fifth to re-execute the corrections cold, and completed it: `.endswith('.txt')` correct, `txtFiles.sort()` on its own line with no assignment"
       }
     ],
     "mlai": [
@@ -5964,6 +6043,20 @@
         "feet": 10,
         "tier": "small",
         "activity": "**🔒 OSIRIS SUBSTRATE v1 — THE WORKING APPARATUS, COMPLETE AND BOOTED TO PRODUCTION.** The instrument the twelve-month study exists to observe: nine working modes, gating rubric with wall enforcement, memory + retrieval, agent routing, the long-form production chain, Hetzner deploy + systemd runner, telemetry + cost ledger, a 119-test verification battery — and the A–E pre-boot rebuild (gate-rubric rewrite + verdict recording · memory + continuity · all-nine-mode routing rework · long-form production path · full re-rehearsal). Unit enabled 2026-08-02 18:11:25 EST, cycles executing in production"
+      },
+      {
+        "date": "2026-08-03",
+        "cum": 56,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris BUILD + DECISION working session with Odin (S84) — six calls across one continuous sitting: he directed the creation of a complete chronological record of the Osiris Substrate and supplied its two governing design constraints himself; ruled the working mode for the RUNNING pilot (keep it running, fix defects underneath it); reviewed a written options analysis on two duplicate `1 - Odin the Allfather/` folders and chose option C over three alternatives including the one Odin recommended (321 files moved as git-detected renames, 0 deletions, Lens smoke 49/49 at the new path); accepted a $60 materials envelope as a recorded deviation rather than reset the anchor; directed a side-desk tool-access rule with a primary-unaffected confirmation; and identified that the `/desk-merge` command three surfaces already referenced had never been built, then had it built and run (the first side-desk merge ever performed, 7 entries)"
+      },
+      {
+        "date": "2026-08-03",
+        "cum": 57,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris FUNDING-STRATEGY session from side desk odin-2 — he pasted Council Brief #019 in full and ran a seven-question set at it: what to make of Coefficient Giving, what the protocol document is FOR, whether it can be changed, whether it is too early to write it with the substrate unfinished, the odds on the funder, what early funding would mean, and whether an early grant must be disclosed at the October round; a strategy memo came out of the sitting, and the deadline check behind question one established that the brief's stated 21 Aug 2026 RFP does not exist"
       }
     ],
     "literature": [
@@ -6402,6 +6495,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "SPARSE-TRAINING DAY — 6 distinct menu items, 7 total efforts (hand/finger/wrist · hamstring · calf ×2 · hip-flexor training · forearm · right bicep); the floor met EXACTLY, on a day that also carried a full Day B workout and two rung clears"
+      },
+      {
+        "date": "2026-08-03",
+        "cum": 248,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Day A Push+Pull performed and logged in full, 7 exercises — pull-up ★full 4/3/3 plus 4/5/5 negative back-off, hanging knee raise ★full slow-tempo 8/5/5, dead hang 5s/8s with scap shrugs 10/9, typewriter push-up 6/5/4, feet-elevated pike push-up 8/6/5, V-up 5/6, pseudo-planche push-up 8/8. Measured against the previous Day A (2026-07-29): knee raise 4/3/3 → 8/5/5, pike push-up 6/5.5/3 → 8/6/5, typewriter 5/3/3 → 6/5/4, pull-ups 3/3/3 → 4/3/3, V-up 5/3/3 → 5/6"
       }
     ],
     "body": [
@@ -7300,6 +7400,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Calorie-day ON PLAN — 2,444 kcal FINAL against the pre-registered reverse-ramp day-8 target of ~2,450 (band 2,150–2,750), six kcal under dead centre; the row settled `provisional: false` on the 2026-08-02 20:39 pull after the puller's fault cured"
+      },
+      {
+        "date": "2026-08-03",
+        "cum": 336,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Protein-goal day — **168 g logged against the 160 g floor** (goal 180 − 20), reverse-ramp day 10. The 20:33:04 warehouse pull read 138 g and I HELD it; the 21:27:24 pull moved the day to 2,578 kcal / 168 g, 0 open flags, and the floor is crossed by 8 g"
       }
     ],
     "fieldpresence": [
@@ -7337,6 +7444,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "PUBLIC-WORK DAY — a full structured review of the researcher-website v0.4 against a 40-item checklist (28 green, 4 amber, 1 red, 7 deliberately left unmarked by his own deferral), then a narrated recorded walkthrough of the defects; he re-verified two previously-reported fixes himself and ruled on an open decision the build had refused to settle silently"
+      },
+      {
+        "date": "2026-08-03",
+        "cum": 6,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "PUBLIC-WORK DAY — he directed a full rebuild of the public teaching site's Module 1 (Tokenization) across two narrated screen-capture walkthroughs, then reviewed the result and ruled on it. His calls, in his own words: the study module he personally learned from is the **FLOOR** — *\"the floor quality of the website modules should be at least as good as the ones I used myself\"* — and a site module must be that module PLUS, never a fresh composition; the only permitted removals are owner-specific terminology, Osiris references, and anything assuming prior knowledge; the field-animation must start dense and be worn clear rather than adding grass; the module iframe goes — *\"there should be no box… the whole screen is the module\"*; the site is too narrow at 100% zoom; nav is fine as-is. What changed in the artifact: 12 of 12 content headings restored from the study module, 60 of 67 prose blocks now byte-identical to it, Section 0 \"Why we start here\" and the one-sentence-version callout restored (both had been absent), the palette replaced, the iframe removed, prose line length capped (longest line 180 chars → 86, zero over 90 across 7 views at two widths)"
       }
     ]
   },
@@ -8969,6 +9083,12 @@
           "y": 5.46,
           "kind": "session",
           "label": "Typewriter push-up (slide side-to-side) — 5, 3, 3 (avg 3.7 vs target 8)"
+        },
+        {
+          "date": "2026-08-03",
+          "y": 5.63,
+          "kind": "session",
+          "label": "Typewriter push-up (slide side-to-side) — 6, 5, 4 (avg 5 vs target 8)"
         }
       ],
       "steps": [
@@ -9127,6 +9247,12 @@
           "y": 2.56,
           "kind": "session",
           "label": "Pseudo-planche push-ups (PPP) — 5, 4 (avg 4.5 vs target 8)"
+        },
+        {
+          "date": "2026-08-03",
+          "y": 2.97,
+          "kind": "session",
+          "label": "Pseudo-planche push-ups (PPP) — 8, 8 (avg 8 vs target 8)"
         }
       ],
       "steps": [
@@ -9359,6 +9485,12 @@
           "y": 5.33,
           "kind": "session",
           "label": "Full pull-up — 3, 3, 2 (avg 2.7 vs target 8)"
+        },
+        {
+          "date": "2026-08-03",
+          "y": 5.42,
+          "kind": "session",
+          "label": "Full pull-up — 4, 3, 3 (avg 3.3 vs target 8)"
         }
       ],
       "steps": [
@@ -9403,7 +9535,12 @@
           "date": "2026-08-01",
           "y": 3,
           "kind": "clear",
-          "label": "Horizontal Pull — ROWS — cleared: Parallel ring row (body horizontal, feet on floor)"
+          "label": "Horizontal Pull — ROWS — cleared: Parallel ring row (body horizontal, feet on floor) (needed 8, got 8, 8, 8 — avg 8)",
+          "perf": {
+            "needed": "8",
+            "got": "8, 8, 8",
+            "avg": 8
+          }
         }
       ],
       "steps": [
@@ -9638,6 +9775,12 @@
           "y": 3.33,
           "kind": "session",
           "label": "Dead hang — 19, 20 (avg 19.5 vs target 60)"
+        },
+        {
+          "date": "2026-08-03",
+          "y": 3.11,
+          "kind": "session",
+          "label": "Dead hang — 5, 8 (avg 6.5 vs target 60)"
         }
       ],
       "steps": [
@@ -9730,7 +9873,12 @@
           "date": "2026-08-01",
           "y": 7,
           "kind": "clear",
-          "label": "Legs — Pistol — cleared: Assisted floor pistol (hands on rings)"
+          "label": "Legs — Pistol — cleared: Assisted floor pistol (hands on rings) (needed 5/leg, got 5, 5, 5 — avg 5)",
+          "perf": {
+            "needed": "5/leg",
+            "got": "5, 5, 5",
+            "avg": 5
+          }
         }
       ],
       "steps": [
@@ -9829,6 +9977,12 @@
           "y": 3.24,
           "kind": "session",
           "label": "V-up / tuck-up — 5, 3, 3 (avg 3.7 vs target 15)"
+        },
+        {
+          "date": "2026-08-03",
+          "y": 3.37,
+          "kind": "session",
+          "label": "V-up / tuck-up — 5, 6 (avg 5.5 vs target 15)"
         }
       ],
       "steps": [
@@ -9999,6 +10153,12 @@
           "y": 3.43,
           "kind": "session",
           "label": "Hanging knee raise — full slow tempo (3s up / 3s down) — 5, 3, 5 (avg 4.3 vs target 10)"
+        },
+        {
+          "date": "2026-08-03",
+          "y": 3.6,
+          "kind": "session",
+          "label": "Hanging knee raise — full slow tempo (3s up / 3s down) — 8, 5, 5 (avg 6 vs target 10)"
         }
       ],
       "steps": [
@@ -10020,8 +10180,8 @@
   ],
   "ladder_parity": {
     "push": {
-      "candidates": 8,
-      "plotted": 8,
+      "candidates": 9,
+      "plotted": 9,
       "rejected": []
     },
     "explosive": {
@@ -10030,8 +10190,8 @@
       "rejected": []
     },
     "planche": {
-      "candidates": 8,
-      "plotted": 8,
+      "candidates": 9,
+      "plotted": 9,
       "rejected": []
     },
     "handstand": {
@@ -10040,8 +10200,8 @@
       "rejected": []
     },
     "pull": {
-      "candidates": 26,
-      "plotted": 17,
+      "candidates": 27,
+      "plotted": 18,
       "rejected": [
         {
           "date": "2026-06-23",
@@ -10091,18 +10251,14 @@
       "rejected": []
     },
     "grip": {
-      "candidates": 15,
-      "plotted": 15,
+      "candidates": 16,
+      "plotted": 16,
       "rejected": []
     },
     "legs": {
       "candidates": 13,
       "plotted": 10,
       "rejected": [
-        {
-          "date": "2026-08-01",
-          "why": "clear-point has no matching logged session that day — rendered without performance numbers (never invented)"
-        },
         {
           "date": "2026-06-08",
           "why": "\"Box pistol (high)\" is rung-4 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
@@ -10118,13 +10274,13 @@
       ]
     },
     "corefloor": {
-      "candidates": 10,
-      "plotted": 10,
+      "candidates": 11,
+      "plotted": 11,
       "rejected": []
     },
     "corehang": {
-      "candidates": 25,
-      "plotted": 22,
+      "candidates": 26,
+      "plotted": 23,
       "rejected": [
         {
           "date": "2026-06-27",
@@ -10149,10 +10305,6 @@
       "candidates": 4,
       "plotted": 2,
       "rejected": [
-        {
-          "date": "2026-08-01",
-          "why": "clear-point has no matching logged session that day — rendered without performance numbers (never invented)"
-        },
         {
           "date": "2026-07-18",
           "why": "\"Feet-elevated Ring Row (★ feet on a chai\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
@@ -10225,6 +10377,13 @@
             "raw": "5, 3, 3",
             "avg": 3.7,
             "status": "● plotted at 5.46"
+          },
+          {
+            "date": "2026-08-03",
+            "name": "Typewriter push-up (★slide side-to-side)",
+            "raw": "6, 5, 4",
+            "avg": 5,
+            "status": "● plotted at 5.63"
           }
         ]
       },
@@ -10349,6 +10508,13 @@
             "raw": "5, 4",
             "avg": 4.5,
             "status": "● plotted at 2.56"
+          },
+          {
+            "date": "2026-08-03",
+            "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
+            "raw": "8, 8",
+            "avg": 8,
+            "status": "● plotted at 2.97"
           }
         ]
       },
@@ -10641,6 +10807,20 @@
             "raw": "3, 3, 2",
             "avg": 2.7,
             "status": "● plotted at 5.33"
+          },
+          {
+            "date": "2026-08-03",
+            "name": "Pull-up (★full — then negatives as back-off)",
+            "raw": "4, 3, 3",
+            "avg": 3.3,
+            "status": "● plotted at 5.42"
+          },
+          {
+            "date": "2026-08-03",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "5, 8",
+            "avg": 6.5,
+            "status": "● plotted at 5.42"
           }
         ]
       },
@@ -10671,10 +10851,10 @@
           },
           {
             "date": "2026-08-01",
-            "name": "Feet-elevated Ring Row (★ feet on a chair)",
+            "name": "Parallel Ring Row (★ body horizontal, feet on floor)",
             "raw": "8, 8, 8",
             "avg": 8,
-            "status": "✓ CLEAR DAY — carried by the clear dot (no perf numbers)"
+            "status": "✓ CLEAR DAY — carried by the clear dot (needed 8, avg 8)"
           }
         ]
       },
@@ -10853,6 +11033,13 @@
             "raw": "19, 20",
             "avg": 19.5,
             "status": "● plotted at 3.33"
+          },
+          {
+            "date": "2026-08-03",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "5, 8",
+            "avg": 6.5,
+            "status": "● plotted at 3.11"
           }
         ]
       },
@@ -10946,10 +11133,10 @@
           },
           {
             "date": "2026-08-01",
-            "name": "Full pistol (★no assist)",
+            "name": "Assisted floor pistol (★hands on rings)",
             "raw": "5, 5, 5",
             "avg": 5,
-            "status": "✓ CLEAR DAY — carried by the clear dot (no perf numbers)"
+            "status": "✓ CLEAR DAY — carried by the clear dot (needed 5/leg, avg 5)"
           }
         ]
       },
@@ -11026,6 +11213,13 @@
             "raw": "5, 3, 3",
             "avg": 3.7,
             "status": "● plotted at 3.24"
+          },
+          {
+            "date": "2026-08-03",
+            "name": "V-up / tuck-up (★finisher)",
+            "raw": "5, 6",
+            "avg": 5.5,
+            "status": "● plotted at 3.37"
           }
         ]
       },
@@ -11207,6 +11401,13 @@
             "raw": "5, 3, 5",
             "avg": 4.3,
             "status": "● plotted at 3.43"
+          },
+          {
+            "date": "2026-08-03",
+            "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
+            "raw": "8, 5, 5",
+            "avg": 6,
+            "status": "● plotted at 3.6"
           }
         ]
       }
@@ -11327,6 +11528,10 @@
           {
             "date": "2026-07-29",
             "detail": "hang: 19, 20 · shrugs: 9, 9"
+          },
+          {
+            "date": "2026-08-03",
+            "detail": "hang: 5, 8 · shrugs: 10, 9"
           }
         ]
       },
@@ -11376,6 +11581,10 @@
           {
             "date": "2026-08-01",
             "detail": "reps: 5, 3, 5"
+          },
+          {
+            "date": "2026-08-03",
+            "detail": "reps: 8, 5, 5"
           }
         ]
       },
@@ -11421,6 +11630,10 @@
           {
             "date": "2026-08-01",
             "detail": "full reps: 3, 3, 2 · neg back-off: 5, 5, 5"
+          },
+          {
+            "date": "2026-08-03",
+            "detail": "full reps: 4, 3, 3 · neg back-off: 4, 5, 5"
           }
         ]
       },
@@ -11502,7 +11715,7 @@
           },
           {
             "date": "2026-08-01",
-            "detail": "held: 22,"
+            "detail": "held: 22, 23"
           }
         ]
       },
@@ -11778,6 +11991,48 @@
         ]
       },
       {
+        "name": "Typewriter push-up (★slide side-to-side)",
+        "rows": [
+          {
+            "date": "2026-07-15",
+            "detail": "reps: 2, 3, 2"
+          },
+          {
+            "date": "2026-07-22",
+            "detail": "reps: 3, 2, 3"
+          },
+          {
+            "date": "2026-07-29",
+            "detail": "reps: 5, 3, 3"
+          },
+          {
+            "date": "2026-08-03",
+            "detail": "reps: 6, 5, 4"
+          }
+        ]
+      },
+      {
+        "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
+        "rows": [
+          {
+            "date": "2026-07-15",
+            "detail": "reps: 2, 3"
+          },
+          {
+            "date": "2026-07-22",
+            "detail": "reps: 5, 5"
+          },
+          {
+            "date": "2026-07-29",
+            "detail": "reps: 5, 4"
+          },
+          {
+            "date": "2026-08-03",
+            "detail": "reps: 8, 8"
+          }
+        ]
+      },
+      {
         "name": "Chin-up (negatives, underhand)",
         "rows": [
           {
@@ -11897,74 +12152,6 @@
         ]
       },
       {
-        "name": "Typewriter push-up (★slide side-to-side)",
-        "rows": [
-          {
-            "date": "2026-07-15",
-            "detail": "reps: 2, 3, 2"
-          },
-          {
-            "date": "2026-07-22",
-            "detail": "reps: 3, 2, 3"
-          },
-          {
-            "date": "2026-07-29",
-            "detail": "reps: 5, 3, 3"
-          }
-        ]
-      },
-      {
-        "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
-        "rows": [
-          {
-            "date": "2026-07-15",
-            "detail": "reps: 2, 3"
-          },
-          {
-            "date": "2026-07-22",
-            "detail": "reps: 5, 5"
-          },
-          {
-            "date": "2026-07-29",
-            "detail": "reps: 5, 4"
-          }
-        ]
-      },
-      {
-        "name": "Feet-elevated Ring Row (★ feet on a chair)",
-        "rows": [
-          {
-            "date": "2026-07-18",
-            "detail": "reps: 6, 6, 4"
-          },
-          {
-            "date": "2026-07-25",
-            "detail": "reps: 5.5, 4.5, 5"
-          },
-          {
-            "date": "2026-08-01",
-            "detail": "reps: 8, 8, 8"
-          }
-        ]
-      },
-      {
-        "name": "Full pistol (★no assist)",
-        "rows": [
-          {
-            "date": "2026-07-18",
-            "detail": "reps: 5, 4.5, 4"
-          },
-          {
-            "date": "2026-07-25",
-            "detail": "reps: 5, 5, 5"
-          },
-          {
-            "date": "2026-08-01",
-            "detail": "reps: 5, 5, 5"
-          }
-        ]
-      },
-      {
         "name": "Single-leg hip thrust (shoulders on bed/chair)",
         "rows": [
           {
@@ -11978,6 +12165,40 @@
           {
             "date": "2026-08-01",
             "detail": "reps: 9, 6, 6"
+          }
+        ]
+      },
+      {
+        "name": "Feet -elevated Pike push-up (accessory)",
+        "rows": [
+          {
+            "date": "2026-07-22",
+            "detail": "reps: 5, 4, 5"
+          },
+          {
+            "date": "2026-07-29",
+            "detail": "reps: 6, 5.5, 3"
+          },
+          {
+            "date": "2026-08-03",
+            "detail": "reps: 8, 6, 5"
+          }
+        ]
+      },
+      {
+        "name": "V-up / tuck-up (★finisher)",
+        "rows": [
+          {
+            "date": "2026-07-22",
+            "detail": "reps: 6, 4"
+          },
+          {
+            "date": "2026-07-29",
+            "detail": "reps: 5, 3, 3"
+          },
+          {
+            "date": "2026-08-03",
+            "detail": "reps: 5, 6"
           }
         ]
       },
@@ -12060,28 +12281,28 @@
         ]
       },
       {
-        "name": "Feet -elevated Pike push-up (accessory)",
+        "name": "Feet-elevated Ring Row (★ feet on a chair)",
         "rows": [
           {
-            "date": "2026-07-22",
-            "detail": "reps: 5, 4, 5"
+            "date": "2026-07-18",
+            "detail": "reps: 6, 6, 4"
           },
           {
-            "date": "2026-07-29",
-            "detail": "reps: 6, 5.5, 3"
+            "date": "2026-07-25",
+            "detail": "reps: 5.5, 4.5, 5"
           }
         ]
       },
       {
-        "name": "V-up / tuck-up (★finisher)",
+        "name": "Full pistol (★no assist)",
         "rows": [
           {
-            "date": "2026-07-22",
-            "detail": "reps: 6, 4"
+            "date": "2026-07-18",
+            "detail": "reps: 5, 4.5, 4"
           },
           {
-            "date": "2026-07-29",
-            "detail": "reps: 5, 3, 3"
+            "date": "2026-07-25",
+            "detail": "reps: 5, 5, 5"
           }
         ]
       },
@@ -12201,9 +12422,92 @@
             "detail": "reps: 6, 5, 5"
           }
         ]
+      },
+      {
+        "name": "Parallel Ring Row (★ body horizontal, feet on floor)",
+        "rows": [
+          {
+            "date": "2026-08-01",
+            "detail": "reps: 8, 8, 8"
+          }
+        ]
+      },
+      {
+        "name": "Assisted floor pistol (★hands on rings)",
+        "rows": [
+          {
+            "date": "2026-08-01",
+            "detail": "reps: 5, 5, 5"
+          }
+        ]
       }
     ],
     "dates": [
+      {
+        "date": "2026-08-03",
+        "rows": [
+          {
+            "ladderId": "pull",
+            "ladderName": "Pull",
+            "name": "Pull-up (★full — then negatives as back-off)",
+            "raw": "4, 3, 3",
+            "avg": 3.3,
+            "target": "8",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "corehang",
+            "ladderName": "Core — HANGING",
+            "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
+            "raw": "8, 5, 5",
+            "avg": 6,
+            "target": "10",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "pull",
+            "ladderName": "Pull",
+            "name": "Dead hang ★",
+            "raw": "5, 8",
+            "avg": 6.5,
+            "target": "45s",
+            "sets": 2,
+            "cleared": false
+          },
+          {
+            "ladderId": "push",
+            "ladderName": "Horizontal Push — STRENGTH",
+            "name": "Typewriter push-up (★slide side-to-side)",
+            "raw": "6, 5, 4",
+            "avg": 5,
+            "target": "8/side",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "corefloor",
+            "ladderName": "Core — FLOOR",
+            "name": "V-up / tuck-up (★finisher)",
+            "raw": "5, 6",
+            "avg": 5.5,
+            "target": "15",
+            "sets": 2,
+            "cleared": false
+          },
+          {
+            "ladderId": "planche",
+            "ladderName": "Horizontal Push — PLANCHE",
+            "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
+            "raw": "8, 8",
+            "avg": 8,
+            "target": "8",
+            "sets": 2,
+            "cleared": false
+          }
+        ]
+      },
       {
         "date": "2026-08-01",
         "rows": [
@@ -12230,22 +12534,22 @@
           {
             "ladderId": "hpull",
             "ladderName": "Horizontal Pull — ROWS",
-            "name": "Feet-elevated Ring Row (★ feet on a chair)",
+            "name": "Parallel Ring Row (★ body horizontal, feet on floor)",
             "raw": "8, 8, 8",
             "avg": 8,
             "target": "8",
             "sets": 3,
-            "cleared": false
+            "cleared": true
           },
           {
             "ladderId": "legs",
             "ladderName": "Legs — Pistol",
-            "name": "Full pistol (★no assist)",
+            "name": "Assisted floor pistol (★hands on rings)",
             "raw": "5, 5, 5",
             "avg": 5,
             "target": "5/leg",
             "sets": 3,
-            "cleared": false
+            "cleared": true
           }
         ]
       },
@@ -13590,12 +13894,28 @@
   ],
   "last_perf": {
     "pull": {
-      "date": "2026-08-01",
-      "detail": "3, 3, 2"
+      "date": "2026-08-03",
+      "detail": "4, 3, 3"
     },
     "corehang": {
-      "date": "2026-08-01",
-      "detail": "5, 3, 5"
+      "date": "2026-08-03",
+      "detail": "8, 5, 5"
+    },
+    "grip": {
+      "date": "2026-08-03",
+      "detail": "5, 8"
+    },
+    "push": {
+      "date": "2026-08-03",
+      "detail": "6, 5, 4"
+    },
+    "corefloor": {
+      "date": "2026-08-03",
+      "detail": "5, 6"
+    },
+    "planche": {
+      "date": "2026-08-03",
+      "detail": "8, 8"
     },
     "hpull": {
       "date": "2026-08-01",
@@ -13604,22 +13924,6 @@
     "legs": {
       "date": "2026-08-01",
       "detail": "5, 5, 5"
-    },
-    "grip": {
-      "date": "2026-07-29",
-      "detail": "19, 20"
-    },
-    "push": {
-      "date": "2026-07-29",
-      "detail": "5, 3, 3"
-    },
-    "corefloor": {
-      "date": "2026-07-29",
-      "detail": "5, 3, 3"
-    },
-    "planche": {
-      "date": "2026-07-29",
-      "detail": "5, 4"
     },
     "chinup": {
       "date": "2026-07-27",
@@ -14185,6 +14489,14 @@
         "protein": 243,
         "dayType": "reverse-ramp",
         "provisional": false
+      },
+      {
+        "date": "2026-08-03",
+        "w": 221.4,
+        "kcal": 2578,
+        "protein": 168,
+        "dayType": "reverse-ramp",
+        "provisional": true
       }
     ],
     "trend": [
@@ -14503,9 +14815,13 @@
       {
         "date": "2026-08-01",
         "w": 218.6
+      },
+      {
+        "date": "2026-08-03",
+        "w": 219.23
       }
     ],
-    "noiseBand": 1.35,
+    "noiseBand": 1.38,
     "floors": [
       {
         "y": 230,
@@ -14621,6 +14937,11 @@
         "date": "2026-07-27",
         "w": 218,
         "week": "Jul 26–Aug 1"
+      },
+      {
+        "date": "2026-08-03",
+        "w": 221.4,
+        "week": "Aug 2–Aug 8"
       }
     ],
     "weeklyAvgs": [
@@ -14719,16 +15040,22 @@
         "w": 218.6,
         "week": "Jul 26–Aug 1",
         "n": 7
+      },
+      {
+        "date": "2026-08-05",
+        "w": 221.4,
+        "week": "Aug 2–Aug 8",
+        "n": 1
       }
     ],
     "banner": {
       "startDate": "2026-03-22",
       "startW": 235,
-      "lost": 16.4,
+      "lost": 15.8,
       "goal": 180,
-      "pct": 29.8,
+      "pct": 28.7,
       "nextFloor": 210,
-      "toGo": 8.6,
+      "toGo": 9.2,
       "newLow": false
     },
     "strip": [
@@ -14880,7 +15207,7 @@
       {
         "date": "2026-08-03",
         "state": "partial",
-        "kcal": 0
+        "kcal": 2578
       }
     ],
     "days": [
@@ -15438,10 +15765,10 @@
       },
       {
         "date": "2026-08-03",
-        "kcal": 0,
-        "protein": 0,
-        "dayType": "empty",
-        "logged": "empty",
+        "kcal": 2578,
+        "protein": 168,
+        "dayType": "reverse-ramp",
+        "logged": "full",
         "provisional": true
       }
     ],
