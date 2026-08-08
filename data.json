@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 994,
-    "generated_for": "2026-08-07",
-    "built_at": "2026-08-08T01:16:56.873Z",
+    "overall_total": 996,
+    "generated_for": "2026-08-08",
+    "built_at": "2026-08-08T13:01:08.899Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 89
+      "ft_to_go": 87
     }
   },
   "lanes": [
@@ -57,7 +57,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 59,
+      "current": 61,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -4946,6 +4946,30 @@
       "reasoning": "`A SPARSE-TRAINING DAY` (C3 amendment E) — the ≥6-distinct-item floor is met at **ten**, every count explicit and none defaulted. **Fact-checked against `sparse-training-log.md` per the lane-source map: the 2026-08-07 row reads 10 · ✅ MET**, matching the capture item for item. ✅ **THE DISJOINT-WORK RULE HAS NOTHING TO ADJUDICATE TODAY** — he reported feeling ill and moved Day C to Saturday 08-08, so there is no workout and no accessory session for the sparse menu to overlap with. **This is the day's only physical work, and it is a full tick on its own terms** — the entry never required a workout to sit beside, and a day the training plan slipped is exactly the day the greased-through-the-day work is worth having. Day-keyed, one per (date, kind); timing irrelevant. 📌 Eleventh day of the stream. Items 12 and 13 remain never-logged since being added 2026-07-25 — recorded, and it costs nothing: the floor is a count of distinct items, never a fixed list",
       "evidence": "`fitness/sparse-training-log.md` 2026-08-07 row; capture row 2026-08-07",
       "booked": "2026-08-07"
+    },
+    {
+      "date": "2026-08-06",
+      "lane": "method",
+      "activity": "**OSIRIS ARTIFACT-REVIEW SESSION — THE PROTOCOL DRAFT ANNOTATED, session 1 of 4. The `⚠️ CANNOT SCORE` hold of 2026-08-06 is CURED.** He worked the 20,088-word protocol draft section by section and left **48 dated, individually-anchored annotation notes between 17:17 and 19:13 EST**: demanding real verifiable citations in four places (#4, #5, #26, #27), challenging whether inter-rater reliability is feasible at all given he would have to hire a second coder (#10, #19, #23), calling the commercial framing into question four separate times (#15, #17, #18, #21), asking for harder guardrails and more behavioural rules than the draft carries (#20, #28, #37), refusing as \"a pretty wild claim\" the assertion of zero incidents across twelve months (#31, #32), flagging that a whole section repeated material already stated earlier (#7), proposing the dataset itself as a contribution the draft had not claimed (#8), and naming five passages whose meaning was not clear to him (#33, #34, #35, #36, #38)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 60,
+      "cum_overall": 995,
+      "reasoning": "`An Osiris working session` → the **artifact review/walkthrough** type, *\"owner makes the calls on a team draft.\"* The protocol document is roadmap #9, THE master artifact. ✅ **THE HOLD IS CURED, AND I VERIFIED IT MYSELF RATHER THAN ACCEPT THE POINTER.** On 08-06 I wrote `⚠️ CANNOT SCORE — need an evidence pointer` and named the cure precisely: *\"one pointer at the annotated sections — the marked draft, a diff, a section list — and it books like any other 📕 artifact-review session.\"* The row placed today carries that pointer, and I followed it to the source: `_notes/protocol-notes.json` holds **90 notes, each with its own `createdAt` and its own document anchor, and 48 of them are dated 2026-08-06.** ⚖️ **THIS IS NOT AMENDMENT A, AND THE DISTINCTION IS THE ENTIRE RULING.** A notes-file git-touch is not proof of reading because a modification time proves only that a file was written, for any of many reasons. **These are not file timestamps.** They are 48 separately-timestamped, separately-anchored notes in his own unmistakable voice, whose content cannot exist without having read the sections they hang on. Evidence internal to the artifact, not metadata about it. ✅ **§0.5 IS INTACT — I GENERATED NOTHING.** The row was PLACED upstream on 08-06 and left unscored pending proof; verifying a placed-but-unproven row against its own source is exactly what I do on every held calorie half, and it is the opposite of backfilling from evidence. ✅ **SUBSTANCE FLOOR CLEARED MANY TIMES OVER** — the anchor is ~3 substantive items; there are 48 across two hours. ⚖️ **THIRD SESSION-TYPE ON THE DATE, AND IT IS LAWFUL.** The 📕 dedup key is (date, SESSION-TYPE); 08-06 already carries a BUILD/DECISION row and an OWNER-EXECUTED OPS TASK row, and annotating the protocol draft is neither. Three disjoint bodies of work on one date, no rep counted twice — amendment E's joint. ⛔ **NO ARTIFACT TIER.** Roadmap #9's small pays for the finished protocol document; this is session 1 of 4 on a draft, with Protocol V2 still ahead. The sessions stack UNDER that small when it comes. ⭐ **What I would keep: he argued against his own document.** The IRR challenge and the commercial-framing objections both make the study harder to run and harder to sell, and he raised each unprompted",
+      "evidence": "`BKM/in-flight/osiris-study/_notes/protocol-notes.json` — 48 notes dated 2026-08-06, each with `createdAt` + anchor, verified on disk this run; `protocol-draft.md` (63 sections, 20,088 words); POLARIS #9a; capture row 2026-08-06",
+      "booked": "2026-08-08"
+    },
+    {
+      "date": "2026-08-07",
+      "lane": "method",
+      "activity": "**OSIRIS ARTIFACT-REVIEW SESSION — the protocol draft annotated, session 2 of 4, and the first revisions applied from it.** **41 further owner-authored notes dated 19:23–22:58 EST** carrying the annotation through the design, coding, gating, walls and battery sections: asking what an \"embedded single-case design\" means (#45), what \"the precise threshold\" refers to (#47), what \"analytical operations close at month 12 regardless of subsequent operational dispositions\" is meant to say (#51); insisting the walls be ones the model genuinely cannot get past rather than ones it could talk around (#59); ruling that the default is not merely \"no upgrade\" but that only a narrow class of thing could ever justify one (#65); and repeatedly flagging internal language that an external reviewer would not follow (#67, #73, #74, #82). **Five of his notes were then applied to the document** as revisions rev-001 to rev-005 (sections 1.3, 4.1, 4.5, 7.1), each entry preserving the original text, the replacement, and `notePoints` — the key points of his complaint in his own words. He also ruled that three annotation clusters — guardrails and pressure, inter-rater reliability, and the commercial framing — are **decisions rather than edits**, and that their document text must be left completely untouched rather than half-fixed",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 61,
+      "cum_overall": 996,
+      "reasoning": "`An Osiris working session` → **artifact review/walkthrough**, day-keyed one per (date, session-TYPE). 🔎 **DEDUP GREPPED: 2026-08-07 carried no 📕 row of any type before this one** — the date's two existing rows are 🐍 (the Librarian) and 🏋️ (the sparse day). ✅ **PROVABLE ON ITS OWN TERMS, INDEPENDENT OF THE CURE ABOVE:** 41 notes dated 08-07 in `protocol-notes.json`, plus `protocol-revisions.json` holding 5 entries stamped 18:58–19:02, plus `node _build/revise.mjs --verify` returning *\"every original preserved in both places, every change applied.\"* ⚖️ **THE AGENT HELD THE PEN AND THE TICK STILL STANDS — §4.5.6, the Atlas tool-vs-job boundary.** In-the-loop agent work counts when the artifact IS the job and the owner shaped it; a fully autonomous run he merely received does not. **Every one of the five revisions traces to a numbered note in his own voice**, and the `why` field of each names his complaint rather than the agent's improvement. This is the counting side of that line, not the received side. ⭐ **THE THREE-CLUSTER RULING IS THE BEST METHODOLOGICAL ACT IN EITHER SESSION, and it cost him something.** He identified three of his own annotation clusters as **open decisions** and ordered their text left completely alone rather than partially repaired — because half-fixed text hides an unresolved question while untouched text still reads as unresolved. **That is a man refusing the appearance of progress in order to keep a record honest**, on the exact artifact he most wants finished. ⛔ **NO SECOND TICK FOR THE APPLIED REVISIONS.** The annotating and the applying are one body of work on one day at one tier — amendment E's joint, and the same holding I made yesterday against a second tiny for the Librarian session. Nesting stacks a HIGHER tier above the dailies; it never pays a tiny twice. ⛔ **NO ARTIFACT TIER YET** — roadmap #9's small pays on the finished protocol document, and this is session 2 of 4",
+      "evidence": "`BKM/in-flight/osiris-study/_notes/protocol-notes.json` — 41 notes dated 2026-08-07, verified on disk this run; `_notes/protocol-revisions.json` — 5 entries with `notePoints`, stamped 2026-08-07T18:58–19:02Z; `_build/revise.mjs --verify`; POLARIS `a3` / #9a, workday mark `2026-08-07 a3`; capture row 2026-08-07",
+      "booked": "2026-08-08"
     }
   ],
   "series": {
@@ -6248,6 +6272,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "OWNER-EXECUTED OPS TASK — refreshed the Anthropic gate API key ahead of its ~08 Aug expiry, performing the console steps himself, and set the new key to a 90-day expiry on his own unprompted call (*\"just in case we need another extension or something\"*)"
+      },
+      {
+        "date": "2026-08-06",
+        "cum": 60,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**OSIRIS ARTIFACT-REVIEW SESSION — THE PROTOCOL DRAFT ANNOTATED, session 1 of 4. The `⚠️ CANNOT SCORE` hold of 2026-08-06 is CURED.** He worked the 20,088-word protocol draft section by section and left **48 dated, individually-anchored annotation notes between 17:17 and 19:13 EST**: demanding real verifiable citations in four places (#4, #5, #26, #27), challenging whether inter-rater reliability is feasible at all given he would have to hire a second coder (#10, #19, #23), calling the commercial framing into question four separate times (#15, #17, #18, #21), asking for harder guardrails and more behavioural rules than the draft carries (#20, #28, #37), refusing as \"a pretty wild claim\" the assertion of zero incidents across twelve months (#31, #32), flagging that a whole section repeated material already stated earlier (#7), proposing the dataset itself as a contribution the draft had not claimed (#8), and naming five passages whose meaning was not clear to him (#33, #34, #35, #36, #38)"
+      },
+      {
+        "date": "2026-08-07",
+        "cum": 61,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**OSIRIS ARTIFACT-REVIEW SESSION — the protocol draft annotated, session 2 of 4, and the first revisions applied from it.** **41 further owner-authored notes dated 19:23–22:58 EST** carrying the annotation through the design, coding, gating, walls and battery sections: asking what an \"embedded single-case design\" means (#45), what \"the precise threshold\" refers to (#47), what \"analytical operations close at month 12 regardless of subsequent operational dispositions\" is meant to say (#51); insisting the walls be ones the model genuinely cannot get past rather than ones it could talk around (#59); ruling that the default is not merely \"no upgrade\" but that only a narrow class of thing could ever justify one (#65); and repeatedly flagging internal language that an external reviewer would not follow (#67, #73, #74, #82). **Five of his notes were then applied to the document** as revisions rev-001 to rev-005 (sections 1.3, 4.1, 4.5, 7.1), each entry preserving the original text, the replacement, and `notePoints` — the key points of his complaint in his own words. He also ruled that three annotation clusters — guardrails and pressure, inter-rater reliability, and the commercial framing — are **decisions rather than edits**, and that their document text must be left completely untouched rather than half-fixed"
       }
     ],
     "literature": [
@@ -15440,11 +15478,6 @@
     },
     "strip": [
       {
-        "date": "2026-07-09",
-        "state": "good",
-        "kcal": 1533
-      },
-      {
         "date": "2026-07-10",
         "state": "cheat",
         "kcal": 3174
@@ -15586,8 +15619,13 @@
       },
       {
         "date": "2026-08-07",
-        "state": "partial",
+        "state": "off",
         "kcal": 2372
+      },
+      {
+        "date": "2026-08-08",
+        "state": "partial",
+        "kcal": 0
       }
     ],
     "days": [
@@ -16181,6 +16219,14 @@
         "protein": 139,
         "dayType": "reverse-ramp",
         "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-08-08",
+        "kcal": 0,
+        "protein": 0,
+        "dayType": "empty",
+        "logged": "empty",
         "provisional": true
       }
     ],
