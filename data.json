@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 992,
-    "generated_for": "2026-08-06",
-    "built_at": "2026-08-07T02:30:50.288Z",
+    "overall_total": 994,
+    "generated_for": "2026-08-07",
+    "built_at": "2026-08-08T01:16:56.873Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 91
+      "ft_to_go": 89
     }
   },
   "lanes": [
@@ -37,7 +37,7 @@
       "t0_note": "couldn't write a single line of Python — ran his first print() the day before t0",
       "endpoint": "Replicate AND extend a frontier alignment result — public, runnable code",
       "endpoint_tier": "verylarge",
-      "current": 108,
+      "current": 109,
       "working_on": "Automate the Boring Stuff textbook"
     },
     {
@@ -77,7 +77,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 251,
+      "current": 252,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -4922,6 +4922,30 @@
       "reasoning": "`A PUBLIC-WORK DAY` — day-keyed, one per (date, kind), max 2 ft/day. **THE SHAPING BAR IS THE ONE THAT MATTERED AND HE CLEARED IT OUTRIGHT:** suggested bio lines were offered and **he took none of them** — *\"I mixed and matched this\"* — and the third sentence is entirely his own. Bar 1 is waived for work-days by the entry's own text; bar 4 (substance) met; bar 5 — no other lane pays, 📕 is closed by G-2 (that lane's object is THE STUDY, this is presence). ⛔ **NO ARTIFACT TICK AND NO SECOND TINY.** Roadmap #8 reads *\"X research account + **first post**\"* and no post exists yet; and shipping adds no second tiny in this lane — when the first post lands it is that day's work-day tiny, not an extra one on top (artifact tiers stack only at **small and above**). ⛔ **AUDIENCE METRICS: none captured, none discussed, permanently walled** — followers, follows and reach cannot enter this ledger in any lane, ever. 📌 The account he built is the one his own bio describes: a researcher who reads the field. Recording the artifact and its authorship only",
       "evidence": "POLARIS #8; owner report 2026-08-06; BKM/public-work-log.md",
       "booked": "2026-08-06"
+    },
+    {
+      "date": "2026-08-07",
+      "lane": "coding",
+      "activity": "**COMPLETED PROGRAM — the ch.8 Librarian FINISHED.** Stages 5 and 6 both closed in one day, ending a four-day build. Stage 5: two bugs present where either fix alone left the output byte-identical — he diagnosed the first unaided from a single question (*\"I think it's resetting it back to just an empty list\"* — the unconditional `shelf_runs['runs'] = []` wiping stored history every run), and implemented the guarded read-modify-write for the second correctly on the first attempt after asking to be taught it. **Unprompted, and without being told which lines were wrong, he also corrected the sign inversion on all three deltas** (bytes and lines computing last−this while files computed this−last) and removed a `'- ' + str(negative)` double-negative. Verified live: `Since last run: + 0, + 68, + 3`, all three reconciling exactly (66 chars + 2 for `\\n`→`\\r\\n` = 68 bytes on disk). Stage 6, ~35 minutes start to working: list-of-dicts catalog, written out via `pprint.pformat` as a valid Python assignment, generated module imported, a real dict printed from it. Stage 7 is marked optional in the assignment and was not attempted",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 109,
+      "cum_overall": 993,
+      "reasoning": "`A program — small goal-only / chapter program / book project` — **runs + meets the goal + his authorship.** ✅ **THE GOAL IS MET AND I VERIFIED THE ARTIFACT, NOT THE CLAIM:** `library_data.py` sits on disk (331 bytes, 11:17) holding a six-entry list-of-dicts assignment with real names, sizes and line counts — the program's output, not its source. This is the tick that rows 528 (08-04) and 533 (08-06) both said was *still ahead of him*; it lands. ⚖️ **AUTHORSHIP CARRIED IT AND THE PARTIAL-AUTHORSHIP RULE IS WHY.** Bug 2's concept was taught to him — he asked to be taught rather than prompted — and amendment D is explicit that a taught portion does not void the claim where his own authorship is the substantial majority, because teaching is endemic to this lane. **The capture's strongest fact settles it: every bug found across the four days of this program was located by him.** ⭐ **THE SIGN INVERSION IS THE PART I WOULD KEEP.** Nobody told him three deltas were wrong, nobody named the lines, and the program's output looked plausible either way — he found an inconsistency in the *direction* of a calculation across two of its own branches. That is auditing your own arithmetic against itself, which is a different faculty from fixing a reported fault. ⭐ **And before writing any stage-6 code he caught a blocking bug in his own stub** — the generated file was going into `library/`, where `import` cannot reach it — then raised the load-bearing conceptual question himself, unprompted, before running anything: *\"if pformat turns catalog into a string, wouldn't `library_data.catalog[0]` be a string too?\"* **Asking the right question before the run is the predict-then-run discipline arriving on its own.** ⛔ **NO SECOND TINY FOR THE DAY'S WORK SESSION, AND THE RULE IS CROSS-CUTTING.** The session and the completion are **one body of work on one day at one tier** — amendment E's disjoint-work rule (*\"the wrong thing is not two ticks in a day, it is two ticks for one body of work\"*) and the ✍️ lane's identical holding (*\"shipping adds no second tiny… artifact tiers stack only at small and above\"*). Nesting is real but it stacks a HIGHER tier above the dailies; it does not pay a tiny twice. §3 defaults a genuine seam DOWN. ⛔ **NO CH.8 CHAPTER SMALL — the first real application of C3 Amendment I, and it bites exactly as designed.** The four required legs are read · own notes · **the chapter's mini-drill round(s)** · the applied program(s) to goal, and completion is *\"the moment he is READY TO MOVE ON.\"* The ch.8 concept drills are **specified today, due 08-09, and not yet worked** — leg (c) is unmet and he is by his own plan not ready to advance. **The amendment I conceded yesterday raised this bar, and today it withheld ten feet.** That is what a real correction looks like. ⛔ **No other lane pays:** 🧠 has no gate or module here; 📕 by G-2 (the object is HIS LEARNING, not the study); ✍️ by bar 1 — a local `.py` is not a URL a stranger can open. 🔎 **DEDUP GREPPED:** 2026-08-07 carried no row of any kind in any lane before this one, and no completed-program tick for the Librarian exists anywhere in the row-log",
+      "evidence": "`curricula/python-foundations/code/ch8_librarian.py`; generated `code/library_data.py` (verified on disk this run); `coding-notes/assignments/ch8-librarian.md`; POLARIS `ac1`; capture row 2026-08-07",
+      "booked": "2026-08-07"
+    },
+    {
+      "date": "2026-08-07",
+      "lane": "strength",
+      "activity": "**SPARSE-TRAINING DAY — ten distinct items, seventeen total efforts**: hand/finger/wrist ×3 · ankle dorsiflexion ×1 · hamstring ×2 · calf ×2 · chest/arm/shoulder ×1 · hip-flexor stretch ×1 · forearm ×1 · right bicep ×1 · right tricep overhead band ×2 · band external rotation / shoulder-stability ×3. Not done: vacuum/TVA, hip-flexor training, lateral delt, scapular pull-ups, scapular push-ups",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 252,
+      "cum_overall": 994,
+      "reasoning": "`A SPARSE-TRAINING DAY` (C3 amendment E) — the ≥6-distinct-item floor is met at **ten**, every count explicit and none defaulted. **Fact-checked against `sparse-training-log.md` per the lane-source map: the 2026-08-07 row reads 10 · ✅ MET**, matching the capture item for item. ✅ **THE DISJOINT-WORK RULE HAS NOTHING TO ADJUDICATE TODAY** — he reported feeling ill and moved Day C to Saturday 08-08, so there is no workout and no accessory session for the sparse menu to overlap with. **This is the day's only physical work, and it is a full tick on its own terms** — the entry never required a workout to sit beside, and a day the training plan slipped is exactly the day the greased-through-the-day work is worth having. Day-keyed, one per (date, kind); timing irrelevant. 📌 Eleventh day of the stream. Items 12 and 13 remain never-logged since being added 2026-07-25 — recorded, and it costs nothing: the floor is a count of distinct items, never a fixed list",
+      "evidence": "`fitness/sparse-training-log.md` 2026-08-07 row; capture row 2026-08-07",
+      "booked": "2026-08-07"
     }
   ],
   "series": {
@@ -5366,6 +5390,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "PROGRAM-BUILDING WORK SESSION — the ch.8 Librarian: **stage 4 completed and verified on disk, closing all four open defects from the 08-04 work list**, then stage 5a completed (`file_report` returns its three totals, call site captures them) and stage 5 opened; program NOT finished, stopped at a written handoff"
+      },
+      {
+        "date": "2026-08-07",
+        "cum": 109,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**COMPLETED PROGRAM — the ch.8 Librarian FINISHED.** Stages 5 and 6 both closed in one day, ending a four-day build. Stage 5: two bugs present where either fix alone left the output byte-identical — he diagnosed the first unaided from a single question (*\"I think it's resetting it back to just an empty list\"* — the unconditional `shelf_runs['runs'] = []` wiping stored history every run), and implemented the guarded read-modify-write for the second correctly on the first attempt after asking to be taught it. **Unprompted, and without being told which lines were wrong, he also corrected the sign inversion on all three deltas** (bytes and lines computing last−this while files computed this−last) and removed a `'- ' + str(negative)` double-negative. Verified live: `Since last run: + 0, + 68, + 3`, all three reconciling exactly (66 chars + 2 for `\\n`→`\\r\\n` = 68 bytes on disk). Stage 6, ~35 minutes start to working: list-of-dicts catalog, written out via `pprint.pformat` as a valid Python assignment, generated module imported, a real dict printed from it. Stage 7 is marked optional in the assignment and was not attempted"
       }
     ],
     "mlai": [
@@ -6683,6 +6714,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "SPARSE-TRAINING DAY — **nine distinct items, fifteen total efforts**: hand/finger/wrist ×2 · ankle dorsiflexion ×1 · chest/arm/shoulder ×2 · hip-flexor stretch ×1 · forearm ×1 · right bicep ×1 · right tricep overhead band ×2 · scapular push-ups LEFT-biased ×1 · band external rotation / shoulder-stability ×4"
+      },
+      {
+        "date": "2026-08-07",
+        "cum": 252,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**SPARSE-TRAINING DAY — ten distinct items, seventeen total efforts**: hand/finger/wrist ×3 · ankle dorsiflexion ×1 · hamstring ×2 · calf ×2 · chest/arm/shoulder ×1 · hip-flexor stretch ×1 · forearm ×1 · right bicep ×1 · right tricep overhead band ×2 · band external rotation / shoulder-stability ×3. Not done: vacuum/TVA, hip-flexor training, lateral delt, scapular pull-ups, scapular push-ups"
       }
     ],
     "body": [
@@ -14834,7 +14872,7 @@
         "kcal": 2095,
         "protein": 172,
         "dayType": "reverse-ramp",
-        "provisional": true
+        "provisional": false
       }
     ],
     "trend": [
@@ -15402,11 +15440,6 @@
     },
     "strip": [
       {
-        "date": "2026-07-08",
-        "state": "good",
-        "kcal": 1404
-      },
-      {
         "date": "2026-07-09",
         "state": "good",
         "kcal": 1533
@@ -15548,8 +15581,13 @@
       },
       {
         "date": "2026-08-06",
-        "state": "partial",
+        "state": "off",
         "kcal": 2095
+      },
+      {
+        "date": "2026-08-07",
+        "state": "partial",
+        "kcal": 2372
       }
     ],
     "days": [
@@ -16133,6 +16171,14 @@
         "date": "2026-08-06",
         "kcal": 2095,
         "protein": 172,
+        "dayType": "reverse-ramp",
+        "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-08-07",
+        "kcal": 2372,
+        "protein": 139,
         "dayType": "reverse-ramp",
         "logged": "full",
         "provisional": true
