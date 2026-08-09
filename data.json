@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 1013,
-    "generated_for": "2026-08-08",
-    "built_at": "2026-08-09T02:52:51.016Z",
+    "overall_total": 1014,
+    "generated_for": "2026-08-09",
+    "built_at": "2026-08-09T17:06:33.608Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 70
+      "ft_to_go": 69
     }
   },
   "lanes": [
@@ -57,7 +57,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 64,
+      "current": 65,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -5066,6 +5066,18 @@
       "reasoning": "Protein-goal day, floor crossed by 41 g; provisionality cannot reverse a floor already cleared",
       "evidence": "`fitness/health-data.json` day row 2026-08-08 (protein 201, logged full); floor 160 in `protocol.proteinFloor`",
       "booked": "2026-08-08"
+    },
+    {
+      "date": "2026-08-09",
+      "lane": "method",
+      "activity": "**M3 REMEDIATION — a targeted active-recall sitting after a failed gate, and eight of nine items stated back from memory with nothing in front of him.** He read a purpose-built `/explainer` page on the nine items the blind grade said he had missed, then closed it and produced them: the third reactivity strategy (habituate) with its mechanism and both costs · why the complete observer is low-reactivity · the construct-validity exemption with both ownership assignments · the control↔naturalism trade run in BOTH directions with the mechanism under it · all three Altmann sampling rules named and described. **He also directed the sitting's shape himself** — *\"there's no point restating the whole gate if there's only small parts I got wrong\"* — so the nine were split into six flat facts stated outright (citations he had never encoded, where asking would have tested nothing) and six narrow explain-these questions on what he could reason to. **Not recovered: move 1 of the two-move reviewer reply** (concede the term is loose before re-anchoring on the design) — his second miss on that item, with the answer on a page he had just read.",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 65,
+      "cum_overall": 1014,
+      "reasoning": "The consolidation / active-recall entry, generalized off 🧠 onto methodology material by §4 — the lane follows the material, and every M-module tick has booked in 📕. Consolidation is explicitly UNCAPPED (encouraged, not rationed) and this falls nowhere near its passive-reread exclusion: he produced every answer closed-book. ⛔ NOT THE DAILY RETRIEVAL CHECK — the codebook draws that line by hand: the automated 3–5-question check is NO-TICK, \"a longer consolidation / extended-round / Notes-Sweep recall session still ticks.\" Twelve targeted prompts on one module's gaps is the latter. ⛔ NO DOUBLE-PAY RISK TO GUARD AGAINST, and I checked before I wrote: the day's other three 📕-adjacent rows all book ZERO, so this foot is not stacking on anything. ⭐ THE STRONGEST ITEM IS ONE HE SORTED UNPROMPTED — \"habituation lives on a temporal axis,\" which is the exact distinction he had got wrong twice in the morning sitting. A correction produced as an axis rather than as a memorized sentence is the structure being held. ⚖️ AND THIS ENTRY PRICES THE ACT OF ACTIVE RECALL, NEVER ITS QUALITY — eight of nine earns the same one foot that five of nine would have. It cuts both ways or it is not a principle. 🔎 DEDUP GREPPED: 2026-08-09 carried NO ledger row of any lane before this one",
+      "evidence": "`_explainers/2026-08-09-m3-what-i-missed.html`; `Resources/retrieval-ledger.md` Domain F; capture row 2026-08-09 (M3 REMEDIATION); this session's transcript",
+      "booked": "2026-08-09"
     }
   ],
   "series": {
@@ -6403,6 +6415,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**OSIRIS SUBSTRATE SESSION — ONE tiny for the whole day's substrate arc, and the collapse is the ruling.** Four rows were placed that are four faces of one body of work: he ran the DEF-063 seed on the live pilot **by hand** (the write no agent could perform — permission classifier refused both the upload and the `sudo` chain; verified after: `artifact_documents` holds 2 work rows, 1 agent-visible, \"What I Am\", 5,372 chars, extracted verbatim, disclosed in `pilot_amendments`) · he opened `a-osplan` by naming the problem himself and **supplied the recollection that cracked it** (*\"early on it did produce two outputs… tiny videos, cut off\"* — which led to five pre-boot harness-driven renders and DEF-072) · he ruled **design on paper and in visuals before rebuilding**, and that **the MDL does not bind the substrate pre-T0** · then directed the design-infrastructure app that ruling calls for (map + sketchbook merged, by-date grouping, the two-way diagram rule, err-toward-more-visuals, save-every-page-immediately) and **ruled its access model** (rejected a paid plan for a first-visit-sets-credentials gate with a recovery path). **Amendment E governs: not two ticks in a day, two ticks for one body of work.** The app being agent-built is not what limits this — his direction was in-the-loop and §4.5.6 pays that; what limits it is that all of it is ONE arc."
+      },
+      {
+        "date": "2026-08-09",
+        "cum": 65,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**M3 REMEDIATION — a targeted active-recall sitting after a failed gate, and eight of nine items stated back from memory with nothing in front of him.** He read a purpose-built `/explainer` page on the nine items the blind grade said he had missed, then closed it and produced them: the third reactivity strategy (habituate) with its mechanism and both costs · why the complete observer is low-reactivity · the construct-validity exemption with both ownership assignments · the control↔naturalism trade run in BOTH directions with the mechanism under it · all three Altmann sampling rules named and described. **He also directed the sitting's shape himself** — *\"there's no point restating the whole gate if there's only small parts I got wrong\"* — so the nine were split into six flat facts stated outright (citations he had never encoded, where asking would have tested nothing) and six narrow explain-these questions on what he could reason to. **Not recovered: move 1 of the two-move reviewer reply** (concede the term is loose before re-anchoring on the design) — his second miss on that item, with the answer on a page he had just read."
       }
     ],
     "literature": [
@@ -15239,6 +15258,14 @@
         "kcal": 2139,
         "protein": 201,
         "dayType": "reverse-ramp",
+        "provisional": false
+      },
+      {
+        "date": "2026-08-09",
+        "w": 222,
+        "kcal": 0,
+        "protein": 0,
+        "dayType": "empty",
         "provisional": true
       }
     ],
@@ -15570,9 +15597,13 @@
       {
         "date": "2026-08-08",
         "w": 223.13
+      },
+      {
+        "date": "2026-08-09",
+        "w": 222.85
       }
     ],
-    "noiseBand": 1.42,
+    "noiseBand": 1.4,
     "floors": [
       {
         "y": 230,
@@ -15693,6 +15724,11 @@
         "date": "2026-08-03",
         "w": 221.4,
         "week": "Aug 2–Aug 8"
+      },
+      {
+        "date": "2026-08-09",
+        "w": 222,
+        "week": "Aug 9–Aug 15"
       }
     ],
     "weeklyAvgs": [
@@ -15797,24 +15833,25 @@
         "w": 223.1,
         "week": "Aug 2–Aug 8",
         "n": 3
+      },
+      {
+        "date": "2026-08-12",
+        "w": 222,
+        "week": "Aug 9–Aug 15",
+        "n": 1
       }
     ],
     "banner": {
       "startDate": "2026-03-22",
       "startW": 235,
-      "lost": 11.9,
+      "lost": 12.2,
       "goal": 180,
-      "pct": 21.6,
+      "pct": 22.1,
       "nextFloor": 210,
-      "toGo": 13.1,
+      "toGo": 12.8,
       "newLow": false
     },
     "strip": [
-      {
-        "date": "2026-07-10",
-        "state": "cheat",
-        "kcal": 3174
-      },
       {
         "date": "2026-07-11",
         "state": "good",
@@ -15957,8 +15994,13 @@
       },
       {
         "date": "2026-08-08",
-        "state": "partial",
+        "state": "off",
         "kcal": 2139
+      },
+      {
+        "date": "2026-08-09",
+        "state": "partial",
+        "kcal": 0
       }
     ],
     "days": [
@@ -16560,6 +16602,14 @@
         "protein": 201,
         "dayType": "reverse-ramp",
         "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-08-09",
+        "kcal": 0,
+        "protein": 0,
+        "dayType": "empty",
+        "logged": "empty",
         "provisional": true
       }
     ],
