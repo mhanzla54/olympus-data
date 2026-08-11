@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 1029,
+    "overall_total": 1032,
     "generated_for": "2026-08-10",
-    "built_at": "2026-08-11T02:26:30.424Z",
+    "built_at": "2026-08-11T03:22:04.142Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 54
+      "ft_to_go": 51
     }
   },
   "lanes": [
@@ -57,7 +57,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 65,
+      "current": 67,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -87,7 +87,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 344,
+      "current": 345,
       "working_on": "the next new-pound low (≤ 214.8 lb)"
     },
     {
@@ -5150,6 +5150,42 @@
       "reasoning": "`A micro-drill round` — a sitting's set of construct-named drills worked through. The bar is a genuine, substantial round (the 8-rung ladder is the anchor); fifteen tests across three named concepts clears it several times over, and it is nowhere near the single-trivial-drill exclusion. ⛔ **THE HARNESS BEING AGENT-BUILT DOES NOT TOUCH THIS TICK** — what is booked is HIS working of the drills, exactly as a breadth distillation pays his engagement and never Athena's build. ⛔ **AND IT PAYS ONE TINY, NOT THREE.** Three blocks in one sitting is one round; the day is the atom here as everywhere, and blocks 4–6 tomorrow will be tomorrow's round",
       "evidence": "`curricula/python-foundations/code/Ch8_conceptDrills.py`; `_explainers/2026-08-07-ch8-six-concepts.html`",
       "booked": "2026-08-10"
+    },
+    {
+      "date": "2026-08-10",
+      "lane": "method",
+      "activity": "**OSIRIS ARTIFACT-REVIEW SESSION — the protocol draft annotated, session 4 of 4. THE ANNOTATION ARC IS CLOSED.** The row was placed carrying **only a POLARIS tick**, with the stenographer stating plainly that she held **no facts at all** about its substance — what was annotated, how much, or how long — and flagging it rather than assuming it. **So I followed it to the artifact rather than take it OR refuse it, exactly as I did for session 3 on 08-08.** `_notes/protocol-notes.json` holds **31 notes dated 2026-08-10, stamped 10:36–11:48 EDT**, numbered #116–#146, each separately anchored, each in his own voice. They are not margin ticks: he reopens whether the pre-registered outcome shapes, hypotheses and propositions should stand at all (#123); **reframes the protocol document itself** — *\"the protocol document is for us and the basis by which we're going to build the pre-registration\"* (#124); rules a whole section unnecessary because *\"this isn't part of the actual study. We're not reporting any data here\"* (#120); **refuses a commitment on the grounds that it is a substantive career decision** — *\"We should not commit to this. This is a huge commitment\"* (#129); waives the name-withholding clause as not worth the cost (#126); narrows an abort condition to cases where harm cannot be stopped any other way (#125); and **cites his own M3 methodology module back at the draft** (#139). **Nine of the thirty-one are admissions that he does not understand something** — the deviation log, the archive boundary, positionality framing, third-party data treatment, \"formal\" — including *\"Really got to get organized and learn what all these logs are\"* (#118). That is the annotation instrument doing precisely what it is for, and content of that kind cannot exist without having worked the sections it hangs on",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 66,
+      "cum_overall": 1030,
+      "reasoning": "Osiris working session, session-type = **artifact review**, day-keyed one per (date, session-type). 🔎 DEDUP GREPPED: 2026-08-10 carried **no 📕 row of any kind** before this run (the date held 🏋️ ×2 and 🐍 ×1 from the 22nd run). Sessions 1–3 booked 08-06 (row 392, as the cure of a `⚠️ CANNOT SCORE`), 08-07 (row 393) and 08-08 (row 561) — **none re-booked.** ✅ SUBSTANCE FLOOR CLEARED SEVERAL TIMES OVER: 31 anchored notes across a 72-minute span is not the token drop-in the floor exists to exclude. ✅ §0.5 INTACT — the row was **placed upstream** by the capturer; I did not find this session, I verified a claim that was handed to me. That distinction is the whole rule: verifying a placed row is fact-checking; going to the file to *discover* a session would be backfilling from evidence, and I do not do it. ⛔ The tick prices **his** annotation work only; the draft is the agent's and the revisions applied from these notes tick nothing of their own",
+      "evidence": "`BKM/in-flight/osiris-study/_notes/protocol-notes.json` (31 notes dated 2026-08-10, `createdAt` 14:36:33Z–15:48:41Z = 10:36–11:48 EDT, `savedAt` 2026-08-10T15:49:39Z); POLARIS mark `#9a` session 4 of 4; capture row 2026-08-10",
+      "booked": "2026-08-10"
+    },
+    {
+      "date": "2026-08-10",
+      "lane": "method",
+      "activity": "**OSIRIS DESIGN SESSION — THE GROUND-UP REDESIGN OF THE SUBSTRATE, and the whole arc books ONE foot.** Five consecutive `/substrate-design` rounds, all of it his design, given as unprompted rambles: **① kill the nine working modes** for one mode holding all tools and the schema · **② the routing framing rejected outright** — *\"All that routing stuff is stupid. Nobody cares… The study's about behavior… the substrate is apparatus\"* — **and the observable replaced by him**: the agent's thinking log, its tool calls and their arguments, surfaced in the Lens · **③ one model, GLM 5.2** · **④ the activation phase questioned from how a harness actually works** — *\"the substrate asks it, 'Are you done?' … That's what Ethan taught me\"* — with **research demanded rather than an opinion** · **⑤ an iteration ceiling** with remaining-loop counts handed back so the agent can plan against a budget, plus a no-progress detector · **⑥ true always-on raised and priced for the funded run** — *\"that's why we get the funding\"* — with the shortfall fallback specified as a protocol clause · **⑦ the assistant corrected on his own terms** (the transcript resets each waking; loops restart at 1) · **⑧ save-work hooks required** before a waking ends · **⑨ a brake-stop required to look different from a self-stop in the record** · **⑩ context-management research required before any recommendation.** **FOLDED IN, NOT SEPARATELY PAID (four further capture rows):** the **\"waking + loop\" terminology lock** — tied to the literature's perceive–think–act cycle and justified by publication, *\"the terms have to survive being written about\"* · the **decision to pause the live pilot** — *\"Why waste the money? That structure's clearly not working\"* — made **in the same breath** as locking the redesign and executed by him · the **`/substrate-design` command amendment** (a mandatory \"what this leaves open\" section; numbered+titled sections per run; an MD recap plus a designed HTML twin per design day) · and the **Crucible walkthrough** (a 10-minute narrated `/walkthrough`, 14 defects, and the architectural ruling that *\"the website is where all the design runs go… it shouldn't have to redeploy. I want it to be reading from like a data source\"*)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 67,
+      "cum_overall": 1031,
+      "reasoning": "Osiris working session, session-type = **design**, day-keyed one per (date, session-type). ⚖️ **THE ONLY REAL QUESTION IN THIS ROW WAS HOW MANY TICKS IT IS, AND THE ANSWER IS ONE.** Five capture rows describe one continuous body of substrate-design work on one date, and **the wrong thing is not two ticks in a day — it is two ticks for one body of work** (the principle I wrote on 08-09; the 08-03 precedent collapsed six owner calls in one Odin sitting to a single tick on the same ground). The terminology lock happened *inside* the design pages; the pause was made *in the same breath* as the redesign; the command amendment is the same sitting's process residue; **and the Crucible refinement is the surface those very design runs are published to** — I could have called that a second ARTIFACT-REVIEW type and I did not, because §3 strictness defaults a seam DOWN and the artifact-review slot for this date is already spent on a genuinely separate body of work (the protocol annotation, worked 10:36–11:48, hours earlier and on a different artifact). ✅ SUBSTANCE FLOOR: ten numbered owner decisions in his own words; not close. ✅ **OBJECT (G-2) = THE STUDY**, so 📕 pays and 🐍 does not — he wrote no code, and the substrate is the study's apparatus; this is the same placement as the 7/28 substrate overnight (row 333) and the 8/03 build/decision sitting (row 373). ✅ §4.5.6 in-the-loop: the design is **his**, given as rambles the agent drew up — the tool-vs-job boundary excludes only a fully autonomous run he merely received. ⛔ **THE COMMAND AMENDMENT BOOKS NOTHING OF ITS OWN** even setting the folding aside — amending his own tooling's prompt is process upkeep, the same line I drew against `/checklist-review` on 7/31",
+      "evidence": "`_build/substrate-design/pages/002–006*.json`; `_build/substrate-design/recaps/2026-08-10-recap.md`; `_build/workbench/`; `~/pause-osiris.sh`; POLARIS ★ `xmsl5f6gg` (Substrate Design Session) + `xmsn5yy5s` (Refine the Crucible Site); capture rows 2026-08-10",
+      "booked": "2026-08-10"
+    },
+    {
+      "date": "2026-08-10",
+      "lane": "body",
+      "activity": "**PROTEIN-GOAL DAY — 184 g logged against the 160 g floor (goal 180 − 20), crossed by 24 g** at the 23:04:49 warehouse pull; `logged: full`, 0 open flags, row still `provisional: true`. The third consecutive day clearing the floor (201 g on 08-08, 195 g on 08-09) and the fourth day of the flat hold",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 345,
+      "cum_overall": 1032,
+      "reasoning": "The `protein-goal day` entry. ✅ **BOOKED ON A PROVISIONAL ROW, WHICH IS NOT A CONCESSION BUT THE MONOTONICITY:** protein has ONE edge and only rises, so once 184 g is logged no later true-up can un-cross a 160 g floor. The `provisional: true` flag reaches the calorie half alone, because a band has two edges and a floor has one. Same pull, same day, two different verdicts, and the difference is the **shape of the target**, never the quality of the evidence. 🔎 **G-1 PROVENANCE CHECKED BEFORE RULING, as it is every run:** the 160 floor is goal-minus-20 off **his own** 180 g protein target (`protocol.proteinFloor: 160`, `proteinTarget: 180`), not an agent's recommendation — no bound of the pre-registration rule is engaged. 🔎 **DEDUP GREPPED:** 2026-08-10 carried **no ⚖️ row of either half** before this one. ⏸️ **THE CALORIE HALF IS HELD, NOT REFUSED — the SEVENTEENTH hold.** 2,226 kcal sits *inside* the flat hold's 2,100–2,700 tick band, 126 above the floor with **474 kcal of ceiling headroom** — but the capturer states the condition exactly: **he typed `/olympus` rather than his end-of-day close phrase**, so this cannot be certified as his last close, and §8 makes kcal FINAL only then. A number that can still move against itself is not a number I book. Sixteen holds, sixteen cures, no foot ever lost to waiting. ⛔ **NO WEIGH-IN WAS PLACED and I do not go fetch one** (§0.5) — I note only that nothing turns on it: the same pull carries 223.4, which is 7.6 lb ABOVE the 215.8 benchmark that needs ≤ 214.8, so the ratchet is untouched on any reading. ⚠️ **AND THE STALE FIELD IS NOW ON ITS THIRD RUN UNFIXED:** the day's `dayType` still reads `reverse-ramp` five days after the ramp ended 08-06. I read the parameters off `protocol.reverseRamp.flatHold` — target 2,400, band 2,100–2,700 — whose own note names it *\"OWNER'S PROGRAM… owner's decision stated 2026-08-06.\"* A target read off a stale field is the exact defect that produced G-1",
+      "evidence": "`health-data.json` day 2026-08-10 (kcal 2,226 / protein 184 / weight 223.4 / `logged: full` / `provisional: true`); `health-pull.mjs` lastPull 2026-08-10T23:04:49; `protocol.reverseRamp.flatHold` (fromDate 2026-08-07, target 2,400, tickBand 2,100–2,700); capture row 2026-08-10",
+      "booked": "2026-08-10"
     }
   ],
   "series": {
@@ -6501,6 +6537,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**M3 REMEDIATION — a targeted active-recall sitting after a failed gate, and eight of nine items stated back from memory with nothing in front of him.** He read a purpose-built `/explainer` page on the nine items the blind grade said he had missed, then closed it and produced them: the third reactivity strategy (habituate) with its mechanism and both costs · why the complete observer is low-reactivity · the construct-validity exemption with both ownership assignments · the control↔naturalism trade run in BOTH directions with the mechanism under it · all three Altmann sampling rules named and described. **He also directed the sitting's shape himself** — *\"there's no point restating the whole gate if there's only small parts I got wrong\"* — so the nine were split into six flat facts stated outright (citations he had never encoded, where asking would have tested nothing) and six narrow explain-these questions on what he could reason to. **Not recovered: move 1 of the two-move reviewer reply** (concede the term is loose before re-anchoring on the design) — his second miss on that item, with the answer on a page he had just read."
+      },
+      {
+        "date": "2026-08-10",
+        "cum": 66,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**OSIRIS ARTIFACT-REVIEW SESSION — the protocol draft annotated, session 4 of 4. THE ANNOTATION ARC IS CLOSED.** The row was placed carrying **only a POLARIS tick**, with the stenographer stating plainly that she held **no facts at all** about its substance — what was annotated, how much, or how long — and flagging it rather than assuming it. **So I followed it to the artifact rather than take it OR refuse it, exactly as I did for session 3 on 08-08.** `_notes/protocol-notes.json` holds **31 notes dated 2026-08-10, stamped 10:36–11:48 EDT**, numbered #116–#146, each separately anchored, each in his own voice. They are not margin ticks: he reopens whether the pre-registered outcome shapes, hypotheses and propositions should stand at all (#123); **reframes the protocol document itself** — *\"the protocol document is for us and the basis by which we're going to build the pre-registration\"* (#124); rules a whole section unnecessary because *\"this isn't part of the actual study. We're not reporting any data here\"* (#120); **refuses a commitment on the grounds that it is a substantive career decision** — *\"We should not commit to this. This is a huge commitment\"* (#129); waives the name-withholding clause as not worth the cost (#126); narrows an abort condition to cases where harm cannot be stopped any other way (#125); and **cites his own M3 methodology module back at the draft** (#139). **Nine of the thirty-one are admissions that he does not understand something** — the deviation log, the archive boundary, positionality framing, third-party data treatment, \"formal\" — including *\"Really got to get organized and learn what all these logs are\"* (#118). That is the annotation instrument doing precisely what it is for, and content of that kind cannot exist without having worked the sections it hangs on"
+      },
+      {
+        "date": "2026-08-10",
+        "cum": 67,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**OSIRIS DESIGN SESSION — THE GROUND-UP REDESIGN OF THE SUBSTRATE, and the whole arc books ONE foot.** Five consecutive `/substrate-design` rounds, all of it his design, given as unprompted rambles: **① kill the nine working modes** for one mode holding all tools and the schema · **② the routing framing rejected outright** — *\"All that routing stuff is stupid. Nobody cares… The study's about behavior… the substrate is apparatus\"* — **and the observable replaced by him**: the agent's thinking log, its tool calls and their arguments, surfaced in the Lens · **③ one model, GLM 5.2** · **④ the activation phase questioned from how a harness actually works** — *\"the substrate asks it, 'Are you done?' … That's what Ethan taught me\"* — with **research demanded rather than an opinion** · **⑤ an iteration ceiling** with remaining-loop counts handed back so the agent can plan against a budget, plus a no-progress detector · **⑥ true always-on raised and priced for the funded run** — *\"that's why we get the funding\"* — with the shortfall fallback specified as a protocol clause · **⑦ the assistant corrected on his own terms** (the transcript resets each waking; loops restart at 1) · **⑧ save-work hooks required** before a waking ends · **⑨ a brake-stop required to look different from a self-stop in the record** · **⑩ context-management research required before any recommendation.** **FOLDED IN, NOT SEPARATELY PAID (four further capture rows):** the **\"waking + loop\" terminology lock** — tied to the literature's perceive–think–act cycle and justified by publication, *\"the terms have to survive being written about\"* · the **decision to pause the live pilot** — *\"Why waste the money? That structure's clearly not working\"* — made **in the same breath** as locking the redesign and executed by him · the **`/substrate-design` command amendment** (a mandatory \"what this leaves open\" section; numbered+titled sections per run; an MD recap plus a designed HTML twin per design day) · and the **Crucible walkthrough** (a 10-minute narrated `/walkthrough`, 14 defects, and the architectural ruling that *\"the website is where all the design runs go… it shouldn't have to redeploy. I want it to be reading from like a data source\"*)"
       }
     ],
     "literature": [
@@ -7970,6 +8020,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**PROTEIN-GOAL DAY — 195 g against the 160 g floor, crossed by 35 g.** The second consecutive day clearing the floor (201 g on 08-08), and on retatrutide, which is the condition the protocol itself names as making the floor harder rather than easier"
+      },
+      {
+        "date": "2026-08-10",
+        "cum": 345,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**PROTEIN-GOAL DAY — 184 g logged against the 160 g floor (goal 180 − 20), crossed by 24 g** at the 23:04:49 warehouse pull; `logged: full`, 0 open flags, row still `provisional: true`. The third consecutive day clearing the floor (201 g on 08-08, 195 g on 08-09) and the fourth day of the flat hold"
       }
     ],
     "fieldpresence": [
