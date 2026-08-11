@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 1014,
-    "generated_for": "2026-08-09",
-    "built_at": "2026-08-09T17:06:33.608Z",
+    "overall_total": 1029,
+    "generated_for": "2026-08-10",
+    "built_at": "2026-08-11T02:26:30.424Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 69
+      "ft_to_go": 54
     }
   },
   "lanes": [
@@ -37,7 +37,7 @@
       "t0_note": "couldn't write a single line of Python — ran his first print() the day before t0",
       "endpoint": "Replicate AND extend a frontier alignment result — public, runnable code",
       "endpoint_tier": "verylarge",
-      "current": 109,
+      "current": 110,
       "working_on": "Automate the Boring Stuff textbook"
     },
     {
@@ -77,7 +77,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 264,
+      "current": 275,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -87,7 +87,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 341,
+      "current": 344,
       "working_on": "the next new-pound low (≤ 214.8 lb)"
     },
     {
@@ -5078,6 +5078,78 @@
       "reasoning": "The consolidation / active-recall entry, generalized off 🧠 onto methodology material by §4 — the lane follows the material, and every M-module tick has booked in 📕. Consolidation is explicitly UNCAPPED (encouraged, not rationed) and this falls nowhere near its passive-reread exclusion: he produced every answer closed-book. ⛔ NOT THE DAILY RETRIEVAL CHECK — the codebook draws that line by hand: the automated 3–5-question check is NO-TICK, \"a longer consolidation / extended-round / Notes-Sweep recall session still ticks.\" Twelve targeted prompts on one module's gaps is the latter. ⛔ NO DOUBLE-PAY RISK TO GUARD AGAINST, and I checked before I wrote: the day's other three 📕-adjacent rows all book ZERO, so this foot is not stacking on anything. ⭐ THE STRONGEST ITEM IS ONE HE SORTED UNPROMPTED — \"habituation lives on a temporal axis,\" which is the exact distinction he had got wrong twice in the morning sitting. A correction produced as an axis rather than as a memorized sentence is the structure being held. ⚖️ AND THIS ENTRY PRICES THE ACT OF ACTIVE RECALL, NEVER ITS QUALITY — eight of nine earns the same one foot that five of nine would have. It cuts both ways or it is not a principle. 🔎 DEDUP GREPPED: 2026-08-09 carried NO ledger row of any lane before this one",
       "evidence": "`_explainers/2026-08-09-m3-what-i-missed.html`; `Resources/retrieval-ledger.md` Domain F; capture row 2026-08-09 (M3 REMEDIATION); this session's transcript",
       "booked": "2026-08-09"
+    },
+    {
+      "date": "2026-08-08",
+      "lane": "body",
+      "activity": "**CALORIE DAY ON PLAN — 2,139 kcal FINAL for 2026-08-08. THE SIXTEENTH HOLD CURES, and it cures exactly as the hold said it would.** Day 2 of the flat hold, against target 2,400 with the standing ±300 tick band (2,100–2,700); 2,139 sits 39 above the band floor. `logged: full`, `provisional: false`, 0 open flags at the 2026-08-10 15:08 warehouse pull. The protein half of this same day was booked on 08-08 (row 567) and is NOT re-booked",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 342,
+      "cum_overall": 1015,
+      "reasoning": "The `calorie-day on plan` entry — inside the pre-registered band, FINAL not provisional. ✅ **THE HOLD CURED WITHOUT THE NUMBER MOVING A SINGLE CALORIE.** I refused this half on 08-09 on a stated asymmetry: *\"a true-up can only ADD calories… I do not book a number that can still move against itself\"* — 2,139 had 561 kcal of ceiling headroom and could in principle have been carried out the top of the band. It was not. **Sixteen holds, sixteen resolutions, and not one foot lost to waiting.** ✅ **G-1 PROVENANCE RE-CHECKED, not assumed:** `protocol.reverseRamp.flatHold` records the hold as HIS decision of 2026-08-06 in his own words (*\"we'll say between 2,300 and 2,500 calories\"*), and the ±300 tick band is the standing convention carried over unnarrowed — the target is owner-set, so the day prices against it. ⚠️ **The row's `dayType` still reads `reverse-ramp` and is still STALE** — four days after the ramp ended. I read the parameters off `flatHold`, as I did on 08-08. ✅ **§0.5 INTACT:** an upstream capturer placed the settled row; I verified it against the warehouse rather than fetch a cure for myself",
+      "evidence": "`fitness/health-data.json` day row 2026-08-08 (kcal 2139, logged full, provisional false), verified on disk this run; `protocol.reverseRamp.flatHold` band 2,100–2,700; capture row 2026-08-10",
+      "booked": "2026-08-10"
+    },
+    {
+      "date": "2026-08-09",
+      "lane": "body",
+      "activity": "**CALORIE DAY ON PLAN — 2,638 kcal FINAL for 2026-08-09**, day 3 of the flat hold, against target 2,400, band 2,100–2,700. Lands 238 over centre with 62 kcal of ceiling headroom left — the tightest in-band day of the hold so far, and in. `logged: full`, `provisional: false`, 0 open flags",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 343,
+      "cum_overall": 1016,
+      "reasoning": "The `calorie-day on plan` entry. 🔎 **DEDUP GREPPED: 2026-08-09 carried exactly ONE ledger row before this run — the 📕 M3 remediation tiny — and no ⚖️ row of either half.** The day was never captured as a food day on 08-09; it arrives here as part of the settlement row and books on its own merits. ⚖️ **BOOKED ON FINAL DATA, WHICH IS WHY THERE IS NO HOLD QUESTION TO ASK** — the row reads `provisional: false`; nothing can move against it",
+      "evidence": "`fitness/health-data.json` day row 2026-08-09 (kcal 2638, logged full, provisional false), verified on disk this run; capture row 2026-08-10",
+      "booked": "2026-08-10"
+    },
+    {
+      "date": "2026-08-09",
+      "lane": "body",
+      "activity": "**PROTEIN-GOAL DAY — 195 g against the 160 g floor, crossed by 35 g.** The second consecutive day clearing the floor (201 g on 08-08), and on retatrutide, which is the condition the protocol itself names as making the floor harder rather than easier",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 344,
+      "cum_overall": 1017,
+      "reasoning": "`A protein-goal day` — logged protein ≥ (goal 180 − 20). FINAL row, floor cleared outright. 🔎 Dedup: no ⚖️ protein row existed for 2026-08-09 before this one",
+      "evidence": "`fitness/health-data.json` day row 2026-08-09 (protein 195, logged full, provisional false); floor 160 in `protocol.proteinFloor`",
+      "booked": "2026-08-10"
+    },
+    {
+      "date": "2026-08-10",
+      "lane": "strength",
+      "activity": "**DAY A WORKOUT LOGGED — full session (Push+Pull).** Pull-up ★full **5 / 3.5 / 3** with negative back-offs 3/5/5 — the opening five is his highest first set on record for this rung (prior 4 on 08-03 and 08-06). Dead hang **25s, 23s** against a 60s advance target, up from 15s/5s on 08-08 and 5s/8s on 08-03. Typewriter push-up 7/7/6 against 3×8. V-up 7, 6. L-tuck hold ★ 12/10/10 (its own rung row below). **Two movements went DOWN and that is in the row deliberately** — see the form-reset note in the report; the drop is not a coasting signal",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 265,
+      "cum_overall": 1018,
+      "reasoning": "`A scheduled workout (logged, full-force)` — logged in `workout-log.md` with real reps at genuine effort; stacks with the rung small below per the 2026-07-09 ruling. ⛔ **THE DEAD-HANG JUMP IS NOTED, NOT BOOKED** — 25s against a 60s gate is a large improvement and it is nowhere near the rung target; this lane's currency is rung clears, and there is no benchmark for a single set in the standings. Same holding as the 08-08 chin-up single-set record",
+      "evidence": "`fitness/workout-log.md` \"August 10th Monday - Day A Push+Pull\"",
+      "booked": "2026-08-10"
+    },
+    {
+      "date": "2026-08-10",
+      "lane": "strength",
+      "activity": "**RUNG CLEARED — 🟥 Core-Hanging ladder rung 4, \"L-tuck hold (knees up)\": 12s / 10s / 10s, every set at or above the 3 × 10s target, on his FIRST session on the rung.** Fact-checked against the live rung map before booking: `workout-split.md` ladder 10 lists rung 4 at 10s × 3 sets and now records it cleared with the ★ moved to rung 5 (oblique knee raises, 8/side × 3). Owner quality-confirm quoted directly: *\"the quality was definitely there.\"* He also reported margin in hand — *\"this was surprisingly easy for me\"*, another 5–10s across the sets if pushed. Rung 3 took five sessions; rung 4 fell in one",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 275,
+      "cum_overall": 1028,
+      "reasoning": "Rung clear, SETS-STANDARD met — per-set average of clean holds ≥ target across the rung's 3 sets, one session, clean owner quality-confirm. **Rung 4 sits in the 1–6 band → SMALL** per amendment F; the band table covers only rungs 7–9 and there is no tier judgment to make here. ⚖️ **THE MARGIN CHANGES NOTHING ABOUT THE TIER, AND IT SHOULD NOT.** A rung cleared easily and a rung cleared on the fifth grinding attempt pay the same, because the entry prices the CAPABILITY reached, never the struggle to reach it — the same principle that pays a consolidation tick for eight-of-nine and for five-of-nine alike. **What the margin does mean is a question for the ladder, not for the ledger:** the split file already flags it, and rung 5 will answer whether this stretch is under-pitched. ⛔ **AMENDMENT J IS NOT IN PLAY** — this ladder was not re-cut; rung 4 is where it has always sat, and its band was never in question",
+      "evidence": "`fitness/workout-split.md` ladder 10 (rung 4 marked cleared 2026-08-10, ★ on rung 5), verified on disk this run; `fitness/workout-log.md`; `workout-audit.mjs` ✅ 18 matched · 0 problems · 0 warnings",
+      "booked": "2026-08-10"
+    },
+    {
+      "date": "2026-08-10",
+      "lane": "coding",
+      "activity": "**MICRO-DRILL ROUND — blocks 1–3 of the six-block Chapter 8 concept-drill set** (`Ch8_conceptDrills.py`), each block running one diagnosed concept across five tests on a fading-scaffold ramp: two worked examples → a trap → a fill-in-one-line → a write-it-yourself with spec and expected output. Fifteen tests worked in the sitting. He closed coding for the day with blocks 4–6 scheduled for tomorrow",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 110,
+      "cum_overall": 1029,
+      "reasoning": "`A micro-drill round` — a sitting's set of construct-named drills worked through. The bar is a genuine, substantial round (the 8-rung ladder is the anchor); fifteen tests across three named concepts clears it several times over, and it is nowhere near the single-trivial-drill exclusion. ⛔ **THE HARNESS BEING AGENT-BUILT DOES NOT TOUCH THIS TICK** — what is booked is HIS working of the drills, exactly as a breadth distillation pays his engagement and never Athena's build. ⛔ **AND IT PAYS ONE TINY, NOT THREE.** Three blocks in one sitting is one round; the day is the atom here as everywhere, and blocks 4–6 tomorrow will be tomorrow's round",
+      "evidence": "`curricula/python-foundations/code/Ch8_conceptDrills.py`; `_explainers/2026-08-07-ch8-six-concepts.html`",
+      "booked": "2026-08-10"
     }
   ],
   "series": {
@@ -5529,6 +5601,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**COMPLETED PROGRAM — the ch.8 Librarian FINISHED.** Stages 5 and 6 both closed in one day, ending a four-day build. Stage 5: two bugs present where either fix alone left the output byte-identical — he diagnosed the first unaided from a single question (*\"I think it's resetting it back to just an empty list\"* — the unconditional `shelf_runs['runs'] = []` wiping stored history every run), and implemented the guarded read-modify-write for the second correctly on the first attempt after asking to be taught it. **Unprompted, and without being told which lines were wrong, he also corrected the sign inversion on all three deltas** (bytes and lines computing last−this while files computed this−last) and removed a `'- ' + str(negative)` double-negative. Verified live: `Since last run: + 0, + 68, + 3`, all three reconciling exactly (66 chars + 2 for `\\n`→`\\r\\n` = 68 bytes on disk). Stage 6, ~35 minutes start to working: list-of-dicts catalog, written out via `pprint.pformat` as a valid Python assignment, generated module imported, a real dict printed from it. Stage 7 is marked optional in the assignment and was not attempted"
+      },
+      {
+        "date": "2026-08-10",
+        "cum": 110,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**MICRO-DRILL ROUND — blocks 1–3 of the six-block Chapter 8 concept-drill set** (`Ch8_conceptDrills.py`), each block running one diagnosed concept across five tests on a fading-scaffold ramp: two worked examples → a trap → a fill-in-one-line → a write-it-yourself with spec and expected output. Fifteen tests worked in the sitting. He closed coding for the day with blocks 4–6 scheduled for tomorrow"
       }
     ],
     "mlai": [
@@ -6916,6 +6995,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**SPARSE-TRAINING DAY — 8 distinct menu items against a floor of 6**, 15 total efforts: hand/finger/wrist ×1 · ankle dorsiflexion ×3 · chest/arm/shoulder ×1 · hip-flexor ×1 · right bicep ×1 · right tricep overhead band ×1 · lateral delt ×2 · band external rotation ×5. **Item 12 (lateral delt) appears for the first time in the fifteen days since the stream opened** — one of the two standing never-logged items, leaving only scapular pull-ups. Item 15 at ×5 is a new high for that item. **Disjoint-work rule checked against today's Day C**: the sparse menu is greasing-the-groove work on hands, ankles, delts and rotator cuff; the workout was chin-ups, knee raises, dead hangs, HSPU and push-ups. No effort is counted twice."
+      },
+      {
+        "date": "2026-08-10",
+        "cum": 265,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**DAY A WORKOUT LOGGED — full session (Push+Pull).** Pull-up ★full **5 / 3.5 / 3** with negative back-offs 3/5/5 — the opening five is his highest first set on record for this rung (prior 4 on 08-03 and 08-06). Dead hang **25s, 23s** against a 60s advance target, up from 15s/5s on 08-08 and 5s/8s on 08-03. Typewriter push-up 7/7/6 against 3×8. V-up 7, 6. L-tuck hold ★ 12/10/10 (its own rung row below). **Two movements went DOWN and that is in the row deliberately** — see the form-reset note in the report; the drop is not a coasting signal"
+      },
+      {
+        "date": "2026-08-10",
+        "cum": 275,
+        "feet": 10,
+        "tier": "small",
+        "activity": "**RUNG CLEARED — 🟥 Core-Hanging ladder rung 4, \"L-tuck hold (knees up)\": 12s / 10s / 10s, every set at or above the 3 × 10s target, on his FIRST session on the rung.** Fact-checked against the live rung map before booking: `workout-split.md` ladder 10 lists rung 4 at 10s × 3 sets and now records it cleared with the ★ moved to rung 5 (oblique knee raises, 8/side × 3). Owner quality-confirm quoted directly: *\"the quality was definitely there.\"* He also reported margin in hand — *\"this was surprisingly easy for me\"*, another 5–10s across the sets if pushed. Rung 3 took five sessions; rung 4 fell in one"
       }
     ],
     "body": [
@@ -7856,6 +7949,27 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**PROTEIN-GOAL DAY — 201 g against the 160 g floor, crossed by 41 g**, his highest protein day since 2026-08-01. `logged: full`, 0 open flags at the 22:37 EDT pull. **Booked while the row still reads `provisional: true`, and the asymmetry is the reason: a true-up can only ADD protein, never remove it. 201 is already over the floor, so this tick cannot be un-earned by the day settling.** The calorie half of the same row is HELD on exactly the opposite logic (see the note in the standings). **⚠️ The row's `dayType` field reads `reverse-ramp` and is STALE** — the ramp ended 2026-08-06; 08-07 onward is the flat hold. I read the parameters off `protocol.reverseRamp.flatHold`, not off the stale field. Reading a target from the wrong block is the exact defect behind Amendment G-1."
+      },
+      {
+        "date": "2026-08-08",
+        "cum": 342,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**CALORIE DAY ON PLAN — 2,139 kcal FINAL for 2026-08-08. THE SIXTEENTH HOLD CURES, and it cures exactly as the hold said it would.** Day 2 of the flat hold, against target 2,400 with the standing ±300 tick band (2,100–2,700); 2,139 sits 39 above the band floor. `logged: full`, `provisional: false`, 0 open flags at the 2026-08-10 15:08 warehouse pull. The protein half of this same day was booked on 08-08 (row 567) and is NOT re-booked"
+      },
+      {
+        "date": "2026-08-09",
+        "cum": 343,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**CALORIE DAY ON PLAN — 2,638 kcal FINAL for 2026-08-09**, day 3 of the flat hold, against target 2,400, band 2,100–2,700. Lands 238 over centre with 62 kcal of ceiling headroom left — the tightest in-band day of the hold so far, and in. `logged: full`, `provisional: false`, 0 open flags"
+      },
+      {
+        "date": "2026-08-09",
+        "cum": 344,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**PROTEIN-GOAL DAY — 195 g against the 160 g floor, crossed by 35 g.** The second consecutive day clearing the floor (201 g on 08-08), and on retatrutide, which is the condition the protocol itself names as making the floor harder rather than easier"
       }
     ],
     "fieldpresence": [
@@ -9400,11 +9514,12 @@
       "id": "corehang",
       "name": "Core — HANGING",
       "elite": "windshield wipers",
-      "current": 4,
+      "current": 5,
       "cleared_dates": {
         "1": "2026-07-01",
         "2": "2026-07-25",
-        "3": "2026-08-08"
+        "3": "2026-08-08",
+        "4": "2026-08-10"
       },
       "rungs": [
         {
@@ -9459,8 +9574,8 @@
         }
       ],
       "chart": 10,
-      "cleared_count": 3,
-      "height": 6,
+      "cleared_count": 4,
+      "height": 10,
       "triangular": [
         0,
         1,
@@ -9551,6 +9666,12 @@
           "y": 5.63,
           "kind": "session",
           "label": "Typewriter push-up (slide side-to-side) — 6, 5, 4 (avg 5 vs target 8)"
+        },
+        {
+          "date": "2026-08-10",
+          "y": 5.83,
+          "kind": "session",
+          "label": "Typewriter push-up (slide side-to-side) — 7, 7, 6 (avg 6.7 vs target 8)"
         }
       ],
       "steps": [
@@ -9721,6 +9842,12 @@
           "y": 2.97,
           "kind": "session",
           "label": "Pseudo-planche push-ups (PPP) — 8, 8 (avg 8 vs target 8)"
+        },
+        {
+          "date": "2026-08-10",
+          "y": 2.56,
+          "kind": "session",
+          "label": "Pseudo-planche push-ups (PPP) — 5, 4 (avg 4.5 vs target 8)"
         }
       ],
       "steps": [
@@ -9971,6 +10098,12 @@
           "y": 5.38,
           "kind": "session",
           "label": "Full pull-up — 4, 3, 2 (avg 3 vs target 8)"
+        },
+        {
+          "date": "2026-08-10",
+          "y": 5.48,
+          "kind": "session",
+          "label": "Full pull-up — 5, 3.5, 3 (avg 3.8 vs target 8)"
         }
       ],
       "steps": [
@@ -10279,6 +10412,12 @@
           "y": 3.17,
           "kind": "session",
           "label": "Dead hang — 15, 5 (avg 10 vs target 60)"
+        },
+        {
+          "date": "2026-08-10",
+          "y": 3.4,
+          "kind": "session",
+          "label": "Dead hang — 25, 23 (avg 24 vs target 60)"
         }
       ],
       "steps": [
@@ -10481,6 +10620,12 @@
           "y": 3.37,
           "kind": "session",
           "label": "V-up / tuck-up — 5, 6 (avg 5.5 vs target 15)"
+        },
+        {
+          "date": "2026-08-10",
+          "y": 3.71,
+          "kind": "session",
+          "label": "V-up / tuck-up — 12, 10, 10 (avg 10.7 vs target 15)"
         }
       ],
       "steps": [
@@ -10674,6 +10819,17 @@
             "got": "10, 10, 10",
             "avg": 10
           }
+        },
+        {
+          "date": "2026-08-10",
+          "y": 5,
+          "kind": "clear",
+          "label": "Core — HANGING — cleared: L-tuck hold (knees up) (needed 10s, got 12, 10, 10 — avg 10.67)",
+          "perf": {
+            "needed": "10s",
+            "got": "12, 10, 10",
+            "avg": 10.67
+          }
         }
       ],
       "steps": [
@@ -10692,6 +10848,10 @@
         {
           "date": "2026-08-08",
           "rungs": 4
+        },
+        {
+          "date": "2026-08-10",
+          "rungs": 5
         }
       ],
       "chart": 10
@@ -10699,8 +10859,8 @@
   ],
   "ladder_parity": {
     "push": {
-      "candidates": 9,
-      "plotted": 9,
+      "candidates": 10,
+      "plotted": 10,
       "rejected": []
     },
     "explosive": {
@@ -10709,8 +10869,8 @@
       "rejected": []
     },
     "planche": {
-      "candidates": 9,
-      "plotted": 9,
+      "candidates": 10,
+      "plotted": 10,
       "rejected": []
     },
     "handstand": {
@@ -10719,8 +10879,8 @@
       "rejected": []
     },
     "pull": {
-      "candidates": 29,
-      "plotted": 19,
+      "candidates": 30,
+      "plotted": 20,
       "rejected": [
         {
           "date": "2026-06-23",
@@ -10769,13 +10929,18 @@
       ]
     },
     "chinup": {
-      "candidates": 9,
+      "candidates": 10,
       "plotted": 9,
-      "rejected": []
+      "rejected": [
+        {
+          "date": "2026-08-10",
+          "why": "\"L-tuck hold (★knees up — hold at the top\" is rung-7 work, not the trained rung 3 — cleared/future-rung work does not plot (owner law)"
+        }
+      ]
     },
     "grip": {
-      "candidates": 17,
-      "plotted": 17,
+      "candidates": 18,
+      "plotted": 18,
       "rejected": []
     },
     "legs": {
@@ -10801,13 +10966,13 @@
       ]
     },
     "corefloor": {
-      "candidates": 11,
-      "plotted": 11,
+      "candidates": 12,
+      "plotted": 12,
       "rejected": []
     },
     "corehang": {
-      "candidates": 28,
-      "plotted": 25,
+      "candidates": 29,
+      "plotted": 26,
       "rejected": [
         {
           "date": "2026-06-27",
@@ -10911,6 +11076,13 @@
             "raw": "6, 5, 4",
             "avg": 5,
             "status": "● plotted at 5.63"
+          },
+          {
+            "date": "2026-08-10",
+            "name": "Typewriter push-up (★slide side-to-side)",
+            "raw": "7, 7, 6",
+            "avg": 6.7,
+            "status": "● plotted at 5.83"
           }
         ]
       },
@@ -11049,6 +11221,13 @@
             "raw": "8, 8",
             "avg": 8,
             "status": "● plotted at 2.97"
+          },
+          {
+            "date": "2026-08-10",
+            "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
+            "raw": "5, 4",
+            "avg": 4.5,
+            "status": "● plotted at 2.56"
           }
         ]
       },
@@ -11376,6 +11555,20 @@
             "raw": "15, 5",
             "avg": 10,
             "status": "✗ not plotted — \"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+          },
+          {
+            "date": "2026-08-10",
+            "name": "Pull-up (★full — then negatives as back-off)",
+            "raw": "5, 3.5, 3",
+            "avg": 3.8,
+            "status": "● plotted at 5.48"
+          },
+          {
+            "date": "2026-08-10",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "25, 23",
+            "avg": 24,
+            "status": "● plotted at 5.48"
           }
         ]
       },
@@ -11491,6 +11684,13 @@
             "raw": "5, 4, 3",
             "avg": 4,
             "status": "● plotted at 3.5"
+          },
+          {
+            "date": "2026-08-10",
+            "name": "L-tuck hold (★knees up — hold at the top)",
+            "raw": "12, 10, 10",
+            "avg": 10.7,
+            "status": "✗ not plotted — \"L-tuck hold (★knees up — hold at the top\" is rung-7 work, not the trained rung 3 — cleared/future-rung work does not plot (owner law)"
           }
         ]
       },
@@ -11616,6 +11816,13 @@
             "raw": "15, 5",
             "avg": 10,
             "status": "● plotted at 3.17"
+          },
+          {
+            "date": "2026-08-10",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "25, 23",
+            "avg": 24,
+            "status": "● plotted at 3.4"
           }
         ]
       },
@@ -11803,6 +12010,20 @@
             "raw": "5, 6",
             "avg": 5.5,
             "status": "● plotted at 3.37"
+          },
+          {
+            "date": "2026-08-10",
+            "name": "L-tuck hold (★knees up — hold at the top)",
+            "raw": "12, 10, 10",
+            "avg": 10.7,
+            "status": "● plotted at 3.71"
+          },
+          {
+            "date": "2026-08-10",
+            "name": "V-up / tuck-up (★finisher)",
+            "raw": "7, 6",
+            "avg": 6.5,
+            "status": "● plotted at 3.71"
           }
         ]
       },
@@ -12005,6 +12226,13 @@
             "raw": "10, 10, 10",
             "avg": 10,
             "status": "✓ CLEAR DAY — carried by the clear dot (needed 10, avg 10)"
+          },
+          {
+            "date": "2026-08-10",
+            "name": "L-tuck hold (★knees up — hold at the top)",
+            "raw": "12, 10, 10",
+            "avg": 10.7,
+            "status": "✓ CLEAR DAY — carried by the clear dot (needed 10s, avg 10.67)"
           }
         ]
       }
@@ -12072,6 +12300,10 @@
           {
             "date": "2026-08-08",
             "detail": "hang: 15, 5 · shrugs: 10, 10"
+          },
+          {
+            "date": "2026-08-10",
+            "detail": "hang: 25, 23 · shrugs: 10, 8"
           }
         ]
       },
@@ -12247,6 +12479,10 @@
           {
             "date": "2026-08-06",
             "detail": "full reps: 4, 3, 2 · neg back-off: 4, 5, 6"
+          },
+          {
+            "date": "2026-08-10",
+            "detail": "full reps: 5, 3.5, 3 · neg back-off: 3, 5, 5"
           }
         ]
       },
@@ -12503,6 +12739,56 @@
         ]
       },
       {
+        "name": "Typewriter push-up (★slide side-to-side)",
+        "rows": [
+          {
+            "date": "2026-07-15",
+            "detail": "reps: 2, 3, 2"
+          },
+          {
+            "date": "2026-07-22",
+            "detail": "reps: 3, 2, 3"
+          },
+          {
+            "date": "2026-07-29",
+            "detail": "reps: 5, 3, 3"
+          },
+          {
+            "date": "2026-08-03",
+            "detail": "reps: 6, 5, 4"
+          },
+          {
+            "date": "2026-08-10",
+            "detail": "reps: 7, 7, 6"
+          }
+        ]
+      },
+      {
+        "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
+        "rows": [
+          {
+            "date": "2026-07-15",
+            "detail": "reps: 2, 3"
+          },
+          {
+            "date": "2026-07-22",
+            "detail": "reps: 5, 5"
+          },
+          {
+            "date": "2026-07-29",
+            "detail": "reps: 5, 4"
+          },
+          {
+            "date": "2026-08-03",
+            "detail": "reps: 8, 8"
+          },
+          {
+            "date": "2026-08-10",
+            "detail": "reps: 5, 4"
+          }
+        ]
+      },
+      {
         "name": "Pike push-up",
         "rows": [
           {
@@ -12650,48 +12936,6 @@
         ]
       },
       {
-        "name": "Typewriter push-up (★slide side-to-side)",
-        "rows": [
-          {
-            "date": "2026-07-15",
-            "detail": "reps: 2, 3, 2"
-          },
-          {
-            "date": "2026-07-22",
-            "detail": "reps: 3, 2, 3"
-          },
-          {
-            "date": "2026-07-29",
-            "detail": "reps: 5, 3, 3"
-          },
-          {
-            "date": "2026-08-03",
-            "detail": "reps: 6, 5, 4"
-          }
-        ]
-      },
-      {
-        "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
-        "rows": [
-          {
-            "date": "2026-07-15",
-            "detail": "reps: 2, 3"
-          },
-          {
-            "date": "2026-07-22",
-            "detail": "reps: 5, 5"
-          },
-          {
-            "date": "2026-07-29",
-            "detail": "reps: 5, 4"
-          },
-          {
-            "date": "2026-08-03",
-            "detail": "reps: 8, 8"
-          }
-        ]
-      },
-      {
         "name": "Single-leg hip thrust (shoulders on bed/chair)",
         "rows": [
           {
@@ -12709,6 +12953,48 @@
           {
             "date": "2026-08-06",
             "detail": "reps: 5, 6, 4"
+          }
+        ]
+      },
+      {
+        "name": "Feet -elevated Pike push-up (accessory)",
+        "rows": [
+          {
+            "date": "2026-07-22",
+            "detail": "reps: 5, 4, 5"
+          },
+          {
+            "date": "2026-07-29",
+            "detail": "reps: 6, 5.5, 3"
+          },
+          {
+            "date": "2026-08-03",
+            "detail": "reps: 8, 6, 5"
+          },
+          {
+            "date": "2026-08-10",
+            "detail": "reps: 3, 3, 3"
+          }
+        ]
+      },
+      {
+        "name": "V-up / tuck-up (★finisher)",
+        "rows": [
+          {
+            "date": "2026-07-22",
+            "detail": "reps: 6, 4"
+          },
+          {
+            "date": "2026-07-29",
+            "detail": "reps: 5, 3, 3"
+          },
+          {
+            "date": "2026-08-03",
+            "detail": "reps: 5, 6"
+          },
+          {
+            "date": "2026-08-10",
+            "detail": "reps: 7, 6"
           }
         ]
       },
@@ -12828,40 +13114,6 @@
           {
             "date": "2026-08-06",
             "detail": "reps: 0, 0, 0"
-          }
-        ]
-      },
-      {
-        "name": "Feet -elevated Pike push-up (accessory)",
-        "rows": [
-          {
-            "date": "2026-07-22",
-            "detail": "reps: 5, 4, 5"
-          },
-          {
-            "date": "2026-07-29",
-            "detail": "reps: 6, 5.5, 3"
-          },
-          {
-            "date": "2026-08-03",
-            "detail": "reps: 8, 6, 5"
-          }
-        ]
-      },
-      {
-        "name": "V-up / tuck-up (★finisher)",
-        "rows": [
-          {
-            "date": "2026-07-22",
-            "detail": "reps: 6, 4"
-          },
-          {
-            "date": "2026-07-29",
-            "detail": "reps: 5, 3, 3"
-          },
-          {
-            "date": "2026-08-03",
-            "detail": "reps: 5, 6"
           }
         ]
       },
@@ -13086,9 +13338,83 @@
             "detail": "reps: 3, 2.5, 1.5"
           }
         ]
+      },
+      {
+        "name": "L-tuck hold (★knees up — hold at the top)",
+        "rows": [
+          {
+            "date": "2026-08-10",
+            "detail": "held: 12, 10, 10"
+          }
+        ]
       }
     ],
     "dates": [
+      {
+        "date": "2026-08-10",
+        "rows": [
+          {
+            "ladderId": "pull",
+            "ladderName": "Pull",
+            "name": "Pull-up (★full — then negatives as back-off)",
+            "raw": "5, 3.5, 3",
+            "avg": 3.8,
+            "target": "8",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "chinup",
+            "ladderName": "Chin-up",
+            "name": "L-tuck hold (★knees up — hold at the top)",
+            "raw": "12, 10, 10",
+            "avg": 10.7,
+            "target": "10s/side",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "pull",
+            "ladderName": "Pull",
+            "name": "Dead hang ★",
+            "raw": "25, 23",
+            "avg": 24,
+            "target": "45s",
+            "sets": 2,
+            "cleared": false
+          },
+          {
+            "ladderId": "push",
+            "ladderName": "Horizontal Push — STRENGTH",
+            "name": "Typewriter push-up (★slide side-to-side)",
+            "raw": "7, 7, 6",
+            "avg": 6.7,
+            "target": "8/side",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "corefloor",
+            "ladderName": "Core — FLOOR",
+            "name": "V-up / tuck-up (★finisher)",
+            "raw": "7, 6",
+            "avg": 6.5,
+            "target": "15",
+            "sets": 2,
+            "cleared": false
+          },
+          {
+            "ladderId": "planche",
+            "ladderName": "Horizontal Push — PLANCHE",
+            "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
+            "raw": "5, 4",
+            "avg": 4.5,
+            "target": "8",
+            "sets": 2,
+            "cleared": false
+          }
+        ]
+      },
       {
         "date": "2026-08-08",
         "rows": [
@@ -14639,21 +14965,33 @@
     }
   ],
   "last_perf": {
+    "pull": {
+      "date": "2026-08-10",
+      "detail": "5, 3.5, 3"
+    },
     "chinup": {
-      "date": "2026-08-08",
-      "detail": "5, 4, 3"
+      "date": "2026-08-10",
+      "detail": "12, 10, 10"
+    },
+    "corefloor": {
+      "date": "2026-08-10",
+      "detail": "12, 10, 10"
     },
     "corehang": {
-      "date": "2026-08-08",
-      "detail": "10, 10, 10"
-    },
-    "pull": {
-      "date": "2026-08-08",
-      "detail": "15, 5"
+      "date": "2026-08-10",
+      "detail": "12, 10, 10"
     },
     "grip": {
-      "date": "2026-08-08",
-      "detail": "15, 5"
+      "date": "2026-08-10",
+      "detail": "25, 23"
+    },
+    "push": {
+      "date": "2026-08-10",
+      "detail": "7, 7, 6"
+    },
+    "planche": {
+      "date": "2026-08-10",
+      "detail": "5, 4"
     },
     "handstand": {
       "date": "2026-08-08",
@@ -14670,18 +15008,6 @@
     "legs": {
       "date": "2026-08-06",
       "detail": "0, 0, 0"
-    },
-    "push": {
-      "date": "2026-08-03",
-      "detail": "6, 5, 4"
-    },
-    "corefloor": {
-      "date": "2026-08-03",
-      "detail": "5, 6"
-    },
-    "planche": {
-      "date": "2026-08-03",
-      "detail": "8, 8"
     }
   },
   "health": {
@@ -15263,9 +15589,17 @@
       {
         "date": "2026-08-09",
         "w": 222,
-        "kcal": 0,
-        "protein": 0,
-        "dayType": "empty",
+        "kcal": 2638,
+        "protein": 195,
+        "dayType": "reverse-ramp",
+        "provisional": false
+      },
+      {
+        "date": "2026-08-10",
+        "w": 223.4,
+        "kcal": 2226,
+        "protein": 184,
+        "dayType": "reverse-ramp",
         "provisional": true
       }
     ],
@@ -15601,6 +15935,10 @@
       {
         "date": "2026-08-09",
         "w": 222.85
+      },
+      {
+        "date": "2026-08-10",
+        "w": 223.35
       }
     ],
     "noiseBand": 1.4,
@@ -15836,27 +16174,22 @@
       },
       {
         "date": "2026-08-12",
-        "w": 222,
+        "w": 222.7,
         "week": "Aug 9–Aug 15",
-        "n": 1
+        "n": 2
       }
     ],
     "banner": {
       "startDate": "2026-03-22",
       "startW": 235,
-      "lost": 12.2,
+      "lost": 11.7,
       "goal": 180,
-      "pct": 22.1,
+      "pct": 21.2,
       "nextFloor": 210,
-      "toGo": 12.8,
+      "toGo": 13.3,
       "newLow": false
     },
     "strip": [
-      {
-        "date": "2026-07-11",
-        "state": "good",
-        "kcal": 1536
-      },
       {
         "date": "2026-07-12",
         "state": "good",
@@ -15999,8 +16332,13 @@
       },
       {
         "date": "2026-08-09",
+        "state": "off",
+        "kcal": 2638
+      },
+      {
+        "date": "2026-08-10",
         "state": "partial",
-        "kcal": 0
+        "kcal": 2226
       }
     ],
     "days": [
@@ -16606,10 +16944,18 @@
       },
       {
         "date": "2026-08-09",
-        "kcal": 0,
-        "protein": 0,
-        "dayType": "empty",
-        "logged": "empty",
+        "kcal": 2638,
+        "protein": 195,
+        "dayType": "reverse-ramp",
+        "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-08-10",
+        "kcal": 2226,
+        "protein": 184,
+        "dayType": "reverse-ramp",
+        "logged": "full",
         "provisional": true
       }
     ],
