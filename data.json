@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 1037,
+    "overall_total": 1047,
     "generated_for": "2026-08-11",
-    "built_at": "2026-08-12T02:05:30.205Z",
+    "built_at": "2026-08-12T02:11:38.556Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 46
+      "ft_to_go": 36
     }
   },
   "lanes": [
@@ -37,7 +37,7 @@
       "t0_note": "couldn't write a single line of Python — ran his first print() the day before t0",
       "endpoint": "Replicate AND extend a frontier alignment result — public, runnable code",
       "endpoint_tier": "verylarge",
-      "current": 111,
+      "current": 121,
       "working_on": "Automate the Boring Stuff textbook"
     },
     {
@@ -5246,6 +5246,18 @@
       "reasoning": "`A calorie-day on plan` — within the day's planned band, logged. ✅ **SEVENTEEN HOLDS, SEVENTEEN CURES, NOT ONE FOOT EVER LOST TO WAITING.** The hold cost nothing and protected against the one thing that could not be undone: a band has two edges, so a provisional figure can move against itself, and a phantom band-hit could never have been taken back. ✅ §0.5 INTACT — an upstream capturer placed the FINAL row; I did not go fetch the pull. 🔎 **G-1 PROVENANCE RE-CHECKED, as every run:** parameters read off `protocol.reverseRamp.flatHold` (fromDate 2026-08-07, target 2,400, band 2,100–2,700), whose own note names it *\"OWNER'S PROGRAM… owner's decision stated 2026-08-06\"* — his plan, so no bound is engaged. 🔎 **DEDUP:** the protein half booked 08-10 (row 578) and is **NOT re-booked**; 08-10 carried no calorie row. ⚠️ **THE STALE FIELD IS NOW ON ITS FOURTH CONSECUTIVE RUN UNFIXED** — the day still reads `dayType: reverse-ramp`, five days after the ramp ended 08-06. I read the band off `flatHold` again. ⛔ **2026-08-11 BOOKS NOTHING** — 0 kcal / 0 g logged, `logged: empty`, no weigh-in placed (he ate before a fasted reading was possible and skipped it)",
       "evidence": "`health-data.json` day 2026-08-10 (kcal 2,226 / protein 184 / `provisional: false` / `logged: full`); `health-pull.mjs` freshness pull 2026-08-11T08:14:53; `protocol.reverseRamp.flatHold`; capture row 2026-08-11",
       "booked": "2026-08-11"
+    },
+    {
+      "date": "2026-08-11",
+      "lane": "coding",
+      "activity": "**CHAPTER FINISHED — ATBS Chapter 8 (Reading and Writing Files) COMPLETE.** The chapter-finish milestone, all four Amendment-I legs met and every one of them already on this ledger before the claim was made: **(a) READ** — pp.173→186 across 07-28, 07-29 and 07-30 · **(b) HIS OWN NOTES** — those three reading tinies book only because the notes are the proof-act; no notes, no tick · **(c) THE DRILL ROUNDS** — the 15-drill whole-chapter consolidation set on 07-31 (12 of 15), the `Ch8_miniDrills.py` block on 08-03, and the six-block concept-drill set closed across 08-10 and 08-11 · **(d) THE APPLIED PROGRAM RUNNING TO GOAL** — **`ch8_librarian.py` FINISHED on 2026-08-07**, stages 5 and 6 closed in one day to end a four-day build, booked at the time as a completed-program tick · **(e) READY TO ADVANCE** — declared by the owner, which is the only place that call can come from. The chapter ran 2026-07-28 → 2026-08-11, fifteen days",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 121,
+      "cum_overall": 1047,
+      "reasoning": "`Finish a whole Automate chapter` — small (10 ft), the rate since S31 and DEFENDED as recently as C3 Amendment I. **⚠️ THIS ROW EXISTS BECAUSE I GOT IT WRONG AN HOUR EARLIER AND THE OWNER PUSHED BACK.** In the 24th run I withheld this small saying *\"no placed row asserts the applied program meets its goal\"* — **and one did: my own 2026-08-07 row, which I wrote, booking the Librarian as FINISHED.** I also cited the 2026-08-01 refusal (3 of 7 requirements unmet) as governing precedent when the 08-07 completion had already superseded it. **I asserted a basis without grepping my own row-log, and the assertion carried feet.** That is verbatim the standing lesson from Amendment H-2 — *fact-check my own stated basis before it carries feet* — where the identical error inflated a tier tenfold; here it withheld ten. **⚖️ THIS IS A FACTUAL CORRECTION, NOT A C3 AMENDMENT, AND THE DISTINCTION IS THE WHOLE POINT.** The codebook did not move and no number was talked up: the tier was already small, the legs were already met, and the only thing that changed is that I finally looked. **A score that moves because the evidence was re-read is not a score that moved because it was argued for.** ✅ Days 4–17 is the measured band and 15 sits inside it — small confirmed, medium's floor is one month. ✅ Nesting as designed: roughly ELEVEN ch.8 segment tinies stack under this small (three reads, four drill rounds, three build sessions, one completed program), and the whole-book medium stacks above it. 🔎 DEDUP GREPPED: no ch.8 chapter-finish row existed; Ch.7's small (07-16) is the only prior chapter-finish in the log. 📌 **Ch.6's small remains unclaimed** — a separate 10 ft the climb has never paid, still needing a placed row",
+      "evidence": "`curricula/python-foundations/code/ch8_librarian.py` (finished, ledger row 2026-08-07); `Ch8_conceptDrills.py`; `Ch8_miniDrills.py`; owner declaration of chapter completion 2026-08-11",
+      "booked": "2026-08-11"
     }
   ],
   "series": {
@@ -5711,6 +5723,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**MICRO-DRILL ROUND — blocks 4–6 of the Chapter 8 concept-drill set, closing all six blocks and thirty tests** (`Ch8_conceptDrills.py`). ⭐ **THE BEST THING IN THE ROW IS A DEFECT HE FOUND IN THE DRILL ITSELF.** Block 3's instruction read *\"move ONE line\"*; he determined `f.close()` sat inside the loop so moving one line yields a `ValueError`, moved both `open` and `close`, wrote out his reasoning, and **flagged it rather than assuming he was wrong** — verified against the original at git `351b0dfd`, which did carry `f.close()` inside the loop. The instruction was impossible as written. **Block 5 shelve: five of five, nothing supplied**, including the trap verbatim (`s['runs'].append()` silently discarding) and the rule in his own words — *\"you need to capture it and change the variable that caught it, then reassign\"* — the concept that cost him a session on 08-07 and that ATBS does not teach. Block 6 test 3 answered the question he himself asked on 08-07: *\"Import ran it like a program instead of reading it like a string or data.\"* Misses recorded and not hidden: block 1 test 5 ordered the calls so the raise halted the program; block 4 test 5 wrote `d.close` without parentheses; block 6 test 5 reached the right output through one dict of three keys instead of a list of three dicts. He read the full grade and elected to close the set without a rewrite pass"
+      },
+      {
+        "date": "2026-08-11",
+        "cum": 121,
+        "feet": 10,
+        "tier": "small",
+        "activity": "**CHAPTER FINISHED — ATBS Chapter 8 (Reading and Writing Files) COMPLETE.** The chapter-finish milestone, all four Amendment-I legs met and every one of them already on this ledger before the claim was made: **(a) READ** — pp.173→186 across 07-28, 07-29 and 07-30 · **(b) HIS OWN NOTES** — those three reading tinies book only because the notes are the proof-act; no notes, no tick · **(c) THE DRILL ROUNDS** — the 15-drill whole-chapter consolidation set on 07-31 (12 of 15), the `Ch8_miniDrills.py` block on 08-03, and the six-block concept-drill set closed across 08-10 and 08-11 · **(d) THE APPLIED PROGRAM RUNNING TO GOAL** — **`ch8_librarian.py` FINISHED on 2026-08-07**, stages 5 and 6 closed in one day to end a four-day build, booked at the time as a completed-program tick · **(e) READY TO ADVANCE** — declared by the owner, which is the only place that call can come from. The chapter ran 2026-07-28 → 2026-08-11, fifteen days"
       }
     ],
     "mlai": [
