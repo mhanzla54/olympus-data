@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 1047,
+    "overall_total": 1054,
     "generated_for": "2026-08-12",
-    "built_at": "2026-08-13T02:10:58.977Z",
+    "built_at": "2026-08-13T02:46:36.454Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 36
+      "ft_to_go": 29
     }
   },
   "lanes": [
@@ -37,7 +37,7 @@
       "t0_note": "couldn't write a single line of Python — ran his first print() the day before t0",
       "endpoint": "Replicate AND extend a frontier alignment result — public, runnable code",
       "endpoint_tier": "verylarge",
-      "current": 121,
+      "current": 122,
       "working_on": "Automate the Boring Stuff textbook"
     },
     {
@@ -57,7 +57,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 69,
+      "current": 71,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -77,7 +77,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 276,
+      "current": 278,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -87,7 +87,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 346,
+      "current": 348,
       "working_on": "the next new-pound low (≤ 214.8 lb)"
     },
     {
@@ -5675,6 +5675,97 @@
       "reasoning": "`Finish a whole Automate chapter` — small (10 ft), the rate since S31 and DEFENDED as recently as C3 Amendment I. **⚠️ THIS ROW EXISTS BECAUSE I GOT IT WRONG AN HOUR EARLIER AND THE OWNER PUSHED BACK.** In the 24th run I withheld this small saying *\"no placed row asserts the applied program meets its goal\"* — **and one did: my own 2026-08-07 row, which I wrote, booking the Librarian as FINISHED.** I also cited the 2026-08-01 refusal (3 of 7 requirements unmet) as governing precedent when the 08-07 completion had already superseded it. **I asserted a basis without grepping my own row-log, and the assertion carried feet.** That is verbatim the standing lesson from Amendment H-2 — *fact-check my own stated basis before it carries feet* — where the identical error inflated a tier tenfold; here it withheld ten. **⚖️ THIS IS A FACTUAL CORRECTION, NOT A C3 AMENDMENT, AND THE DISTINCTION IS THE WHOLE POINT.** The codebook did not move and no number was talked up: the tier was already small, the legs were already met, and the only thing that changed is that I finally looked. **A score that moves because the evidence was re-read is not a score that moved because it was argued for.** ✅ Days 4–17 is the measured band and 15 sits inside it — small confirmed, medium's floor is one month. ✅ Nesting as designed: roughly ELEVEN ch.8 segment tinies stack under this small (three reads, four drill rounds, three build sessions, one completed program), and the whole-book medium stacks above it. 🔎 DEDUP GREPPED: no ch.8 chapter-finish row existed; Ch.7's small (07-16) is the only prior chapter-finish in the log. 📌 **Ch.6's small remains unclaimed** — a separate 10 ft the climb has never paid, still needing a placed row",
       "evidence": "`curricula/python-foundations/code/ch8_librarian.py` (finished, ledger row 2026-08-07); `Ch8_conceptDrills.py`; `Ch8_miniDrills.py`; owner declaration of chapter completion 2026-08-11",
       "booked": "2026-08-11"
+    },
+    {
+      "date": "2026-08-11",
+      "lane": "body",
+      "activity": "**CALORIE-DAY ON PLAN — 2,472 kcal, FINAL, mid-band.** The 08-11 warehouse row reads `provisional: false`, `logged: full`, so this is a settled figure and not a hold. Judged against the flat hold's tick band of 2,100–2,700 (`protocol.reverseRamp.flatHold`, fromDate 2026-08-07 through 2026-08-15): 2,472 sits **372 above the floor and 228 below the ceiling** — comfortably inside on both edges. G-1 provenance re-checked: the flat hold is the owner's own pre-registered reverse program, not an agent's recommendation. ⚠️ The row's `dayType` STILL reads `reverse-ramp`, six days after the ramp ended — **fifth consecutive run flagging this stale field**; parameters were read off `flatHold`, never off `dayType`.",
+      "label": "CALORIE-DAY ON PLAN — 2,472 kcal, FINAL, mid-band",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 347,
+      "cum_overall": 1048,
+      "reasoning": "Placed as a late capture on 08-12, after my boot read of an empty queue. Dedup grepped first: 2026-08-11 carried NO ⚖️ Body row before this — the diet day had never been captured, let alone booked. The 08-11 run's ⚖️ +1 was the 08-10 calorie half curing late, a different day entirely.",
+      "evidence": "health-data.json (warehouse day row, pulled 2026-08-12); capture log 2026-08-12",
+      "booked": "2026-08-12"
+    },
+    {
+      "date": "2026-08-11",
+      "lane": "body",
+      "activity": "**PROTEIN-DAY — 166 g, six over the floor.** The 160 g floor is goal 180 − 20, unchanged on this date; the raise to 170 he ruled on 08-12 takes effect **from 2026-08-14** and does not reach backwards. `provisional: false` at the pull, and protein is monotonic in any case — it only rises, so no later true-up can take this figure below the line it already cleared.",
+      "label": "PROTEIN-DAY — 166 g, six over the floor",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 348,
+      "cum_overall": 1049,
+      "reasoning": "Independent of the calorie half by codebook design — the two ticks never gate each other. Dedup grepped: no ⚖️ row existed on 2026-08-11.",
+      "evidence": "health-data.json (warehouse day row, pulled 2026-08-12)",
+      "booked": "2026-08-12"
+    },
+    {
+      "date": "2026-08-12",
+      "lane": "method",
+      "activity": "**OSIRIS PROTOCOL DECISION SITTING — session 2 of 2, and the protocol's open questions are closed.** He read round 3 and ruled **all seven remaining items**: the unified H3, H7 restated per rule, H1's rewritten mechanism clause with H9 cut, the disclosure placement, the four controlled-access terms, the five §2.3 questions, and a sixth top-level coding category. He then ruled **impersonation events a data point only**, withdrawing a disclosure obligation he had previously attached — a reversal of his own prior position, made on the merits. **⚖️ THE APPENDIX A RULINGS FOLD INTO THIS TICK, NOT A SECOND ONE.** Three items 'never put to him in any round' were decided the same sitting — SP2's pressure arm re-anchored on the agent's own audience-formation targets (**neither of the two options he was offered**), the rehearsal specified as identical-configuration with divergence expected and every difference published, and the cross-platform disclosure floor set at the account-level description — producing MDL-157 and MDL-158. Same document, same arc, same afternoon: **the wrong thing is not two ticks in a day, it is two ticks for one body of work**, and §3 defaults a seam DOWN.",
+      "label": "OSIRIS PROTOCOL DECISION SITTING",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 70,
+      "cum_overall": 1050,
+      "reasoning": "One tick per (date, session-type). The 08-11 sitting-1 row and the 08-11 design row were BOTH already booked on the 08-11 run — the two late captures re-presenting them book nothing and are marked as duplicates. This is session 2, a new date, and it stands on its own.",
+      "evidence": "protocol-sittings/decisions-complete.md; protocol-draft.md Appendix A; MDL-157, MDL-158",
+      "booked": "2026-08-12"
+    },
+    {
+      "date": "2026-08-12",
+      "lane": "method",
+      "activity": "**OSIRIS SUBSTRATE DESIGN SESSION — six rulings, and the cheapest configuration on the board got cut by him.** He ruled the goals-hook shape (a pinned governance block that states the target only, with **no progress readout computed by the harness**), the twelve-row ladder stated whole and unchanging, skip-the-missed-waking on overrun logged as a named event, the protocol sweep deferred until the design has been seen to run, the funding floor at **2 wakings × 40 loops with 1×20 dropped entirely**, and the eviction plateau at 200,000 tokens. **⭐ THE ROW THAT EARNS NOTHING AND MATTERS MOST: he challenged two agent-supplied numbers and BOTH were wrong** — a 25,000-character eviction threshold argued against a one-million-token window, and a claimed \"$10.06 per million measured blended rate\" against GLM-5.2's published $1.40/M in and $4.40/M out. The second check found the substrate's cost ledger prices **every** token at one flat config constant, overstating recorded spend by ~6.7× ($38.21 recorded against ~$5.72 actual). **DEF-076, P1.** That is the fourth time this fortnight his own recall or arithmetic has beaten a written record.",
+      "label": "OSIRIS SUBSTRATE DESIGN SESSION",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 71,
+      "cum_overall": 1051,
+      "reasoning": "A different session-TYPE from the protocol sitting above, on the 07-29 and 08-11 shape: two artifacts, two bodies of work, two ticks. The number-challenge and the Crucible page-10 defect report fold in as this sitting's own residue — they are verification inside the design work, not a separate sitting.",
+      "evidence": "sketchbook pages 010–015; recaps/2026-08-12-recap.md; substrate-defects.md DEF-076; substrate/safety/cost.py:45-46",
+      "booked": "2026-08-12"
+    },
+    {
+      "date": "2026-08-12",
+      "lane": "coding",
+      "activity": "**ATBS Ch.9 READING SEGMENT + HIS OWN NOTES, with the same-session drill block folded in (Amendment B).** Read pp.197 to the top of 202, stopping at the *Walking a Directory Tree* heading, and took his own notes; then worked a 6-drill block built from those very pages (`Ch9_miniDrills.py`). Amendment B is explicit — reading a segment and drilling **that same just-read material** in the same session is **ONE tiny together**, the notes being the proof-act. **⭐ HIS AUTHORSHIP IS THE SUBSTANTIAL MAJORITY AND THE QUALITY OF IT IS THE POINT:** drill 1 both predictions right *including the reason*; drill 2 written correctly, choosing append mode unprompted so a missing file is created without an existing one being wiped; **drill 3 he diagnosed the `shutil.move` rename trap in his own words BEFORE being told** — *\"there was no folder called archive… so the function read sandbox as the folder and archive the new name of the file\"* — and prescribed the fix himself; drill 6 not written but reasoned aloud, and all three of his predictions correct. Drills 4 and 5 shared one real error (a bare `os.listdir` name where a joined path was needed). He also caught two of his own environment errors mid-session.",
+      "label": "ATBS Ch.9 READING SEGMENT + HIS OWN NOTES, with the…",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 122,
+      "cum_overall": 1052,
+      "reasoning": "ONE tiny, not two: the drills are practice on the just-read pages, which Amendment B folds into the reading tick. A distinct standalone build would have been its own tick; this is not one. The two POLARIS rows describing this work are the SAME EVENT — the capturer said so in the row itself — and are not counted twice.",
+      "evidence": "Ch9_miniDrills.py; _explainers/2026-08-12-ch9-drill-by-drill.html; POLARIS live marks 2026-08-12",
+      "booked": "2026-08-12"
+    },
+    {
+      "date": "2026-08-12",
+      "lane": "strength",
+      "activity": "**SPARSE-TRAINING DAY — 7 distinct items, 12 total efforts, the six-item floor met.** Hand/finger/wrist · ankle dorsiflexion ×2 · hamstring · hip-flexor training · band external rotation ×2 · bunion work ×2 · ankle strengthening ×3. **⭐ TWO NEW MENU ITEMS WERE ADDED AND BOTH WERE TRAINED THE SAME DAY** — item 17 (bunion work, his stated reason *\"I need to heal it\"*) and item 18 (ankle strengthening, deliberately split from item 2's mobility half). That has not happened before on this menu: item 16 was added 08-11 and went untrained, item 12 waited fifteen days for its first entry, and item 13 has never been logged in nineteen days. **The menu grows because he keeps finding the thing that actually limits him** — the same instinct that re-cut the Legs ladder on an ankle-mobility diagnosis.",
+      "label": "SPARSE-TRAINING DAY — 7 distinct items, 12 total efforts,…",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 277,
+      "cum_overall": 1053,
+      "reasoning": "Day-keyed, one per (date, kind); 2026-08-12 carried no 🏋️ row before this. The disjoint-work rule is satisfied on the facts, NOT trivially — ⚠️ MY FIRST BASIS HERE WAS WRONG. I wrote that no workout was logged on this date; a Day B Legs+Core session was logged, its row landing in the queue while I was mid-scoring. Re-checked item by item: Day B was pull-ups, oblique knee raises, feet-elevated ring rows and pistols; the sparse menu was hand/finger/wrist, ankle dorsiflexion, hamstring, hip-flexor, band external rotation, bunion work and ankle strengthening. **No rep counts twice** — the two sets are disjoint, so the tick stands and the session tiny stacks beside it. The correction is to my reasoning, never to the feet.",
+      "evidence": "sparse-training-log.md; sparse-training.md",
+      "booked": "2026-08-12"
+    },
+    {
+      "date": "2026-08-12",
+      "lane": "strength",
+      "activity": "**DAY B LEGS+CORE — a logged full session, NO rung cleared.** Pull-up ★full 3×8 target: 5, 4, 2 (negatives back-off 3, 4, 6) · oblique knee raises ★ 3×8/side: 5.5, 4.5, 4.5 · feet-elevated ring row ★ 3×8: 6, 5.5, 5 · full pistol ★heel-elevated ~2\" no hand assist 3×5/leg: 3, 2, 1.5. Every lift short of its unlock target, so this is the ordinary-training-day case: **the session tiny is the whole price of the day**, exactly as on 07-04 and 07-25. ⚠️ **THE PISTOL ATTEMPT IS FLAGGED, NOT SCORED, AND NOT REFUSED EITHER.** He attempted the inserted heel-elevated rung — the one Amendment J records as UNBANDED — and did **not** clear it (3, 2, 1.5 against 5/leg). Nothing is owed on it. **My reading, and it is his to rule:** Amendment J's condition reads *banded before he attempts it, never after*, but its stated REASON is that a band built once the clear is in hand is a band fitted to an outcome (G-1 bound 4). **No clear is in hand.** Banding it now is therefore still banding it before it can pay, which is what the rule is actually protecting. The door is his.",
+      "label": "DAY B LEGS+CORE — a logged full session, NO rung cleared",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 278,
+      "cum_overall": 1054,
+      "reasoning": "Session-tiny and rung-clear stack (owner ruling 2026-07-09), but no rung cleared here, so only the session pays. Day-keyed; 2026-08-12 carried no workout row before this. The sparse-training tiny booked above stands alongside it — different work, no rep counted twice. **This row exists because three capture rows landed WHILE I was scoring; my sweep marked them ✓ before I had judged them.** Caught on the same pass, judged properly, and the marker-state law is restored.",
+      "evidence": "workout-log.md 2026-08-12 entry; capture log 2026-08-12",
+      "booked": "2026-08-12"
     }
   ],
   "series": {
@@ -6147,6 +6238,13 @@
         "feet": 10,
         "tier": "small",
         "activity": "**CHAPTER FINISHED — ATBS Chapter 8 (Reading and Writing Files) COMPLETE.** The chapter-finish milestone, all four Amendment-I legs met and every one of them already on this ledger before the claim was made: **(a) READ** — pp.173→186 across 07-28, 07-29 and 07-30 · **(b) HIS OWN NOTES** — those three reading tinies book only because the notes are the proof-act; no notes, no tick · **(c) THE DRILL ROUNDS** — the 15-drill whole-chapter consolidation set on 07-31 (12 of 15), the `Ch8_miniDrills.py` block on 08-03, and the six-block concept-drill set closed across 08-10 and 08-11 · **(d) THE APPLIED PROGRAM RUNNING TO GOAL** — **`ch8_librarian.py` FINISHED on 2026-08-07**, stages 5 and 6 closed in one day to end a four-day build, booked at the time as a completed-program tick · **(e) READY TO ADVANCE** — declared by the owner, which is the only place that call can come from. The chapter ran 2026-07-28 → 2026-08-11, fifteen days"
+      },
+      {
+        "date": "2026-08-12",
+        "cum": 122,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**ATBS Ch.9 READING SEGMENT + HIS OWN NOTES, with the same-session drill block folded in (Amendment B).** Read pp.197 to the top of 202, stopping at the *Walking a Directory Tree* heading, and took his own notes; then worked a 6-drill block built from those very pages (`Ch9_miniDrills.py`). Amendment B is explicit — reading a segment and drilling **that same just-read material** in the same session is **ONE tiny together**, the notes being the proof-act. **⭐ HIS AUTHORSHIP IS THE SUBSTANTIAL MAJORITY AND THE QUALITY OF IT IS THE POINT:** drill 1 both predictions right *including the reason*; drill 2 written correctly, choosing append mode unprompted so a missing file is created without an existing one being wiped; **drill 3 he diagnosed the `shutil.move` rename trap in his own words BEFORE being told** — *\"there was no folder called archive… so the function read sandbox as the folder and archive the new name of the file\"* — and prescribed the fix himself; drill 6 not written but reasoned aloud, and all three of his predictions correct. Drills 4 and 5 shared one real error (a bare `os.listdir` name where a joined path was needed). He also caught two of his own environment errors mid-session."
       }
     ],
     "mlai": [
@@ -7068,6 +7166,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**OSIRIS DESIGN SESSION — two design runs worked and ruled, and the largest call in them is one he made against his own agent.** He had set three research jobs on 08-10, received them this session, and ruled: evict-with-handles and pinned governance · the two-organ memory split · all three browsing capabilities (folders, glob, grep) · the day-log mechanism as drawn · option C on day-file naming. ⭐ **He OVERRULED the agent's dollar-bound ceiling in favour of a fixed loop count whose number is DERIVED from money and re-derived at each funding scale**, then set the shape himself: *\"our ideal goal is 50 loops per waking. We do six wakings a day… that would be roughly every four hours… but I would really prefer four or more at 50 loops.\"* **He also declined to open the goals hook as a build** and stated the principle behind the refusal: *\"This is what design runs are for… we work through things, realize there are more things to work through. We set those aside, and then that's what we'll discuss in the next design run.\"*"
+      },
+      {
+        "date": "2026-08-12",
+        "cum": 70,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**OSIRIS PROTOCOL DECISION SITTING — session 2 of 2, and the protocol's open questions are closed.** He read round 3 and ruled **all seven remaining items**: the unified H3, H7 restated per rule, H1's rewritten mechanism clause with H9 cut, the disclosure placement, the four controlled-access terms, the five §2.3 questions, and a sixth top-level coding category. He then ruled **impersonation events a data point only**, withdrawing a disclosure obligation he had previously attached — a reversal of his own prior position, made on the merits. **⚖️ THE APPENDIX A RULINGS FOLD INTO THIS TICK, NOT A SECOND ONE.** Three items 'never put to him in any round' were decided the same sitting — SP2's pressure arm re-anchored on the agent's own audience-formation targets (**neither of the two options he was offered**), the rehearsal specified as identical-configuration with divergence expected and every difference published, and the cross-platform disclosure floor set at the account-level description — producing MDL-157 and MDL-158. Same document, same arc, same afternoon: **the wrong thing is not two ticks in a day, it is two ticks for one body of work**, and §3 defaults a seam DOWN."
+      },
+      {
+        "date": "2026-08-12",
+        "cum": 71,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**OSIRIS SUBSTRATE DESIGN SESSION — six rulings, and the cheapest configuration on the board got cut by him.** He ruled the goals-hook shape (a pinned governance block that states the target only, with **no progress readout computed by the harness**), the twelve-row ladder stated whole and unchanging, skip-the-missed-waking on overrun logged as a named event, the protocol sweep deferred until the design has been seen to run, the funding floor at **2 wakings × 40 loops with 1×20 dropped entirely**, and the eviction plateau at 200,000 tokens. **⭐ THE ROW THAT EARNS NOTHING AND MATTERS MOST: he challenged two agent-supplied numbers and BOTH were wrong** — a 25,000-character eviction threshold argued against a one-million-token window, and a claimed \"$10.06 per million measured blended rate\" against GLM-5.2's published $1.40/M in and $4.40/M out. The second check found the substrate's cost ledger prices **every** token at one flat config constant, overstating recorded spend by ~6.7× ($38.21 recorded against ~$5.72 actual). **DEF-076, P1.** That is the fourth time this fortnight his own recall or arithmetic has beaten a written record."
       }
     ],
     "literature": [
@@ -7583,6 +7695,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**SPARSE-TRAINING DAY — 8 distinct items, 15 total efforts, the ≥6 floor met by two.** Hand/finger/wrist ×2 · ankle dorsiflexion ×2 · hamstring ×1 · calf ×1 · chest/arm/shoulder ×2 · hip-flexor stretch ×2 · hip-flexor training ×2 · band external rotation / shoulder-stability ×3. **The whole stretch block came in together** — items 1–6 plus 8, the pistol/mobility chain nearly complete in one day — while the asymmetry group (10, 11, 12) was entirely absent, the first such day since 08-01. **He added a new menu item himself: item 16, hip stability work incl. adductors** — he raised adductors as a possible separate row and folded them in himself (*\"that'll just fall under hip stability, I guess\"*)"
+      },
+      {
+        "date": "2026-08-12",
+        "cum": 277,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**SPARSE-TRAINING DAY — 7 distinct items, 12 total efforts, the six-item floor met.** Hand/finger/wrist · ankle dorsiflexion ×2 · hamstring · hip-flexor training · band external rotation ×2 · bunion work ×2 · ankle strengthening ×3. **⭐ TWO NEW MENU ITEMS WERE ADDED AND BOTH WERE TRAINED THE SAME DAY** — item 17 (bunion work, his stated reason *\"I need to heal it\"*) and item 18 (ankle strengthening, deliberately split from item 2's mobility half). That has not happened before on this menu: item 16 was added 08-11 and went untrained, item 12 waited fifteen days for its first entry, and item 13 has never been logged in nineteen days. **The menu grows because he keeps finding the thing that actually limits him** — the same instinct that re-cut the Legs ladder on an ankle-mobility diagnosis."
+      },
+      {
+        "date": "2026-08-12",
+        "cum": 278,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**DAY B LEGS+CORE — a logged full session, NO rung cleared.** Pull-up ★full 3×8 target: 5, 4, 2 (negatives back-off 3, 4, 6) · oblique knee raises ★ 3×8/side: 5.5, 4.5, 4.5 · feet-elevated ring row ★ 3×8: 6, 5.5, 5 · full pistol ★heel-elevated ~2\" no hand assist 3×5/leg: 3, 2, 1.5. Every lift short of its unlock target, so this is the ordinary-training-day case: **the session tiny is the whole price of the day**, exactly as on 07-04 and 07-25. ⚠️ **THE PISTOL ATTEMPT IS FLAGGED, NOT SCORED, AND NOT REFUSED EITHER.** He attempted the inserted heel-elevated rung — the one Amendment J records as UNBANDED — and did **not** clear it (3, 2, 1.5 against 5/leg). Nothing is owed on it. **My reading, and it is his to rule:** Amendment J's condition reads *banded before he attempts it, never after*, but its stated REASON is that a band built once the clear is in hand is a band fitted to an outcome (G-1 bound 4). **No clear is in hand.** Banding it now is therefore still banding it before it can pay, which is what the rule is actually protecting. The door is his."
       }
     ],
     "body": [
@@ -8558,6 +8684,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**CALORIE-DAY BOOKED LATE — THE SEVENTEENTH HOLD CURES, AND THE NUMBER NEVER MOVED.** The 2026-08-11T08:14:53 freshness pull flips the 08-10 row `provisional: false`, `logged: full`, 0 open flags: **FINAL at 2,226 kcal**, unchanged by a single calorie from the provisional reading I refused to book on 08-10. Against the flat hold's 2,100–2,700 tick band that is 126 above the floor with 474 kcal of ceiling headroom — mid-band, and now settled"
+      },
+      {
+        "date": "2026-08-11",
+        "cum": 347,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**CALORIE-DAY ON PLAN — 2,472 kcal, FINAL, mid-band.** The 08-11 warehouse row reads `provisional: false`, `logged: full`, so this is a settled figure and not a hold. Judged against the flat hold's tick band of 2,100–2,700 (`protocol.reverseRamp.flatHold`, fromDate 2026-08-07 through 2026-08-15): 2,472 sits **372 above the floor and 228 below the ceiling** — comfortably inside on both edges. G-1 provenance re-checked: the flat hold is the owner's own pre-registered reverse program, not an agent's recommendation. ⚠️ The row's `dayType` STILL reads `reverse-ramp`, six days after the ramp ended — **fifth consecutive run flagging this stale field**; parameters were read off `flatHold`, never off `dayType`."
+      },
+      {
+        "date": "2026-08-11",
+        "cum": 348,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**PROTEIN-DAY — 166 g, six over the floor.** The 160 g floor is goal 180 − 20, unchanged on this date; the raise to 170 he ruled on 08-12 takes effect **from 2026-08-14** and does not reach backwards. `provisional: false` at the pull, and protein is monotonic in any case — it only rises, so no later true-up can take this figure below the line it already cleared."
       }
     ],
     "fieldpresence": [
