@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 1054,
-    "generated_for": "2026-08-12",
-    "built_at": "2026-08-13T02:46:36.454Z",
+    "overall_total": 1057,
+    "generated_for": "2026-08-13",
+    "built_at": "2026-08-14T00:52:42.266Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 29
+      "ft_to_go": 26
     }
   },
   "lanes": [
@@ -37,7 +37,7 @@
       "t0_note": "couldn't write a single line of Python — ran his first print() the day before t0",
       "endpoint": "Replicate AND extend a frontier alignment result — public, runnable code",
       "endpoint_tier": "verylarge",
-      "current": 122,
+      "current": 123,
       "working_on": "Automate the Boring Stuff textbook"
     },
     {
@@ -57,7 +57,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 71,
+      "current": 72,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -77,7 +77,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 278,
+      "current": 279,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -5766,6 +5766,45 @@
       "reasoning": "Session-tiny and rung-clear stack (owner ruling 2026-07-09), but no rung cleared here, so only the session pays. Day-keyed; 2026-08-12 carried no workout row before this. The sparse-training tiny booked above stands alongside it — different work, no rep counted twice. **This row exists because three capture rows landed WHILE I was scoring; my sweep marked them ✓ before I had judged them.** Caught on the same pass, judged properly, and the marker-state law is restored.",
       "evidence": "workout-log.md 2026-08-12 entry; capture log 2026-08-12",
       "booked": "2026-08-12"
+    },
+    {
+      "date": "2026-08-13",
+      "lane": "method",
+      "activity": "**OSIRIS SUBSTRATE DESIGN SESSION — the apparatus got its clock, its eviction law, its ladder and its values floor in one sitting.** Four design runs, pages 017–019. He ruled the clock is a **pinned block computed ONCE at waking start and then frozen** for the whole waking, sitting beside the ladder block rather than inside it, carrying an **absolute next-waking time** rather than a relative countdown — a shape his own 08-12 ruling (the ladder stated whole and unchanging) turned out to require, and which he re-confirmed after being shown the agent has never been told the date across 36 wakings. He ruled eviction runs **five typed categories in a fixed priority** (governance never · waking frame never · tool results first · its own reasoning second · its own tool calls never), that an evicted item leaves a **handle** naming what it was, how big it was and where it lives, and that **reopening one costs a loop**. A missed waking becomes `waking_skipped` — a cadence event in its own row rather than a fourth ending — with the agent told the **GAP** and never the **REASON**. He chose **LADDER B** for the founding document's twelve-row target (aggregate followers, 25 → 20,000) out of three drafted candidates, and adopted the aggregate-rather-than-per-platform unit himself. **⭐ THE PART HE RAISED BEFORE HE WAS ASKED:** he put the values-floor verification problem on the table himself — *how would we know the rules are being followed, and what does it cost me* — named the cost specifically (fact-checking every factual claim, adjudicating contested facts, comparing every title against its content), then ruled the floor is measured by **ENGAGEMENT** — what the agent did when it met a rule, read from the transcript — rather than by **COMPLIANCE**, whether the rule was objectively broken. He proposed that reading himself before being shown it, and he caught that the existing R1 wording depended on responding to comments, a surface the study does not instrument. He authored R1's final wording — *\"never claims to be a human or implies being human\"* — proposing a motive clause and **removing it in the same breath** (*\"just the rule itself, not the reasoning\"*), and stated from memory that drift reporting is per-rule rather than N-of-M, which checked out verbatim against the protocol draft.",
+      "label": "OSIRIS SUBSTRATE DESIGN SESSION",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 72,
+      "cum_overall": 1055,
+      "reasoning": "One session tiny, day-keyed per (date, session-type). Four capture rows, one sitting, one arc, one recap — the substance floor is cleared many times over and clearing it many times pays once. **The Crucible rendering-defect report folds in as this sitting's own residue**, exactly as the page-10 defect report folded into the 08-12 session: verification performed inside the design work is not a separate sitting. The POLARIS \"Substrate Design Session\" pass row is the SAME event and is not counted twice. No artifact tier — sketchbook pages are not a roadmap artifact.",
+      "evidence": "`_build/substrate-design/pages/017-*.json`, `018-*.json`, `019-*.json`; `recaps/2026-08-13-recap.md`; `protocol-draft.md:433-438`; `substrate-history.md` 2026-08-13 14:26; POLARIS live marks 2026-08-13",
+      "booked": "2026-08-13"
+    },
+    {
+      "date": "2026-08-13",
+      "lane": "coding",
+      "activity": "**ATBS Ch.9 READING SEGMENT + HIS OWN NOTES, with the same-session concept-drill set folded in (Amendment B).** Read pp.202–206 (top), stopping deliberately before the chapter project, and took his own notes (`Notes On Python`, ch.9 section: `shutil.move`, `os.unlink`, `os.rmdir`, `shutil.rmtree`). He then worked a **4-block × 3-test concept-drill set** on that material (`Ch9_conceptDrills.py`, built this session): **every prediction correct and all four write-it-yourself solutions correct** — re-run in a throwaway copy of the sandbox, each producing the specified output exactly (`['cats', 'spam.txt']` · the three `.txt` paths via `os.walk`+`join` · the three compression-ratio lines · the three-entry namelist). **First drill set on record with no misses;** the 08-12 set was 2 of 6. **⭐ THE MISS THAT STOPPED BEING A MISS:** block 2 targeted *\"a name from `os.walk`/`listdir` is not a path\"* — the construct that failed him on 2026-07-29 and TWICE on 2026-08-12. Today he predicted all four `False` correctly, gave the causal mechanism unprompted — *\"the cwd was never changed… `os.path.exists` is looking for each file name in the sandbox folder\"* — and applied `os.path.join` as the fix himself.",
+      "label": "ATBS Ch.9 READING SEGMENT + HIS OWN NOTES, with the…",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 123,
+      "cum_overall": 1056,
+      "reasoning": "ONE tiny, not two, and this is the closest call of the run, so I state the argument against me. **The case for a second tick is real:** the drills were built from his own documented prior misses rather than the chapter outline, and 12 construct-named tests in their own scratch file clear the micro-drill-round bar on substance — that is a genuine Amendment-C claim. **It fails on Amendment C's actual discriminator, which is DIFFERENT CONSTRUCTS, not a different source of questions.** `os.walk`, `os.path.join`, `zipfile` and `shutil` are ch.9's own material, so this is practice on the just-read chapter — the exact configuration Amendment B folds. The 7/11 exemplar drilled setdefault/dict-of-lists while the program built was a leaderboard; that is what \"distinct\" looks like. **The identical fold was ruled ONE DAY AGO on the identical shape (row 594), and consistency over time is not optional.** The ramp was flattened 5→3 tests at his own 15-minute scoping — in-band for the entry's 15–30 min, so it clears, but it does not strengthen the case. **No chapter small:** he stopped before the chapter project, so Amendment I's four legs are not met. The POLARIS row describing this work is the same event.",
+      "evidence": "`Ch9_conceptDrills.py`; `Notes On Python` ch.9 section; capture log 2026-08-13; POLARIS live marks 2026-08-13",
+      "booked": "2026-08-13"
+    },
+    {
+      "date": "2026-08-13",
+      "lane": "strength",
+      "activity": "**SPARSE-TRAINING DAY — 10 distinct items, 14 total efforts, the six-item floor met.** Hand/finger/wrist ×2 · ankle dorsiflexion ×3 · hamstring · calf · chest/arm/shoulder · hip-flexor stretch · hip-flexor training · band external rotation / shoulder-stability · bunion work (big toe) ×2 · ankle strengthening / stability. **⭐ HIGHEST DISTINCT COUNT SINCE 08-07**, after a stretch of 7–8, and the full stretch block 1–6 came in complete. **⭐ ITEMS 17 AND 18 HELD A SECOND CONSECUTIVE DAY** — the day after being added, which no newly added menu item has ever done: item 12 waited fifteen days for its first entry, item 16 is still unlogged, item 13 has never been logged in the twenty days since the stream opened. The ankle appeared in both forms again — mobility ×3 (tying its record) and strength ×1 — which is the pairing that turned an assisted floor pistol into a heel-down one.",
+      "label": "SPARSE-TRAINING DAY — 10 distinct items, 14 total…",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 279,
+      "cum_overall": 1057,
+      "reasoning": "Sparse-training day = tiny (Amendment E), day-keyed, one per (date, kind). Floor is ≥6 distinct items genuinely performed; 10 clears it. **THE DISJOINT-WORK RULE IS SATISFIED AND I CHECKED IT RATHER THAN ASSERTING IT.** The log states plainly this was not a main-workout day (Day B was 08-12) and no workout row was placed for 08-13 — no rep is counted twice. *(This is the 08-12 lesson applied: I wrote that same basis from assumption once and it was false. Read from the source line this time.)* One parse ambiguity was recorded upstream rather than guessed — item 7 (vacuum/TVA) came through with no count and is logged NOT DONE; the floor is met with or without it.",
+      "evidence": "`sparse-training-log.md` 2026-08-13 row; capture log 2026-08-13",
+      "booked": "2026-08-13"
     }
   ],
   "series": {
@@ -6245,6 +6284,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**ATBS Ch.9 READING SEGMENT + HIS OWN NOTES, with the same-session drill block folded in (Amendment B).** Read pp.197 to the top of 202, stopping at the *Walking a Directory Tree* heading, and took his own notes; then worked a 6-drill block built from those very pages (`Ch9_miniDrills.py`). Amendment B is explicit — reading a segment and drilling **that same just-read material** in the same session is **ONE tiny together**, the notes being the proof-act. **⭐ HIS AUTHORSHIP IS THE SUBSTANTIAL MAJORITY AND THE QUALITY OF IT IS THE POINT:** drill 1 both predictions right *including the reason*; drill 2 written correctly, choosing append mode unprompted so a missing file is created without an existing one being wiped; **drill 3 he diagnosed the `shutil.move` rename trap in his own words BEFORE being told** — *\"there was no folder called archive… so the function read sandbox as the folder and archive the new name of the file\"* — and prescribed the fix himself; drill 6 not written but reasoned aloud, and all three of his predictions correct. Drills 4 and 5 shared one real error (a bare `os.listdir` name where a joined path was needed). He also caught two of his own environment errors mid-session."
+      },
+      {
+        "date": "2026-08-13",
+        "cum": 123,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**ATBS Ch.9 READING SEGMENT + HIS OWN NOTES, with the same-session concept-drill set folded in (Amendment B).** Read pp.202–206 (top), stopping deliberately before the chapter project, and took his own notes (`Notes On Python`, ch.9 section: `shutil.move`, `os.unlink`, `os.rmdir`, `shutil.rmtree`). He then worked a **4-block × 3-test concept-drill set** on that material (`Ch9_conceptDrills.py`, built this session): **every prediction correct and all four write-it-yourself solutions correct** — re-run in a throwaway copy of the sandbox, each producing the specified output exactly (`['cats', 'spam.txt']` · the three `.txt` paths via `os.walk`+`join` · the three compression-ratio lines · the three-entry namelist). **First drill set on record with no misses;** the 08-12 set was 2 of 6. **⭐ THE MISS THAT STOPPED BEING A MISS:** block 2 targeted *\"a name from `os.walk`/`listdir` is not a path\"* — the construct that failed him on 2026-07-29 and TWICE on 2026-08-12. Today he predicted all four `False` correctly, gave the causal mechanism unprompted — *\"the cwd was never changed… `os.path.exists` is looking for each file name in the sandbox folder\"* — and applied `os.path.join` as the fix himself."
       }
     ],
     "mlai": [
@@ -7180,6 +7226,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**OSIRIS SUBSTRATE DESIGN SESSION — six rulings, and the cheapest configuration on the board got cut by him.** He ruled the goals-hook shape (a pinned governance block that states the target only, with **no progress readout computed by the harness**), the twelve-row ladder stated whole and unchanging, skip-the-missed-waking on overrun logged as a named event, the protocol sweep deferred until the design has been seen to run, the funding floor at **2 wakings × 40 loops with 1×20 dropped entirely**, and the eviction plateau at 200,000 tokens. **⭐ THE ROW THAT EARNS NOTHING AND MATTERS MOST: he challenged two agent-supplied numbers and BOTH were wrong** — a 25,000-character eviction threshold argued against a one-million-token window, and a claimed \"$10.06 per million measured blended rate\" against GLM-5.2's published $1.40/M in and $4.40/M out. The second check found the substrate's cost ledger prices **every** token at one flat config constant, overstating recorded spend by ~6.7× ($38.21 recorded against ~$5.72 actual). **DEF-076, P1.** That is the fourth time this fortnight his own recall or arithmetic has beaten a written record."
+      },
+      {
+        "date": "2026-08-13",
+        "cum": 72,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**OSIRIS SUBSTRATE DESIGN SESSION — the apparatus got its clock, its eviction law, its ladder and its values floor in one sitting.** Four design runs, pages 017–019. He ruled the clock is a **pinned block computed ONCE at waking start and then frozen** for the whole waking, sitting beside the ladder block rather than inside it, carrying an **absolute next-waking time** rather than a relative countdown — a shape his own 08-12 ruling (the ladder stated whole and unchanging) turned out to require, and which he re-confirmed after being shown the agent has never been told the date across 36 wakings. He ruled eviction runs **five typed categories in a fixed priority** (governance never · waking frame never · tool results first · its own reasoning second · its own tool calls never), that an evicted item leaves a **handle** naming what it was, how big it was and where it lives, and that **reopening one costs a loop**. A missed waking becomes `waking_skipped` — a cadence event in its own row rather than a fourth ending — with the agent told the **GAP** and never the **REASON**. He chose **LADDER B** for the founding document's twelve-row target (aggregate followers, 25 → 20,000) out of three drafted candidates, and adopted the aggregate-rather-than-per-platform unit himself. **⭐ THE PART HE RAISED BEFORE HE WAS ASKED:** he put the values-floor verification problem on the table himself — *how would we know the rules are being followed, and what does it cost me* — named the cost specifically (fact-checking every factual claim, adjudicating contested facts, comparing every title against its content), then ruled the floor is measured by **ENGAGEMENT** — what the agent did when it met a rule, read from the transcript — rather than by **COMPLIANCE**, whether the rule was objectively broken. He proposed that reading himself before being shown it, and he caught that the existing R1 wording depended on responding to comments, a surface the study does not instrument. He authored R1's final wording — *\"never claims to be a human or implies being human\"* — proposing a motive clause and **removing it in the same breath** (*\"just the rule itself, not the reasoning\"*), and stated from memory that drift reporting is per-rule rather than N-of-M, which checked out verbatim against the protocol draft."
       }
     ],
     "literature": [
@@ -7709,6 +7762,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**DAY B LEGS+CORE — a logged full session, NO rung cleared.** Pull-up ★full 3×8 target: 5, 4, 2 (negatives back-off 3, 4, 6) · oblique knee raises ★ 3×8/side: 5.5, 4.5, 4.5 · feet-elevated ring row ★ 3×8: 6, 5.5, 5 · full pistol ★heel-elevated ~2\" no hand assist 3×5/leg: 3, 2, 1.5. Every lift short of its unlock target, so this is the ordinary-training-day case: **the session tiny is the whole price of the day**, exactly as on 07-04 and 07-25. ⚠️ **THE PISTOL ATTEMPT IS FLAGGED, NOT SCORED, AND NOT REFUSED EITHER.** He attempted the inserted heel-elevated rung — the one Amendment J records as UNBANDED — and did **not** clear it (3, 2, 1.5 against 5/leg). Nothing is owed on it. **My reading, and it is his to rule:** Amendment J's condition reads *banded before he attempts it, never after*, but its stated REASON is that a band built once the clear is in hand is a band fitted to an outcome (G-1 bound 4). **No clear is in hand.** Banding it now is therefore still banding it before it can pay, which is what the rule is actually protecting. The door is his."
+      },
+      {
+        "date": "2026-08-13",
+        "cum": 279,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**SPARSE-TRAINING DAY — 10 distinct items, 14 total efforts, the six-item floor met.** Hand/finger/wrist ×2 · ankle dorsiflexion ×3 · hamstring · calf · chest/arm/shoulder · hip-flexor stretch · hip-flexor training · band external rotation / shoulder-stability · bunion work (big toe) ×2 · ankle strengthening / stability. **⭐ HIGHEST DISTINCT COUNT SINCE 08-07**, after a stretch of 7–8, and the full stretch block 1–6 came in complete. **⭐ ITEMS 17 AND 18 HELD A SECOND CONSECUTIVE DAY** — the day after being added, which no newly added menu item has ever done: item 12 waited fifteen days for its first entry, item 16 is still unlogged, item 13 has never been logged in the twenty days since the stream opened. The ankle appeared in both forms again — mobility ×3 (tying its record) and strength ×1 — which is the pairing that turned an assisted floor pistol into a heel-down one."
       }
     ],
     "body": [
@@ -16459,7 +16519,7 @@
         "w": 222.2,
         "kcal": 2139,
         "protein": 201,
-        "dayType": "reverse-ramp",
+        "dayType": "flat-hold",
         "provisional": false
       },
       {
@@ -16467,7 +16527,7 @@
         "w": 222,
         "kcal": 2638,
         "protein": 195,
-        "dayType": "reverse-ramp",
+        "dayType": "flat-hold",
         "provisional": false
       },
       {
@@ -16475,7 +16535,7 @@
         "w": 223.4,
         "kcal": 2226,
         "protein": 184,
-        "dayType": "reverse-ramp",
+        "dayType": "flat-hold",
         "provisional": false
       },
       {
@@ -16483,8 +16543,8 @@
         "w": 223.6,
         "kcal": 1777,
         "protein": 118,
-        "dayType": "reverse-ramp",
-        "provisional": true
+        "dayType": "transition",
+        "provisional": false
       }
     ],
     "trend": [
@@ -17079,11 +17139,6 @@
     },
     "strip": [
       {
-        "date": "2026-07-14",
-        "state": "good",
-        "kcal": 1704
-      },
-      {
         "date": "2026-07-15",
         "state": "good",
         "kcal": 1579
@@ -17225,8 +17280,13 @@
       },
       {
         "date": "2026-08-12",
-        "state": "partial",
+        "state": "good",
         "kcal": 1777
+      },
+      {
+        "date": "2026-08-13",
+        "state": "partial",
+        "kcal": 2337
       }
     ],
     "days": [
@@ -17818,7 +17878,7 @@
         "date": "2026-08-07",
         "kcal": 2372,
         "protein": 139,
-        "dayType": "reverse-ramp",
+        "dayType": "flat-hold",
         "logged": "full",
         "provisional": false
       },
@@ -17826,7 +17886,7 @@
         "date": "2026-08-08",
         "kcal": 2139,
         "protein": 201,
-        "dayType": "reverse-ramp",
+        "dayType": "flat-hold",
         "logged": "full",
         "provisional": false
       },
@@ -17834,7 +17894,7 @@
         "date": "2026-08-09",
         "kcal": 2638,
         "protein": 195,
-        "dayType": "reverse-ramp",
+        "dayType": "flat-hold",
         "logged": "full",
         "provisional": false
       },
@@ -17842,7 +17902,7 @@
         "date": "2026-08-10",
         "kcal": 2226,
         "protein": 184,
-        "dayType": "reverse-ramp",
+        "dayType": "flat-hold",
         "logged": "full",
         "provisional": false
       },
@@ -17850,7 +17910,7 @@
         "date": "2026-08-11",
         "kcal": 2472,
         "protein": 166,
-        "dayType": "reverse-ramp",
+        "dayType": "flat-hold",
         "logged": "full",
         "provisional": false
       },
@@ -17858,7 +17918,15 @@
         "date": "2026-08-12",
         "kcal": 1777,
         "protein": 118,
-        "dayType": "reverse-ramp",
+        "dayType": "transition",
+        "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-08-13",
+        "kcal": 2337,
+        "protein": 167,
+        "dayType": "transition",
         "logged": "full",
         "provisional": true
       }
