@@ -20,8 +20,8 @@
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
     "overall_total": 1057,
-    "generated_for": "2026-08-13",
-    "built_at": "2026-08-14T00:52:42.266Z",
+    "generated_for": "2026-08-15",
+    "built_at": "2026-08-15T18:12:38.214Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
@@ -17139,16 +17139,6 @@
     },
     "strip": [
       {
-        "date": "2026-07-15",
-        "state": "good",
-        "kcal": 1579
-      },
-      {
-        "date": "2026-07-16",
-        "state": "good",
-        "kcal": 1554
-      },
-      {
         "date": "2026-07-17",
         "state": "good",
         "kcal": 1495
@@ -17285,8 +17275,18 @@
       },
       {
         "date": "2026-08-13",
-        "state": "partial",
+        "state": "off",
         "kcal": 2337
+      },
+      {
+        "date": "2026-08-14",
+        "state": "partial",
+        "kcal": 0
+      },
+      {
+        "date": "2026-08-15",
+        "state": "partial",
+        "kcal": 815
       }
     ],
     "days": [
@@ -17926,6 +17926,22 @@
         "date": "2026-08-13",
         "kcal": 2337,
         "protein": 167,
+        "dayType": "transition",
+        "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-08-14",
+        "kcal": 0,
+        "protein": 0,
+        "dayType": "empty",
+        "logged": "empty",
+        "provisional": false
+      },
+      {
+        "date": "2026-08-15",
+        "kcal": 815,
+        "protein": 63,
         "dayType": "transition",
         "logged": "full",
         "provisional": true
