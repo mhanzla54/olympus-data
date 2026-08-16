@@ -19,15 +19,16 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 1057,
+    "overall_total": 1058,
     "generated_for": "2026-08-15",
-    "built_at": "2026-08-15T18:12:38.214Z",
+    "built_at": "2026-08-16T01:05:51.677Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 26
-    }
+      "ft_to_go": 25
+    },
+    "captures_today_unscored": 0
   },
   "lanes": [
     {
@@ -87,7 +88,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 348,
+      "current": 349,
       "working_on": "the next new-pound low (≤ 214.8 lb)"
     },
     {
@@ -5805,6 +5806,19 @@
       "reasoning": "Sparse-training day = tiny (Amendment E), day-keyed, one per (date, kind). Floor is ≥6 distinct items genuinely performed; 10 clears it. **THE DISJOINT-WORK RULE IS SATISFIED AND I CHECKED IT RATHER THAN ASSERTING IT.** The log states plainly this was not a main-workout day (Day B was 08-12) and no workout row was placed for 08-13 — no rep is counted twice. *(This is the 08-12 lesson applied: I wrote that same basis from assumption once and it was false. Read from the source line this time.)* One parse ambiguity was recorded upstream rather than guessed — item 7 (vacuum/TVA) came through with no count and is logged NOT DONE; the floor is met with or without it.",
       "evidence": "`sparse-training-log.md` 2026-08-13 row; capture log 2026-08-13",
       "booked": "2026-08-13"
+    },
+    {
+      "date": "2026-08-15",
+      "lane": "body",
+      "activity": "**PROTEIN-GOAL DAY — 187 g against the 170 g floor, logged full.** The end-of-day close pull (20:53 EST) reads 2,214 kcal · 187 g protein · 185 g carbs · 80 g fat, `logged: \"full\"`. **This is the ONLY half of the day that is scoreable and the calorie half is not a hold — it does not exist as an event.** He ruled on 2026-08-15 that 08-14 and 08-15 carry NO calorie regime: the reverse ended 08-13 by his own 08-12 decision, and the cut he had been recorded as starting 08-14 never began, which he disclosed himself. No target he adopted governs the day, so there is nothing for 2,214 to be judged against.",
+      "label": "PROTEIN-GOAL DAY — 187 g against the 170 g floor, logged…",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 349,
+      "cum_overall": 1058,
+      "reasoning": "Protein-goal-day entry: logged protein at or above the current floor. **170 is the right floor and I checked its provenance, not just the file** (lane-source-map standing instruction, G-1): he ruled the 160→170 raise himself on 08-12, it was argued on protein grounds alone and never depended on the calorie target, and the protein-only week from 08-16 carries the same 170. **187 clears it by 17 g and clears every rival reading** — the warehouse's stale `proteinFloorApplied: 160`, and `proteinTarget − 20` = 160. **`provisional: true` does NOT hold a protein tick, and the asymmetry is the reason** — a floor has ONE edge, so further logging can only push 187 up, never below 170; a calorie band has two edges, which is why the 08-10 calorie half was held and its protein half was booked the same day. Same ruling, same shape, seventeen holds of precedent. **DEDUP: the ledger holds zero rows dated 08-14 or 08-15 — verified by grep, not assumed.**",
+      "evidence": "`health-data.json` day row 2026-08-15 (pull 2026-08-15T20:53); `health-query.mjs --summary`; capture log 2026-08-15",
+      "booked": "2026-08-15"
     }
   ],
   "series": {
@@ -8758,6 +8772,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**PROTEIN-DAY — 166 g, six over the floor.** The 160 g floor is goal 180 − 20, unchanged on this date; the raise to 170 he ruled on 08-12 takes effect **from 2026-08-14** and does not reach backwards. `provisional: false` at the pull, and protein is monotonic in any case — it only rises, so no later true-up can take this figure below the line it already cleared."
+      },
+      {
+        "date": "2026-08-15",
+        "cum": 349,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**PROTEIN-GOAL DAY — 187 g against the 170 g floor, logged full.** The end-of-day close pull (20:53 EST) reads 2,214 kcal · 187 g protein · 185 g carbs · 80 g fat, `logged: \"full\"`. **This is the ONLY half of the day that is scoreable and the calorie half is not a hold — it does not exist as an event.** He ruled on 2026-08-15 that 08-14 and 08-15 carry NO calorie regime: the reverse ended 08-13 by his own 08-12 decision, and the cut he had been recorded as starting 08-14 never began, which he disclosed himself. No target he adopted governs the day, so there is nothing for 2,214 to be judged against."
       }
     ],
     "fieldpresence": [
@@ -17286,7 +17307,7 @@
       {
         "date": "2026-08-15",
         "state": "partial",
-        "kcal": 815
+        "kcal": 2214
       }
     ],
     "days": [
@@ -17940,8 +17961,8 @@
       },
       {
         "date": "2026-08-15",
-        "kcal": 815,
-        "protein": 63,
+        "kcal": 2214,
+        "protein": 187,
         "dayType": "transition",
         "logged": "full",
         "provisional": true
