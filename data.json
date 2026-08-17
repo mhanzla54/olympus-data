@@ -21,7 +21,7 @@
     ],
     "overall_total": 1062,
     "generated_for": "2026-08-17",
-    "built_at": "2026-08-17T16:00:02.860Z",
+    "built_at": "2026-08-17T23:00:02.698Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
@@ -10648,6 +10648,12 @@
           "y": 3.79,
           "kind": "session",
           "label": "Chest-tap push-up — 4, 8, 7 (avg 6.3 vs target 8)"
+        },
+        {
+          "date": "2026-08-17",
+          "y": 3.97,
+          "kind": "session",
+          "label": "Chest-tap push-up — 8, 9, 9 (avg 8.7 vs target 8)"
         }
       ],
       "steps": [
@@ -10830,6 +10836,12 @@
           "y": 6.29,
           "kind": "session",
           "label": "Wall HSPU — full ROM — 3, 2.5, 1.5 (avg 2.3 vs target 8)"
+        },
+        {
+          "date": "2026-08-17",
+          "y": 6.21,
+          "kind": "session",
+          "label": "Wall HSPU — full ROM — 2, 1.5, 1.5 (avg 1.7 vs target 8)"
         }
       ],
       "steps": [
@@ -11173,6 +11185,12 @@
           "y": 3.5,
           "kind": "session",
           "label": "Full chin-up — 5, 4, 3 (avg 4 vs target 8)"
+        },
+        {
+          "date": "2026-08-17",
+          "y": 3.65,
+          "kind": "session",
+          "label": "Full chin-up — 6.5, 5, 4 (avg 5.2 vs target 8)"
         }
       ],
       "steps": [
@@ -11319,6 +11337,12 @@
           "y": 3.4,
           "kind": "session",
           "label": "Dead hang — 25, 23 (avg 24 vs target 60)"
+        },
+        {
+          "date": "2026-08-17",
+          "y": 3.25,
+          "kind": "session",
+          "label": "Dead hang — 20, 10 (avg 15 vs target 60)"
         }
       ],
       "steps": [
@@ -11743,6 +11767,12 @@
           "y": 5.6,
           "kind": "session",
           "label": "Oblique knee raises — 5.5, 4.5, 4.5 (avg 4.8 vs target 8)"
+        },
+        {
+          "date": "2026-08-17",
+          "y": 5.42,
+          "kind": "session",
+          "label": "Oblique knee raises — 3.5, 3.5, 3 (avg 3.3 vs target 8)"
         }
       ],
       "steps": [
@@ -11777,8 +11807,8 @@
       "rejected": []
     },
     "explosive": {
-      "candidates": 9,
-      "plotted": 9,
+      "candidates": 10,
+      "plotted": 10,
       "rejected": []
     },
     "planche": {
@@ -11787,12 +11817,12 @@
       "rejected": []
     },
     "handstand": {
-      "candidates": 9,
-      "plotted": 9,
+      "candidates": 10,
+      "plotted": 10,
       "rejected": []
     },
     "pull": {
-      "candidates": 31,
+      "candidates": 32,
       "plotted": 21,
       "rejected": [
         {
@@ -11838,12 +11868,16 @@
         {
           "date": "2026-08-08",
           "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-08-17",
+          "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
         }
       ]
     },
     "chinup": {
-      "candidates": 10,
-      "plotted": 9,
+      "candidates": 11,
+      "plotted": 10,
       "rejected": [
         {
           "date": "2026-08-10",
@@ -11852,8 +11886,8 @@
       ]
     },
     "grip": {
-      "candidates": 18,
-      "plotted": 18,
+      "candidates": 19,
+      "plotted": 19,
       "rejected": []
     },
     "legs": {
@@ -11884,8 +11918,8 @@
       "rejected": []
     },
     "corehang": {
-      "candidates": 30,
-      "plotted": 27,
+      "candidates": 31,
+      "plotted": 28,
       "rejected": [
         {
           "date": "2026-06-27",
@@ -11902,11 +11936,15 @@
       ]
     },
     "frontlever": {
-      "candidates": 1,
+      "candidates": 2,
       "plotted": 0,
       "rejected": [
         {
           "date": "2026-08-12",
+          "why": "\"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
+        },
+        {
+          "date": "2026-08-17",
           "why": "\"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
         }
       ]
@@ -12070,6 +12108,13 @@
             "raw": "4, 8, 7",
             "avg": 6.3,
             "status": "● plotted at 3.79"
+          },
+          {
+            "date": "2026-08-17",
+            "name": "Chest-tap push-up (★explosive)",
+            "raw": "8, 9, 9",
+            "avg": 8.7,
+            "status": "● plotted at 3.97"
           }
         ]
       },
@@ -12215,6 +12260,13 @@
             "raw": "3, 2.5, 1.5",
             "avg": 2.3,
             "status": "● plotted at 6.29"
+          },
+          {
+            "date": "2026-08-17",
+            "name": "Wall HSPU (★full ROM)",
+            "raw": "2, 1.5, 1.5",
+            "avg": 1.7,
+            "status": "● plotted at 6.21"
           }
         ]
       },
@@ -12494,6 +12546,13 @@
             "raw": "5, 4, 2",
             "avg": 3.7,
             "status": "● plotted at 5.46"
+          },
+          {
+            "date": "2026-08-17",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "20, 10",
+            "avg": 15,
+            "status": "✗ not plotted — \"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           }
         ]
       },
@@ -12554,6 +12613,13 @@
             "name": "Oblique knee raises (★knees up, drive to one side)",
             "raw": "5.5, 4.5, 4.5",
             "avg": 4.8,
+            "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
+          },
+          {
+            "date": "2026-08-17",
+            "name": "Oblique knee raises (★knees up, drive to one side)",
+            "raw": "3.5, 3.5, 3",
+            "avg": 3.3,
             "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
           }
         ]
@@ -12631,6 +12697,13 @@
             "raw": "12, 10, 10",
             "avg": 10.7,
             "status": "✗ not plotted — \"L-tuck hold (★knees up — hold at the top\" is rung-7 work, not the trained rung 3 — cleared/future-rung work does not plot (owner law)"
+          },
+          {
+            "date": "2026-08-17",
+            "name": "Chin-up (★full, underhand — then negatives as back-off)",
+            "raw": "6.5, 5, 4",
+            "avg": 5.2,
+            "status": "● plotted at 3.65"
           }
         ]
       },
@@ -12763,6 +12836,13 @@
             "raw": "25, 23",
             "avg": 24,
             "status": "● plotted at 3.4"
+          },
+          {
+            "date": "2026-08-17",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "20, 10",
+            "avg": 15,
+            "status": "● plotted at 3.25"
           }
         ]
       },
@@ -13187,6 +13267,13 @@
             "raw": "5.5, 4.5, 4.5",
             "avg": 4.8,
             "status": "● plotted at 5.6"
+          },
+          {
+            "date": "2026-08-17",
+            "name": "Oblique knee raises (★knees up, drive to one side)",
+            "raw": "3.5, 3.5, 3",
+            "avg": 3.3,
+            "status": "● plotted at 5.42"
           }
         ]
       }
@@ -13258,6 +13345,10 @@
           {
             "date": "2026-08-10",
             "detail": "hang: 25, 23 · shrugs: 10, 8"
+          },
+          {
+            "date": "2026-08-17",
+            "detail": "hang: 20, 10 · shrugs: 12, 11"
           }
         ]
       },
@@ -13701,6 +13792,56 @@
         ]
       },
       {
+        "name": "Chin-up (★full, underhand — then negatives as back-off)",
+        "rows": [
+          {
+            "date": "2026-07-13",
+            "detail": "full reps: 4, 2.5,  .5 · neg back-off: 0, 4, 3"
+          },
+          {
+            "date": "2026-07-20",
+            "detail": "full reps: 4.5, 2.5, 1.5 · neg back-off: 3, 3.5, 2"
+          },
+          {
+            "date": "2026-07-27",
+            "detail": "full reps: 3, 3, 3 · neg back-off: 2, 3, 3"
+          },
+          {
+            "date": "2026-08-08",
+            "detail": "full reps: 5, 4, 3 · neg back-off: 3, 4, 5"
+          },
+          {
+            "date": "2026-08-17",
+            "detail": "full reps: 6.5, 5, 4 · neg back-off: 3, 3, 4"
+          }
+        ]
+      },
+      {
+        "name": "Chest-tap push-up (★explosive)",
+        "rows": [
+          {
+            "date": "2026-07-13",
+            "detail": "reps: 4, 5, 6"
+          },
+          {
+            "date": "2026-07-20",
+            "detail": "reps: 8, 5, 6"
+          },
+          {
+            "date": "2026-07-27",
+            "detail": "reps: 3, 5, 4"
+          },
+          {
+            "date": "2026-08-08",
+            "detail": "reps: 4, 8, 7"
+          },
+          {
+            "date": "2026-08-17",
+            "detail": "reps: 8, 9, 9"
+          }
+        ]
+      },
+      {
         "name": "Typewriter push-up (★slide side-to-side)",
         "rows": [
           {
@@ -13877,48 +14018,6 @@
           {
             "date": "2026-07-09",
             "detail": "reps / held: 5"
-          }
-        ]
-      },
-      {
-        "name": "Chin-up (★full, underhand — then negatives as back-off)",
-        "rows": [
-          {
-            "date": "2026-07-13",
-            "detail": "full reps: 4, 2.5,  .5 · neg back-off: 0, 4, 3"
-          },
-          {
-            "date": "2026-07-20",
-            "detail": "full reps: 4.5, 2.5, 1.5 · neg back-off: 3, 3.5, 2"
-          },
-          {
-            "date": "2026-07-27",
-            "detail": "full reps: 3, 3, 3 · neg back-off: 2, 3, 3"
-          },
-          {
-            "date": "2026-08-08",
-            "detail": "full reps: 5, 4, 3 · neg back-off: 3, 4, 5"
-          }
-        ]
-      },
-      {
-        "name": "Chest-tap push-up (★explosive)",
-        "rows": [
-          {
-            "date": "2026-07-13",
-            "detail": "reps: 4, 5, 6"
-          },
-          {
-            "date": "2026-07-20",
-            "detail": "reps: 8, 5, 6"
-          },
-          {
-            "date": "2026-07-27",
-            "detail": "reps: 3, 5, 4"
-          },
-          {
-            "date": "2026-08-08",
-            "detail": "reps: 4, 8, 7"
           }
         ]
       },
@@ -14166,6 +14265,32 @@
         ]
       },
       {
+        "name": "Wall HSPU (★full ROM)",
+        "rows": [
+          {
+            "date": "2026-08-08",
+            "detail": "reps: 3, 2.5, 1.5"
+          },
+          {
+            "date": "2026-08-17",
+            "detail": "reps: 2, 1.5, 1.5"
+          }
+        ]
+      },
+      {
+        "name": "Oblique knee raises (★knees up, drive to one side)",
+        "rows": [
+          {
+            "date": "2026-08-12",
+            "detail": "reps: 5.5, 4.5, 4.5"
+          },
+          {
+            "date": "2026-08-17",
+            "detail": "reps: 3.5, 3.5, 3"
+          }
+        ]
+      },
+      {
         "name": "Push-up (archer)",
         "rows": [
           {
@@ -14301,29 +14426,11 @@
         ]
       },
       {
-        "name": "Wall HSPU (★full ROM)",
-        "rows": [
-          {
-            "date": "2026-08-08",
-            "detail": "reps: 3, 2.5, 1.5"
-          }
-        ]
-      },
-      {
         "name": "L-tuck hold (★knees up — hold at the top)",
         "rows": [
           {
             "date": "2026-08-10",
             "detail": "held: 12, 10, 10"
-          }
-        ]
-      },
-      {
-        "name": "Oblique knee raises (★knees up, drive to one side)",
-        "rows": [
-          {
-            "date": "2026-08-12",
-            "detail": "reps: 5.5, 4.5, 4.5"
           }
         ]
       },
@@ -14338,6 +14445,61 @@
       }
     ],
     "dates": [
+      {
+        "date": "2026-08-17",
+        "rows": [
+          {
+            "ladderId": "chinup",
+            "ladderName": "Chin-up",
+            "name": "Chin-up (★full, underhand — then negatives as back-off)",
+            "raw": "6.5, 5, 4",
+            "avg": 5.2,
+            "target": "8",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "corehang",
+            "ladderName": "Core — HANGING",
+            "name": "Oblique knee raises (★knees up, drive to one side)",
+            "raw": "3.5, 3.5, 3",
+            "avg": 3.3,
+            "target": "8/side",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "pull",
+            "ladderName": "Pull",
+            "name": "Dead hang ★",
+            "raw": "20, 10",
+            "avg": 15,
+            "target": "45s",
+            "sets": 2,
+            "cleared": false
+          },
+          {
+            "ladderId": "handstand",
+            "ladderName": "Vertical Push / Handstand",
+            "name": "Wall HSPU (★full ROM)",
+            "raw": "2, 1.5, 1.5",
+            "avg": 1.7,
+            "target": "8",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "explosive",
+            "ladderName": "Horizontal Push — EXPLOSIVE",
+            "name": "Chest-tap push-up (★explosive)",
+            "raw": "8, 9, 9",
+            "avg": 8.7,
+            "target": "8",
+            "sets": 3,
+            "cleared": false
+          }
+        ]
+      },
       {
         "date": "2026-08-12",
         "rows": [
@@ -15998,17 +16160,33 @@
     }
   ],
   "last_perf": {
-    "pull": {
-      "date": "2026-08-12",
-      "detail": "5, 4, 2"
+    "chinup": {
+      "date": "2026-08-17",
+      "detail": "6.5, 5, 4"
     },
     "corehang": {
-      "date": "2026-08-12",
-      "detail": "5.5, 4.5, 4.5"
+      "date": "2026-08-17",
+      "detail": "3.5, 3.5, 3"
     },
     "frontlever": {
-      "date": "2026-08-12",
-      "detail": "5.5, 4.5, 4.5"
+      "date": "2026-08-17",
+      "detail": "3.5, 3.5, 3"
+    },
+    "pull": {
+      "date": "2026-08-17",
+      "detail": "20, 10"
+    },
+    "grip": {
+      "date": "2026-08-17",
+      "detail": "20, 10"
+    },
+    "handstand": {
+      "date": "2026-08-17",
+      "detail": "2, 1.5, 1.5"
+    },
+    "explosive": {
+      "date": "2026-08-17",
+      "detail": "8, 9, 9"
     },
     "hpull": {
       "date": "2026-08-12",
@@ -16018,17 +16196,9 @@
       "date": "2026-08-12",
       "detail": "3, 2, 1.5"
     },
-    "chinup": {
-      "date": "2026-08-10",
-      "detail": "12, 10, 10"
-    },
     "corefloor": {
       "date": "2026-08-10",
       "detail": "12, 10, 10"
-    },
-    "grip": {
-      "date": "2026-08-10",
-      "detail": "25, 23"
     },
     "push": {
       "date": "2026-08-10",
@@ -16037,14 +16207,6 @@
     "planche": {
       "date": "2026-08-10",
       "detail": "5, 4"
-    },
-    "handstand": {
-      "date": "2026-08-08",
-      "detail": "3, 2.5, 1.5"
-    },
-    "explosive": {
-      "date": "2026-08-08",
-      "detail": "4, 8, 7"
     }
   },
   "health": {
