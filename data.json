@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 1061,
+    "overall_total": 1062,
     "generated_for": "2026-08-16",
-    "built_at": "2026-08-17T01:26:02.757Z",
+    "built_at": "2026-08-17T01:44:44.633Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 22
+      "ft_to_go": 21
     },
     "captures_today_unscored": 0
   },
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 280,
+      "current": 281,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -5858,6 +5858,19 @@
       "reasoning": "Sparse-training-day entry (C3 amendment E, 2026-07-25): **≥6 DISTINCT items each genuinely performed at least once within one EST day; timing irrelevant; day-keyed.** Ten distinct reported against a floor of six. **Substance floor cleared** — 17 efforts across 10 items, most 2–3×, which is the entry's own *typical* case, not the token pass its exclusion bars. **Confirmed against the live source, not taken on the row alone** (lane-source-map, confirmation only — never a capture source): `sparse-training-log.md` row 2026-08-16 reads **10 distinct · ✅ MET**. **DISJOINT-WORK RULE CLEAN:** no workout was logged 08-16 and the last logged session remains 08-12 Day B, so there is no workout or accessory volume for any of this to be double-counted against. ⚠️ **THE ONE OPEN QUESTION DOES NOT REACH THE TICK, AND I CHECKED THAT RATHER THAN WAVING IT THROUGH:** what item 15 consisted of is genuinely unresolved — band external rotation on the left was suspended 2026-08-15 for the shoulder injury, and item 15 also covers other shoulder/scapula stabiliser work. **Strike item 15 entirely and NINE distinct items remain, still three clear of the floor.** The tick does not turn on it, so a flag would be theatre; the question stays upstream where it belongs and matters for his shoulder, not for these feet. **DEDUP:** grepped — zero 🏋️ rows dated 2026-08-16 and no sparse row since 08-13; day-keyed, one per (date, kind).",
       "evidence": "`sparse-training-log.md` row 2026-08-16; owner report this session; capture log 2026-08-16",
       "booked": "2026-08-16"
+    },
+    {
+      "date": "2026-08-14",
+      "lane": "strength",
+      "activity": "**WRESTLING SESSION — THE FLAG IS CURED AND THE ROW BOOKS. Approximately six take-down efforts plus two live sparring bouts, on an off day.** Roughly ten minutes total with a friend at a local track. The owner supplied the missing volume in his own words — *\"like 6 takedowns and two sparring bouts\"* — which is the single fact the flag had asked for across three runs. The two live rounds ran about ninety seconds combined against an opponent 6'2\" / ~225 lb to his 5'9\" / ~220 lb; he lost both. His partner vomited twice afterwards and could not continue; he did. No formal wrestling training — his grappling background is jiu-jitsu, which is why he went for upper-body clinches rather than the legs.",
+      "label": "WRESTLING SESSION — THE FLAG IS CURED AND THE ROW BOOKS.…",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 281,
+      "cum_overall": 1062,
+      "reasoning": "Ad-hoc accessory session entry (🏋️, owner ruling S30): **a logged ad-hoc session of ≥ ~6 meaningful working sets on chosen supplemental work, done on a rest/off day.** **THE COUNT CLEARS IT TWO WAYS:** six take-down efforts plus two live bouts is **eight discrete meaningful efforts**, and striking the bouts entirely still leaves six take-downs, which hits the bar exactly. **THE OFF-DAY CONDITION WAS VERIFIED AT SOURCE, NOT ASSUMED** — `workout-log.md` ends at **August 12th Day B**, so 08-13 and 08-14 carry no session and no rep here is counted twice; no sparse row was placed for 08-14 either, so the disjoint-work rule is clean on both sides. **ON THE EFFORT HALF, WHICH THE CURE DELIBERATELY DID NOT CHARACTERISE:** the stenographer reported the count and declined to assert effort, which is the correct upstream instinct — but the effort facts were already on the 08-14 row in his own words, and my own 08-15 flag had already conceded this half outright (*\"a live wrestling round at genuine effort is a meaningful working set by any reading\"*). Two lost rounds against a heavier man, after which the other party vomited twice and could not continue, is not a token dabble; the entry's exclusion bars *2–3 casual sets in passing*, and this is not that. ⚖️ **THE BAR I DECLINED TO INVENT, STATED BECAUSE IT IS THE ONLY REAL ARGUMENT AGAINST THIS ROW:** the entry's wording says *logged*, and there is no `workout-log.md` row for this session. **Across three runs I named exactly ONE missing fact — the drilling volume — and raising a second bar the moment that fact arrives would be an obstacle constructed after the cure.** Amendment A sets the evidence standard as a session record, a live capture, or **an owner report**, and names exactly one thing that is not proof — a file timestamp. This rests on the named acceptable form and on no timestamp anywhere. 📋 **THE CODEBOOK GAP IS STILL FLAGGED AND STILL NOT GRANTED:** grappling has no entry in any lane. This books by §4 generalisation onto the existing ad-hoc entry — which is precisely what the flag pre-committed to — and **I do not write myself a new row.** If the weekly class he raised becomes real, it wants a C3 amendment argued cold. **DEDUP:** grepped — the ledger held **zero** rows dated 2026-08-14 and zero rows mentioning wrestling before this one.",
+      "evidence": "owner report 2026-08-14 (capture log) + the cure row, owner's own words, 2026-08-16; off-day confirmed against `fitness/workout-log.md` (last session August 12th Day B)",
+      "booked": "2026-08-16"
     }
   ],
   "series": {
@@ -7843,6 +7856,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**SPARSE-TRAINING DAY — 10 distinct items, 17 total efforts, the six-item floor met comfortably.** Hand/finger/wrist ×1 · ankle dorsiflexion ×2 · hamstring ×2 · calf ×1 · vacuum/TVA ×1 · hip-flexor training ×1 · band external rotation / shoulder-stability ×3 · hip stability incl. adductors ×2 · bunion work ×2 · ankle strengthening/stability ×2. Reported by number in menu order with every count explicit; hip-flexor stretch was given an explicit **zero** and is excluded from the ten rather than defaulted. First sparse row since 08-13 — none reported 08-14 or 08-15."
+      },
+      {
+        "date": "2026-08-14",
+        "cum": 281,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**WRESTLING SESSION — THE FLAG IS CURED AND THE ROW BOOKS. Approximately six take-down efforts plus two live sparring bouts, on an off day.** Roughly ten minutes total with a friend at a local track. The owner supplied the missing volume in his own words — *\"like 6 takedowns and two sparring bouts\"* — which is the single fact the flag had asked for across three runs. The two live rounds ran about ninety seconds combined against an opponent 6'2\" / ~225 lb to his 5'9\" / ~220 lb; he lost both. His partner vomited twice afterwards and could not continue; he did. No formal wrestling training — his grappling background is jiu-jitsu, which is why he went for upper-body clinches rather than the legs."
       }
     ],
     "body": [
