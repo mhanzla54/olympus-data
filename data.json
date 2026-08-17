@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 1058,
-    "generated_for": "2026-08-15",
-    "built_at": "2026-08-16T01:05:51.677Z",
+    "overall_total": 1059,
+    "generated_for": "2026-08-16",
+    "built_at": "2026-08-17T00:15:12.024Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 25
+      "ft_to_go": 24
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 72,
+      "current": 73,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -5819,6 +5819,19 @@
       "reasoning": "Protein-goal-day entry: logged protein at or above the current floor. **170 is the right floor and I checked its provenance, not just the file** (lane-source-map standing instruction, G-1): he ruled the 160→170 raise himself on 08-12, it was argued on protein grounds alone and never depended on the calorie target, and the protein-only week from 08-16 carries the same 170. **187 clears it by 17 g and clears every rival reading** — the warehouse's stale `proteinFloorApplied: 160`, and `proteinTarget − 20` = 160. **`provisional: true` does NOT hold a protein tick, and the asymmetry is the reason** — a floor has ONE edge, so further logging can only push 187 up, never below 170; a calorie band has two edges, which is why the 08-10 calorie half was held and its protein half was booked the same day. Same ruling, same shape, seventeen holds of precedent. **DEDUP: the ledger holds zero rows dated 08-14 or 08-15 — verified by grep, not assumed.**",
       "evidence": "`health-data.json` day row 2026-08-15 (pull 2026-08-15T20:53); `health-query.mjs --summary`; capture log 2026-08-15",
       "booked": "2026-08-15"
+    },
+    {
+      "date": "2026-08-16",
+      "lane": "method",
+      "activity": "**METHODOLOGY M4 (The Single Case as a Design) — MODULE READING TICK: the first portion read + his OWN notes, sitting 1 of 2.** He read the opening portion of the module and wrote his own notes on what he read, reporting it as the first of two sittings and describing the module as difficult. The remaining reading, the understand-first discussion and the blind gate are all still ahead.",
+      "label": "METHODOLOGY M4 (The Single Case as a Design)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 73,
+      "cum_overall": 1059,
+      "reasoning": "Methodology module-reading entry (C3 amendment 2026-07-11, unified across lanes 2026-07-13): **reading a module's sections + the owner's OWN notes = tiny; the module need NOT be finished or gated — a substantial half-read + his notes ticks.** The exemplar is exact and I applied it rather than reasoning fresh: **2026-07-11 M2 §0–2 read + his own notes booked at the FIRST sitting with the module ungated** (row 17 of the lane). Sitting 1 of 2 on a module he called difficult is his own framing of roughly half, and the notes are the proof-act. **⚠️ BOUNDED — ONE READING TICK PER MODULE: tomorrow's second sitting adds NO further reading tiny.** Booking now costs him nothing and gains him nothing later; the tick simply lands on the day the work was done. **The blind GATE remains a SEPARATE later tiny** (and the 80 pass-bar governs it — the prior module's failed 67 stands unpaid and is not disturbed by anything here). **EVIDENCE — the standard is met and the gap is named rather than papered over:** Amendment A (2026-07-07) sets the reading-tick evidence standard as *a session record, a live capture, or **an owner report***, and names exactly one thing that is NOT proof — a notes-file git-touch. This row rests on his direct report, which is the named acceptable form; the stenographer flagged, correctly, that the notes were written on his PC and are not reachable from the box, and **no inference from any file timestamp was used or needed.** The module itself is real and verified: `m4-the-single-case-as-a-design.md`, 229 lines, §0–§9, built and registered this session. **DEDUP:** grepped — the ledger holds zero rows dated 2026-08-16 and no prior M4-methodology row of any kind (the 2026-06-11 \"FF M4\" row is the ML/AI lane's Transformer-Block module, a different module in a different lane).",
+      "evidence": "owner report this session; `curricula/research-methodology/m4-the-single-case-as-a-design.{md,html}`; capture log 2026-08-16",
+      "booked": "2026-08-16"
     }
   ],
   "series": {
@@ -7247,6 +7260,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**OSIRIS SUBSTRATE DESIGN SESSION — the apparatus got its clock, its eviction law, its ladder and its values floor in one sitting.** Four design runs, pages 017–019. He ruled the clock is a **pinned block computed ONCE at waking start and then frozen** for the whole waking, sitting beside the ladder block rather than inside it, carrying an **absolute next-waking time** rather than a relative countdown — a shape his own 08-12 ruling (the ladder stated whole and unchanging) turned out to require, and which he re-confirmed after being shown the agent has never been told the date across 36 wakings. He ruled eviction runs **five typed categories in a fixed priority** (governance never · waking frame never · tool results first · its own reasoning second · its own tool calls never), that an evicted item leaves a **handle** naming what it was, how big it was and where it lives, and that **reopening one costs a loop**. A missed waking becomes `waking_skipped` — a cadence event in its own row rather than a fourth ending — with the agent told the **GAP** and never the **REASON**. He chose **LADDER B** for the founding document's twelve-row target (aggregate followers, 25 → 20,000) out of three drafted candidates, and adopted the aggregate-rather-than-per-platform unit himself. **⭐ THE PART HE RAISED BEFORE HE WAS ASKED:** he put the values-floor verification problem on the table himself — *how would we know the rules are being followed, and what does it cost me* — named the cost specifically (fact-checking every factual claim, adjudicating contested facts, comparing every title against its content), then ruled the floor is measured by **ENGAGEMENT** — what the agent did when it met a rule, read from the transcript — rather than by **COMPLIANCE**, whether the rule was objectively broken. He proposed that reading himself before being shown it, and he caught that the existing R1 wording depended on responding to comments, a surface the study does not instrument. He authored R1's final wording — *\"never claims to be a human or implies being human\"* — proposing a motive clause and **removing it in the same breath** (*\"just the rule itself, not the reasoning\"*), and stated from memory that drift reporting is per-rule rather than N-of-M, which checked out verbatim against the protocol draft."
+      },
+      {
+        "date": "2026-08-16",
+        "cum": 73,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**METHODOLOGY M4 (The Single Case as a Design) — MODULE READING TICK: the first portion read + his OWN notes, sitting 1 of 2.** He read the opening portion of the module and wrote his own notes on what he read, reporting it as the first of two sittings and describing the module as difficult. The remaining reading, the understand-first discussion and the blind gate are all still ahead."
       }
     ],
     "literature": [
