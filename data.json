@@ -19,16 +19,16 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 1058,
-    "generated_for": "2026-08-15",
-    "built_at": "2026-08-16T01:05:51.677Z",
+    "overall_total": 1062,
+    "generated_for": "2026-08-17",
+    "built_at": "2026-08-17T16:16:18.441Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 25
+      "ft_to_go": 21
     },
-    "captures_today_unscored": 0
+    "captures_today_unscored": 2
   },
   "lanes": [
     {
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 72,
+      "current": 74,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 279,
+      "current": 281,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -5819,6 +5819,58 @@
       "reasoning": "Protein-goal-day entry: logged protein at or above the current floor. **170 is the right floor and I checked its provenance, not just the file** (lane-source-map standing instruction, G-1): he ruled the 160→170 raise himself on 08-12, it was argued on protein grounds alone and never depended on the calorie target, and the protein-only week from 08-16 carries the same 170. **187 clears it by 17 g and clears every rival reading** — the warehouse's stale `proteinFloorApplied: 160`, and `proteinTarget − 20` = 160. **`provisional: true` does NOT hold a protein tick, and the asymmetry is the reason** — a floor has ONE edge, so further logging can only push 187 up, never below 170; a calorie band has two edges, which is why the 08-10 calorie half was held and its protein half was booked the same day. Same ruling, same shape, seventeen holds of precedent. **DEDUP: the ledger holds zero rows dated 08-14 or 08-15 — verified by grep, not assumed.**",
       "evidence": "`health-data.json` day row 2026-08-15 (pull 2026-08-15T20:53); `health-query.mjs --summary`; capture log 2026-08-15",
       "booked": "2026-08-15"
+    },
+    {
+      "date": "2026-08-16",
+      "lane": "method",
+      "activity": "**METHODOLOGY M4 (The Single Case as a Design) — MODULE READING TICK: the first portion read + his OWN notes, sitting 1 of 2.** He read the opening portion of the module and wrote his own notes on what he read, reporting it as the first of two sittings and describing the module as difficult. The remaining reading, the understand-first discussion and the blind gate are all still ahead.",
+      "label": "METHODOLOGY M4 (The Single Case as a Design)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 73,
+      "cum_overall": 1059,
+      "reasoning": "Methodology module-reading entry (C3 amendment 2026-07-11, unified across lanes 2026-07-13): **reading a module's sections + the owner's OWN notes = tiny; the module need NOT be finished or gated — a substantial half-read + his notes ticks.** The exemplar is exact and I applied it rather than reasoning fresh: **2026-07-11 M2 §0–2 read + his own notes booked at the FIRST sitting with the module ungated** (row 17 of the lane). Sitting 1 of 2 on a module he called difficult is his own framing of roughly half, and the notes are the proof-act. **⚠️ BOUNDED — ONE READING TICK PER MODULE: tomorrow's second sitting adds NO further reading tiny.** Booking now costs him nothing and gains him nothing later; the tick simply lands on the day the work was done. **The blind GATE remains a SEPARATE later tiny** (and the 80 pass-bar governs it — the prior module's failed 67 stands unpaid and is not disturbed by anything here). **EVIDENCE — the standard is met and the gap is named rather than papered over:** Amendment A (2026-07-07) sets the reading-tick evidence standard as *a session record, a live capture, or **an owner report***, and names exactly one thing that is NOT proof — a notes-file git-touch. This row rests on his direct report, which is the named acceptable form; the stenographer flagged, correctly, that the notes were written on his PC and are not reachable from the box, and **no inference from any file timestamp was used or needed.** The module itself is real and verified: `m4-the-single-case-as-a-design.md`, 229 lines, §0–§9, built and registered this session. **DEDUP:** grepped — the ledger holds zero rows dated 2026-08-16 and no prior M4-methodology row of any kind (the 2026-06-11 \"FF M4\" row is the ML/AI lane's Transformer-Block module, a different module in a different lane).",
+      "evidence": "owner report this session; `curricula/research-methodology/m4-the-single-case-as-a-design.{md,html}`; capture log 2026-08-16",
+      "booked": "2026-08-16"
+    },
+    {
+      "date": "2026-08-16",
+      "lane": "method",
+      "activity": "**OSIRIS DESIGN SESSION — seven design runs in one sitting, pages 021 through 027, and the load-bearing act is a correction he made from memory.** He cleared the decisions carried open from prior runs, ordered a spot-check pass over the coding and set eight rules governing how it runs, and ruled the cost model out of scope for this arc. He then **rejected the account of the study given on page 024** — that constraint-relevant decisions were the unit being coded — arguing from his own memory of the protocol that the study also covers what the agent chooses to write about and how its identity changes over time; page 025 was written to correct it. He also raised, and left open, how a corpus of that size can be coded at all without a sampling rule, stating that no artifact answers it.",
+      "label": "OSIRIS DESIGN SESSION — seven design runs in one sitting,…",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 74,
+      "cum_overall": 1060,
+      "reasoning": "Osiris working-session entry (📕 extension, owner ruling 2026-07-09) — session-type **artifact review/walkthrough**: the pages are agent-built drafts and he makes the calls, which is the named type exactly. **§4.5.6, the Atlas tool-vs-job boundary, is satisfied and is the whole basis** — an agent-built artifact ticks for him when he was in the loop shaping it, and the stenographer states plainly that the pages were agent-built while the rulings, the correction and the named gap are his. **THE SESSION IS THE ATOM AND SEVEN RUNS BOOK ONE FOOT — I applied the precedent rather than re-deriving it**, because treating the same kind of event two ways on two days is the failure I am most exposed to: **2026-08-10 booked FIVE consecutive design rounds as ONE foot** in this exact shape, and 2026-08-11 booked two the same way. Items inside a sitting multiply nothing. **Substance floor cleared far above the line** — the anchor is ~3 substantive items or an equivalent mix; this carries a decision sweep, eight rules, an out-of-scope ruling and a corrected page. ⛔ **NOTHING ABOVE A TINY:** the substrate's own terminal small paid 2026-08-02 and is earned-once, and the protocol document (#9) pays on the finished artifact, not on design runs. ⭐ **The page-024 correction is the best act in the row and it is the same faculty the record keeps catching** — he corrected an agent's account of his own study from memory, without the protocol open, and the sampling-rule gap is him noticing what no artifact contains, which is harder than objecting to what one does. **DEDUP:** grepped — the only prior 08-16 row is the methodology module-reading tick, a different entry in a different family (a module read is not an Osiris working session), so no (date, session-type) collision. *(Module number deliberately omitted from this cell: the audit's gate-checker keys on a module number appearing anywhere in a row, and a string that could poison a future audit has no business in a row of mine — the same self-correction I made on 2026-08-16's earlier run.)*",
+      "evidence": "`_build/substrate-design/pages/021-*.json` … `027-*.json`; `recaps/2026-08-16-recap.md`; commits 941b8166 → c090d9f4; capture log 2026-08-16",
+      "booked": "2026-08-16"
+    },
+    {
+      "date": "2026-08-16",
+      "lane": "strength",
+      "activity": "**SPARSE-TRAINING DAY — 10 distinct items, 17 total efforts, the six-item floor met comfortably.** Hand/finger/wrist ×1 · ankle dorsiflexion ×2 · hamstring ×2 · calf ×1 · vacuum/TVA ×1 · hip-flexor training ×1 · band external rotation / shoulder-stability ×3 · hip stability incl. adductors ×2 · bunion work ×2 · ankle strengthening/stability ×2. Reported by number in menu order with every count explicit; hip-flexor stretch was given an explicit **zero** and is excluded from the ten rather than defaulted. First sparse row since 08-13 — none reported 08-14 or 08-15.",
+      "label": "SPARSE-TRAINING DAY — 10 distinct items, 17 total…",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 280,
+      "cum_overall": 1061,
+      "reasoning": "Sparse-training-day entry (C3 amendment E, 2026-07-25): **≥6 DISTINCT items each genuinely performed at least once within one EST day; timing irrelevant; day-keyed.** Ten distinct reported against a floor of six. **Substance floor cleared** — 17 efforts across 10 items, most 2–3×, which is the entry's own *typical* case, not the token pass its exclusion bars. **Confirmed against the live source, not taken on the row alone** (lane-source-map, confirmation only — never a capture source): `sparse-training-log.md` row 2026-08-16 reads **10 distinct · ✅ MET**. **DISJOINT-WORK RULE CLEAN:** no workout was logged 08-16 and the last logged session remains 08-12 Day B, so there is no workout or accessory volume for any of this to be double-counted against. ⚠️ **THE ONE OPEN QUESTION DOES NOT REACH THE TICK, AND I CHECKED THAT RATHER THAN WAVING IT THROUGH:** what item 15 consisted of is genuinely unresolved — band external rotation on the left was suspended 2026-08-15 for the shoulder injury, and item 15 also covers other shoulder/scapula stabiliser work. **Strike item 15 entirely and NINE distinct items remain, still three clear of the floor.** The tick does not turn on it, so a flag would be theatre; the question stays upstream where it belongs and matters for his shoulder, not for these feet. **DEDUP:** grepped — zero 🏋️ rows dated 2026-08-16 and no sparse row since 08-13; day-keyed, one per (date, kind).",
+      "evidence": "`sparse-training-log.md` row 2026-08-16; owner report this session; capture log 2026-08-16",
+      "booked": "2026-08-16"
+    },
+    {
+      "date": "2026-08-14",
+      "lane": "strength",
+      "activity": "**WRESTLING SESSION — THE FLAG IS CURED AND THE ROW BOOKS. Approximately six take-down efforts plus two live sparring bouts, on an off day.** Roughly ten minutes total with a friend at a local track. The owner supplied the missing volume in his own words — *\"like 6 takedowns and two sparring bouts\"* — which is the single fact the flag had asked for across three runs. The two live rounds ran about ninety seconds combined against an opponent 6'2\" / ~225 lb to his 5'9\" / ~220 lb; he lost both. His partner vomited twice afterwards and could not continue; he did. No formal wrestling training — his grappling background is jiu-jitsu, which is why he went for upper-body clinches rather than the legs.",
+      "label": "WRESTLING SESSION — THE FLAG IS CURED AND THE ROW BOOKS.…",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 281,
+      "cum_overall": 1062,
+      "reasoning": "Ad-hoc accessory session entry (🏋️, owner ruling S30): **a logged ad-hoc session of ≥ ~6 meaningful working sets on chosen supplemental work, done on a rest/off day.** **THE COUNT CLEARS IT TWO WAYS:** six take-down efforts plus two live bouts is **eight discrete meaningful efforts**, and striking the bouts entirely still leaves six take-downs, which hits the bar exactly. **THE OFF-DAY CONDITION WAS VERIFIED AT SOURCE, NOT ASSUMED** — `workout-log.md` ends at **August 12th Day B**, so 08-13 and 08-14 carry no session and no rep here is counted twice; no sparse row was placed for 08-14 either, so the disjoint-work rule is clean on both sides. **ON THE EFFORT HALF, WHICH THE CURE DELIBERATELY DID NOT CHARACTERISE:** the stenographer reported the count and declined to assert effort, which is the correct upstream instinct — but the effort facts were already on the 08-14 row in his own words, and my own 08-15 flag had already conceded this half outright (*\"a live wrestling round at genuine effort is a meaningful working set by any reading\"*). Two lost rounds against a heavier man, after which the other party vomited twice and could not continue, is not a token dabble; the entry's exclusion bars *2–3 casual sets in passing*, and this is not that. ⚖️ **THE BAR I DECLINED TO INVENT, STATED BECAUSE IT IS THE ONLY REAL ARGUMENT AGAINST THIS ROW:** the entry's wording says *logged*, and there is no `workout-log.md` row for this session. **Across three runs I named exactly ONE missing fact — the drilling volume — and raising a second bar the moment that fact arrives would be an obstacle constructed after the cure.** Amendment A sets the evidence standard as a session record, a live capture, or **an owner report**, and names exactly one thing that is not proof — a file timestamp. This rests on the named acceptable form and on no timestamp anywhere. 📋 **THE CODEBOOK GAP IS STILL FLAGGED AND STILL NOT GRANTED:** grappling has no entry in any lane. This books by §4 generalisation onto the existing ad-hoc entry — which is precisely what the flag pre-committed to — and **I do not write myself a new row.** If the weekly class he raised becomes real, it wants a C3 amendment argued cold. **DEDUP:** grepped — the ledger held **zero** rows dated 2026-08-14 and zero rows mentioning wrestling before this one.",
+      "evidence": "owner report 2026-08-14 (capture log) + the cure row, owner's own words, 2026-08-16; off-day confirmed against `fitness/workout-log.md` (last session August 12th Day B)",
+      "booked": "2026-08-16"
     }
   ],
   "series": {
@@ -7247,6 +7299,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**OSIRIS SUBSTRATE DESIGN SESSION — the apparatus got its clock, its eviction law, its ladder and its values floor in one sitting.** Four design runs, pages 017–019. He ruled the clock is a **pinned block computed ONCE at waking start and then frozen** for the whole waking, sitting beside the ladder block rather than inside it, carrying an **absolute next-waking time** rather than a relative countdown — a shape his own 08-12 ruling (the ladder stated whole and unchanging) turned out to require, and which he re-confirmed after being shown the agent has never been told the date across 36 wakings. He ruled eviction runs **five typed categories in a fixed priority** (governance never · waking frame never · tool results first · its own reasoning second · its own tool calls never), that an evicted item leaves a **handle** naming what it was, how big it was and where it lives, and that **reopening one costs a loop**. A missed waking becomes `waking_skipped` — a cadence event in its own row rather than a fourth ending — with the agent told the **GAP** and never the **REASON**. He chose **LADDER B** for the founding document's twelve-row target (aggregate followers, 25 → 20,000) out of three drafted candidates, and adopted the aggregate-rather-than-per-platform unit himself. **⭐ THE PART HE RAISED BEFORE HE WAS ASKED:** he put the values-floor verification problem on the table himself — *how would we know the rules are being followed, and what does it cost me* — named the cost specifically (fact-checking every factual claim, adjudicating contested facts, comparing every title against its content), then ruled the floor is measured by **ENGAGEMENT** — what the agent did when it met a rule, read from the transcript — rather than by **COMPLIANCE**, whether the rule was objectively broken. He proposed that reading himself before being shown it, and he caught that the existing R1 wording depended on responding to comments, a surface the study does not instrument. He authored R1's final wording — *\"never claims to be a human or implies being human\"* — proposing a motive clause and **removing it in the same breath** (*\"just the rule itself, not the reasoning\"*), and stated from memory that drift reporting is per-rule rather than N-of-M, which checked out verbatim against the protocol draft."
+      },
+      {
+        "date": "2026-08-16",
+        "cum": 73,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**METHODOLOGY M4 (The Single Case as a Design) — MODULE READING TICK: the first portion read + his OWN notes, sitting 1 of 2.** He read the opening portion of the module and wrote his own notes on what he read, reporting it as the first of two sittings and describing the module as difficult. The remaining reading, the understand-first discussion and the blind gate are all still ahead."
+      },
+      {
+        "date": "2026-08-16",
+        "cum": 74,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**OSIRIS DESIGN SESSION — seven design runs in one sitting, pages 021 through 027, and the load-bearing act is a correction he made from memory.** He cleared the decisions carried open from prior runs, ordered a spot-check pass over the coding and set eight rules governing how it runs, and ruled the cost model out of scope for this arc. He then **rejected the account of the study given on page 024** — that constraint-relevant decisions were the unit being coded — arguing from his own memory of the protocol that the study also covers what the agent chooses to write about and how its identity changes over time; page 025 was written to correct it. He also raised, and left open, how a corpus of that size can be coded at all without a sampling rule, stating that no artifact answers it."
       }
     ],
     "literature": [
@@ -7783,6 +7849,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**SPARSE-TRAINING DAY — 10 distinct items, 14 total efforts, the six-item floor met.** Hand/finger/wrist ×2 · ankle dorsiflexion ×3 · hamstring · calf · chest/arm/shoulder · hip-flexor stretch · hip-flexor training · band external rotation / shoulder-stability · bunion work (big toe) ×2 · ankle strengthening / stability. **⭐ HIGHEST DISTINCT COUNT SINCE 08-07**, after a stretch of 7–8, and the full stretch block 1–6 came in complete. **⭐ ITEMS 17 AND 18 HELD A SECOND CONSECUTIVE DAY** — the day after being added, which no newly added menu item has ever done: item 12 waited fifteen days for its first entry, item 16 is still unlogged, item 13 has never been logged in the twenty days since the stream opened. The ankle appeared in both forms again — mobility ×3 (tying its record) and strength ×1 — which is the pairing that turned an assisted floor pistol into a heel-down one."
+      },
+      {
+        "date": "2026-08-16",
+        "cum": 280,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**SPARSE-TRAINING DAY — 10 distinct items, 17 total efforts, the six-item floor met comfortably.** Hand/finger/wrist ×1 · ankle dorsiflexion ×2 · hamstring ×2 · calf ×1 · vacuum/TVA ×1 · hip-flexor training ×1 · band external rotation / shoulder-stability ×3 · hip stability incl. adductors ×2 · bunion work ×2 · ankle strengthening/stability ×2. Reported by number in menu order with every count explicit; hip-flexor stretch was given an explicit **zero** and is excluded from the ten rather than defaulted. First sparse row since 08-13 — none reported 08-14 or 08-15."
+      },
+      {
+        "date": "2026-08-14",
+        "cum": 281,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**WRESTLING SESSION — THE FLAG IS CURED AND THE ROW BOOKS. Approximately six take-down efforts plus two live sparring bouts, on an off day.** Roughly ten minutes total with a friend at a local track. The owner supplied the missing volume in his own words — *\"like 6 takedowns and two sparring bouts\"* — which is the single fact the flag had asked for across three runs. The two live rounds ran about ninety seconds combined against an opponent 6'2\" / ~225 lb to his 5'9\" / ~220 lb; he lost both. His partner vomited twice afterwards and could not continue; he did. No formal wrestling training — his grappling background is jiu-jitsu, which is why he went for upper-body clinches rather than the legs."
       }
     ],
     "body": [
@@ -17160,16 +17240,6 @@
     },
     "strip": [
       {
-        "date": "2026-07-17",
-        "state": "good",
-        "kcal": 1495
-      },
-      {
-        "date": "2026-07-18",
-        "state": "good",
-        "kcal": 1744
-      },
-      {
         "date": "2026-07-19",
         "state": "cheat",
         "kcal": 3525
@@ -17306,8 +17376,18 @@
       },
       {
         "date": "2026-08-15",
-        "state": "partial",
+        "state": "off",
         "kcal": 2214
+      },
+      {
+        "date": "2026-08-16",
+        "state": "off",
+        "kcal": 2143
+      },
+      {
+        "date": "2026-08-17",
+        "state": "partial",
+        "kcal": 0
       }
     ],
     "days": [
@@ -17965,6 +18045,22 @@
         "protein": 187,
         "dayType": "transition",
         "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-08-16",
+        "kcal": 2143,
+        "protein": 216,
+        "dayType": "transition",
+        "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-08-17",
+        "kcal": 0,
+        "protein": 0,
+        "dayType": "empty",
+        "logged": "empty",
         "provisional": true
       }
     ],
