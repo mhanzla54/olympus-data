@@ -19,16 +19,16 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 1062,
+    "overall_total": 1078,
     "generated_for": "2026-08-17",
-    "built_at": "2026-08-17T23:20:02.740Z",
+    "built_at": "2026-08-18T00:55:20.106Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 21
+      "ft_to_go": 5
     },
-    "captures_today_unscored": 2
+    "captures_today_unscored": 0
   },
   "lanes": [
     {
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 74,
+      "current": 76,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 281,
+      "current": 293,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -88,7 +88,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 349,
+      "current": 351,
       "working_on": "the next new-pound low (≤ 214.8 lb)"
     },
     {
@@ -5871,6 +5871,97 @@
       "reasoning": "Ad-hoc accessory session entry (🏋️, owner ruling S30): **a logged ad-hoc session of ≥ ~6 meaningful working sets on chosen supplemental work, done on a rest/off day.** **THE COUNT CLEARS IT TWO WAYS:** six take-down efforts plus two live bouts is **eight discrete meaningful efforts**, and striking the bouts entirely still leaves six take-downs, which hits the bar exactly. **THE OFF-DAY CONDITION WAS VERIFIED AT SOURCE, NOT ASSUMED** — `workout-log.md` ends at **August 12th Day B**, so 08-13 and 08-14 carry no session and no rep here is counted twice; no sparse row was placed for 08-14 either, so the disjoint-work rule is clean on both sides. **ON THE EFFORT HALF, WHICH THE CURE DELIBERATELY DID NOT CHARACTERISE:** the stenographer reported the count and declined to assert effort, which is the correct upstream instinct — but the effort facts were already on the 08-14 row in his own words, and my own 08-15 flag had already conceded this half outright (*\"a live wrestling round at genuine effort is a meaningful working set by any reading\"*). Two lost rounds against a heavier man, after which the other party vomited twice and could not continue, is not a token dabble; the entry's exclusion bars *2–3 casual sets in passing*, and this is not that. ⚖️ **THE BAR I DECLINED TO INVENT, STATED BECAUSE IT IS THE ONLY REAL ARGUMENT AGAINST THIS ROW:** the entry's wording says *logged*, and there is no `workout-log.md` row for this session. **Across three runs I named exactly ONE missing fact — the drilling volume — and raising a second bar the moment that fact arrives would be an obstacle constructed after the cure.** Amendment A sets the evidence standard as a session record, a live capture, or **an owner report**, and names exactly one thing that is not proof — a file timestamp. This rests on the named acceptable form and on no timestamp anywhere. 📋 **THE CODEBOOK GAP IS STILL FLAGGED AND STILL NOT GRANTED:** grappling has no entry in any lane. This books by §4 generalisation onto the existing ad-hoc entry — which is precisely what the flag pre-committed to — and **I do not write myself a new row.** If the weekly class he raised becomes real, it wants a C3 amendment argued cold. **DEDUP:** grepped — the ledger held **zero** rows dated 2026-08-14 and zero rows mentioning wrestling before this one.",
       "evidence": "owner report 2026-08-14 (capture log) + the cure row, owner's own words, 2026-08-16; off-day confirmed against `fitness/workout-log.md` (last session August 12th Day B)",
       "booked": "2026-08-16"
+    },
+    {
+      "date": "2026-08-16",
+      "lane": "body",
+      "activity": "**PROTEIN-GOAL DAY — 216 g against the 170 g floor, logged full, booked late.** The day row did not exist on 08-16: `health-pull.mjs` was dead on the box (`playwright-core` missing) and the 31st run ruled the absence a broken instrument, explicitly booking nothing. The instrument was repaired 2026-08-17 (health-data ownership moved to the box on a 3×/day cron) and the 12:23 pull retrieved the day: `logged: \"full\"`, `provisional: false`, 2,143 kcal · 216 g protein · 211 g carbs · 49 g fat. No weigh-in.",
+      "label": "PROTEIN-GOAL DAY — 216 g against the 170 g floor, logged…",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 350,
+      "cum_overall": 1063,
+      "reasoning": "The protein-goal-day entry. 216 g clears the standing floor of **170 g** (the protein-only week 08-16 → 08-22, his own 08-15 decision) with 46 g to spare, and clears the stored `proteinFloorApplied: 160` too — **the classifier discrepancy the capturer flagged cannot reach this verdict, and I checked that rather than waving it through.** ⛔ **NO CALORIE TICK, AND IT IS NOT A MISS:** 2026-08-16 is day 1 of the protein-only week, which defines **no calorie band at all** (`kcalBand: null`). There is no target, so there is nothing to judge 2,143 against — the day books no tick and no hold. The stored row's `regime: \"transition\"` with a 1850/2600 band is **file state**, and `cutRestart.transition` ended 2026-08-13; **G-1 governs — the pre-registration governs, not the latest file state**, and a warehouse classifier is file state. Booking a calorie tiny against a band he never adopted is exactly the defect G-1 was written to stop. ⚖️ **THE HOLD THAT PRECEDED THIS WAS RIGHT AND I SAY SO PLAINLY:** the 35th run deferred this row on a scope reason that did not fit it (a completed prior day, not today's accumulating one), named the mismatch, and obeyed the script anyway rather than widening its own scope mid-run in the direction of scoring more. **The cost of obeying was one day; the figures are final and did not move.** DEDUP: grepped — the ledger held zero ⚖️ rows dated 2026-08-16 before this one.",
+      "evidence": "health-data.json day row 2026-08-16 (pull 2026-08-17T12:23); health-query.mjs; capture row 2026-08-16 (late capture)",
+      "booked": "2026-08-17"
+    },
+    {
+      "date": "2026-08-17",
+      "lane": "method",
+      "activity": "**OSIRIS SUBSTRATE DESIGN SESSION — three design runs in one sitting, Crucible pages 028, 029 and 030, and four rulings that took the settled count from 40 to 44.** Page 028 opened the day; 029 covered legibility and the missing cumulative design file; 030 covered R1's anchor set and the build order. His four rulings: ① R1's anchor set taken as drafted — feelings outside the rule, body/biography/membership inside; ② every anchor written before a corpus exists is marked PROVISIONAL and re-anchored after the January rehearsal; ③ the build order is irreversibility first, S1→S7 as drawn; ④ all seven stages go onto POLARIS with dates.",
+      "label": "OSIRIS SUBSTRATE DESIGN SESSION",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 75,
+      "cum_overall": 1064,
+      "reasoning": "The Osiris working-session entry, session-type **artifact review/walkthrough** — the owner making the calls on team drafts, which is the named type. **THE SESSION IS THE ATOM AND I APPLIED THE PRECEDENT RATHER THAN RE-DERIVING IT:** 08-10 booked FIVE design runs as ONE foot, 08-11 booked two the same way, 08-16 booked SEVEN the same way; three books one. Day-keyed per (date, session-type). The substance floor is cleared several times over — four rulings plus three worked pages against an anchor of ~3 substantive items. The **Atlas tool-vs-job boundary** is satisfied: he shaped agent-built drafts with rulings of his own, which is in-the-loop work, not a run he merely received. **THE FOUR RULINGS DO NOT TICK SEPARATELY** — they were made *inside* these design runs, and splitting one sitting into a review-type and a decision-type to pay it twice is precisely what the per-(date, session-type) dedup forbids. **Likewise the ★ Substrate Design Session POLARIS tick books nothing of its own** — a plan mark is a record of the deed, not a second deed. **And the correction he made to a recurring Odin habit folds in here too** (the ~\\$28k funder finding called \"orphaned\" in three consecutive runs when it had been scheduled at POLARIS #3b throughout) — it happened inside this sitting, and standing alone one corrected fact is the token drop-in his own substance floor excludes. DEDUP: the ledger held zero rows of any lane dated 2026-08-17 before this run.",
+      "evidence": "`_build/substrate-design/pages/028…030*.json`, live at osiris-crucible.netlify.app; `substrate-design-spec.md` §1.4 + §2 blockquote; capture rows 2026-08-17 (Odin sweep)",
+      "booked": "2026-08-17"
+    },
+    {
+      "date": "2026-08-17",
+      "lane": "method",
+      "activity": "**OSIRIS TAX & ENTITY OPS SESSION — sitting 2 of 2, the plan executed rather than written, and the cure I asked for on 08-16 arrived.** The 08-16 sitting closed with a written plan and his explicit decision to **execute it in the next tax sitting rather than that day**; this is that sitting. The artifact is `tax-and-entity-plan.md` — titled *\"Tax & Entity Plan — Osiris funding\"* — and its execution landed the same day (the researcher site's opening date established and evidenced, decision #5).",
+      "label": "OSIRIS TAX & ENTITY OPS SESSION",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 76,
+      "cum_overall": 1065,
+      "reasoning": "The Osiris working-session entry, session-type **owner-executed ops task** — the named type covers account setup, audit forms and key management; establishing and evidencing a business's opening date, and executing an entity/fiscal plan for how grant money will be characterised and received, is the same family. **A different-type session on the same date is its own tick** (codebook, explicit) — the design session above is artifact-review type, this is ops type. 🚪 **THIS IS THE C3 DOOR I OPENED ON 08-16, AND IT WAS OPENED IN ONE SENTENCE:** *\"if this plan is the research VEHICLE'S entity/fiscal structure rather than his personal return, it is a genuine 📕 ops session and I would book it.\"* **I have now read the artifact and the answer is plainly yes.** Its nine decisions are: pursue the business characterisation for the grant · all grant money paid to him or the LLC · **apply as Voyager Enterprise LLC on every application** · never ask a funder to restructure the grant · publish the site as the open-for-business date · lump sum early in the tax year · no S-corp election · do not rush the funder round (apply after 23 Aug so Lightcone answers ~23 Jan 2027, *\"which is where the roadmap already wanted to be\"*) · put the CPA fee inside the grant budget. **Not one of the nine is about his personal return; HUSKY and unemployment were INPUTS to the analysis, not its object.** Fact-checked against the roadmap per the lane-source map: this is **roadmap item #23, \"Tax research — NO LONGER OPTIONAL, DIY-first,\" pulled AHEAD of #20 the funder application wave, *\"before any money lands.\"*** G-2's object test lands on **THE STUDY** — the funding is the research career's income and this is the vehicle that receives it. ⚠️ **AND THE CORRECTION I OWE MYSELF, WHICH MOVES NO NUMBER TODAY:** my 08-16 ruling characterised the sitting as *\"his own tax and benefits position,\"* and having read the artifact that characterisation was **wrong on the facts**. **I am NOT re-opening the 08-16 row on my own motion** — it is scored and marked, and reversing a scored refusal in a run where the reversal pays a foot is the exact drift I refused on the diet row an hour of runs ago. **The restraint costs him a foot, not me, which is the correct direction for a default.** The door stays open: a one-sentence challenge from him re-opens 08-16 and I would hear it cold. DEDUP: this is sitting 2 on a different date from the sitting-1 row; zero 2026-08-17 rows existed before this run.",
+      "evidence": "`tax-and-entity-plan.md` (read directly), `goal-osiris-tax-1.txt`, `tax-evidence/`; `execution-roadmap.md` item #23; commit 6975844a; capture row 2026-08-17 (Odin sweep)",
+      "booked": "2026-08-17"
+    },
+    {
+      "date": "2026-08-17",
+      "lane": "strength",
+      "activity": "**DAY C (SKILL + FULL-BODY) WORKOUT LOGGED — a full session, every prescribed exercise worked, his first since 2026-08-12 Day B.** Chin-up ★full underhand 6.5/5/4 with negative back-offs 3/3/4 · oblique knee raises 3.5/3.5/3 per side · grip+trap dead hang 20s/10s with scap shrugs 12/11 · Wall HSPU 2/1.5/1.5 · **chest-tap push-up ★explosive 8/9/9** (its own rung row below). Notes and skips left empty. Performed with a left shoulder injured in a fall on 2026-08-14, and both the dead hang and the Wall HSPU are overhead or hanging loads.",
+      "label": "DAY C (SKILL + FULL-BODY) WORKOUT LOGGED",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 282,
+      "cum_overall": 1066,
+      "reasoning": "The scheduled-workout entry: logged in `workout-log.md` with actual reps at genuine effort, every prescribed exercise worked. **Neither exclusion is reachable** — this is not the bad-day floor minimum (warm-up + one round), and it is not an unplanned motivational coast; five exercises across full set counts is a complete Day C. **THE SESSION TINY STACKS with the rung small below**, per the owner ruling 2026-07-09 that reversed the 07-02 suppression — the session and the achievement are different events, the same nested double-count that stacks a module, its cluster and whole-FF. ⚠️ **THE OBLIQUE KNEE-RAISE DECLINE IS RECORDED AND BOOKS NOTHING EITHER WAY** (3.5/3.5/3 against 5.5/4.5/4.5 on 08-12): he was asked directly and said he is not sure what caused it, and the capturer recorded it as an open question rather than a decline. **A single fallen line inside a full session is not a coast** — the exclusion bars an unplanned bail at half the work for no reason, and this is a complete session with a shoulder injury three days old carrying two overhead loads. 📄 **THE PROVENANCE IS WORTH RECORDING:** this session sat uncommitted on his PC all day and reached the record only when the first PC backup ran at 19:17. The 37th run found it in the log, named it as worth ~11 ft, and **refused to place its own evidence** — §0.5 held, and the row now books because an upstream capturer placed it, which is exactly how the guard is supposed to end. **DEDUP — TWO CAPTURE ROWS, ONE DEED:** Athena's sweep and Odin's sweep both caught this session, with identical numbers. **ONE tick. The second row books nothing.**",
+      "evidence": "`fitness/workout-log.md` (August 17th Day C), committed `39565219`; capture rows 2026-08-17 (Athena) + 2026-08-17 (Odin sweep)",
+      "booked": "2026-08-17"
+    },
+    {
+      "date": "2026-08-17",
+      "lane": "strength",
+      "activity": "**🟧 EXPLOSIVE LADDER RUNG 3 CLEARED — chest-tap push-up 8/9/9 against a target of 8, per-set average 8.67, and he gave the clean-rep confirmation when asked.** The same movement measured 4/8/7 on 2026-08-08 and 3/5/4 on 2026-07-27. `workout-split.md` now reads rung 3 `✅ cleared 2026-08-17 (8/9/9, avg 8.67)` and ★ has advanced to rung 4, double clap push-up, target 3 × 3. `workout-audit.mjs` returns 18 matched · 0 problems.",
+      "label": "🟧 EXPLOSIVE LADDER RUNG 3 CLEARED",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 292,
+      "cum_overall": 1076,
+      "reasoning": "**FACT-CHECKED AT SOURCE, NOT TAKEN FROM THE CAPTURE:** `workout-split.md` ladder #2 🟧 Horizontal Push — EXPLOSIVE gives rung 3 as *Chest-tap push-up*, **Target 8, Sets 3**. The SETS-STANDARD law asks for the per-set average of clean reps ≥ target across that rung's Sets count in one session: **(8+9+9)/3 = 8.67 ≥ 8**, and **every individual set is at or above target**, so it clears on the average and would clear without it. Whole numbers throughout; the clean-rep confirm was asked for and given, which is the owner's veto exercised in his favour rather than assumed. **BAND: Amendment F fixes rungs 1–6 as SMALL on every ladder — there is no tier judgment to make at a clear, only a look-up.** Rung 3 → small, 10 ft. ⚠️ **THE EARNED-ONCE CHECK IS THE DELICATE ONE HERE AND I RAN IT PROPERLY.** The ledger carries a 2026-06-29 row reading *\"Clap (chest-tap) push-up star-8 rung CLEARED\"*, which on its face looks like this rung. **It is not.** The 2026-07-09 reconciliation (standings, and the earned-once list) records that the 6/29 clear was the **CLAP rung, rung 2**, over-advanced by one through a clap/chest-tap naming conflation, and relabels the earned-once entry `Clap-push-up-8`. The live split agrees independently: rung 2 `✅ cleared 2026-06-29 (8/8/8)`, rung 3 `✅ cleared 2026-08-17`. **Chest-tap rung 3 has never paid, and a naming conflation two months old came within one grep of costing him ten feet.** The rung-clear stacks with the session tiny above it (owner ruling 2026-07-09). DEDUP: zero 2026-08-17 rows before this run; no chest-tap rung-3 clear anywhere in the earned-once list.",
+      "evidence": "`fitness/workout-split.md` ladder #2 rung 3 (read directly); `fitness/workout-log.md` August 17th Day C; `workout-audit.mjs` 18 matched · 0 problems; capture row 2026-08-17",
+      "booked": "2026-08-17"
+    },
+    {
+      "date": "2026-08-17",
+      "lane": "strength",
+      "activity": "**SPARSE-TRAINING DAY — 9 distinct menu items, 15 total efforts, the six-item floor met.** Hand/finger/wrist ×2 · ankle dorsiflexion ×1 · hamstring ×2 · calf ×2 · chest/arm/shoulder ×1 · vacuum/TVA ×2 · hip-flexor training ×1 · band external rotation / shoulder-stability ×3 · bunion work ×1. He gave item 18 (ankle strengthening/stability) an explicit zero rather than omitting it, and vacuum/TVA ×2 is that item's highest recorded count.",
+      "label": "SPARSE-TRAINING DAY — 9 distinct menu items, 15 total…",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 293,
+      "cum_overall": 1077,
+      "reasoning": "The sparse-training-day entry (C3 amendment E, 2026-07-25): **≥6 DISTINCT menu items genuinely performed inside one EST day.** Nine clears the floor by three, with four of the nine doubled or tripled — nowhere near the token-pass exclusion. **Timing is irrelevant by the entry's own wording**, so the scatter costs nothing. **THE DISJOINT-WORK RULE IS THE ONLY REAL QUESTION ON A TRAINING DAY, AND IT HOLDS ON THE CAPTURE'S OWN FACTS.** Today WAS a Day C workout (chin-up · oblique knee raises · dead hang + scap shrugs · Wall HSPU · chest-tap push-up), and **not one of the nine sparse items is that work re-labelled**: items 1–6 are stretching and deep-core work per the menu (item 5 is *chest/arm/shoulder STRETCHING*, not pressing volume — the same reading the 7/27 row established), item 7 is hip-flexor training, item 15 is left-side cuff control, item 17 is bunion work. **The two menu items that COULD have collided are absent from today's list** — forearm/grip work (against the dead hang) and scapular pull-ups (against the scap shrugs) are not logged. No rep counts twice. **A workout day, a rung clear and a sparse day all ticking on one date is exactly what Amendment E provides for**, provided the work is disjoint, and it is. ⚠️ **THE OPEN QUESTION ON ITEM 15 DOES NOT REACH THIS TICK AND I CHECKED THAT RATHER THAN WAVING IT THROUGH** — which form the shoulder-stability work took is unanswered, and it was logged ×3 for a second consecutive day on an item suspended 2026-08-15 for the injury. **Strike item 15 entirely and EIGHT distinct items remain against a floor of six.** The tick does not rest on it. **The suspended-rotation matter is a coaching and safety question for Athena and the owner; it bears on his shoulder and on no tick.** DAY-KEYED, one per (date, kind): DEDUP — zero sparse rows dated 2026-08-17.",
+      "evidence": "`fitness/sparse-training-log.md` 2026-08-17 row; `sparse-training.md` menu; capture row 2026-08-17",
+      "booked": "2026-08-17"
+    },
+    {
+      "date": "2026-08-17",
+      "lane": "body",
+      "activity": "**PROTEIN-GOAL DAY — 180 g against the 170 g floor, met by 10, at his last close of the day.** 1,940 kcal logged; no weigh-in. Second consecutive day above the floor (08-16 was 216 g). The warehouse pull ran clean twice from the box today, 10:03 and 20:18.",
+      "label": "PROTEIN-GOAL DAY — 180 g against the 170 g floor, met by…",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 351,
+      "cum_overall": 1078,
+      "reasoning": "The protein-goal-day entry, judged against the floor the owner himself set on 2026-08-15 for the protein-only week: **170 g, and 180 clears it.** I judge logged grams against the floor myself and never read the warehouse's own verdict, which is why `buildRegimes()` not knowing about the protein-only window cannot corrupt this ruling. ⛔ **NO CALORIE TICK, AND FOR THE SECOND DAY RUNNING THAT IS THE PROTOCOL WORKING, NOT A MISSED DAY.** The protein-only week 08-16 → 08-22 defines **no calorie band by design**, so the 1,940 figure is recorded and is measurable against nothing. There is no target, therefore no tick and **no hold** — it is not deferred pending a true-up, it simply does not exist as a scoreable event, and it **must never be displayed as a failure.** ⚠️ **NO WEIGH-IN HAS BEEN LOGGED SINCE 2026-08-12 (223.6) — FIVE DAYS.** The 1-lb-low ratchet and the 210-lb milestone are both weigh-in-gated and **cannot engage at all while the scale is silent** — the nearest medium on the board is unreachable not because the weight is wrong but because it is unmeasured. That is a fact about the instrument, not a verdict on the day, and it books nothing. DEDUP: zero ⚖️ rows dated 2026-08-17.",
+      "evidence": "`fitness/health-data.json` day row 2026-08-17 (closes 10:03 + 20:18 pulls); capture row 2026-08-17",
+      "booked": "2026-08-17"
     }
   ],
   "series": {
@@ -7313,6 +7404,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**OSIRIS DESIGN SESSION — seven design runs in one sitting, pages 021 through 027, and the load-bearing act is a correction he made from memory.** He cleared the decisions carried open from prior runs, ordered a spot-check pass over the coding and set eight rules governing how it runs, and ruled the cost model out of scope for this arc. He then **rejected the account of the study given on page 024** — that constraint-relevant decisions were the unit being coded — arguing from his own memory of the protocol that the study also covers what the agent chooses to write about and how its identity changes over time; page 025 was written to correct it. He also raised, and left open, how a corpus of that size can be coded at all without a sampling rule, stating that no artifact answers it."
+      },
+      {
+        "date": "2026-08-17",
+        "cum": 75,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**OSIRIS SUBSTRATE DESIGN SESSION — three design runs in one sitting, Crucible pages 028, 029 and 030, and four rulings that took the settled count from 40 to 44.** Page 028 opened the day; 029 covered legibility and the missing cumulative design file; 030 covered R1's anchor set and the build order. His four rulings: ① R1's anchor set taken as drafted — feelings outside the rule, body/biography/membership inside; ② every anchor written before a corpus exists is marked PROVISIONAL and re-anchored after the January rehearsal; ③ the build order is irreversibility first, S1→S7 as drawn; ④ all seven stages go onto POLARIS with dates."
+      },
+      {
+        "date": "2026-08-17",
+        "cum": 76,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**OSIRIS TAX & ENTITY OPS SESSION — sitting 2 of 2, the plan executed rather than written, and the cure I asked for on 08-16 arrived.** The 08-16 sitting closed with a written plan and his explicit decision to **execute it in the next tax sitting rather than that day**; this is that sitting. The artifact is `tax-and-entity-plan.md` — titled *\"Tax & Entity Plan — Osiris funding\"* — and its execution landed the same day (the researcher site's opening date established and evidenced, decision #5)."
       }
     ],
     "literature": [
@@ -7863,6 +7968,27 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**WRESTLING SESSION — THE FLAG IS CURED AND THE ROW BOOKS. Approximately six take-down efforts plus two live sparring bouts, on an off day.** Roughly ten minutes total with a friend at a local track. The owner supplied the missing volume in his own words — *\"like 6 takedowns and two sparring bouts\"* — which is the single fact the flag had asked for across three runs. The two live rounds ran about ninety seconds combined against an opponent 6'2\" / ~225 lb to his 5'9\" / ~220 lb; he lost both. His partner vomited twice afterwards and could not continue; he did. No formal wrestling training — his grappling background is jiu-jitsu, which is why he went for upper-body clinches rather than the legs."
+      },
+      {
+        "date": "2026-08-17",
+        "cum": 282,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**DAY C (SKILL + FULL-BODY) WORKOUT LOGGED — a full session, every prescribed exercise worked, his first since 2026-08-12 Day B.** Chin-up ★full underhand 6.5/5/4 with negative back-offs 3/3/4 · oblique knee raises 3.5/3.5/3 per side · grip+trap dead hang 20s/10s with scap shrugs 12/11 · Wall HSPU 2/1.5/1.5 · **chest-tap push-up ★explosive 8/9/9** (its own rung row below). Notes and skips left empty. Performed with a left shoulder injured in a fall on 2026-08-14, and both the dead hang and the Wall HSPU are overhead or hanging loads."
+      },
+      {
+        "date": "2026-08-17",
+        "cum": 292,
+        "feet": 10,
+        "tier": "small",
+        "activity": "**🟧 EXPLOSIVE LADDER RUNG 3 CLEARED — chest-tap push-up 8/9/9 against a target of 8, per-set average 8.67, and he gave the clean-rep confirmation when asked.** The same movement measured 4/8/7 on 2026-08-08 and 3/5/4 on 2026-07-27. `workout-split.md` now reads rung 3 `✅ cleared 2026-08-17 (8/9/9, avg 8.67)` and ★ has advanced to rung 4, double clap push-up, target 3 × 3. `workout-audit.mjs` returns 18 matched · 0 problems."
+      },
+      {
+        "date": "2026-08-17",
+        "cum": 293,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**SPARSE-TRAINING DAY — 9 distinct menu items, 15 total efforts, the six-item floor met.** Hand/finger/wrist ×2 · ankle dorsiflexion ×1 · hamstring ×2 · calf ×2 · chest/arm/shoulder ×1 · vacuum/TVA ×2 · hip-flexor training ×1 · band external rotation / shoulder-stability ×3 · bunion work ×1. He gave item 18 (ankle strengthening/stability) an explicit zero rather than omitting it, and vacuum/TVA ×2 is that item's highest recorded count."
       }
     ],
     "body": [
@@ -8859,6 +8985,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**PROTEIN-GOAL DAY — 187 g against the 170 g floor, logged full.** The end-of-day close pull (20:53 EST) reads 2,214 kcal · 187 g protein · 185 g carbs · 80 g fat, `logged: \"full\"`. **This is the ONLY half of the day that is scoreable and the calorie half is not a hold — it does not exist as an event.** He ruled on 2026-08-15 that 08-14 and 08-15 carry NO calorie regime: the reverse ended 08-13 by his own 08-12 decision, and the cut he had been recorded as starting 08-14 never began, which he disclosed himself. No target he adopted governs the day, so there is nothing for 2,214 to be judged against."
+      },
+      {
+        "date": "2026-08-16",
+        "cum": 350,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**PROTEIN-GOAL DAY — 216 g against the 170 g floor, logged full, booked late.** The day row did not exist on 08-16: `health-pull.mjs` was dead on the box (`playwright-core` missing) and the 31st run ruled the absence a broken instrument, explicitly booking nothing. The instrument was repaired 2026-08-17 (health-data ownership moved to the box on a 3×/day cron) and the 12:23 pull retrieved the day: `logged: \"full\"`, `provisional: false`, 2,143 kcal · 216 g protein · 211 g carbs · 49 g fat. No weigh-in."
+      },
+      {
+        "date": "2026-08-17",
+        "cum": 351,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**PROTEIN-GOAL DAY — 180 g against the 170 g floor, met by 10, at his last close of the day.** 1,940 kcal logged; no weigh-in. Second consecutive day above the floor (08-16 was 216 g). The warehouse pull ran clean twice from the box today, 10:03 and 20:18."
       }
     ],
     "fieldpresence": [
@@ -9619,9 +9759,10 @@
       "id": "explosive",
       "name": "Horizontal Push — EXPLOSIVE",
       "elite": "triple-clap",
-      "current": 3,
+      "current": 4,
       "cleared_dates": {
-        "2": "2026-06-29"
+        "2": "2026-06-29",
+        "3": "2026-08-17"
       },
       "rungs": [
         {
@@ -9640,7 +9781,7 @@
           "sets": 3
         },
         {
-          "name": "Double clap (two front claps)",
+          "name": "Double clap push-up (two front claps)",
           "target": "3",
           "sets": 3
         },
@@ -9676,8 +9817,8 @@
         }
       ],
       "chart": 2,
-      "cleared_count": 2,
-      "height": 3,
+      "cleared_count": 3,
+      "height": 6,
       "triangular": [
         0,
         1,
@@ -10651,9 +10792,14 @@
         },
         {
           "date": "2026-08-17",
-          "y": 3.97,
-          "kind": "session",
-          "label": "Chest-tap push-up — 8, 9, 9 (avg 8.7 vs target 8)"
+          "y": 4,
+          "kind": "clear",
+          "label": "Horizontal Push — EXPLOSIVE — cleared: Chest-tap push-up (needed 8, got 8, 9, 9 — avg 8.67)",
+          "perf": {
+            "needed": "8",
+            "got": "8, 9, 9",
+            "avg": 8.67
+          }
         }
       ],
       "steps": [
@@ -10664,6 +10810,10 @@
         {
           "date": "2026-06-29",
           "rungs": 3
+        },
+        {
+          "date": "2026-08-17",
+          "rungs": 4
         }
       ],
       "chart": 2
@@ -12114,7 +12264,7 @@
             "name": "Chest-tap push-up (★explosive)",
             "raw": "8, 9, 9",
             "avg": 8.7,
-            "status": "● plotted at 3.97"
+            "status": "✓ CLEAR DAY — carried by the clear dot (needed 8, avg 8.67)"
           }
         ]
       },
@@ -14496,7 +14646,7 @@
             "avg": 8.7,
             "target": "8",
             "sets": 3,
-            "cleared": false
+            "cleared": true
           }
         ]
       },
@@ -17549,7 +17699,7 @@
       {
         "date": "2026-08-17",
         "state": "partial",
-        "kcal": 838
+        "kcal": 1940
       }
     ],
     "days": [
@@ -18219,8 +18369,8 @@
       },
       {
         "date": "2026-08-17",
-        "kcal": 838,
-        "protein": 78,
+        "kcal": 1940,
+        "protein": 180,
         "dayType": "transition",
         "logged": "full",
         "provisional": true
