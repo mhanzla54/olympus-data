@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 1078,
+    "overall_total": 1079,
     "generated_for": "2026-08-18",
-    "built_at": "2026-08-18T15:40:03.344Z",
+    "built_at": "2026-08-18T16:20:03.367Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
       "height": 1083,
-      "ft_to_go": 5
+      "ft_to_go": 4
     },
     "captures_today_unscored": 1
   },
@@ -38,7 +38,7 @@
       "t0_note": "couldn't write a single line of Python — ran his first print() the day before t0",
       "endpoint": "Replicate AND extend a frontier alignment result — public, runnable code",
       "endpoint_tier": "verylarge",
-      "current": 123,
+      "current": 124,
       "working_on": "Automate the Boring Stuff textbook"
     },
     {
@@ -5962,6 +5962,19 @@
       "reasoning": "The protein-goal-day entry, judged against the floor the owner himself set on 2026-08-15 for the protein-only week: **170 g, and 180 clears it.** I judge logged grams against the floor myself and never read the warehouse's own verdict, which is why `buildRegimes()` not knowing about the protein-only window cannot corrupt this ruling. ⛔ **NO CALORIE TICK, AND FOR THE SECOND DAY RUNNING THAT IS THE PROTOCOL WORKING, NOT A MISSED DAY.** The protein-only week 08-16 → 08-22 defines **no calorie band by design**, so the 1,940 figure is recorded and is measurable against nothing. There is no target, therefore no tick and **no hold** — it is not deferred pending a true-up, it simply does not exist as a scoreable event, and it **must never be displayed as a failure.** ⚠️ **NO WEIGH-IN HAS BEEN LOGGED SINCE 2026-08-12 (223.6) — FIVE DAYS.** The 1-lb-low ratchet and the 210-lb milestone are both weigh-in-gated and **cannot engage at all while the scale is silent** — the nearest medium on the board is unreachable not because the weight is wrong but because it is unmeasured. That is a fact about the instrument, not a verdict on the day, and it books nothing. DEDUP: zero ⚖️ rows dated 2026-08-17.",
       "evidence": "`fitness/health-data.json` day row 2026-08-17 (closes 10:03 + 20:18 pulls); capture row 2026-08-17",
       "booked": "2026-08-17"
+    },
+    {
+      "date": "2026-08-18",
+      "lane": "coding",
+      "activity": "**ATBS Ch.9 READING SEGMENT + HIS OWN NOTES — with the chapter's worked project `renameDates.py` AND the same-session drill block both folded in (Amendment B).** Read pp.206→211 and wrote his own ch.9 notes; built the book's `renameDates.py` alongside the text (regex + `os.listdir` + `shutil.move` chain); worked mini-drill block 2, 2 of 4 drills. Drill 2 (regex group numbering under nested alternation) answered correctly and unaided — `mo.group(4)`. Drill 1 (`re.VERBOSE`) predicted wrong on both lines.",
+      "label": "ATBS Ch.9 READING SEGMENT + HIS OWN NOTES",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 124,
+      "cum_overall": 1079,
+      "reasoning": "ONE tiny, not two, and the split IS this run's work, so I state both sides. **The drill block folds by settled precedent** — Amendment B folds practice on the just-read material into the reading tick, and I ruled this exact shape on this exact chapter twice (the 2026-08-12 and 2026-08-13 🐍 rows). It would not have carried its own tick regardless: 2 of 4 drills worked, drill 1 wrong on both predicted lines, drills 3 and 4 blank, the set scoped by him to four drills of 1–3 lines each — far under the micro-drill-round bar. **THE REAL QUESTION IS `renameDates.py`, because my own 08-12 row pre-committed in writing: *\"a distinct standalone build would have been its own tick; this is not one.\"* A build has now arrived and I STILL fold it, on two grounds.** (1) **It is the book's WORKED EXAMPLE, not a practice project.** The file carries the book's decomposition, the book's regex, and the book's six TODO headings turned into comments verbatim; the capture's own words are \"built alongside the book\" and \"runs THE BOOK'S regex + `os.listdir` + `shutil.move` chain.\" Amendment B's preserved exception names goal-programs, debug-together and capstone builds — acts where HE designs the decomposition. Comma Code, this lane's named book-project exemplar, is an END-OF-CHAPTER project where the book gives a spec and he writes it; this is the chapter's worked example inside the body of the text, and following one is reading the chapter. (2) **HE DECLARED THE CODE IS THE NOTE** — the capturer records his own unprompted ruling that because this stretch teaches through projects rather than new material, he links the project files from his notes instead of transcribing them. If the code is the note, the note is the reading's proof-act, and paying a reading tiny AND a build tiny is two ticks for ONE body of work — precisely what Amendment E's disjoint-work rule names as the wrong thing. §3 defaults a genuinely close call lower. ⚠️ **THE CAPTURE'S DEFECT CLAIM IS STALE AND I CHECKED IT RATHER THAN REPEATING IT.** Note ③ states lines 32–44 sit OUTSIDE the `for` loop and are \"unfixed as of this row.\" **The file on disk has them indented INSIDE the loop, and git dates the repair:** commit `432bd58f` (09:55 EDT) holds the block at column 0 exactly as described; `76b97c9e` (10:25 EDT) has it indented. The defect was real and it was repaired roughly half an hour before this run — the row was already out of date when written. It moves no number, and it belongs on the record because otherwise the row stands as the only account. ⛔ **NO COMPLETED-PROGRAM TICK on any reading:** `shutil.move` is still commented out at line 42, so the program PRINTS its renames rather than performing them — \"runs + meets the goal\" governs that claim and it is not met. ⛔ **NO CH.9 CHAPTER SMALL:** Amendment I needs all four legs and two are open — the drill blocks are unfinished (block 2 half-worked, 3 and 4 blank) and the applied program does not yet rename. The small stacks above this tiny when it lands. 🔎 DEDUP: no 2026-08-18 row of any lane existed; the only prior ch.9 rows are 08-12 (pp.197–202) and 08-13 (pp.202–206), both different segments from today's pp.206–211.",
+      "evidence": "`curricula/python-foundations/code/renameDates.py` (commits 3645bad5 09:45 → 432bd58f 09:55 → 76b97c9e 10:25 EDT); `Ch9_miniDrills.py` block 2; `coding-notes/Notes On Python.md` §Chapter 9; ATBS pp.207–209 (PDF 231–233); capture row 2026-08-18; the 2026-08-12 + 2026-08-13 🐍 ch.9 ledger rows",
+      "booked": "2026-08-18"
     }
   ],
   "series": {
@@ -6448,6 +6461,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**ATBS Ch.9 READING SEGMENT + HIS OWN NOTES, with the same-session concept-drill set folded in (Amendment B).** Read pp.202–206 (top), stopping deliberately before the chapter project, and took his own notes (`Notes On Python`, ch.9 section: `shutil.move`, `os.unlink`, `os.rmdir`, `shutil.rmtree`). He then worked a **4-block × 3-test concept-drill set** on that material (`Ch9_conceptDrills.py`, built this session): **every prediction correct and all four write-it-yourself solutions correct** — re-run in a throwaway copy of the sandbox, each producing the specified output exactly (`['cats', 'spam.txt']` · the three `.txt` paths via `os.walk`+`join` · the three compression-ratio lines · the three-entry namelist). **First drill set on record with no misses;** the 08-12 set was 2 of 6. **⭐ THE MISS THAT STOPPED BEING A MISS:** block 2 targeted *\"a name from `os.walk`/`listdir` is not a path\"* — the construct that failed him on 2026-07-29 and TWICE on 2026-08-12. Today he predicted all four `False` correctly, gave the causal mechanism unprompted — *\"the cwd was never changed… `os.path.exists` is looking for each file name in the sandbox folder\"* — and applied `os.path.join` as the fix himself."
+      },
+      {
+        "date": "2026-08-18",
+        "cum": 124,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**ATBS Ch.9 READING SEGMENT + HIS OWN NOTES — with the chapter's worked project `renameDates.py` AND the same-session drill block both folded in (Amendment B).** Read pp.206→211 and wrote his own ch.9 notes; built the book's `renameDates.py` alongside the text (regex + `os.listdir` + `shutil.move` chain); worked mini-drill block 2, 2 of 4 drills. Drill 2 (regex group numbering under nested alternation) answered correctly and unaided — `mo.group(4)`. Drill 1 (`re.VERBOSE`) predicted wrong on both lines."
       }
     ],
     "mlai": [
