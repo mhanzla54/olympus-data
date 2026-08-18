@@ -20,8 +20,8 @@
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
     "overall_total": 1078,
-    "generated_for": "2026-08-17",
-    "built_at": "2026-08-18T00:55:20.106Z",
+    "generated_for": "2026-08-18",
+    "built_at": "2026-08-18T12:40:02.686Z",
     "next_summit": {
       "name": "Eiffel Tower",
       "slug": "eiffel",
@@ -17552,11 +17552,6 @@
     },
     "strip": [
       {
-        "date": "2026-07-19",
-        "state": "cheat",
-        "kcal": 3525
-      },
-      {
         "date": "2026-07-20",
         "state": "good",
         "kcal": 1628
@@ -17698,8 +17693,13 @@
       },
       {
         "date": "2026-08-17",
-        "state": "partial",
+        "state": "off",
         "kcal": 1940
+      },
+      {
+        "date": "2026-08-18",
+        "state": "partial",
+        "kcal": 0
       }
     ],
     "days": [
@@ -18373,6 +18373,14 @@
         "protein": 180,
         "dayType": "transition",
         "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-08-18",
+        "kcal": 0,
+        "protein": 0,
+        "dayType": "empty",
+        "logged": "empty",
         "provisional": true
       }
     ],
