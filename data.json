@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 1079,
+    "overall_total": 1092,
     "generated_for": "2026-08-19",
-    "built_at": "2026-08-19T10:10:03.159Z",
+    "built_at": "2026-08-19T10:20:02.858Z",
     "next_summit": {
-      "name": "Eiffel Tower",
-      "slug": "eiffel",
-      "height": 1083,
-      "ft_to_go": 4
+      "name": "Burj Khalifa",
+      "slug": "burj",
+      "height": 2717,
+      "ft_to_go": 1625
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 76,
+      "current": 79,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -98,7 +98,7 @@
       "t0_note": "no public track record — not known in the field; every post, repo and paper still ahead",
       "endpoint": "A recognized public body of work — provisional and open by design (§14.0.2); this lane has no terminus",
       "endpoint_tier": "enormous",
-      "current": 7,
+      "current": 17,
       "working_on": "Not yet started — the first public thing ships from here"
     }
   ],
@@ -170,8 +170,8 @@
       "height": 1083,
       "zone": "tower",
       "slug": "eiffel",
-      "crossed": false,
-      "date_crossed": null
+      "crossed": true,
+      "date_crossed": "2026-08-17"
     },
     {
       "name": "Burj Khalifa",
@@ -5975,6 +5975,58 @@
       "reasoning": "ONE tiny, not two, and the split IS this run's work, so I state both sides. **The drill block folds by settled precedent** — Amendment B folds practice on the just-read material into the reading tick, and I ruled this exact shape on this exact chapter twice (the 2026-08-12 and 2026-08-13 🐍 rows). It would not have carried its own tick regardless: 2 of 4 drills worked, drill 1 wrong on both predicted lines, drills 3 and 4 blank, the set scoped by him to four drills of 1–3 lines each — far under the micro-drill-round bar. **THE REAL QUESTION IS `renameDates.py`, because my own 08-12 row pre-committed in writing: *\"a distinct standalone build would have been its own tick; this is not one.\"* A build has now arrived and I STILL fold it, on two grounds.** (1) **It is the book's WORKED EXAMPLE, not a practice project.** The file carries the book's decomposition, the book's regex, and the book's six TODO headings turned into comments verbatim; the capture's own words are \"built alongside the book\" and \"runs THE BOOK'S regex + `os.listdir` + `shutil.move` chain.\" Amendment B's preserved exception names goal-programs, debug-together and capstone builds — acts where HE designs the decomposition. Comma Code, this lane's named book-project exemplar, is an END-OF-CHAPTER project where the book gives a spec and he writes it; this is the chapter's worked example inside the body of the text, and following one is reading the chapter. (2) **HE DECLARED THE CODE IS THE NOTE** — the capturer records his own unprompted ruling that because this stretch teaches through projects rather than new material, he links the project files from his notes instead of transcribing them. If the code is the note, the note is the reading's proof-act, and paying a reading tiny AND a build tiny is two ticks for ONE body of work — precisely what Amendment E's disjoint-work rule names as the wrong thing. §3 defaults a genuinely close call lower. ⚠️ **THE CAPTURE'S DEFECT CLAIM IS STALE AND I CHECKED IT RATHER THAN REPEATING IT.** Note ③ states lines 32–44 sit OUTSIDE the `for` loop and are \"unfixed as of this row.\" **The file on disk has them indented INSIDE the loop, and git dates the repair:** commit `432bd58f` (09:55 EDT) holds the block at column 0 exactly as described; `76b97c9e` (10:25 EDT) has it indented. The defect was real and it was repaired roughly half an hour before this run — the row was already out of date when written. It moves no number, and it belongs on the record because otherwise the row stands as the only account. ⛔ **NO COMPLETED-PROGRAM TICK on any reading:** `shutil.move` is still commented out at line 42, so the program PRINTS its renames rather than performing them — \"runs + meets the goal\" governs that claim and it is not met. ⛔ **NO CH.9 CHAPTER SMALL:** Amendment I needs all four legs and two are open — the drill blocks are unfinished (block 2 half-worked, 3 and 4 blank) and the applied program does not yet rename. The small stacks above this tiny when it lands. 🔎 DEDUP: no 2026-08-18 row of any lane existed; the only prior ch.9 rows are 08-12 (pp.197–202) and 08-13 (pp.202–206), both different segments from today's pp.206–211.",
       "evidence": "`curricula/python-foundations/code/renameDates.py` (commits 3645bad5 09:45 → 432bd58f 09:55 → 76b97c9e 10:25 EDT); `Ch9_miniDrills.py` block 2; `coding-notes/Notes On Python.md` §Chapter 9; ATBS pp.207–209 (PDF 231–233); capture row 2026-08-18; the 2026-08-12 + 2026-08-13 🐍 ch.9 ledger rows",
       "booked": "2026-08-18"
+    },
+    {
+      "date": "2026-08-17",
+      "lane": "fieldpresence",
+      "activity": "**🏔️ THE RESEARCHER SITE WENT LIVE — `https://muhammadhanzla.netlify.app/`, HIS FIRST PERSONAL WEBSITE, PUBLICLY REACHABLE. The lane's FIRST ARTIFACT in the twenty-four days it has existed; every prior ✍️ row was a work-day tiny.** Published 2026-08-17T16:59:38Z (12:59 EDT). Own dedicated build 07-28 → 08-17, ~3 weeks, seven work-days already on this ledger beneath it.",
+      "label": "🏔️ THE RESEARCHER SITE WENT LIVE",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 17,
+      "cum_overall": 1089,
+      "reasoning": "**`First personal website LIVE` is a NAMED INSTANCE of the ✍️ artifact small — pre-registered, earned-once, no tier judgment at the clear.** I verified it at source rather than taking his word or refusing for want of one: `HTTP 200`, 88,404 bytes, title *\"Muhammad Hanzla — Independent Alignment & Safety Researcher\"*. **All five bars pass, and BAR 3 (the shaping bar) is the one this artifact was most exposed to, because Athena wrote every line of the code.** It clears outright: his judgment is visible in the difference across five documented rounds — ~19 narrated critiques 07-29 (a sub-hero reframe he raised *against himself* and invited pushback on; \"no photograph, by design\" struck; the Research tab hashed out on his own reasoning that an empty important tab subtracts credibility), a 39-item review 07-31 with 22 changes and **two outright rejections of Module 1 in his own words**, a 40-item walk 08-01, the module-is-the-floor ruling 08-03. **On go-live day he asked the LIVE SITE rather than trusting \"Deploy complete\"** — the only reason the §183 defect surfaced at all (no revenue-seeking language anywhere, \"free\" three times, pointing the wrong way on a profit-motive question); the availability-for-paid-research block was his call. **Bar 5 clean both ways: 🐍 pays nothing** (agent-authored majority, Amendment D) **and 📕 paid a session tiny for a tax sitting, never for a public artifact** (G-5 — each lane's tier is sized by the work in *that* lane's object). Band: ~3 weeks, inside 4-days-to-1-month. **⛔ NO ✍️ work-day tiny for 08-17 — the 38th run's 📕 tax-ops row names this publish inside its own text (*\"its execution landed the same day… decision #5\"*): same sitting, same body of work, and Amendment E bars the second tick. That refusal was made on 2026-08-18 and it stands unchanged tonight.** 📌 **PROVENANCE, ON THE RECORD: this deed was reported to me directly by the owner on 08-18 and I still refused to book it, because §0.5 requires PLACEMENT and my file access forbids me from writing the row. He challenged that as ceremony. Odin then placed both halves (commit `62bbe203`) and it books by the ORDINARY path — no law was bent and no amendment was needed.**",
+      "evidence": "capture row 2026-08-17 (placed 2026-08-19 by Odin); `public-work-log.md` row 2026-08-17; my own live probe; Netlify deploy record; commit `6975844a`",
+      "booked": "2026-08-19"
+    },
+    {
+      "date": "2026-08-18",
+      "lane": "method",
+      "activity": "**OSIRIS PROTOCOL SECOND-PASS SESSION — he designed the review layer AND stopped a walkthrough that was re-litigating settled decisions.** His four requirements for the review layer: every annotation gets exactly one index item; the change must be visible with the old version beside it; no data is lost; where an annotation produced no change the page must say so and why — plus a three-verdict control (*wrong* / *questioning it* / *approved*) with reasoning, and the persistence requirement in his own words: *\"Everything I do has to be saved and permanent and safe and visible to you.\"* Presented separately with ~15 protocol questions he had already settled, he refused them outright — *\"You are asking me questions that are relitigating things that were already settled… go get grounded\"* — named the specific records that should have been read first, and **all 117 dispositions were re-authored so each names and quotes the decision that closed it.**",
+      "label": "OSIRIS PROTOCOL SECOND-PASS SESSION",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 77,
+      "cum_overall": 1090,
+      "reasoning": "**ONE tiny, not two, and the fold is the ruling.** By the session-type list these read as two types (a *build working session* and a *protocol Q&A walkthrough*), and a different-type session the same day is normally its own tick. **They are one body of work — the protocol second pass — and Amendment E is exact: the wrong thing is not two ticks in a day, it is two ticks for one body of work.** The review layer exists to judge the annotations; the grounding correction fixed the same pass's inputs. **The 32nd run collapsed four faces of one substrate day into ONE tick and that precedent is mine.** Substance floor cleared many times over: four specified requirements, a control he designed, a timing ruling, a refusal with named records, and 117 dispositions re-authored as the logged output. **The refusal is the strongest single act in the row** — catching that an agent was re-opening closed decisions requires holding the closed set in mind, which is exactly the study-craft this lane pays for.",
+      "evidence": "capture rows 2026-08-18 (Odin sweep); `_build/coverage.mjs`, `_build/coverage/review.js`, `_notes/notes-server.py` `/api/verdicts`; `dispositions.json` + the preserved `dispositions.PRE-GROUNDING-2026-08-18.json`",
+      "booked": "2026-08-19"
+    },
+    {
+      "date": "2026-08-18",
+      "lane": "method",
+      "activity": "**OSIRIS CODING-ARCHITECTURE RULING — the study's coding design decided and made a durable artifact.** His rulings: the sampling rule must be written out explicitly rather than left to judgment (*\"you didn't put an explicit rule as to how it's going to be sampled… you've got to be explicit\"*); the coding schemes must be predetermined, because *\"it's bad rigor to go in and just code whatever seems interesting — you have to have predetermined ideas of what you're going to be coding\"*; the codebook is one source of truth. He also fixed the identity-revision cadence at **once every 84 hours** (exactly half a week) rather than \"twice a week\", ruled the diff a time requirement, and required the artifact live *\"somewhere safe, somewhere separate from other things.\"*",
+      "label": "OSIRIS CODING-ARCHITECTURE RULING",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 78,
+      "cum_overall": 1091,
+      "reasoning": "**A distinct session-type on the same date — a strategy/judgment session whose object is the study's CODING ARCHITECTURE, a different artifact and a different methodological question from the protocol pass above.** It is its own tick by the dedup rule's own words. **⛔ AND IT IS A TINY, NOT THE #10 SMALL, BECAUSE I FACT-CHECKED THE ROADMAP INSTEAD OF THE ARTIFACT'S IMPORTANCE.** Roadmap #10 *Qualitative coding codebook* is **still `☐`** — its definition (roadmap line 67) is *\"every code, its definition, and the rules for labeling Osiris's behavior\"*, and the coding manual settles what gets coded, from where and how much. **That is the architecture above the codebook, not the codebook.** 🚩 **BANDING FLAG, RAISED AND DELIBERATELY NOT SELF-GRANTED:** the coding manual is a real completed artifact registered as durable, and it carries **no pre-registered tier** — it is not in the artifact table. Amendment J's discipline is that a band is fixed **in advance, never at payment**, so I do not invent one in the run that pays it. **If he rules it a distinct artifact it most likely bands SMALL, and that is a C3 call for him to make cold.** *(The substance ruling here is his, unprompted, and it is the correct methodological instinct: pre-registering coding schemes is precisely the control against coding-whatever-is-interesting.)*",
+      "evidence": "capture row 2026-08-18 (Odin sweep); `coding-manual.md` + `coding-manual.html`; `_build/build-coding-manual.mjs`; roadmap #10 read at source, status `☐`",
+      "booked": "2026-08-19"
+    },
+    {
+      "date": "2026-08-18",
+      "lane": "method",
+      "activity": "**OSIRIS SUBSTRATE DESIGN-REVIEW ANSWERS — the 2026-08-17 review answered with three rulings.** ① R1's test belongs in the protocol document. ② S2 runs before S1 in the build order. ③ `substrate-design-spec.md` renamed **\"The Design Record.\"** He marked §11's coding schemes superseded by the new coding manual, and directed the answers be returned as an HTML grounding file carrying goal prompts each written to situate a reader on whatever day it is sent — *\"if it takes a few days, any day I send it, it'll tell you and direct you to go read.\"*",
+      "label": "OSIRIS SUBSTRATE DESIGN-REVIEW ANSWERS",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 79,
+      "cum_overall": 1092,
+      "reasoning": "**A third distinct session-type on the date — an artifact review/walkthrough, the type the codebook names for *\"owner makes the calls on a team draft.\"* Its object is the SUBSTRATE DESIGN, distinct from the protocol pass and from the coding architecture.** ⚠️ **NOT a double of the 08-17 substrate design session already on this ledger** — that row is three Crucible runs producing pages 028–030 *asking* the questions; this is 08-18 *answering* them, a different date and the other half of the exchange. I checked the 08-17 row's text before booking rather than trusting the date gap. **The POLARIS tick `★ Substrate Design Session ✔ sitting done` maps to THIS deed and adds nothing on top** — a POLARIS row is a fact awaiting judgment, never a second tick, and never a hint.",
+      "evidence": "capture row 2026-08-18 (Odin sweep); `substrate-design-record.md` (renamed by `git mv`, 12 references swept); `_explainers/2026-08-18-substrate-build-grounding.html`; commit `c5753c9b`",
+      "booked": "2026-08-19"
     }
   ],
   "series": {
@@ -7438,6 +7490,27 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**OSIRIS TAX & ENTITY OPS SESSION — sitting 2 of 2, the plan executed rather than written, and the cure I asked for on 08-16 arrived.** The 08-16 sitting closed with a written plan and his explicit decision to **execute it in the next tax sitting rather than that day**; this is that sitting. The artifact is `tax-and-entity-plan.md` — titled *\"Tax & Entity Plan — Osiris funding\"* — and its execution landed the same day (the researcher site's opening date established and evidenced, decision #5)."
+      },
+      {
+        "date": "2026-08-18",
+        "cum": 77,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**OSIRIS PROTOCOL SECOND-PASS SESSION — he designed the review layer AND stopped a walkthrough that was re-litigating settled decisions.** His four requirements for the review layer: every annotation gets exactly one index item; the change must be visible with the old version beside it; no data is lost; where an annotation produced no change the page must say so and why — plus a three-verdict control (*wrong* / *questioning it* / *approved*) with reasoning, and the persistence requirement in his own words: *\"Everything I do has to be saved and permanent and safe and visible to you.\"* Presented separately with ~15 protocol questions he had already settled, he refused them outright — *\"You are asking me questions that are relitigating things that were already settled… go get grounded\"* — named the specific records that should have been read first, and **all 117 dispositions were re-authored so each names and quotes the decision that closed it.**"
+      },
+      {
+        "date": "2026-08-18",
+        "cum": 78,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**OSIRIS CODING-ARCHITECTURE RULING — the study's coding design decided and made a durable artifact.** His rulings: the sampling rule must be written out explicitly rather than left to judgment (*\"you didn't put an explicit rule as to how it's going to be sampled… you've got to be explicit\"*); the coding schemes must be predetermined, because *\"it's bad rigor to go in and just code whatever seems interesting — you have to have predetermined ideas of what you're going to be coding\"*; the codebook is one source of truth. He also fixed the identity-revision cadence at **once every 84 hours** (exactly half a week) rather than \"twice a week\", ruled the diff a time requirement, and required the artifact live *\"somewhere safe, somewhere separate from other things.\"*"
+      },
+      {
+        "date": "2026-08-18",
+        "cum": 79,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**OSIRIS SUBSTRATE DESIGN-REVIEW ANSWERS — the 2026-08-17 review answered with three rulings.** ① R1's test belongs in the protocol document. ② S2 runs before S1 in the build order. ③ `substrate-design-spec.md` renamed **\"The Design Record.\"** He marked §11's coding schemes superseded by the new coding manual, and directed the answers be returned as an HTML grounding file carrying goal prompts each written to situate a reader on whatever day it is sent — *\"if it takes a few days, any day I send it, it'll tell you and direct you to go read.\"*"
       }
     ],
     "literature": [
@@ -9070,6 +9143,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "PUBLIC-WORK DAY — opened the X research account and **wrote its bio himself**: *\"Independent AI Alignment / Safety Researcher. Long-horizon work on how AI agents behave over time. Here to follow the field, not to broadcast.\"* Set up under constraints he specified himself — contact-syncing off, no personal photo, plausible deniability from family"
+      },
+      {
+        "date": "2026-08-17",
+        "cum": 17,
+        "feet": 10,
+        "tier": "small",
+        "activity": "**🏔️ THE RESEARCHER SITE WENT LIVE — `https://muhammadhanzla.netlify.app/`, HIS FIRST PERSONAL WEBSITE, PUBLICLY REACHABLE. The lane's FIRST ARTIFACT in the twenty-four days it has existed; every prior ✍️ row was a work-day tiny.** Published 2026-08-17T16:59:38Z (12:59 EDT). Own dedicated build 07-28 → 08-17, ~3 weeks, seven work-days already on this ledger beneath it."
       }
     ]
   },
