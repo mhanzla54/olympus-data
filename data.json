@@ -19,16 +19,16 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 1095,
+    "overall_total": 1106,
     "generated_for": "2026-08-19",
-    "built_at": "2026-08-19T23:30:03.225Z",
+    "built_at": "2026-08-19T23:47:37.115Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1622
+      "ft_to_go": 1611
     },
-    "captures_today_unscored": 16
+    "captures_today_unscored": 0
   },
   "lanes": [
     {
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 80,
+      "current": 91,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -6066,6 +6066,32 @@
       "reasoning": "**An Osiris working session of the protocol-Q&A / artifact-review type, and it clears the substance floor on three authored rulings plus the revision pass** — against the owner's own anchor of ~3 substantive items or an equivalent mix. Each of the three is a real call, not a note: a citation demanded, a framing corrected against his own interest, and a passage struck. **⚠️ NOT A DOUBLE OF THE 08-18 PROTOCOL SECOND-PASS ROW — it is the CURE for the flag that row carried, which is why I read my own prior row before booking this one.** The 42nd run booked 08-18 for *designing the review layer*, and recorded in both the ledger and the capture log that the `#9a-3` mark read *\"judge the edits — sitting done\"* while the session record showed the review layer being built and the edits left to be reviewed later. It closed with: *\"I booked the build, not the judging.\"* **Today the judging is on the file — dated, in his voice, three notes deep.** A different date, and the deed the earlier mark had gotten ahead of. Day-keyed dedup does not reach across dates, and the 08-19 grep came back empty before I wrote a line.",
       "evidence": "`_notes/protocol-notes.md` notes `nmt08usr1dabt3`, `nmt09736yucg7o`, `nmt0hfk9bwxwh5`; `_notes/_backups/protocol-draft.2026-08-19T*.md`; POLARIS `#9a-3`; capture row 2026-08-19",
       "booked": "2026-08-19"
+    },
+    {
+      "date": "2026-08-18",
+      "lane": "method",
+      "activity": "**🔒 THE CODING MANUAL — THE STUDY'S CODING ARCHITECTURE, COMPLETE AS A DURABLE ARTIFACT.** `BKM/in-flight/osiris-study/coding-manual.md`, 19,488 bytes, created 2026-08-18, with an HTML twin and a build script. Its own header: *\"The single source of truth for what gets coded, from where, and how much\"* and *\"Status of every card below: RULED by the owner on 2026-08-18.\"* It settles the six coding schemes named after their sources, their units and draws, one sampling method (stratified random by calendar month), the per-scheme codebooks and the year's hour cost. Written from his instruction: *\"this should be saved as a durable, separate artifact… somewhere safe, somewhere separate from other things, so we know this is our coding manual.\"*",
+      "label": "🔒 THE CODING MANUAL — THE STUDY'S CODING ARCHITECTURE,…",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 90,
+      "cum_overall": 1105,
+      "reasoning": "**THE BAND WAS SET BY ME, COLD, TWO RUNS BEFORE IT WAS PAID — which is the only reason this books tonight and not as a favour.** On the 42nd run I refused to pay this artifact and wrote the reason into the record: it is a real completed durable artifact carrying **no pre-registered tier**, Amendment J fixes a band in advance and never at payment, and — my exact words — *\"if he rules it a distinct artifact it most likely bands SMALL, and that is his call to make cold.\"* **He has now ruled it.** The band therefore predates the ruling that pays it, which is precisely what Amendment J and G-1 bound 4 (formula-not-outcome) require: the tier was not built to fit an outcome, it was on the record while I was declining to hand it over. **⚠️ IT IS NOT ROADMAP #10 AND I CHECKED RATHER THAN ASSUMING.** #10 (Qualitative coding codebook) still reads `☐` in `execution-roadmap.md`, and #10's own definition is *every code, its definition, and the rules for labeling*. The manual settles what gets coded, from where and how much — the **architecture above the codebook**, not the codebook. So #10's small remains live and unpaid; this is a distinct artifact and does not consume it. **§4.5.2 basis:** the artifact prices its OWN dedicated build-effort — three sittings inside one day plus the decisions they distil, sitting in the 4-day–1-month band once the deciding work behind it is counted; §3 strictness holds it at small rather than reaching for medium, and he asked for small. **Dedup run before the first write:** `grep -in \"coding manual\"` over the row-log returns only the 07-02 Saldaña *book* row and the 08-18 **session** row (738). The session stacks BELOW the artifact — nested double-counting is ON, which is the whole reason a lane is supposed to be able to pay for finishing something. **This is the first 📕 artifact tick that was not forced out of me by a challenge**, and it lands in the run where I proved the lane was 70-for-71 tinies.",
+      "evidence": "`coding-manual.md` verified at source by me this run (19,488 bytes, 2026-08-18); `coding-manual.html`; `_build/build-coding-manual.mjs`; ledger row 738 (the session); 42nd-run report + journal (the cold band)",
+      "booked": "2026-08-19"
+    },
+    {
+      "date": "2026-08-19",
+      "lane": "method",
+      "activity": "**OSIRIS SUBSTRATE B2 BUILDING SESSION — the placed row's missing fact supplied first-hand by the owner.** The capture row (`★ Substrate Design Session ✔ sitting done`, POLARIS, due 2026-08-21) was placed by the mid-day pass carrying the capturer's honest statement that he held **no independent session facts** and was **not asserting the session occurred**. I flagged it and refused to rule it in either direction. The owner has now reported the sitting directly and unprompted: *\"I did a Substrate B2 building session.\"*",
+      "label": "OSIRIS SUBSTRATE B2 BUILDING SESSION",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 91,
+      "cum_overall": 1106,
+      "reasoning": "**THE GOVERNING PRECEDENT IS MY OWN AND IT IS DIRECTLY ON POINT — the 33rd run's wrestling row: an oral owner report CURES A PLACED ROW'S MISSING FACT; it does not substitute for placement.** The row was placed by an upstream capturer under §0.5 and has been sitting in the queue since 16:05 EDT. What was absent was never the placement — it was the session fact, and the owner is a first-hand witness to his own sitting and is named in §0.5's own text as an authorized capturer. **This is NOT the researcher-site situation and the difference is the whole reason I can book it:** there the file held nothing at all, and I refused across four runs and was right to. Here the file holds the row and the owner filled the hole in it. **⛔ AND I DID NOT PAY IT TWICE.** Osiris session tinies are day-keyed **per (date, session-type)**, and today already carries a 📕 tick — the protocol second-pass sitting (row 742). A substrate build sitting and a protocol-judging sitting are **different session-types with different objects**, which is the same call the 42nd run made when it booked three distinct 📕 types on 08-18, and the same rule that folded two of six rows on that run. Dedup grep for a 2026-08-19 substrate row returned **0**. **⚠️ I flagged this row this afternoon and I am booking it tonight, and the flag is the reason it books cleanly** — I refused to rule it NO TICK precisely so that a genuine sitting could still be paid if the facts arrived. They arrived six hours later. That is the flag working exactly as designed, and it is why a flag costs him nothing and a premature verdict costs him a foot.",
+      "evidence": "POLARIS `★ Substrate Design Session` capture row (placed 16:05 EDT); owner first-hand report this session; ledger row 742 (the distinct protocol session-type, same date)",
+      "booked": "2026-08-19"
     }
   ],
   "series": {
@@ -7564,6 +7590,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**OSIRIS PROTOCOL SECOND-PASS SITTING — the judging that yesterday's tick claimed and the record did not show.** Three annotations dated today, in his own voice: ① §1.3's claim that the fragility of internal monitoring is *\"now a stated, cross-lab position\"* needs a citation — *\"Where was this stated? What are you referencing? Is it one example... or multiple?\"* ② the two-years-ago passage must also say a full team would have found this difficult and expensive — *\"it's not like... 'Oh, yeah, solo independent couldn't do it, but a team can easily do it.' That wouldn't even be the case, because it's still a lot of coding, it's still a lot of depth, it's still a very, very complex study.\"* ③ §2.3, a ruling to **remove** a sentence on the founding document — *\"Don't go into the specifics of how the study is run here. We're not at that point... also making any bias claims as to what we prefer as a result.\"* Roughly twenty revisions applied to `protocol-draft.md` 09:36 → 10:50 EDT; the notes file regenerated 15:28 EDT standing at 158 notes."
+      },
+      {
+        "date": "2026-08-18",
+        "cum": 90,
+        "feet": 10,
+        "tier": "small",
+        "activity": "**🔒 THE CODING MANUAL — THE STUDY'S CODING ARCHITECTURE, COMPLETE AS A DURABLE ARTIFACT.** `BKM/in-flight/osiris-study/coding-manual.md`, 19,488 bytes, created 2026-08-18, with an HTML twin and a build script. Its own header: *\"The single source of truth for what gets coded, from where, and how much\"* and *\"Status of every card below: RULED by the owner on 2026-08-18.\"* It settles the six coding schemes named after their sources, their units and draws, one sampling method (stratified random by calendar month), the per-scheme codebooks and the year's hour cost. Written from his instruction: *\"this should be saved as a durable, separate artifact… somewhere safe, somewhere separate from other things, so we know this is our coding manual.\"*"
+      },
+      {
+        "date": "2026-08-19",
+        "cum": 91,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**OSIRIS SUBSTRATE B2 BUILDING SESSION — the placed row's missing fact supplied first-hand by the owner.** The capture row (`★ Substrate Design Session ✔ sitting done`, POLARIS, due 2026-08-21) was placed by the mid-day pass carrying the capturer's honest statement that he held **no independent session facts** and was **not asserting the session occurred**. I flagged it and refused to rule it in either direction. The owner has now reported the sitting directly and unprompted: *\"I did a Substrate B2 building session.\"*"
       }
     ],
     "literature": [
