@@ -21,7 +21,7 @@
     ],
     "overall_total": 1092,
     "generated_for": "2026-08-19",
-    "built_at": "2026-08-19T10:20:02.858Z",
+    "built_at": "2026-08-19T14:00:03.071Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -12052,9 +12052,14 @@
   ],
   "ladder_parity": {
     "push": {
-      "candidates": 10,
+      "candidates": 11,
       "plotted": 10,
-      "rejected": []
+      "rejected": [
+        {
+          "date": "2026-08-19",
+          "why": "\"Typewriter push-up (★slide side-to-side)\" logged no usable numbers"
+        }
+      ]
     },
     "explosive": {
       "candidates": 10,
@@ -12062,9 +12067,14 @@
       "rejected": []
     },
     "planche": {
-      "candidates": 10,
+      "candidates": 11,
       "plotted": 10,
-      "rejected": []
+      "rejected": [
+        {
+          "date": "2026-08-19",
+          "why": "\"Pseudo-planche push-up (★PPP — planche l\" logged no usable numbers"
+        }
+      ]
     },
     "handstand": {
       "candidates": 10,
@@ -12072,7 +12082,7 @@
       "rejected": []
     },
     "pull": {
-      "candidates": 32,
+      "candidates": 33,
       "plotted": 21,
       "rejected": [
         {
@@ -12122,6 +12132,10 @@
         {
           "date": "2026-08-17",
           "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-08-19",
+          "why": "\"Pull-up (★full — then negatives as back-\" logged no usable numbers"
         }
       ]
     },
@@ -12136,9 +12150,14 @@
       ]
     },
     "grip": {
-      "candidates": 19,
+      "candidates": 20,
       "plotted": 19,
-      "rejected": []
+      "rejected": [
+        {
+          "date": "2026-08-19",
+          "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" logged no usable numbers"
+        }
+      ]
     },
     "legs": {
       "candidates": 15,
@@ -12163,12 +12182,17 @@
       ]
     },
     "corefloor": {
-      "candidates": 12,
+      "candidates": 13,
       "plotted": 12,
-      "rejected": []
+      "rejected": [
+        {
+          "date": "2026-08-19",
+          "why": "\"V-up / tuck-up (★finisher)\" logged no usable numbers"
+        }
+      ]
     },
     "corehang": {
-      "candidates": 31,
+      "candidates": 32,
       "plotted": 28,
       "rejected": [
         {
@@ -12182,11 +12206,15 @@
         {
           "date": "2026-07-06",
           "why": "\"Hanging knee raise\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-08-19",
+          "why": "\"Oblique knee raises (★knees up, drive to\" logged no usable numbers"
         }
       ]
     },
     "frontlever": {
-      "candidates": 2,
+      "candidates": 3,
       "plotted": 0,
       "rejected": [
         {
@@ -12195,6 +12223,10 @@
         },
         {
           "date": "2026-08-17",
+          "why": "\"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
+        },
+        {
+          "date": "2026-08-19",
           "why": "\"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
         }
       ]
@@ -12289,6 +12321,13 @@
             "raw": "7, 7, 6",
             "avg": 6.7,
             "status": "● plotted at 5.83"
+          },
+          {
+            "date": "2026-08-19",
+            "name": "Typewriter push-up (★slide side-to-side)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Typewriter push-up (★slide side-to-side)\" logged no usable numbers"
           }
         ]
       },
@@ -12441,6 +12480,13 @@
             "raw": "5, 4",
             "avg": 4.5,
             "status": "● plotted at 2.56"
+          },
+          {
+            "date": "2026-08-19",
+            "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Pseudo-planche push-up (★PPP — planche l\" logged no usable numbers"
           }
         ]
       },
@@ -12803,6 +12849,20 @@
             "raw": "20, 10",
             "avg": 15,
             "status": "✗ not plotted — \"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+          },
+          {
+            "date": "2026-08-19",
+            "name": "Pull-up (★full — then negatives as back-off)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Pull-up (★full — then negatives as back-\" logged no usable numbers"
+          },
+          {
+            "date": "2026-08-19",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Pull-up (★full — then negatives as back-\" logged no usable numbers"
           }
         ]
       },
@@ -12870,6 +12930,13 @@
             "name": "Oblique knee raises (★knees up, drive to one side)",
             "raw": "3.5, 3.5, 3",
             "avg": 3.3,
+            "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
+          },
+          {
+            "date": "2026-08-19",
+            "name": "Oblique knee raises (★knees up, drive to one side)",
+            "raw": "",
+            "avg": null,
             "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
           }
         ]
@@ -13093,6 +13160,13 @@
             "raw": "20, 10",
             "avg": 15,
             "status": "● plotted at 3.25"
+          },
+          {
+            "date": "2026-08-19",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Grip+trap (flex): dead hang ★ + scap shr\" logged no usable numbers"
           }
         ]
       },
@@ -13301,6 +13375,13 @@
             "raw": "7, 6",
             "avg": 6.5,
             "status": "● plotted at 3.71"
+          },
+          {
+            "date": "2026-08-19",
+            "name": "V-up / tuck-up (★finisher)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"V-up / tuck-up (★finisher)\" logged no usable numbers"
           }
         ]
       },
@@ -13524,6 +13605,13 @@
             "raw": "3.5, 3.5, 3",
             "avg": 3.3,
             "status": "● plotted at 5.42"
+          },
+          {
+            "date": "2026-08-19",
+            "name": "Oblique knee raises (★knees up, drive to one side)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" logged no usable numbers"
           }
         ]
       }
@@ -13599,67 +13687,10 @@
           {
             "date": "2026-08-17",
             "detail": "hang: 20, 10 · shrugs: 12, 11"
-          }
-        ]
-      },
-      {
-        "name": "Hanging knee raise",
-        "rows": [
-          {
-            "date": "2026-06-05",
-            "detail": "reps: 7, 6, 5.5"
           },
           {
-            "date": "2026-06-06",
-            "detail": "reps: 8 (with breaks), 7 (non stop), 7 (with breaks)"
-          },
-          {
-            "date": "2026-06-08",
-            "detail": "reps: 3, 4,  4"
-          },
-          {
-            "date": "2026-06-10",
-            "detail": "reps: 7, 7, 7"
-          },
-          {
-            "date": "2026-06-13",
-            "detail": "reps: 10, 9, 6"
-          },
-          {
-            "date": "2026-06-17",
-            "detail": "reps: 9, 9, 6"
-          },
-          {
-            "date": "2026-06-20",
-            "detail": "reps: 10, 7, 5"
-          },
-          {
-            "date": "2026-06-22",
-            "detail": "reps: 6, 7, 4"
-          },
-          {
-            "date": "2026-06-24",
-            "detail": "reps: 6, 6, 3"
-          },
-          {
-            "date": "2026-06-27",
-            "detail": "reps: (skipped because of calus tearing)"
-          },
-          {
-            "date": "2026-06-29",
-            "detail": "reps: 12, 10, 5"
-          },
-          {
-            "date": "2026-07-01",
-            "detail": "reps: 14, 12, 12"
-          },
-          {
-            "date": "2026-07-04",
-            "detail": "reps: 12,  10, 8"
-          },
-          {
-            "date": "2026-07-06",
-            "detail": "reps: 12, 7, 5"
+            "date": "2026-08-19",
+            "detail": "hang: — · shrugs: —"
           }
         ]
       },
@@ -13721,6 +13752,71 @@
           {
             "date": "2026-08-12",
             "detail": "full reps: 5, 4, 2 · neg back-off: 3, 4, 6"
+          },
+          {
+            "date": "2026-08-19",
+            "detail": "full reps: — · neg back-off: —"
+          }
+        ]
+      },
+      {
+        "name": "Hanging knee raise",
+        "rows": [
+          {
+            "date": "2026-06-05",
+            "detail": "reps: 7, 6, 5.5"
+          },
+          {
+            "date": "2026-06-06",
+            "detail": "reps: 8 (with breaks), 7 (non stop), 7 (with breaks)"
+          },
+          {
+            "date": "2026-06-08",
+            "detail": "reps: 3, 4,  4"
+          },
+          {
+            "date": "2026-06-10",
+            "detail": "reps: 7, 7, 7"
+          },
+          {
+            "date": "2026-06-13",
+            "detail": "reps: 10, 9, 6"
+          },
+          {
+            "date": "2026-06-17",
+            "detail": "reps: 9, 9, 6"
+          },
+          {
+            "date": "2026-06-20",
+            "detail": "reps: 10, 7, 5"
+          },
+          {
+            "date": "2026-06-22",
+            "detail": "reps: 6, 7, 4"
+          },
+          {
+            "date": "2026-06-24",
+            "detail": "reps: 6, 6, 3"
+          },
+          {
+            "date": "2026-06-27",
+            "detail": "reps: (skipped because of calus tearing)"
+          },
+          {
+            "date": "2026-06-29",
+            "detail": "reps: 12, 10, 5"
+          },
+          {
+            "date": "2026-07-01",
+            "detail": "reps: 14, 12, 12"
+          },
+          {
+            "date": "2026-07-04",
+            "detail": "reps: 12,  10, 8"
+          },
+          {
+            "date": "2026-07-06",
+            "detail": "reps: 12, 7, 5"
           }
         ]
       },
@@ -13992,6 +14088,64 @@
         ]
       },
       {
+        "name": "Typewriter push-up (★slide side-to-side)",
+        "rows": [
+          {
+            "date": "2026-07-15",
+            "detail": "reps: 2, 3, 2"
+          },
+          {
+            "date": "2026-07-22",
+            "detail": "reps: 3, 2, 3"
+          },
+          {
+            "date": "2026-07-29",
+            "detail": "reps: 5, 3, 3"
+          },
+          {
+            "date": "2026-08-03",
+            "detail": "reps: 6, 5, 4"
+          },
+          {
+            "date": "2026-08-10",
+            "detail": "reps: 7, 7, 6"
+          },
+          {
+            "date": "2026-08-19",
+            "detail": "reps: —"
+          }
+        ]
+      },
+      {
+        "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
+        "rows": [
+          {
+            "date": "2026-07-15",
+            "detail": "reps: 2, 3"
+          },
+          {
+            "date": "2026-07-22",
+            "detail": "reps: 5, 5"
+          },
+          {
+            "date": "2026-07-29",
+            "detail": "reps: 5, 4"
+          },
+          {
+            "date": "2026-08-03",
+            "detail": "reps: 8, 8"
+          },
+          {
+            "date": "2026-08-10",
+            "detail": "reps: 5, 4"
+          },
+          {
+            "date": "2026-08-19",
+            "detail": "reps: —"
+          }
+        ]
+      },
+      {
         "name": "Planche lean (flex, light)",
         "rows": [
           {
@@ -14092,56 +14246,6 @@
         ]
       },
       {
-        "name": "Typewriter push-up (★slide side-to-side)",
-        "rows": [
-          {
-            "date": "2026-07-15",
-            "detail": "reps: 2, 3, 2"
-          },
-          {
-            "date": "2026-07-22",
-            "detail": "reps: 3, 2, 3"
-          },
-          {
-            "date": "2026-07-29",
-            "detail": "reps: 5, 3, 3"
-          },
-          {
-            "date": "2026-08-03",
-            "detail": "reps: 6, 5, 4"
-          },
-          {
-            "date": "2026-08-10",
-            "detail": "reps: 7, 7, 6"
-          }
-        ]
-      },
-      {
-        "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
-        "rows": [
-          {
-            "date": "2026-07-15",
-            "detail": "reps: 2, 3"
-          },
-          {
-            "date": "2026-07-22",
-            "detail": "reps: 5, 5"
-          },
-          {
-            "date": "2026-07-29",
-            "detail": "reps: 5, 4"
-          },
-          {
-            "date": "2026-08-03",
-            "detail": "reps: 8, 8"
-          },
-          {
-            "date": "2026-08-10",
-            "detail": "reps: 5, 4"
-          }
-        ]
-      },
-      {
         "name": "Single-leg hip thrust (shoulders on bed/chair)",
         "rows": [
           {
@@ -14163,6 +14267,56 @@
           {
             "date": "2026-08-12",
             "detail": "reps: 4, 4, 5"
+          }
+        ]
+      },
+      {
+        "name": "Feet -elevated Pike push-up (accessory)",
+        "rows": [
+          {
+            "date": "2026-07-22",
+            "detail": "reps: 5, 4, 5"
+          },
+          {
+            "date": "2026-07-29",
+            "detail": "reps: 6, 5.5, 3"
+          },
+          {
+            "date": "2026-08-03",
+            "detail": "reps: 8, 6, 5"
+          },
+          {
+            "date": "2026-08-10",
+            "detail": "reps: 3, 3, 3"
+          },
+          {
+            "date": "2026-08-19",
+            "detail": "reps: —"
+          }
+        ]
+      },
+      {
+        "name": "V-up / tuck-up (★finisher)",
+        "rows": [
+          {
+            "date": "2026-07-22",
+            "detail": "reps: 6, 4"
+          },
+          {
+            "date": "2026-07-29",
+            "detail": "reps: 5, 3, 3"
+          },
+          {
+            "date": "2026-08-03",
+            "detail": "reps: 5, 6"
+          },
+          {
+            "date": "2026-08-10",
+            "detail": "reps: 7, 6"
+          },
+          {
+            "date": "2026-08-19",
+            "detail": "reps: —"
           }
         ]
       },
@@ -14293,48 +14447,6 @@
         ]
       },
       {
-        "name": "Feet -elevated Pike push-up (accessory)",
-        "rows": [
-          {
-            "date": "2026-07-22",
-            "detail": "reps: 5, 4, 5"
-          },
-          {
-            "date": "2026-07-29",
-            "detail": "reps: 6, 5.5, 3"
-          },
-          {
-            "date": "2026-08-03",
-            "detail": "reps: 8, 6, 5"
-          },
-          {
-            "date": "2026-08-10",
-            "detail": "reps: 3, 3, 3"
-          }
-        ]
-      },
-      {
-        "name": "V-up / tuck-up (★finisher)",
-        "rows": [
-          {
-            "date": "2026-07-22",
-            "detail": "reps: 6, 4"
-          },
-          {
-            "date": "2026-07-29",
-            "detail": "reps: 5, 3, 3"
-          },
-          {
-            "date": "2026-08-03",
-            "detail": "reps: 5, 6"
-          },
-          {
-            "date": "2026-08-10",
-            "detail": "reps: 7, 6"
-          }
-        ]
-      },
-      {
         "name": "Chin-up (negatives, underhand)",
         "rows": [
           {
@@ -14437,6 +14549,23 @@
         ]
       },
       {
+        "name": "Oblique knee raises (★knees up, drive to one side)",
+        "rows": [
+          {
+            "date": "2026-08-12",
+            "detail": "reps: 5.5, 4.5, 4.5"
+          },
+          {
+            "date": "2026-08-17",
+            "detail": "reps: 3.5, 3.5, 3"
+          },
+          {
+            "date": "2026-08-19",
+            "detail": "reps: —"
+          }
+        ]
+      },
+      {
         "name": "Grip+trap (flex): towel hang + scap shrugs",
         "rows": [
           {
@@ -14524,19 +14653,6 @@
           {
             "date": "2026-08-17",
             "detail": "reps: 2, 1.5, 1.5"
-          }
-        ]
-      },
-      {
-        "name": "Oblique knee raises (★knees up, drive to one side)",
-        "rows": [
-          {
-            "date": "2026-08-12",
-            "detail": "reps: 5.5, 4.5, 4.5"
-          },
-          {
-            "date": "2026-08-17",
-            "detail": "reps: 3.5, 3.5, 3"
           }
         ]
       },
@@ -14695,6 +14811,71 @@
       }
     ],
     "dates": [
+      {
+        "date": "2026-08-19",
+        "rows": [
+          {
+            "ladderId": "pull",
+            "ladderName": "Pull",
+            "name": "Pull-up (★full — then negatives as back-off)",
+            "raw": "",
+            "avg": null,
+            "target": "8",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "corehang",
+            "ladderName": "Core — HANGING",
+            "name": "Oblique knee raises (★knees up, drive to one side)",
+            "raw": "",
+            "avg": null,
+            "target": "8/side",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "pull",
+            "ladderName": "Pull",
+            "name": "Dead hang ★",
+            "raw": "",
+            "avg": null,
+            "target": "45s",
+            "sets": 2,
+            "cleared": false
+          },
+          {
+            "ladderId": "push",
+            "ladderName": "Horizontal Push — STRENGTH",
+            "name": "Typewriter push-up (★slide side-to-side)",
+            "raw": "",
+            "avg": null,
+            "target": "8/side",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "corefloor",
+            "ladderName": "Core — FLOOR",
+            "name": "V-up / tuck-up (★finisher)",
+            "raw": "",
+            "avg": null,
+            "target": "15",
+            "sets": 2,
+            "cleared": false
+          },
+          {
+            "ladderId": "planche",
+            "ladderName": "Horizontal Push — PLANCHE",
+            "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
+            "raw": "",
+            "avg": null,
+            "target": "8",
+            "sets": 2,
+            "cleared": false
+          }
+        ]
+      },
       {
         "date": "2026-08-17",
         "rows": [
