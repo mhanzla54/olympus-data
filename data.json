@@ -21,7 +21,7 @@
     ],
     "overall_total": 1092,
     "generated_for": "2026-08-19",
-    "built_at": "2026-08-19T14:50:03.448Z",
+    "built_at": "2026-08-19T15:00:03.275Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -11599,6 +11599,12 @@
           "y": 3.25,
           "kind": "session",
           "label": "Dead hang — 20, 10 (avg 15 vs target 60)"
+        },
+        {
+          "date": "2026-08-19",
+          "y": 3.18,
+          "kind": "session",
+          "label": "Dead hang — 21, 1 (avg 11 vs target 60)"
         }
       ],
       "steps": [
@@ -12069,7 +12075,7 @@
       "rejected": [
         {
           "date": "2026-08-19",
-          "why": "\"Typewriter push-up (★slide side-to-side)\" logged no usable numbers"
+          "why": "\"Typewriter push-up (★slide side-to-side)\" logged no usable numbers (skipped)"
         }
       ]
     },
@@ -12159,13 +12165,8 @@
     },
     "grip": {
       "candidates": 20,
-      "plotted": 19,
-      "rejected": [
-        {
-          "date": "2026-08-19",
-          "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" logged no usable numbers"
-        }
-      ]
+      "plotted": 20,
+      "rejected": []
     },
     "legs": {
       "candidates": 15,
@@ -12329,9 +12330,9 @@
           {
             "date": "2026-08-19",
             "name": "Typewriter push-up (★slide side-to-side)",
-            "raw": "",
+            "raw": "(skipped)",
             "avg": null,
-            "status": "✗ not plotted — \"Typewriter push-up (★slide side-to-side)\" logged no usable numbers"
+            "status": "✗ not plotted — \"Typewriter push-up (★slide side-to-side)\" logged no usable numbers (skipped)"
           }
         ]
       },
@@ -12864,8 +12865,8 @@
           {
             "date": "2026-08-19",
             "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
-            "raw": "",
-            "avg": null,
+            "raw": "21, 1",
+            "avg": 11,
             "status": "● plotted at 5.53"
           }
         ]
@@ -13168,9 +13169,9 @@
           {
             "date": "2026-08-19",
             "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
-            "raw": "",
-            "avg": null,
-            "status": "✗ not plotted — \"Grip+trap (flex): dead hang ★ + scap shr\" logged no usable numbers"
+            "raw": "21, 1",
+            "avg": 11,
+            "status": "● plotted at 3.18"
           }
         ]
       },
@@ -13694,7 +13695,7 @@
           },
           {
             "date": "2026-08-19",
-            "detail": "hang: — · shrugs: —"
+            "detail": "hang: 21, 1 · shrugs: 13, 9"
           }
         ]
       },
@@ -14116,7 +14117,7 @@
           },
           {
             "date": "2026-08-19",
-            "detail": "reps: —"
+            "detail": "reps: (skipped)"
           }
         ]
       },
@@ -14842,8 +14843,8 @@
             "ladderId": "pull",
             "ladderName": "Pull",
             "name": "Dead hang ★",
-            "raw": "",
-            "avg": null,
+            "raw": "21, 1",
+            "avg": 11,
             "target": "45s",
             "sets": 2,
             "cleared": false
@@ -14852,7 +14853,7 @@
             "ladderId": "push",
             "ladderName": "Horizontal Push — STRENGTH",
             "name": "Typewriter push-up (★slide side-to-side)",
-            "raw": "",
+            "raw": "(skipped)",
             "avg": null,
             "target": "8/side",
             "sets": 3,
@@ -16607,13 +16608,17 @@
       "date": "2026-08-19",
       "detail": "5.5, 4.5, 3.5"
     },
+    "grip": {
+      "date": "2026-08-19",
+      "detail": "21, 1"
+    },
+    "push": {
+      "date": "2026-08-19",
+      "detail": "(skipped)"
+    },
     "chinup": {
       "date": "2026-08-17",
       "detail": "6.5, 5, 4"
-    },
-    "grip": {
-      "date": "2026-08-17",
-      "detail": "20, 10"
     },
     "handstand": {
       "date": "2026-08-17",
@@ -16634,10 +16639,6 @@
     "corefloor": {
       "date": "2026-08-10",
       "detail": "12, 10, 10"
-    },
-    "push": {
-      "date": "2026-08-10",
-      "detail": "7, 7, 6"
     },
     "planche": {
       "date": "2026-08-10",
