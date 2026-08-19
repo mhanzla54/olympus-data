@@ -19,16 +19,16 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 1092,
+    "overall_total": 1095,
     "generated_for": "2026-08-19",
-    "built_at": "2026-08-19T15:20:03.302Z",
+    "built_at": "2026-08-19T20:20:02.829Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1625
+      "ft_to_go": 1622
     },
-    "captures_today_unscored": 0
+    "captures_today_unscored": 9
   },
   "lanes": [
     {
@@ -38,7 +38,7 @@
       "t0_note": "couldn't write a single line of Python — ran his first print() the day before t0",
       "endpoint": "Replicate AND extend a frontier alignment result — public, runnable code",
       "endpoint_tier": "verylarge",
-      "current": 124,
+      "current": 125,
       "working_on": "Automate the Boring Stuff textbook"
     },
     {
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 79,
+      "current": 80,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 293,
+      "current": 294,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -6027,6 +6027,45 @@
       "reasoning": "**A third distinct session-type on the date — an artifact review/walkthrough, the type the codebook names for *\"owner makes the calls on a team draft.\"* Its object is the SUBSTRATE DESIGN, distinct from the protocol pass and from the coding architecture.** ⚠️ **NOT a double of the 08-17 substrate design session already on this ledger** — that row is three Crucible runs producing pages 028–030 *asking* the questions; this is 08-18 *answering* them, a different date and the other half of the exchange. I checked the 08-17 row's text before booking rather than trusting the date gap. **The POLARIS tick `★ Substrate Design Session ✔ sitting done` maps to THIS deed and adds nothing on top** — a POLARIS row is a fact awaiting judgment, never a second tick, and never a hint.",
       "evidence": "capture row 2026-08-18 (Odin sweep); `substrate-design-record.md` (renamed by `git mv`, 12 references swept); `_explainers/2026-08-18-substrate-build-grounding.html`; commit `c5753c9b`",
       "booked": "2026-08-19"
+    },
+    {
+      "date": "2026-08-19",
+      "lane": "strength",
+      "activity": "**DAY A PUSH+PULL WORKOUT LOGGED — every prescribed exercise worked but one, and the one skip was an injury stop, not a bail.** Pull-up ★full 5/4/3.7 with negative back-offs 3/4/5 · oblique knee raises 5.5/4.5/3.5 per side · dead hang ★ 21s/1s with scap shrugs 13/9 · feet-elevated pike push-up (accessory) 8/8/5 · V-up ★ 6/6 · pseudo-planche push-up ★ 4/4. **Typewriter push-up ★ 3×8/side SKIPPED** on left-side pain traced to his wrestling injury — his words: *\"the immense pressure, I think, and the unique way that pressure was being applied caused a lot of pain stemming from the injury I had when I was wrestling. This is the only workout so far that I've done that has been severely hindered by that injury.\"*",
+      "label": "DAY A PUSH+PULL WORKOUT LOGGED",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 294,
+      "cum_overall": 1093,
+      "reasoning": "**The session tiny, and NO rung clear — I checked every star against the live split rather than taking the capturer's word for it.** Pull-up avg 4.23 vs a target of 8 · obliques 4.5 vs 8/side · dead hang 11s vs 60s · V-up 6 vs 15 · PPP 4 vs 8. Not one starred target met. **The feet-elevated pike push-up's 8/8/5 is the one in-range set and it buys nothing** — `workout-split.md` marks that move an *\"accessory swap, NOT a ladder-rung clear — the ★ handstand rung stays Wall HSPU.\"* The capturer's no-clear claim is correct in every particular. **⚖️ THE SKIP DOES NOT VOID THE SESSION TINY.** The codebook's exclusion is an *unplanned coast* — \"unmotivated, went through the motions, cut to half the exercises/sets for no real reason\" — and the discriminator it names is *planned for a real reason + (near-)full volume* against *an unplanned motivational bail*. Six of seven exercises were worked, and the numbers read as failure rather than coasting: a dead hang collapsing 21s → 1s and pull-ups descending 5 → 4 → 3.7 are sets taken to their end. **An injury stop is the opposite of a bail.** He has trained through this shoulder since the 08-14 fall — the 08-17 Day C row on this ledger says so — and this is the first movement it has actually stopped him on.",
+      "evidence": "`workout-log.md` entry \"August 19th 2026 Wednesday - Day A Push+Pull\"; `workout-split.md` Day A table + the pull/planche/grip/core ladder rows (fact-checked this run); capture row 2026-08-19",
+      "booked": "2026-08-19"
+    },
+    {
+      "date": "2026-08-19",
+      "lane": "coding",
+      "activity": "**ATBS CH.9 GUIDED BUILD — `tidyDrills.py` STARTED ON HIS OWN MACHINE: the header, five settings constants and a working `drillRegex`.** Fifteen lines standing: imports, his own description of the program (*\"Finds every drill file in the code folder and moves them into a drills/ folder. Backs everything up to a ZIP first, and writes a manifest so the whole thing can be undone with one command\"*), five settings constants including `SCRIPT_NAME = 'tidyDrills.py'` carrying his comment *\"must never tidy itself away\"*, and the pattern `r'(.*)drills?(.*)\\.py'` with `re.IGNORECASE`. Carried off his PC by five pc-autopush commits, 08:05 → 08:55 EDT. No loop or move logic yet.",
+      "label": "ATBS CH.9 GUIDED BUILD — tidyDrills.py STARTED ON HIS OWN…",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 125,
+      "cum_overall": 1094,
+      "reasoning": "**The WORK-SESSION tiny (C3 Amendment D), NOT the completed-program tick — the program is unfinished and claims no such thing.** Both inclusion tests pass. **Provable:** five timestamped commits across fifty minutes off his own machine, plus the teaching page for the sitting. **Authorship:** the file sits in the curricula code folder that the `/guidedbuild` law forbids any agent from writing to, so his authorship is not merely the substantial majority the entry requires — it is the whole of it. **The substance floor is cleared, and I checked it rather than assuming it:** this lane already pays a tiny for a 15–30-minute micro-drill round and for a sub-hour refactor pass, so fifty minutes producing a working regex, the program's five settings and the self-exclusion insight sits *above* that floor rather than at it. Day-keyed, one per (date, kind) — hours inside the day multiply nothing. **⛔ `backupToZip.py` ADDS NOTHING AND I WILL NOT COUNT IT.** The row says he \"touched\" it and gives a modification timestamp, and **Amendment A is exact that a file-modification timestamp is not proof** — it is the precise inference that produced two phantom reads on 7/06. I book the file I can actually see him in. **The completed-program tick stays ahead of him**, and so does the ch.9 chapter small (Amendment I's four legs are not yet done).",
+      "evidence": "`Resources/curricula/python-foundations/code/tidyDrills.py`; commits `585ddaa7`, `0504b3c0`, `a370ad0e`, `4f6a7ddc`, `1c9cf1db`; `_explainers/2026-08-19-guided-build-tidydrills.html`; capture row 2026-08-19",
+      "booked": "2026-08-19"
+    },
+    {
+      "date": "2026-08-19",
+      "lane": "method",
+      "activity": "**OSIRIS PROTOCOL SECOND-PASS SITTING — the judging that yesterday's tick claimed and the record did not show.** Three annotations dated today, in his own voice: ① §1.3's claim that the fragility of internal monitoring is *\"now a stated, cross-lab position\"* needs a citation — *\"Where was this stated? What are you referencing? Is it one example... or multiple?\"* ② the two-years-ago passage must also say a full team would have found this difficult and expensive — *\"it's not like... 'Oh, yeah, solo independent couldn't do it, but a team can easily do it.' That wouldn't even be the case, because it's still a lot of coding, it's still a lot of depth, it's still a very, very complex study.\"* ③ §2.3, a ruling to **remove** a sentence on the founding document — *\"Don't go into the specifics of how the study is run here. We're not at that point... also making any bias claims as to what we prefer as a result.\"* Roughly twenty revisions applied to `protocol-draft.md` 09:36 → 10:50 EDT; the notes file regenerated 15:28 EDT standing at 158 notes.",
+      "label": "OSIRIS PROTOCOL SECOND-PASS SITTING",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 80,
+      "cum_overall": 1095,
+      "reasoning": "**An Osiris working session of the protocol-Q&A / artifact-review type, and it clears the substance floor on three authored rulings plus the revision pass** — against the owner's own anchor of ~3 substantive items or an equivalent mix. Each of the three is a real call, not a note: a citation demanded, a framing corrected against his own interest, and a passage struck. **⚠️ NOT A DOUBLE OF THE 08-18 PROTOCOL SECOND-PASS ROW — it is the CURE for the flag that row carried, which is why I read my own prior row before booking this one.** The 42nd run booked 08-18 for *designing the review layer*, and recorded in both the ledger and the capture log that the `#9a-3` mark read *\"judge the edits — sitting done\"* while the session record showed the review layer being built and the edits left to be reviewed later. It closed with: *\"I booked the build, not the judging.\"* **Today the judging is on the file — dated, in his voice, three notes deep.** A different date, and the deed the earlier mark had gotten ahead of. Day-keyed dedup does not reach across dates, and the 08-19 grep came back empty before I wrote a line.",
+      "evidence": "`_notes/protocol-notes.md` notes `nmt08usr1dabt3`, `nmt09736yucg7o`, `nmt0hfk9bwxwh5`; `_notes/_backups/protocol-draft.2026-08-19T*.md`; POLARIS `#9a-3`; capture row 2026-08-19",
+      "booked": "2026-08-19"
     }
   ],
   "series": {
@@ -6520,6 +6559,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**ATBS Ch.9 READING SEGMENT + HIS OWN NOTES — with the chapter's worked project `renameDates.py` AND the same-session drill block both folded in (Amendment B).** Read pp.206→211 and wrote his own ch.9 notes; built the book's `renameDates.py` alongside the text (regex + `os.listdir` + `shutil.move` chain); worked mini-drill block 2, 2 of 4 drills. Drill 2 (regex group numbering under nested alternation) answered correctly and unaided — `mo.group(4)`. Drill 1 (`re.VERBOSE`) predicted wrong on both lines."
+      },
+      {
+        "date": "2026-08-19",
+        "cum": 125,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**ATBS CH.9 GUIDED BUILD — `tidyDrills.py` STARTED ON HIS OWN MACHINE: the header, five settings constants and a working `drillRegex`.** Fifteen lines standing: imports, his own description of the program (*\"Finds every drill file in the code folder and moves them into a drills/ folder. Backs everything up to a ZIP first, and writes a manifest so the whole thing can be undone with one command\"*), five settings constants including `SCRIPT_NAME = 'tidyDrills.py'` carrying his comment *\"must never tidy itself away\"*, and the pattern `r'(.*)drills?(.*)\\.py'` with `re.IGNORECASE`. Carried off his PC by five pc-autopush commits, 08:05 → 08:55 EDT. No loop or move logic yet."
       }
     ],
     "mlai": [
@@ -7511,6 +7557,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**OSIRIS SUBSTRATE DESIGN-REVIEW ANSWERS — the 2026-08-17 review answered with three rulings.** ① R1's test belongs in the protocol document. ② S2 runs before S1 in the build order. ③ `substrate-design-spec.md` renamed **\"The Design Record.\"** He marked §11's coding schemes superseded by the new coding manual, and directed the answers be returned as an HTML grounding file carrying goal prompts each written to situate a reader on whatever day it is sent — *\"if it takes a few days, any day I send it, it'll tell you and direct you to go read.\"*"
+      },
+      {
+        "date": "2026-08-19",
+        "cum": 80,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**OSIRIS PROTOCOL SECOND-PASS SITTING — the judging that yesterday's tick claimed and the record did not show.** Three annotations dated today, in his own voice: ① §1.3's claim that the fragility of internal monitoring is *\"now a stated, cross-lab position\"* needs a citation — *\"Where was this stated? What are you referencing? Is it one example... or multiple?\"* ② the two-years-ago passage must also say a full team would have found this difficult and expensive — *\"it's not like... 'Oh, yeah, solo independent couldn't do it, but a team can easily do it.' That wouldn't even be the case, because it's still a lot of coding, it's still a lot of depth, it's still a very, very complex study.\"* ③ §2.3, a ruling to **remove** a sentence on the founding document — *\"Don't go into the specifics of how the study is run here. We're not at that point... also making any bias claims as to what we prefer as a result.\"* Roughly twenty revisions applied to `protocol-draft.md` 09:36 → 10:50 EDT; the notes file regenerated 15:28 EDT standing at 158 notes."
       }
     ],
     "literature": [
@@ -8082,6 +8135,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**SPARSE-TRAINING DAY — 9 distinct menu items, 15 total efforts, the six-item floor met.** Hand/finger/wrist ×2 · ankle dorsiflexion ×1 · hamstring ×2 · calf ×2 · chest/arm/shoulder ×1 · vacuum/TVA ×2 · hip-flexor training ×1 · band external rotation / shoulder-stability ×3 · bunion work ×1. He gave item 18 (ankle strengthening/stability) an explicit zero rather than omitting it, and vacuum/TVA ×2 is that item's highest recorded count."
+      },
+      {
+        "date": "2026-08-19",
+        "cum": 294,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**DAY A PUSH+PULL WORKOUT LOGGED — every prescribed exercise worked but one, and the one skip was an injury stop, not a bail.** Pull-up ★full 5/4/3.7 with negative back-offs 3/4/5 · oblique knee raises 5.5/4.5/3.5 per side · dead hang ★ 21s/1s with scap shrugs 13/9 · feet-elevated pike push-up (accessory) 8/8/5 · V-up ★ 6/6 · pseudo-planche push-up ★ 4/4. **Typewriter push-up ★ 3×8/side SKIPPED** on left-side pain traced to his wrestling injury — his words: *\"the immense pressure, I think, and the unique way that pressure was being applied caused a lot of pain stemming from the injury I had when I was wrestling. This is the only workout so far that I've done that has been severely hindered by that injury.\"*"
       }
     ],
     "body": [
