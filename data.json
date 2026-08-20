@@ -20,8 +20,8 @@
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
     "overall_total": 1106,
-    "generated_for": "2026-08-19",
-    "built_at": "2026-08-19T23:47:37.115Z",
+    "generated_for": "2026-08-20",
+    "built_at": "2026-08-20T10:40:03.216Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -17940,11 +17940,6 @@
     },
     "strip": [
       {
-        "date": "2026-07-21",
-        "state": "good",
-        "kcal": 1580
-      },
-      {
         "date": "2026-07-22",
         "state": "good",
         "kcal": 1514
@@ -18086,6 +18081,11 @@
       },
       {
         "date": "2026-08-19",
+        "state": "partial",
+        "kcal": 0
+      },
+      {
+        "date": "2026-08-20",
         "state": "partial",
         "kcal": 0
       }
@@ -18773,6 +18773,14 @@
       },
       {
         "date": "2026-08-19",
+        "kcal": 0,
+        "protein": 0,
+        "dayType": "empty",
+        "logged": "empty",
+        "provisional": false
+      },
+      {
+        "date": "2026-08-20",
         "kcal": 0,
         "protein": 0,
         "dayType": "empty",
