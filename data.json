@@ -19,14 +19,14 @@
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
-    "overall_total": 1106,
+    "overall_total": 1109,
     "generated_for": "2026-08-20",
-    "built_at": "2026-08-20T23:00:03.576Z",
+    "built_at": "2026-08-20T23:08:49.604Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1611
+      "ft_to_go": 1608
     },
     "captures_today_unscored": 9
   },
@@ -38,7 +38,7 @@
       "t0_note": "couldn't write a single line of Python — ran his first print() the day before t0",
       "endpoint": "Replicate AND extend a frontier alignment result — public, runnable code",
       "endpoint_tier": "verylarge",
-      "current": 125,
+      "current": 126,
       "working_on": "Automate the Boring Stuff textbook"
     },
     {
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 91,
+      "current": 92,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -88,7 +88,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 351,
+      "current": 352,
       "working_on": "the next new-pound low (≤ 214.8 lb)"
     },
     {
@@ -6092,6 +6092,45 @@
       "reasoning": "**THE GOVERNING PRECEDENT IS MY OWN AND IT IS DIRECTLY ON POINT — the 33rd run's wrestling row: an oral owner report CURES A PLACED ROW'S MISSING FACT; it does not substitute for placement.** The row was placed by an upstream capturer under §0.5 and has been sitting in the queue since 16:05 EDT. What was absent was never the placement — it was the session fact, and the owner is a first-hand witness to his own sitting and is named in §0.5's own text as an authorized capturer. **This is NOT the researcher-site situation and the difference is the whole reason I can book it:** there the file held nothing at all, and I refused across four runs and was right to. Here the file holds the row and the owner filled the hole in it. **⛔ AND I DID NOT PAY IT TWICE.** Osiris session tinies are day-keyed **per (date, session-type)**, and today already carries a 📕 tick — the protocol second-pass sitting (row 742). A substrate build sitting and a protocol-judging sitting are **different session-types with different objects**, which is the same call the 42nd run made when it booked three distinct 📕 types on 08-18, and the same rule that folded two of six rows on that run. Dedup grep for a 2026-08-19 substrate row returned **0**. **⚠️ I flagged this row this afternoon and I am booking it tonight, and the flag is the reason it books cleanly** — I refused to rule it NO TICK precisely so that a genuine sitting could still be paid if the facts arrived. They arrived six hours later. That is the flag working exactly as designed, and it is why a flag costs him nothing and a premature verdict costs him a foot.",
       "evidence": "POLARIS `★ Substrate Design Session` capture row (placed 16:05 EDT); owner first-hand report this session; ledger row 742 (the distinct protocol session-type, same date)",
       "booked": "2026-08-19"
+    },
+    {
+      "date": "2026-08-18",
+      "lane": "body",
+      "activity": "**PROTEIN-GOAL DAY — 174 g against the 170 g floor, FINAL, booked late.** The warehouse day row for 2026-08-18 reads `logged: \"full\"`, `provisional: false`, protein **174 g**, kcal 3,137. Placed at the 2026-08-20 close because the reconcile found **no capture row for 2026-08-18 anywhere in the log** — the surrounding days (08-15, 08-16, 08-17) all carry rows, so this was a gap in the sequence, not a policy.",
+      "label": "PROTEIN-GOAL DAY — 174 g against the 170 g floor, FINAL,…",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 352,
+      "cum_overall": 1107,
+      "reasoning": "**THE PROTEIN HALF CLEARS UNDER EITHER FLOOR, WHICH IS WHY G-1 CANNOT REACH IT — and I checked the provenance anyway rather than lean on that.** The operative floor is **170 g**, raised from 160 by the owner's own decision of 2026-08-15 (`protocol.cutRestart.proteinFloor: 170`, note: *\"OWNER DECISION 2026-08-15 SUPERSEDES THE 08-12 START… PROTEIN-ONLY 08-16 through 08-22 (170g floor, no calorie band, calories not scoreable)\"*). The day row's machine field `proteinFloorApplied` still reads the stale **160** — and 174 clears **both**, so the disagreement cannot move the verdict in either direction. It is the owner's own program, not an agent's recommendation, so no G-1 bound is engaged. **⛔ THE CALORIE HALF IS NOT A MISS — IT IS NOT SCOREABLE, and the distinction is the whole reason 3,137 kcal books nothing and costs nothing.** `targetKcal: null` for this date; the protein-only week 08-16→08-22 carries **no calorie band by design**. A calorie-day tiny prices a day landing ON the plan; where the owner's own plan sets no calorie target there is no band to hit or miss, and reading 3,137 against the stale `bandHighKcal: 2600` would be scoring him against a target he had already retired. **Dedup run before the first character was written:** 2026-08-18 carries five ledger rows — one 🐍 and four 📕 — and **not one ⚖️ row**. The gap Athena reported is real.",
+      "evidence": "`Resources/fitness/health-data.json` day row `2026-08-18` (verified at source this run: 174 g, 3,137 kcal, `logged: full`, `provisional: false`); `protocol.cutRestart` (the 170 floor + the no-calorie-band week); capture row 2026-08-18 (late capture, placed by Athena 2026-08-20)",
+      "booked": "2026-08-20"
+    },
+    {
+      "date": "2026-08-20",
+      "lane": "coding",
+      "activity": "**`/guidedbuild` `tidyDrills.py` STEP 2 — he wrote `makeSandbox()` HIMSELF WITHOUT OPENING THE WORKED ANSWER, and it passed every line of the step's self-check when run.** His own account: *\"I did step two, and I was able to get it done without looking at your thing. But of course, when I finished, I want to see how you did it.\"* Fifteen lines, `tidyDrills.py` lines 18–35. Run by the tutor on a copy of his real code folder: **126 top-level entries in the folder against 126 in the sandbox**, the sandbox placed beside the folder rather than inside it, a path returned on both branches, and a second run reusing the existing sandbox instead of raising `FileExistsError`. Two deliberate divergences from the reference: he takes the sandbox name as a **parameter** rather than reading the module-level constant (*\"This makes this function reusable for other purposes\"*), and he returns the value `shutil.copytree` hands back rather than rebuilding the path. One thing adopted from the reference after comparing — the progress `print` calls, on his own judgement that they made the program friendlier.",
+      "label": "/guidedbuild tidyDrills.py STEP 2",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 126,
+      "cum_overall": 1108,
+      "reasoning": "**THIS IS THE MAKING-ACT TINY, NOT MERELY THE WORK-SESSION ONE, AND THE DIFFERENCE IS THAT IT WAS RUN.** The lane's entry pays a tiny for *any making act that runs + meets its goal + is his authorship*; this one was executed against a copy of his real folder and cleared four separate self-check conditions, so \"runs + meets its goal\" is established by measurement rather than by claim. **Authorship is not merely the substantial majority Amendment D requires — it is the whole of it**, twice over: the `/guidedbuild` law forbids any agent from writing his file, and he produced the function *before* opening the reveal, which is the one condition under which a guided build proves production rather than recognition. **⛔ AND THE COMPARISON AFTERWARDS TAKES NOTHING AWAY.** He opened the worked answer only once his own version was finished and passing, then adopted one cosmetic detail on his own judgement while KEEPING both of his structural divergences — and his stated reason for the parameter (reusability) is a design argument, not a copy. A tick earned before the answer was visible is not diminished by reading the answer after. **Day-keyed dedup, run first: 2026-08-20 carries ZERO 🐍 rows** — zero rows of any lane, in fact. The 08-19 guided-build row (row 743) is a different date and a different step: the header, five settings constants and the `drillRegex`, with *\"no loop or move logic yet.\"* **⛔ IT DOES NOT COLLAPSE INTO THE ATBS POLARIS READING MARK** flagged above it — the capturer states plainly they are different artifacts (a reading-plus-notes sitting against a 2026-08-21 due date versus a build step on this program), and that mark is unscoreable on its own grounds in any case. **The completed-program tick and the ch.9 chapter small both stay ahead of him** — Amendment I's four legs are still not all met.",
+      "evidence": "`Resources/curricula/python-foundations/code/tidyDrills.py` lines 18–35; the `▸ Your step 2` review block on `_explainers/2026-08-19-guided-build-tidydrills.html`; the tutor's run against a copy of his real folder (126 vs 126); owner report this session; capture row 2026-08-20 (Athena, evening close)",
+      "booked": "2026-08-20"
+    },
+    {
+      "date": "2026-08-20",
+      "lane": "method",
+      "activity": "**OSIRIS SUBSTRATE BUILD DAY — his 11:58 challenge reversed the build order, and the reversed plan then ran to the end of the stage list the same day.** He asked why issues were being fixed when **the build is not finished** — S5, S6 and S7 had never been run — and whether some of the \"issues\" are just what a half-built machine looks like. The agent's own contemporaneous record concedes it in writing: *\"He is right, and the specific error is mine from this morning… I took an ordinary mid-build condition, called it `[P5]` — correct, tested and unreachable — and filed it as a P1 defect (DEF-082).\"* Stated consequence: the plan changed to **BUILD-S5 → BUILD-S6 → BUILD-S7, then wire, then deploy**, the agent recording that wiring first *\"would have cost real work… re-wiring it three more times as each lands.\"* ~1,090 agent-authored lines landed across the day; he wrote none of them.",
+      "label": "OSIRIS SUBSTRATE BUILD DAY — his 11:58 challenge reversed…",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 92,
+      "cum_overall": 1109,
+      "reasoning": "**THE PLACEMENT DEFECT IS CURED, AND CURED THE ONLY WAY IT COULD BE — BY A HAND THAT IS NOT MINE.** The 46th run banded this deed a **tiny** *while declining to pay it*, so the band predates the payment by a full run (Amendment J · G-1 bound 4) and cannot be accused of being fitted to an outcome. What it refused was never the deed: it was that the row had been placed by a run booting under the **Zeus** hook off `git diff --stat` and file timestamps — §0.5(b) and §0.5(c) in a different costume. **Athena has now placed the deed herself at her evening close** (`★ Continue Substrate Build ✔ sitting done`), grepped against both the unscored tail and the scored rows above the marker, and noted in her own words that it *\"very likely names the same deed\"* and that the collapse *\"is the judge's call.\"* **That is exactly the refuse-then-place mechanism working, for the fourth time** (7/26 Osiris, 7/29 twice, and now this) — my own verification never cured it and never could; an upstream capturer did, in one line. **✅ THE SUBSTANCE FLOOR — THE ONE LIVE QUESTION MY PREDECESSOR LEFT — IS ANSWERED YES, AND I OPENED THE FILE RATHER THAN REASON ABOUT IT.** He worried the record showed *a single exchange*, and that a token drop-in does not tick however large its consequence (G-5 forbids sizing by effect). `substrate-history.md` carries **five separate owner-facing entries dated 2026-08-20** — 08:36 GROUND-ME, 09:15 WIRE-THE-LOOP, **11:58 the challenge**, 12:34 BUILD-S5, 13:01 BUILD-S6, 18:49 BUILD-S7 — a build he steered across ten hours and four stage runs he had to launch, with the 09:00 choice between two written prompts at one end and *\"Seven of seven built\"* at the other. **That is a real sitting, not a remark**, and the 7/28 substrate precedent is directly on point: the owner wrote no code and ran no commands there either, and the STOP call plus the scope message booked one foot on the Atlas in-the-loop boundary. **⛔ ONE FOOT, NOT TWO, AND THE ~1,090 LINES PAY NOTHING.** He authored none of them — Amendment D's *agent-authored MAJORITY = no tick* voids 🐍 outright, and G-2 settles the lane by object: **the Osiris substrate serves THE STUDY** (roadmap #4), which is why this is *not* the eighth-object family that has now been refused twelve times. No artifact completed — the substrate v1 terminal small is **earned-once and was paid 2026-08-02**. **Dedup: zero 📕 rows of any date exist for 2026-08-20**, and the POLARIS row Athena placed collapses into this one row per Amendment E — one body of work, one tick.",
+      "evidence": "`substrate-history.md` entries `[2026-08-20 09:15 EDT] WIRE-THE-LOOP` and `[2026-08-20 11:58 EDT]` (the written concession, read at source this run, line 3150), plus `[12:34 BUILD-S5]`, `[13:01 BUILD-S6]`, `[18:49 BUILD-S7]`; POLARIS `★ Continue Substrate Build`; capture rows 2026-08-20 (mid-day detail row + Athena's close placement)",
+      "booked": "2026-08-20"
     }
   ],
   "series": {
@@ -6592,6 +6631,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**ATBS CH.9 GUIDED BUILD — `tidyDrills.py` STARTED ON HIS OWN MACHINE: the header, five settings constants and a working `drillRegex`.** Fifteen lines standing: imports, his own description of the program (*\"Finds every drill file in the code folder and moves them into a drills/ folder. Backs everything up to a ZIP first, and writes a manifest so the whole thing can be undone with one command\"*), five settings constants including `SCRIPT_NAME = 'tidyDrills.py'` carrying his comment *\"must never tidy itself away\"*, and the pattern `r'(.*)drills?(.*)\\.py'` with `re.IGNORECASE`. Carried off his PC by five pc-autopush commits, 08:05 → 08:55 EDT. No loop or move logic yet."
+      },
+      {
+        "date": "2026-08-20",
+        "cum": 126,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**`/guidedbuild` `tidyDrills.py` STEP 2 — he wrote `makeSandbox()` HIMSELF WITHOUT OPENING THE WORKED ANSWER, and it passed every line of the step's self-check when run.** His own account: *\"I did step two, and I was able to get it done without looking at your thing. But of course, when I finished, I want to see how you did it.\"* Fifteen lines, `tidyDrills.py` lines 18–35. Run by the tutor on a copy of his real code folder: **126 top-level entries in the folder against 126 in the sandbox**, the sandbox placed beside the folder rather than inside it, a path returned on both branches, and a second run reusing the existing sandbox instead of raising `FileExistsError`. Two deliberate divergences from the reference: he takes the sandbox name as a **parameter** rather than reading the module-level constant (*\"This makes this function reusable for other purposes\"*), and he returns the value `shutil.copytree` hands back rather than rebuilding the path. One thing adopted from the reference after comparing — the progress `print` calls, on his own judgement that they made the program friendlier."
       }
     ],
     "mlai": [
@@ -7604,6 +7650,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**OSIRIS SUBSTRATE B2 BUILDING SESSION — the placed row's missing fact supplied first-hand by the owner.** The capture row (`★ Substrate Design Session ✔ sitting done`, POLARIS, due 2026-08-21) was placed by the mid-day pass carrying the capturer's honest statement that he held **no independent session facts** and was **not asserting the session occurred**. I flagged it and refused to rule it in either direction. The owner has now reported the sitting directly and unprompted: *\"I did a Substrate B2 building session.\"*"
+      },
+      {
+        "date": "2026-08-20",
+        "cum": 92,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**OSIRIS SUBSTRATE BUILD DAY — his 11:58 challenge reversed the build order, and the reversed plan then ran to the end of the stage list the same day.** He asked why issues were being fixed when **the build is not finished** — S5, S6 and S7 had never been run — and whether some of the \"issues\" are just what a half-built machine looks like. The agent's own contemporaneous record concedes it in writing: *\"He is right, and the specific error is mine from this morning… I took an ordinary mid-build condition, called it `[P5]` — correct, tested and unreachable — and filed it as a P1 defect (DEF-082).\"* Stated consequence: the plan changed to **BUILD-S5 → BUILD-S6 → BUILD-S7, then wire, then deploy**, the agent recording that wiring first *\"would have cost real work… re-wiring it three more times as each lands.\"* ~1,090 agent-authored lines landed across the day; he wrote none of them."
       }
     ],
     "literature": [
@@ -9192,6 +9245,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**PROTEIN-GOAL DAY — 180 g against the 170 g floor, met by 10, at his last close of the day.** 1,940 kcal logged; no weigh-in. Second consecutive day above the floor (08-16 was 216 g). The warehouse pull ran clean twice from the box today, 10:03 and 20:18."
+      },
+      {
+        "date": "2026-08-18",
+        "cum": 352,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "**PROTEIN-GOAL DAY — 174 g against the 170 g floor, FINAL, booked late.** The warehouse day row for 2026-08-18 reads `logged: \"full\"`, `provisional: false`, protein **174 g**, kcal 3,137. Placed at the 2026-08-20 close because the reconcile found **no capture row for 2026-08-18 anywhere in the log** — the surrounding days (08-15, 08-16, 08-17) all carry rows, so this was a gap in the sequence, not a policy."
       }
     ],
     "fieldpresence": [
