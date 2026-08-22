@@ -2,26 +2,26 @@
   "meta": {
     "t0": "2026-03-22",
     "tracking_start": "2026-05-26",
-    "ratchet": {
-      "weight_low_lb": 218.4,
-      "all_time_low_lb": 218,
-      "next_weight_tick_lb": 217.4,
-      "waist_in": 37.5,
-      "belly_in": 43.3,
-      "hips_in": 44,
-      "next_site_drop_in": 1,
-      "ten_lb_milestone_crossed": 220,
-      "next_ten_lb_marker": 210
-    },
     "held": [],
     "soft_not_ticked": [
       "Hamming essay (owner opted out)",
       "Outsider's Roadmap / WarAgent / EconAgent / Dwarkesh×Ilya podcast (no independent owner-read or no discussion)",
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
+    "ratchet": {
+      "weight_low_lb": 215.8,
+      "next_weight_tick_lb": 214.8,
+      "waist_in": 37.5,
+      "belly_in": 43,
+      "hips_in": 43.75,
+      "next_site_drop_in": 1,
+      "ten_lb_milestone_crossed": 220,
+      "next_ten_lb_marker": 210,
+      "all_time_low_lb": 215.8
+    },
     "overall_total": 1109,
     "generated_for": "2026-08-21",
-    "built_at": "2026-08-21T18:20:03.454Z",
+    "built_at": "2026-08-22T01:10:03.441Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
