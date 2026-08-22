@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 215.8
     },
-    "overall_total": 1111,
+    "overall_total": 1112,
     "generated_for": "2026-08-22",
-    "built_at": "2026-08-22T18:20:03.482Z",
+    "built_at": "2026-08-22T18:48:03.260Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1606
+      "ft_to_go": 1605
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 94,
+      "current": 95,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -6157,6 +6157,19 @@
       "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
       "evidence": "POLARIS a3c",
       "booked": "2026-08-22"
+    },
+    {
+      "date": "2026-08-22",
+      "lane": "method",
+      "activity": "Finish Substrate V2 — a working sitting",
+      "label": "Finish Substrate V2 — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 95,
+      "cum_overall": 1112,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmt0hrtjx",
+      "booked": "2026-08-22"
     }
   ],
   "series": {
@@ -7697,6 +7710,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Protocol second pass — judge the edits — a working sitting"
+      },
+      {
+        "date": "2026-08-22",
+        "cum": 95,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Finish Substrate V2 — a working sitting"
       }
     ],
     "literature": [
