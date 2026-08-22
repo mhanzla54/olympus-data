@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 215.8
     },
-    "overall_total": 1112,
+    "overall_total": 1115,
     "generated_for": "2026-08-22",
-    "built_at": "2026-08-22T18:48:03.260Z",
+    "built_at": "2026-08-22T21:16:03.451Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1605
+      "ft_to_go": 1602
     },
     "captures_today_unscored": 0
   },
@@ -68,7 +68,7 @@
       "t0_note": "hadn't three-passed a research paper",
       "endpoint": "A viva-defended PhD OR an orally-defended field-synthesis",
       "endpoint_tier": "enormous",
-      "current": 13,
+      "current": 15,
       "working_on": "Between papers — next Tier-1 queues after Field Foundations"
     },
     {
@@ -88,7 +88,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 352,
+      "current": 353,
       "working_on": "the next new-pound low (≤ 214.8 lb)"
     },
     {
@@ -6170,6 +6170,45 @@
       "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
       "evidence": "POLARIS xmt0hrtjx",
       "booked": "2026-08-22"
+    },
+    {
+      "date": "2026-08-22",
+      "lane": "body",
+      "activity": "Workout — FINISHED",
+      "label": "Workout — FINISHED",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 353,
+      "cum_overall": 1113,
+      "reasoning": "Owner-priced in POLARIS: finishing it = tiny, locked 2026-08-22",
+      "evidence": "POLARIS xmsuyoyyg",
+      "booked": "2026-08-22"
+    },
+    {
+      "date": "2026-08-22",
+      "lane": "literature",
+      "activity": "test thing — a working sitting (1 of 2 that day)",
+      "label": "test thing — a working sitting (1 of 2 that day)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 14,
+      "cum_overall": 1114,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmt4tfbnt",
+      "booked": "2026-08-22"
+    },
+    {
+      "date": "2026-08-22",
+      "lane": "literature",
+      "activity": "test thing — a working sitting (2 of 2 that day)",
+      "label": "test thing — a working sitting (2 of 2 that day)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 15,
+      "cum_overall": 1115,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmt4tfbnt",
+      "booked": "2026-08-22"
     }
   ],
   "series": {
@@ -7747,6 +7786,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Paul Graham 'How to Do Great Work' (~half) read + discussed"
+      },
+      {
+        "date": "2026-08-22",
+        "cum": 14,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "test thing — a working sitting (1 of 2 that day)"
+      },
+      {
+        "date": "2026-08-22",
+        "cum": 15,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "test thing — a working sitting (2 of 2 that day)"
       }
     ],
     "strength": [
@@ -9312,6 +9365,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**PROTEIN-GOAL DAY — 174 g against the 170 g floor, FINAL, booked late.** The warehouse day row for 2026-08-18 reads `logged: \"full\"`, `provisional: false`, protein **174 g**, kcal 3,137. Placed at the 2026-08-20 close because the reconcile found **no capture row for 2026-08-18 anywhere in the log** — the surrounding days (08-15, 08-16, 08-17) all carry rows, so this was a gap in the sequence, not a policy."
+      },
+      {
+        "date": "2026-08-22",
+        "cum": 353,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Workout — FINISHED"
       }
     ],
     "fieldpresence": [
