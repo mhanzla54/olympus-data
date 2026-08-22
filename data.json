@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 215.8
     },
-    "overall_total": 1113,
+    "overall_total": 1114,
     "generated_for": "2026-08-22",
-    "built_at": "2026-08-22T23:34:03.484Z",
+    "built_at": "2026-08-22T23:36:03.237Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1604
+      "ft_to_go": 1603
     },
     "captures_today_unscored": 0
   },
@@ -88,7 +88,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 353,
+      "current": 354,
       "working_on": "the next new-pound low (≤ 214.8 lb)"
     },
     {
@@ -6183,6 +6183,19 @@
       "reasoning": "Owner-priced in POLARIS: finishing it = tiny, locked 2026-08-22",
       "evidence": "POLARIS xmsuyoyyg",
       "booked": "2026-08-22"
+    },
+    {
+      "date": "2026-08-22",
+      "lane": "body",
+      "activity": "Sparse Training — FINISHED",
+      "label": "Sparse Training — FINISHED",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 354,
+      "cum_overall": 1114,
+      "reasoning": "Owner-priced in POLARIS: finishing it = tiny, locked 2026-08-22",
+      "evidence": "POLARIS xmt50nk97",
+      "booked": "2026-08-22"
     }
   ],
   "series": {
@@ -9332,6 +9345,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Workout — FINISHED"
+      },
+      {
+        "date": "2026-08-22",
+        "cum": 354,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Sparse Training — FINISHED"
       }
     ],
     "fieldpresence": [
