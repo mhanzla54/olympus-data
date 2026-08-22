@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 215.8
     },
-    "overall_total": 1115,
+    "overall_total": 1113,
     "generated_for": "2026-08-22",
-    "built_at": "2026-08-22T21:16:03.451Z",
+    "built_at": "2026-08-22T23:34:03.484Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1602
+      "ft_to_go": 1604
     },
     "captures_today_unscored": 0
   },
@@ -68,7 +68,7 @@
       "t0_note": "hadn't three-passed a research paper",
       "endpoint": "A viva-defended PhD OR an orally-defended field-synthesis",
       "endpoint_tier": "enormous",
-      "current": 15,
+      "current": 13,
       "working_on": "Between papers — next Tier-1 queues after Field Foundations"
     },
     {
@@ -6183,32 +6183,6 @@
       "reasoning": "Owner-priced in POLARIS: finishing it = tiny, locked 2026-08-22",
       "evidence": "POLARIS xmsuyoyyg",
       "booked": "2026-08-22"
-    },
-    {
-      "date": "2026-08-22",
-      "lane": "literature",
-      "activity": "test thing — a working sitting (1 of 2 that day)",
-      "label": "test thing — a working sitting (1 of 2 that day)",
-      "tier": "tiny",
-      "feet": 1,
-      "cum_lane": 14,
-      "cum_overall": 1114,
-      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
-      "evidence": "POLARIS xmt4tfbnt",
-      "booked": "2026-08-22"
-    },
-    {
-      "date": "2026-08-22",
-      "lane": "literature",
-      "activity": "test thing — a working sitting (2 of 2 that day)",
-      "label": "test thing — a working sitting (2 of 2 that day)",
-      "tier": "tiny",
-      "feet": 1,
-      "cum_lane": 15,
-      "cum_overall": 1115,
-      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
-      "evidence": "POLARIS xmt4tfbnt",
-      "booked": "2026-08-22"
     }
   ],
   "series": {
@@ -7786,20 +7760,6 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Paul Graham 'How to Do Great Work' (~half) read + discussed"
-      },
-      {
-        "date": "2026-08-22",
-        "cum": 14,
-        "feet": 1,
-        "tier": "tiny",
-        "activity": "test thing — a working sitting (1 of 2 that day)"
-      },
-      {
-        "date": "2026-08-22",
-        "cum": 15,
-        "feet": 1,
-        "tier": "tiny",
-        "activity": "test thing — a working sitting (2 of 2 that day)"
       }
     ],
     "strength": [
