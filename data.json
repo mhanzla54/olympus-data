@@ -21,7 +21,7 @@
     },
     "overall_total": 1117,
     "generated_for": "2026-08-23",
-    "built_at": "2026-08-23T18:20:02.886Z",
+    "built_at": "2026-08-23T23:20:02.803Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -18930,7 +18930,7 @@
       {
         "date": "2026-08-23",
         "state": "partial",
-        "kcal": 725
+        "kcal": 1025
       }
     ],
     "days": [
@@ -19648,8 +19648,8 @@
       },
       {
         "date": "2026-08-23",
-        "kcal": 725,
-        "protein": 72,
+        "kcal": 1025,
+        "protein": 122,
         "dayType": "strict",
         "logged": "full",
         "provisional": true
