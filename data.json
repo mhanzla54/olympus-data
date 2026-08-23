@@ -21,7 +21,7 @@
     },
     "overall_total": 1116,
     "generated_for": "2026-08-23",
-    "built_at": "2026-08-23T14:20:03.643Z",
+    "built_at": "2026-08-23T15:20:02.903Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -6683,13 +6683,13 @@
       "source": "body:calorie-day:2026-08-22"
     }
   ],
-  "polaris_booked": [
-    "polaris:xmt3i4n6u:2026-08-22:session:1",
-    "polaris:a3c:2026-08-22:session:1",
-    "polaris:xmt0hrtjx:2026-08-22:session:1",
-    "polaris:xmsuyoyyg:completion",
-    "polaris:xmt50nk97:completion"
-  ],
+  "polaris_booked": {
+    "polaris:xmt3i4n6u:2026-08-22:session:1": 1,
+    "polaris:a3c:2026-08-22:session:1": 1,
+    "polaris:xmt0hrtjx:2026-08-22:session:1": 1,
+    "polaris:xmsuyoyyg:completion": 1,
+    "polaris:xmt50nk97:completion": 1
+  },
   "series": {
     "coding": [
       {
