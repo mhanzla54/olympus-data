@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 215.8
     },
-    "overall_total": 1120,
+    "overall_total": 1121,
     "generated_for": "2026-08-24",
-    "built_at": "2026-08-24T12:47:31.874Z",
+    "built_at": "2026-08-24T12:48:16.360Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1597
+      "ft_to_go": 1596
     },
     "captures_today_unscored": 0
   },
@@ -38,7 +38,7 @@
       "t0_note": "couldn't write a single line of Python — ran his first print() the day before t0",
       "endpoint": "Replicate AND extend a frontier alignment result — public, runnable code",
       "endpoint_tier": "verylarge",
-      "current": 126,
+      "current": 127,
       "working_on": "Automate the Boring Stuff textbook"
     },
     {
@@ -6737,6 +6737,20 @@
       "evidence": "POLARIS a3c",
       "booked": "2026-08-24",
       "source": "polaris:a3c:2026-08-24:session:1"
+    },
+    {
+      "date": "2026-08-24",
+      "lane": "coding",
+      "activity": "Chapter 9: Read 5 Pages of ATBS + Notes + Mini Drills — a working sitting",
+      "label": "Chapter 9: Read 5 Pages of ATBS + Notes + Mini Drills — a…",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 127,
+      "cum_overall": 1121,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmspae8dv",
+      "booked": "2026-08-24",
+      "source": "polaris:xmspae8dv:2026-08-24:session:1"
     }
   ],
   "polaris_booked": {
@@ -6746,7 +6760,8 @@
     "polaris:xmsuyoyyg:completion": 1,
     "polaris:xmt50nk97:completion": 1,
     "polaris:xmt3i4n6u:2026-08-23:session:1": 1,
-    "polaris:a3c:2026-08-24:session:1": 1
+    "polaris:a3c:2026-08-24:session:1": 1,
+    "polaris:xmspae8dv:2026-08-24:session:1": 1
   },
   "series": {
     "coding": [
@@ -7253,6 +7268,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**`/guidedbuild` `tidyDrills.py` STEP 2 — he wrote `makeSandbox()` HIMSELF WITHOUT OPENING THE WORKED ANSWER, and it passed every line of the step's self-check when run.** His own account: *\"I did step two, and I was able to get it done without looking at your thing. But of course, when I finished, I want to see how you did it.\"* Fifteen lines, `tidyDrills.py` lines 18–35. Run by the tutor on a copy of his real code folder: **126 top-level entries in the folder against 126 in the sandbox**, the sandbox placed beside the folder rather than inside it, a path returned on both branches, and a second run reusing the existing sandbox instead of raising `FileExistsError`. Two deliberate divergences from the reference: he takes the sandbox name as a **parameter** rather than reading the module-level constant (*\"This makes this function reusable for other purposes\"*), and he returns the value `shutil.copytree` hands back rather than rebuilding the path. One thing adopted from the reference after comparing — the progress `print` calls, on his own judgement that they made the program friendlier."
+      },
+      {
+        "date": "2026-08-24",
+        "cum": 127,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Chapter 9: Read 5 Pages of ATBS + Notes + Mini Drills — a working sitting"
       }
     ],
     "mlai": [
