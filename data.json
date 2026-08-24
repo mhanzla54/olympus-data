@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 215.8
     },
-    "overall_total": 1121,
+    "overall_total": 1122,
     "generated_for": "2026-08-24",
-    "built_at": "2026-08-24T12:48:16.360Z",
+    "built_at": "2026-08-24T14:02:52.407Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1596
+      "ft_to_go": 1595
     },
     "captures_today_unscored": 0
   },
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 294,
+      "current": 295,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -6751,6 +6751,20 @@
       "evidence": "POLARIS xmspae8dv",
       "booked": "2026-08-24",
       "source": "polaris:xmspae8dv:2026-08-24:session:1"
+    },
+    {
+      "date": "2026-08-24",
+      "lane": "strength",
+      "activity": "Workout — a working sitting",
+      "label": "Workout — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 295,
+      "cum_overall": 1122,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmt78btdt",
+      "booked": "2026-08-24",
+      "source": "polaris:xmt78btdt:2026-08-24:session:1"
     }
   ],
   "polaris_booked": {
@@ -6761,7 +6775,8 @@
     "polaris:xmt50nk97:completion": 1,
     "polaris:xmt3i4n6u:2026-08-23:session:1": 1,
     "polaris:a3c:2026-08-24:session:1": 1,
-    "polaris:xmspae8dv:2026-08-24:session:1": 1
+    "polaris:xmspae8dv:2026-08-24:session:1": 1,
+    "polaris:xmt78btdt:2026-08-24:session:1": 1
   },
   "series": {
     "coding": [
@@ -8907,6 +8922,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "**DAY A PUSH+PULL WORKOUT LOGGED — every prescribed exercise worked but one, and the one skip was an injury stop, not a bail.** Pull-up ★full 5/4/3.7 with negative back-offs 3/4/5 · oblique knee raises 5.5/4.5/3.5 per side · dead hang ★ 21s/1s with scap shrugs 13/9 · feet-elevated pike push-up (accessory) 8/8/5 · V-up ★ 6/6 · pseudo-planche push-up ★ 4/4. **Typewriter push-up ★ 3×8/side SKIPPED** on left-side pain traced to his wrestling injury — his words: *\"the immense pressure, I think, and the unique way that pressure was being applied caused a lot of pain stemming from the injury I had when I was wrestling. This is the only workout so far that I've done that has been severely hindered by that injury.\"*"
+      },
+      {
+        "date": "2026-08-24",
+        "cum": 295,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Workout — a working sitting"
       }
     ],
     "body": [
