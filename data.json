@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 215.8
     },
-    "overall_total": 1128,
+    "overall_total": 1129,
     "generated_for": "2026-08-25",
-    "built_at": "2026-08-25T12:48:45.162Z",
+    "built_at": "2026-08-25T13:57:44.386Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1589
+      "ft_to_go": 1588
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 99,
+      "current": 100,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -6849,6 +6849,20 @@
       "evidence": "POLARIS xmspae8dv",
       "booked": "2026-08-25",
       "source": "polaris:xmspae8dv:2026-08-25:session:1"
+    },
+    {
+      "date": "2026-08-25",
+      "lane": "method",
+      "activity": "Finish Substrate V2 — a working sitting",
+      "label": "Finish Substrate V2 — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 100,
+      "cum_overall": 1129,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmt0hrtjx",
+      "booked": "2026-08-25",
+      "source": "polaris:xmt0hrtjx:2026-08-25:session:1"
     }
   ],
   "polaris_booked": {
@@ -6864,7 +6878,8 @@
     "polaris:xmt0hrtjx:2026-08-24:session:1": 1,
     "polaris:xmt7qujwe:completion": 1,
     "polaris:a3c:2026-08-25:session:1": 1,
-    "polaris:xmspae8dv:2026-08-25:session:1": 1
+    "polaris:xmspae8dv:2026-08-25:session:1": 1,
+    "polaris:xmt0hrtjx:2026-08-25:session:1": 1
   },
   "series": {
     "coding": [
@@ -8453,6 +8468,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Protocol second pass — judge the edits — a working sitting"
+      },
+      {
+        "date": "2026-08-25",
+        "cum": 100,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Finish Substrate V2 — a working sitting"
       }
     ],
     "literature": [
