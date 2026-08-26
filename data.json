@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 215.8
     },
-    "overall_total": 1137,
+    "overall_total": 1138,
     "generated_for": "2026-08-26",
-    "built_at": "2026-08-26T19:27:33.602Z",
+    "built_at": "2026-08-26T21:12:32.319Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1580
+      "ft_to_go": 1579
     },
     "captures_today_unscored": 0
   },
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 298,
+      "current": 299,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -6975,6 +6975,20 @@
       "evidence": "POLARIS xmtahjvz2",
       "booked": "2026-08-26",
       "source": "polaris:xmtahjvz2:completion"
+    },
+    {
+      "date": "2026-08-26",
+      "lane": "strength",
+      "activity": "Sparse Training — FINISHED",
+      "label": "Sparse Training — FINISHED",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 299,
+      "cum_overall": 1138,
+      "reasoning": "Owner-priced in POLARIS: finishing it = tiny, locked 2026-08-26",
+      "evidence": "POLARIS xmtalabeb",
+      "booked": "2026-08-26",
+      "source": "polaris:xmtalabeb:completion"
     }
   ],
   "polaris_booked": {
@@ -6997,7 +7011,8 @@
     "polaris:a3c:2026-08-26:session:1": 1,
     "polaris:xmt0hrtjx:2026-08-26:session:1": 1,
     "polaris:xmta206fu:2026-08-26:session:1": 1,
-    "polaris:xmtahjvz2:completion": 1
+    "polaris:xmtahjvz2:completion": 1,
+    "polaris:xmtalabeb:completion": 1
   },
   "series": {
     "coding": [
@@ -9227,6 +9242,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Workout — a working sitting"
+      },
+      {
+        "date": "2026-08-26",
+        "cum": 299,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Sparse Training — FINISHED"
       }
     ],
     "body": [
