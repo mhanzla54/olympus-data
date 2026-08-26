@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 215.8
     },
-    "overall_total": 1134,
+    "overall_total": 1136,
     "generated_for": "2026-08-26",
-    "built_at": "2026-08-26T13:11:49.470Z",
+    "built_at": "2026-08-26T14:43:40.674Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1583
+      "ft_to_go": 1581
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 101,
+      "current": 102,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 297,
+      "current": 298,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -6933,6 +6933,34 @@
       "evidence": "POLARIS a3c",
       "booked": "2026-08-26",
       "source": "polaris:a3c:2026-08-26:session:1"
+    },
+    {
+      "date": "2026-08-26",
+      "lane": "method",
+      "activity": "Finish Substrate V2 — a working sitting",
+      "label": "Finish Substrate V2 — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 102,
+      "cum_overall": 1135,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmt0hrtjx",
+      "booked": "2026-08-26",
+      "source": "polaris:xmt0hrtjx:2026-08-26:session:1"
+    },
+    {
+      "date": "2026-08-26",
+      "lane": "strength",
+      "activity": "Workout — a working sitting",
+      "label": "Workout — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 298,
+      "cum_overall": 1136,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmta206fu",
+      "booked": "2026-08-26",
+      "source": "polaris:xmta206fu:2026-08-26:session:1"
     }
   ],
   "polaris_booked": {
@@ -6952,7 +6980,9 @@
     "polaris:xmt0hrtjx:2026-08-25:session:1": 1,
     "polaris:xmt8wptbz:completion": 1,
     "polaris:xmspae8dv:2026-08-26:session:1": 1,
-    "polaris:a3c:2026-08-26:session:1": 1
+    "polaris:a3c:2026-08-26:session:1": 1,
+    "polaris:xmt0hrtjx:2026-08-26:session:1": 1,
+    "polaris:xmta206fu:2026-08-26:session:1": 1
   },
   "series": {
     "coding": [
@@ -8562,6 +8592,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Protocol second pass — judge the edits — a working sitting"
+      },
+      {
+        "date": "2026-08-26",
+        "cum": 102,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Finish Substrate V2 — a working sitting"
       }
     ],
     "literature": [
@@ -9161,6 +9198,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Sparse Training — FINISHED"
+      },
+      {
+        "date": "2026-08-26",
+        "cum": 298,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Workout — a working sitting"
       }
     ],
     "body": [
