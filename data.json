@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 215.8
     },
-    "overall_total": 1140,
+    "overall_total": 1141,
     "generated_for": "2026-08-27",
-    "built_at": "2026-08-27T10:21:16.246Z",
+    "built_at": "2026-08-27T12:13:06.423Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1577
+      "ft_to_go": 1576
     },
     "captures_today_unscored": 0
   },
@@ -38,7 +38,7 @@
       "t0_note": "couldn't write a single line of Python — ran his first print() the day before t0",
       "endpoint": "Replicate AND extend a frontier alignment result — public, runnable code",
       "endpoint_tier": "verylarge",
-      "current": 129,
+      "current": 130,
       "working_on": "Automate the Boring Stuff textbook"
     },
     {
@@ -7017,6 +7017,20 @@
       "evidence": "health warehouse",
       "booked": "2026-08-27",
       "source": "body:calorie-day:2026-08-26"
+    },
+    {
+      "date": "2026-08-27",
+      "lane": "coding",
+      "activity": "Chapter 9: Read 5 Pages of ATBS + Notes + Mini Drills — a working sitting",
+      "label": "Chapter 9: Read 5 Pages of ATBS + Notes + Mini Drills — a…",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 130,
+      "cum_overall": 1141,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmspae8dv",
+      "booked": "2026-08-27",
+      "source": "polaris:xmspae8dv:2026-08-27:session:1"
     }
   ],
   "polaris_booked": {
@@ -7040,7 +7054,8 @@
     "polaris:xmt0hrtjx:2026-08-26:session:1": 1,
     "polaris:xmta206fu:2026-08-26:session:1": 1,
     "polaris:xmtahjvz2:completion": 1,
-    "polaris:xmtalabeb:completion": 1
+    "polaris:xmtalabeb:completion": 1,
+    "polaris:xmspae8dv:2026-08-27:session:1": 1
   },
   "series": {
     "coding": [
@@ -7565,6 +7580,13 @@
       {
         "date": "2026-08-26",
         "cum": 129,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Chapter 9: Read 5 Pages of ATBS + Notes + Mini Drills — a working sitting"
+      },
+      {
+        "date": "2026-08-27",
+        "cum": 130,
         "feet": 1,
         "tier": "tiny",
         "activity": "Chapter 9: Read 5 Pages of ATBS + Notes + Mini Drills — a working sitting"
