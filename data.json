@@ -21,7 +21,7 @@
     },
     "overall_total": 1149,
     "generated_for": "2026-08-28",
-    "built_at": "2026-08-28T13:10:03.085Z",
+    "built_at": "2026-08-28T13:40:03.612Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -13379,6 +13379,12 @@
           "y": 3.37,
           "kind": "session",
           "label": "V-up / tuck-up — 6, 5 (avg 5.5 vs target 15)"
+        },
+        {
+          "date": "2026-08-28",
+          "y": 3.97,
+          "kind": "session",
+          "label": "V-up / tuck-up — 15, 15 (avg 15 vs target 15)"
         }
       ],
       "steps": [
@@ -13787,13 +13793,8 @@
     },
     "corefloor": {
       "candidates": 15,
-      "plotted": 14,
-      "rejected": [
-        {
-          "date": "2026-08-28",
-          "why": "\"V-up / tuck-up (★finisher)\" logged no usable numbers"
-        }
-      ]
+      "plotted": 15,
+      "rejected": []
     },
     "corehang": {
       "candidates": 35,
@@ -15138,9 +15139,9 @@
           {
             "date": "2026-08-28",
             "name": "V-up / tuck-up (★finisher)",
-            "raw": "",
-            "avg": null,
-            "status": "✗ not plotted — \"V-up / tuck-up (★finisher)\" logged no usable numbers"
+            "raw": "15, 15",
+            "avg": 15,
+            "status": "● plotted at 3.97"
           }
         ]
       },
@@ -15870,7 +15871,7 @@
           },
           {
             "date": "2026-08-28",
-            "detail": "reps: —"
+            "detail": "reps: 15, 15"
           }
         ]
       },
@@ -16687,8 +16688,8 @@
             "ladderId": "corefloor",
             "ladderName": "Core — FLOOR",
             "name": "V-up / tuck-up (★finisher)",
-            "raw": "",
-            "avg": null,
+            "raw": "15, 15",
+            "avg": 15,
             "target": "15",
             "sets": 2,
             "cleared": false
@@ -18660,6 +18661,10 @@
     }
   ],
   "last_perf": {
+    "corefloor": {
+      "date": "2026-08-28",
+      "detail": "15, 15"
+    },
     "pull": {
       "date": "2026-08-26",
       "detail": "6, 5, 3"
@@ -18679,10 +18684,6 @@
     "push": {
       "date": "2026-08-26",
       "detail": "(skipped to allow shoulder to heal)"
-    },
-    "corefloor": {
-      "date": "2026-08-26",
-      "detail": "6, 5"
     },
     "planche": {
       "date": "2026-08-26",
