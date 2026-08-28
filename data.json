@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 215.8
     },
-    "overall_total": 1147,
+    "overall_total": 1149,
     "generated_for": "2026-08-28",
-    "built_at": "2026-08-28T12:51:13.097Z",
+    "built_at": "2026-08-28T12:51:55.160Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1570
+      "ft_to_go": 1568
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 104,
+      "current": 106,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -7115,6 +7115,34 @@
       "evidence": "POLARIS xmspae8dv",
       "booked": "2026-08-28",
       "source": "polaris:xmspae8dv:2026-08-28:session:1"
+    },
+    {
+      "date": "2026-08-28",
+      "lane": "method",
+      "activity": "Protocol second pass — judge the edits — a working sitting",
+      "label": "Protocol second pass — judge the edits — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 105,
+      "cum_overall": 1148,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS a3c",
+      "booked": "2026-08-28",
+      "source": "polaris:a3c:2026-08-28:session:1"
+    },
+    {
+      "date": "2026-08-28",
+      "lane": "method",
+      "activity": "Finish Substrate V2 — a working sitting",
+      "label": "Finish Substrate V2 — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 106,
+      "cum_overall": 1149,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmt0hrtjx",
+      "booked": "2026-08-28",
+      "source": "polaris:xmt0hrtjx:2026-08-28:session:1"
     }
   ],
   "polaris_booked": {
@@ -7143,7 +7171,9 @@
     "polaris:a3c:2026-08-27:session:1": 1,
     "polaris:xmt0hrtjx:2026-08-27:session:1": 1,
     "polaris:xmtbyitlz:completion": 1,
-    "polaris:xmspae8dv:2026-08-28:session:1": 1
+    "polaris:xmspae8dv:2026-08-28:session:1": 1,
+    "polaris:a3c:2026-08-28:session:1": 1,
+    "polaris:xmt0hrtjx:2026-08-28:session:1": 1
   },
   "series": {
     "coding": [
@@ -8792,6 +8822,20 @@
       {
         "date": "2026-08-27",
         "cum": 104,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Finish Substrate V2 — a working sitting"
+      },
+      {
+        "date": "2026-08-28",
+        "cum": 105,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Protocol second pass — judge the edits — a working sitting"
+      },
+      {
+        "date": "2026-08-28",
+        "cum": 106,
         "feet": 1,
         "tier": "tiny",
         "activity": "Finish Substrate V2 — a working sitting"
