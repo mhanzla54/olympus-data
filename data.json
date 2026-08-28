@@ -21,7 +21,7 @@
     },
     "overall_total": 1149,
     "generated_for": "2026-08-28",
-    "built_at": "2026-08-28T20:50:03.315Z",
+    "built_at": "2026-08-28T21:40:03.061Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -21444,7 +21444,7 @@
       "target": 15,
       "sets_needed": 2,
       "feet": 10,
-      "answer_line": "- notes / skips: clean: yes — V-up / tuck-up"
+      "answer_line": "- notes / skips: clean rung:corefloor:3:2026-08-28 yes   # Core — FLOOR rung 3 — V-up / tuck-up"
     },
     {
       "key": "rung:corehang:4:2026-08-10",
@@ -21463,7 +21463,7 @@
       "target": 10,
       "sets_needed": 3,
       "feet": 10,
-      "answer_line": "- notes / skips: clean: yes — L-tuck hold (knees up)"
+      "answer_line": "- notes / skips: clean rung:corehang:4:2026-08-10 yes   # Core — HANGING rung 4 — L-tuck hold (knees up)"
     },
     {
       "key": "rung:corehang:3:2026-08-08",
@@ -21482,7 +21482,7 @@
       "target": 10,
       "sets_needed": 3,
       "feet": 10,
-      "answer_line": "- notes / skips: clean: yes — Hanging knee raise — full slow tempo (3s up / 3s down)"
+      "answer_line": "- notes / skips: clean rung:corehang:3:2026-08-08 yes   # Core — HANGING rung 3 — Hanging knee raise — full slow tempo (3s up / 3s down)"
     },
     {
       "key": "rung:legs:6:2026-08-01",
@@ -21501,7 +21501,7 @@
       "target": 5,
       "sets_needed": 3,
       "feet": 10,
-      "answer_line": "- notes / skips: clean: yes — Assisted floor pistol (hands on rings)"
+      "answer_line": "- notes / skips: clean rung:legs:6:2026-08-01 yes   # Legs — Pistol rung 6 — Assisted floor pistol (hands on rings)"
     },
     {
       "key": "rung:hpull:2:2026-08-01",
@@ -21520,7 +21520,7 @@
       "target": 8,
       "sets_needed": 3,
       "feet": 10,
-      "answer_line": "- notes / skips: clean: yes — Parallel ring row (body horizontal, feet on floor)"
+      "answer_line": "- notes / skips: clean rung:hpull:2:2026-08-01 yes   # Horizontal Pull — ROWS rung 2 — Parallel ring row (body horizontal, feet on floor)"
     },
     {
       "key": "rung:pull:4:2026-07-29",
@@ -21539,7 +21539,7 @@
       "target": 3,
       "sets_needed": 3,
       "feet": 10,
-      "answer_line": "- notes / skips: clean: yes — Full pull-up"
+      "answer_line": "- notes / skips: clean rung:pull:4:2026-07-29 yes   # Pull rung 4 — Full pull-up"
     },
     {
       "key": "rung:handstand:5:2026-07-27",
@@ -21558,7 +21558,7 @@
       "target": 5,
       "sets_needed": 3,
       "feet": 10,
-      "answer_line": "- notes / skips: clean: yes — Wall HSPU — partial ROM"
+      "answer_line": "- notes / skips: clean rung:handstand:5:2026-07-27 yes   # Vertical Push / Handstand rung 5 — Wall HSPU — partial ROM"
     },
     {
       "key": "rung:chinup:2:2026-07-27",
@@ -21577,7 +21577,7 @@
       "target": 3,
       "sets_needed": 3,
       "feet": 10,
-      "answer_line": "- notes / skips: clean: yes — Full chin-up (+ negative back-off)"
+      "answer_line": "- notes / skips: clean rung:chinup:2:2026-07-27 yes   # Chin-up rung 2 — Full chin-up (+ negative back-off)"
     },
     {
       "key": "rung:corehang:2:2026-07-25",
@@ -21596,7 +21596,7 @@
       "target": 10,
       "sets_needed": 3,
       "feet": 10,
-      "answer_line": "- notes / skips: clean: yes — Hanging knee raise — slow eccentric (normal up, 3s down)"
+      "answer_line": "- notes / skips: clean rung:corehang:2:2026-07-25 yes   # Core — HANGING rung 2 — Hanging knee raise — slow eccentric (normal up, 3s down)"
     },
     {
       "key": "rung:handstand:4:2026-07-20",
@@ -21616,7 +21616,7 @@
       "target": 30,
       "sets_needed": 3,
       "feet": 10,
-      "answer_line": "- notes / skips: clean: yes — Chest-to-wall handstand hold"
+      "answer_line": "- notes / skips: clean rung:handstand:4:2026-07-20 yes   # Vertical Push / Handstand rung 4 — Chest-to-wall handstand hold"
     },
     {
       "key": "rung:hpull:1:2026-07-16",
@@ -21635,7 +21635,7 @@
       "target": 8,
       "sets_needed": 3,
       "feet": 10,
-      "answer_line": "- notes / skips: clean: yes — Incline ring row (torso ~45°, feet under you)"
+      "answer_line": "- notes / skips: clean rung:hpull:1:2026-07-16 yes   # Horizontal Pull — ROWS rung 1 — Incline ring row (torso ~45°, feet under you)"
     },
     {
       "key": "rung:grip:2:2026-07-16",
@@ -21653,7 +21653,7 @@
       "target": 45,
       "sets_needed": 2,
       "feet": 10,
-      "answer_line": "- notes / skips: clean: yes — Dead hang"
+      "answer_line": "- notes / skips: clean rung:grip:2:2026-07-16 yes   # Grip & Forearms rung 2 — Dead hang"
     },
     {
       "key": "rung:corefloor:2:2026-07-16",
@@ -21671,7 +21671,7 @@
       "target": 45,
       "sets_needed": 2,
       "feet": 10,
-      "answer_line": "- notes / skips: clean: yes — Hollow hold"
+      "answer_line": "- notes / skips: clean rung:corefloor:2:2026-07-16 yes   # Core — FLOOR rung 2 — Hollow hold"
     },
     {
       "key": "rung:planche:1:2026-07-12",
@@ -21689,7 +21689,7 @@
       "target": 20,
       "sets_needed": 2,
       "feet": 10,
-      "answer_line": "- notes / skips: clean: yes — Planche lean"
+      "answer_line": "- notes / skips: clean rung:planche:1:2026-07-12 yes   # Horizontal Push — PLANCHE rung 1 — Planche lean"
     },
     {
       "key": "rung:grip:1:2026-07-12",
@@ -21707,7 +21707,7 @@
       "target": 30,
       "sets_needed": 2,
       "feet": 10,
-      "answer_line": "- notes / skips: clean: yes — Dead hang"
+      "answer_line": "- notes / skips: clean rung:grip:1:2026-07-12 yes   # Grip & Forearms rung 1 — Dead hang"
     },
     {
       "key": "rung:corefloor:1:2026-07-12",
@@ -21725,7 +21725,7 @@
       "target": 30,
       "sets_needed": 2,
       "feet": 10,
-      "answer_line": "- notes / skips: clean: yes — Hollow hold"
+      "answer_line": "- notes / skips: clean rung:corefloor:1:2026-07-12 yes   # Core — FLOOR rung 1 — Hollow hold"
     },
     {
       "key": "rung:push:4:2026-07-08",
@@ -21744,7 +21744,7 @@
       "target": 8,
       "sets_needed": 3,
       "feet": 10,
-      "answer_line": "- notes / skips: clean: yes — Uneven push-up (hand on block)"
+      "answer_line": "- notes / skips: clean rung:push:4:2026-07-08 yes   # Horizontal Push — STRENGTH rung 4 — Uneven push-up (hand on block)"
     },
     {
       "key": "rung:push:3:2026-07-01",
@@ -21763,7 +21763,7 @@
       "target": 8,
       "sets_needed": 3,
       "feet": 10,
-      "answer_line": "- notes / skips: clean: yes — Archer push-up"
+      "answer_line": "- notes / skips: clean rung:push:3:2026-07-01 yes   # Horizontal Push — STRENGTH rung 3 — Archer push-up"
     },
     {
       "key": "rung:corehang:1:2026-07-01",
@@ -21782,7 +21782,7 @@
       "target": 12,
       "sets_needed": 3,
       "feet": 10,
-      "answer_line": "- notes / skips: clean: yes — Hanging knee raise"
+      "answer_line": "- notes / skips: clean rung:corehang:1:2026-07-01 yes   # Core — HANGING rung 1 — Hanging knee raise"
     },
     {
       "key": "rung:handstand:3:2026-06-29",
@@ -21802,7 +21802,7 @@
       "target": 30,
       "sets_needed": 3,
       "feet": 10,
-      "answer_line": "- notes / skips: clean: yes — Wall handstand hold (kick-up)"
+      "answer_line": "- notes / skips: clean rung:handstand:3:2026-06-29 yes   # Vertical Push / Handstand rung 3 — Wall handstand hold (kick-up)"
     },
     {
       "key": "rung:explosive:2:2026-06-29",
@@ -21821,7 +21821,7 @@
       "target": 8,
       "sets_needed": 3,
       "feet": 10,
-      "answer_line": "- notes / skips: clean: yes — Clap push-up (front)"
+      "answer_line": "- notes / skips: clean rung:explosive:2:2026-06-29 yes   # Horizontal Push — EXPLOSIVE rung 2 — Clap push-up (front)"
     },
     {
       "key": "rung:chinup:1:2026-06-29",
@@ -21840,7 +21840,7 @@
       "target": 5,
       "sets_needed": 3,
       "feet": 10,
-      "answer_line": "- notes / skips: clean: yes — Negative chin-up (5s)"
+      "answer_line": "- notes / skips: clean rung:chinup:1:2026-06-29 yes   # Chin-up rung 1 — Negative chin-up (5s)"
     },
     {
       "key": "rung:legs:5:2026-06-27",
@@ -21859,7 +21859,7 @@
       "target": 5,
       "sets_needed": 3,
       "feet": 10,
-      "answer_line": "- notes / skips: clean: yes — Box pistol — low box"
+      "answer_line": "- notes / skips: clean rung:legs:5:2026-06-27 yes   # Legs — Pistol rung 5 — Box pistol — low box"
     }
   ],
   "pending_clear_notes": []
