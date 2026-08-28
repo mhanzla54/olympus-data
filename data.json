@@ -21,7 +21,7 @@
     },
     "overall_total": 1149,
     "generated_for": "2026-08-28",
-    "built_at": "2026-08-28T13:00:03.375Z",
+    "built_at": "2026-08-28T13:10:03.085Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -13667,9 +13667,14 @@
       "rejected": []
     },
     "planche": {
-      "candidates": 12,
+      "candidates": 13,
       "plotted": 12,
-      "rejected": []
+      "rejected": [
+        {
+          "date": "2026-08-28",
+          "why": "\"Pseudo-planche push-up (★PPP — planche l\" logged no usable numbers"
+        }
+      ]
     },
     "handstand": {
       "candidates": 11,
@@ -13677,7 +13682,7 @@
       "rejected": []
     },
     "pull": {
-      "candidates": 36,
+      "candidates": 37,
       "plotted": 24,
       "rejected": [
         {
@@ -13731,6 +13736,10 @@
         {
           "date": "2026-08-24",
           "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-08-28",
+          "why": "\"Dead Hang\" is rung-1 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
         }
       ]
     },
@@ -13745,9 +13754,14 @@
       ]
     },
     "grip": {
-      "candidates": 22,
+      "candidates": 23,
       "plotted": 22,
-      "rejected": []
+      "rejected": [
+        {
+          "date": "2026-08-28",
+          "why": "\"Dead Hang\" logged no usable numbers"
+        }
+      ]
     },
     "legs": {
       "candidates": 16,
@@ -13772,9 +13786,14 @@
       ]
     },
     "corefloor": {
-      "candidates": 14,
+      "candidates": 15,
       "plotted": 14,
-      "rejected": []
+      "rejected": [
+        {
+          "date": "2026-08-28",
+          "why": "\"V-up / tuck-up (★finisher)\" logged no usable numbers"
+        }
+      ]
     },
     "corehang": {
       "candidates": 35,
@@ -14101,6 +14120,13 @@
             "raw": "5, 4",
             "avg": 4.5,
             "status": "● plotted at 2.56"
+          },
+          {
+            "date": "2026-08-28",
+            "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Pseudo-planche push-up (★PPP — planche l\" logged no usable numbers"
           }
         ]
       },
@@ -14512,6 +14538,13 @@
             "raw": "30, 20",
             "avg": 25,
             "status": "● plotted at 5.58"
+          },
+          {
+            "date": "2026-08-28",
+            "name": "Dead Hang",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Dead Hang\" is rung-1 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           }
         ]
       },
@@ -14865,6 +14898,13 @@
             "raw": "30, 20",
             "avg": 25,
             "status": "● plotted at 3.42"
+          },
+          {
+            "date": "2026-08-28",
+            "name": "Dead Hang",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Dead Hang\" logged no usable numbers"
           }
         ]
       },
@@ -15094,6 +15134,13 @@
             "raw": "6, 5",
             "avg": 5.5,
             "status": "● plotted at 3.37"
+          },
+          {
+            "date": "2026-08-28",
+            "name": "V-up / tuck-up (★finisher)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"V-up / tuck-up (★finisher)\" logged no usable numbers"
           }
         ]
       },
@@ -15725,6 +15772,43 @@
         ]
       },
       {
+        "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
+        "rows": [
+          {
+            "date": "2026-07-15",
+            "detail": "reps: 2, 3"
+          },
+          {
+            "date": "2026-07-22",
+            "detail": "reps: 5, 5"
+          },
+          {
+            "date": "2026-07-29",
+            "detail": "reps: 5, 4"
+          },
+          {
+            "date": "2026-08-03",
+            "detail": "reps: 8, 8"
+          },
+          {
+            "date": "2026-08-10",
+            "detail": "reps: 5, 4"
+          },
+          {
+            "date": "2026-08-19",
+            "detail": "reps: 4, 4"
+          },
+          {
+            "date": "2026-08-26",
+            "detail": "reps: 5, 4"
+          },
+          {
+            "date": "2026-08-28",
+            "detail": "reps: —"
+          }
+        ]
+      },
+      {
         "name": "Typewriter push-up (★slide side-to-side)",
         "rows": [
           {
@@ -15758,35 +15842,35 @@
         ]
       },
       {
-        "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
+        "name": "V-up / tuck-up (★finisher)",
         "rows": [
           {
-            "date": "2026-07-15",
-            "detail": "reps: 2, 3"
-          },
-          {
             "date": "2026-07-22",
-            "detail": "reps: 5, 5"
+            "detail": "reps: 6, 4"
           },
           {
             "date": "2026-07-29",
-            "detail": "reps: 5, 4"
+            "detail": "reps: 5, 3, 3"
           },
           {
             "date": "2026-08-03",
-            "detail": "reps: 8, 8"
+            "detail": "reps: 5, 6"
           },
           {
             "date": "2026-08-10",
-            "detail": "reps: 5, 4"
+            "detail": "reps: 7, 6"
           },
           {
             "date": "2026-08-19",
-            "detail": "reps: 4, 4"
+            "detail": "reps: 6, 6"
           },
           {
             "date": "2026-08-26",
-            "detail": "reps: 5, 4"
+            "detail": "reps: 6, 5"
+          },
+          {
+            "date": "2026-08-28",
+            "detail": "reps: —"
           }
         ]
       },
@@ -15990,35 +16074,6 @@
           {
             "date": "2026-08-26",
             "detail": "reps: 8, 5, 3"
-          }
-        ]
-      },
-      {
-        "name": "V-up / tuck-up (★finisher)",
-        "rows": [
-          {
-            "date": "2026-07-22",
-            "detail": "reps: 6, 4"
-          },
-          {
-            "date": "2026-07-29",
-            "detail": "reps: 5, 3, 3"
-          },
-          {
-            "date": "2026-08-03",
-            "detail": "reps: 5, 6"
-          },
-          {
-            "date": "2026-08-10",
-            "detail": "reps: 7, 6"
-          },
-          {
-            "date": "2026-08-19",
-            "detail": "reps: 6, 6"
-          },
-          {
-            "date": "2026-08-26",
-            "detail": "reps: 6, 5"
           }
         ]
       },
@@ -16342,6 +16397,23 @@
         ]
       },
       {
+        "name": "Dead Hang",
+        "rows": [
+          {
+            "date": "2026-07-12",
+            "detail": "reps / held: 30, 30"
+          },
+          {
+            "date": "2026-07-16",
+            "detail": "reps / held: 45, 45"
+          },
+          {
+            "date": "2026-08-28",
+            "detail": "reps / held: —"
+          }
+        ]
+      },
+      {
         "name": "Full pistol (★no assist)",
         "rows": [
           {
@@ -16424,19 +16496,6 @@
           {
             "date": "2026-07-15",
             "detail": "reps: 6, 9, 8"
-          }
-        ]
-      },
-      {
-        "name": "Dead Hang",
-        "rows": [
-          {
-            "date": "2026-07-12",
-            "detail": "reps / held: 30, 30"
-          },
-          {
-            "date": "2026-07-16",
-            "detail": "reps / held: 45, 45"
           }
         ]
       },
@@ -16621,6 +16680,41 @@
       }
     ],
     "dates": [
+      {
+        "date": "2026-08-28",
+        "rows": [
+          {
+            "ladderId": "corefloor",
+            "ladderName": "Core — FLOOR",
+            "name": "V-up / tuck-up (★finisher)",
+            "raw": "",
+            "avg": null,
+            "target": "15",
+            "sets": 2,
+            "cleared": false
+          },
+          {
+            "ladderId": "planche",
+            "ladderName": "Horizontal Push — PLANCHE",
+            "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
+            "raw": "",
+            "avg": null,
+            "target": "8",
+            "sets": 2,
+            "cleared": false
+          },
+          {
+            "ladderId": "pull",
+            "ladderName": "Pull",
+            "name": "Dead Hang",
+            "raw": "",
+            "avg": null,
+            "target": "45s",
+            "sets": 2,
+            "cleared": false
+          }
+        ]
+      },
       {
         "date": "2026-08-26",
         "rows": [
