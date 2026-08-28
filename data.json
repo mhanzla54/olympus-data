@@ -21,7 +21,7 @@
     },
     "overall_total": 1149,
     "generated_for": "2026-08-28",
-    "built_at": "2026-08-28T13:40:03.612Z",
+    "built_at": "2026-08-28T14:00:03.783Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -13673,14 +13673,9 @@
       "rejected": []
     },
     "planche": {
-      "candidates": 13,
+      "candidates": 12,
       "plotted": 12,
-      "rejected": [
-        {
-          "date": "2026-08-28",
-          "why": "\"Pseudo-planche push-up (★PPP — planche l\" logged no usable numbers"
-        }
-      ]
+      "rejected": []
     },
     "handstand": {
       "candidates": 11,
@@ -14121,13 +14116,6 @@
             "raw": "5, 4",
             "avg": 4.5,
             "status": "● plotted at 2.56"
-          },
-          {
-            "date": "2026-08-28",
-            "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
-            "raw": "",
-            "avg": null,
-            "status": "✗ not plotted — \"Pseudo-planche push-up (★PPP — planche l\" logged no usable numbers"
           }
         ]
       },
@@ -15773,43 +15761,6 @@
         ]
       },
       {
-        "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
-        "rows": [
-          {
-            "date": "2026-07-15",
-            "detail": "reps: 2, 3"
-          },
-          {
-            "date": "2026-07-22",
-            "detail": "reps: 5, 5"
-          },
-          {
-            "date": "2026-07-29",
-            "detail": "reps: 5, 4"
-          },
-          {
-            "date": "2026-08-03",
-            "detail": "reps: 8, 8"
-          },
-          {
-            "date": "2026-08-10",
-            "detail": "reps: 5, 4"
-          },
-          {
-            "date": "2026-08-19",
-            "detail": "reps: 4, 4"
-          },
-          {
-            "date": "2026-08-26",
-            "detail": "reps: 5, 4"
-          },
-          {
-            "date": "2026-08-28",
-            "detail": "reps: —"
-          }
-        ]
-      },
-      {
         "name": "Typewriter push-up (★slide side-to-side)",
         "rows": [
           {
@@ -15839,6 +15790,39 @@
           {
             "date": "2026-08-26",
             "detail": "reps: (skipped to allow shoulder to heal)"
+          }
+        ]
+      },
+      {
+        "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
+        "rows": [
+          {
+            "date": "2026-07-15",
+            "detail": "reps: 2, 3"
+          },
+          {
+            "date": "2026-07-22",
+            "detail": "reps: 5, 5"
+          },
+          {
+            "date": "2026-07-29",
+            "detail": "reps: 5, 4"
+          },
+          {
+            "date": "2026-08-03",
+            "detail": "reps: 8, 8"
+          },
+          {
+            "date": "2026-08-10",
+            "detail": "reps: 5, 4"
+          },
+          {
+            "date": "2026-08-19",
+            "detail": "reps: 4, 4"
+          },
+          {
+            "date": "2026-08-26",
+            "detail": "reps: 5, 4"
           }
         ]
       },
@@ -16691,16 +16675,6 @@
             "raw": "15, 15",
             "avg": 15,
             "target": "15",
-            "sets": 2,
-            "cleared": false
-          },
-          {
-            "ladderId": "planche",
-            "ladderName": "Horizontal Push — PLANCHE",
-            "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
-            "raw": "",
-            "avg": null,
-            "target": "8",
             "sets": 2,
             "cleared": false
           },
