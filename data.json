@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 215.8
     },
-    "overall_total": 1150,
-    "generated_for": "2026-08-28",
-    "built_at": "2026-08-29T01:50:03.006Z",
+    "overall_total": 1160,
+    "generated_for": "2026-08-29",
+    "built_at": "2026-08-29T14:21:24.613Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1567
+      "ft_to_go": 1557
     },
     "captures_today_unscored": 0
   },
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 301,
+      "current": 311,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -7157,6 +7157,20 @@
       "evidence": "POLARIS xmtdp3qh9",
       "booked": "2026-08-28",
       "source": "polaris:xmtdp3qh9:completion"
+    },
+    {
+      "date": "2026-08-28",
+      "lane": "strength",
+      "activity": "Core — FLOOR rung 3 CLEARED — V-up / tuck-up (15/15, avg 15 vs target 15)",
+      "label": "Core — FLOOR rung 3 CLEARED — V-up / tuck-up (15/15, avg…",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 311,
+      "cum_overall": 1160,
+      "reasoning": "SETS-STANDARD: first 2 sets avg 15 >= 15; clean-reps confirmed by owner",
+      "evidence": "workout-log; V-up / tuck-up (★finisher)",
+      "booked": "2026-08-29",
+      "source": "rung:corefloor:3:2026-08-28"
     }
   ],
   "polaris_booked": {
@@ -9481,6 +9495,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Sparse Training — FINISHED"
+      },
+      {
+        "date": "2026-08-28",
+        "cum": 311,
+        "feet": 10,
+        "tier": "small",
+        "activity": "Core — FLOOR rung 3 CLEARED — V-up / tuck-up (15/15, avg 15 vs target 15)"
       }
     ],
     "body": [
@@ -21449,25 +21470,6 @@
     "vista-pyramid": "vista-pyramid.webp",
     "vista-redeemer": "vista-redeemer.webp"
   },
-  "pending_clears": [
-    {
-      "key": "rung:corefloor:3:2026-08-28",
-      "date": "2026-08-28",
-      "ladder": "corefloor",
-      "ladder_name": "Core — FLOOR",
-      "rung": 3,
-      "movement": "V-up / tuck-up",
-      "exercise": "V-up / tuck-up (★finisher)",
-      "sets": [
-        15,
-        15
-      ],
-      "avg": 15,
-      "target": 15,
-      "sets_needed": 2,
-      "feet": 10,
-      "answer_line": "- notes / skips: clean rung:corefloor:3:2026-08-28 yes   # Core — FLOOR rung 3 — V-up / tuck-up"
-    }
-  ],
+  "pending_clears": [],
   "pending_clear_notes": []
 }
