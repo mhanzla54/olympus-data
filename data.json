@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 215.8
     },
-    "overall_total": 1163,
+    "overall_total": 1164,
     "generated_for": "2026-08-29",
-    "built_at": "2026-08-29T15:35:55.135Z",
+    "built_at": "2026-08-29T16:41:56.073Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1554
+      "ft_to_go": 1553
     },
     "captures_today_unscored": 0
   },
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 311,
+      "current": 312,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -7213,6 +7213,20 @@
       "evidence": "POLARIS a3c",
       "booked": "2026-08-29",
       "source": "polaris:a3c:2026-08-29:session:1"
+    },
+    {
+      "date": "2026-08-29",
+      "lane": "strength",
+      "activity": "Workout — a working sitting",
+      "label": "Workout — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 312,
+      "cum_overall": 1164,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmtegz4dz",
+      "booked": "2026-08-29",
+      "source": "polaris:xmtegz4dz:2026-08-29:session:1"
     }
   ],
   "polaris_booked": {
@@ -7247,7 +7261,8 @@
     "polaris:xmtdp3qh9:completion": 1,
     "polaris:xmtdp5z2r:2026-08-29:session:1": 1,
     "polaris:xmt0hrtjx:2026-08-29:session:1": 1,
-    "polaris:a3c:2026-08-29:session:1": 1
+    "polaris:a3c:2026-08-29:session:1": 1,
+    "polaris:xmtegz4dz:2026-08-29:session:1": 1
   },
   "series": {
     "coding": [
@@ -9568,6 +9583,13 @@
         "feet": 10,
         "tier": "small",
         "activity": "Core — FLOOR rung 3 CLEARED — V-up / tuck-up (15/15, avg 15 vs target 15)"
+      },
+      {
+        "date": "2026-08-29",
+        "cum": 312,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Workout — a working sitting"
       }
     ],
     "body": [
