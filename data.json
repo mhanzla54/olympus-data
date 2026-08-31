@@ -21,7 +21,7 @@
     },
     "overall_total": 1184,
     "generated_for": "2026-08-31",
-    "built_at": "2026-08-31T14:00:03.763Z",
+    "built_at": "2026-08-31T14:10:03.673Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -12420,10 +12420,11 @@
       "id": "corefloor",
       "name": "Core — FLOOR",
       "elite": "dragon flag",
-      "current": 3,
+      "current": 4,
       "cleared_dates": {
         "1": "2026-07-12",
-        "2": "2026-07-16"
+        "2": "2026-07-16",
+        "3": "2026-08-28"
       },
       "rungs": [
         {
@@ -12478,8 +12479,8 @@
         }
       ],
       "chart": 9,
-      "cleared_count": 2,
-      "height": 3,
+      "cleared_count": 3,
+      "height": 6,
       "triangular": [
         0,
         1,
@@ -13796,9 +13797,14 @@
         },
         {
           "date": "2026-08-28",
-          "y": 3.97,
-          "kind": "session",
-          "label": "V-up / tuck-up — 15, 15 (avg 15 vs target 15)"
+          "y": 4,
+          "kind": "clear",
+          "label": "Core — FLOOR — cleared: V-up / tuck-up (needed 15, got 15, 15 — avg 15)",
+          "perf": {
+            "needed": "15",
+            "got": "15, 15",
+            "avg": 15
+          }
         }
       ],
       "steps": [
@@ -13813,6 +13819,10 @@
         {
           "date": "2026-07-16",
           "rungs": 3
+        },
+        {
+          "date": "2026-08-28",
+          "rungs": 4
         }
       ],
       "chart": 9
@@ -15625,7 +15635,7 @@
             "name": "V-up / tuck-up (★finisher)",
             "raw": "15, 15",
             "avg": 15,
-            "status": "● plotted at 3.97"
+            "status": "✓ CLEAR DAY — carried by the clear dot (needed 15, avg 15)"
           }
         ]
       },
@@ -17335,7 +17345,7 @@
             "avg": 15,
             "target": "15",
             "sets": 2,
-            "cleared": false
+            "cleared": true
           },
           {
             "ladderId": "pull",
