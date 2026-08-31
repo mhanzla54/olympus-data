@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 215.8
     },
-    "overall_total": 1173,
+    "overall_total": 1184,
     "generated_for": "2026-08-31",
-    "built_at": "2026-08-31T13:30:03.149Z",
+    "built_at": "2026-08-31T13:52:15.155Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1544
+      "ft_to_go": 1533
     },
     "captures_today_unscored": 0
   },
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 312,
+      "current": 313,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -88,7 +88,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 372,
+      "current": 382,
       "working_on": "the next new-pound low (≤ 214.8 lb)"
     },
     {
@@ -7353,6 +7353,34 @@
       "evidence": "health warehouse",
       "booked": "2026-08-31",
       "source": "body:calorie-day:2026-08-29"
+    },
+    {
+      "date": "2026-08-31",
+      "lane": "strength",
+      "activity": "Workout — a working sitting",
+      "label": "Workout — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 313,
+      "cum_overall": 1174,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmt78btdt",
+      "booked": "2026-08-31",
+      "source": "polaris:xmt78btdt:2026-08-31:session:1"
+    },
+    {
+      "date": "2026-08-31",
+      "lane": "body",
+      "activity": "Cut 9 Day Cycle Completion with No Gaps — FINISHED",
+      "label": "Cut 9 Day Cycle Completion with No Gaps",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 382,
+      "cum_overall": 1184,
+      "reasoning": "Owner-priced in POLARIS: finishing it = small, locked 2026-08-31",
+      "evidence": "POLARIS xmtharuxr",
+      "booked": "2026-08-31",
+      "source": "polaris:xmtharuxr:completion"
     }
   ],
   "polaris_booked": {
@@ -7391,7 +7419,9 @@
     "polaris:xmtegz4dz:2026-08-29:session:1": 1,
     "polaris:xmspae8dv:2026-08-31:session:1": 1,
     "polaris:a3c:2026-08-31:session:1": 1,
-    "polaris:xmt0hrtjx:2026-08-31:session:1": 1
+    "polaris:xmt0hrtjx:2026-08-31:session:1": 1,
+    "polaris:xmt78btdt:2026-08-31:session:1": 1,
+    "polaris:xmtharuxr:completion": 10
   },
   "series": {
     "coding": [
@@ -9740,6 +9770,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Workout — a working sitting"
+      },
+      {
+        "date": "2026-08-31",
+        "cum": 313,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Workout — a working sitting"
       }
     ],
     "body": [
@@ -10897,6 +10934,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "calorie-day — 1889 kcal"
+      },
+      {
+        "date": "2026-08-31",
+        "cum": 382,
+        "feet": 10,
+        "tier": "small",
+        "activity": "Cut 9 Day Cycle Completion with No Gaps — FINISHED"
       }
     ],
     "fieldpresence": [
