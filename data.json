@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 215.8
     },
-    "overall_total": 1168,
+    "overall_total": 1167,
     "generated_for": "2026-08-31",
-    "built_at": "2026-08-31T11:29:14.988Z",
+    "built_at": "2026-08-31T11:29:28.038Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1549
+      "ft_to_go": 1550
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 110,
+      "current": 109,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -7243,20 +7243,6 @@
       "source": "polaris:xmspae8dv:2026-08-31:session:1"
     },
     {
-      "date": "2026-08-31",
-      "lane": "method",
-      "activity": "Protocol second pass — judge the edits — a working sitting",
-      "label": "Protocol second pass — judge the edits — a working sitting",
-      "tier": "tiny",
-      "feet": 1,
-      "cum_lane": 110,
-      "cum_overall": 1166,
-      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
-      "evidence": "POLARIS a3c",
-      "booked": "2026-08-31",
-      "source": "polaris:a3c:2026-08-31:session:1"
-    },
-    {
       "date": "2026-08-30",
       "lane": "body",
       "activity": "protein-day — 177 g",
@@ -7264,7 +7250,7 @@
       "tier": "tiny",
       "feet": 1,
       "cum_lane": 367,
-      "cum_overall": 1167,
+      "cum_overall": 1166,
       "reasoning": "codebook ⚖️ protein-day: needed >= 160 g; got 177 g",
       "evidence": "health warehouse",
       "booked": "2026-08-31",
@@ -7278,7 +7264,7 @@
       "tier": "tiny",
       "feet": 1,
       "cum_lane": 368,
-      "cum_overall": 1168,
+      "cum_overall": 1167,
       "reasoning": "codebook ⚖️ calorie-day: needed 1550–2100 kcal; got 1871 kcal",
       "evidence": "health warehouse",
       "booked": "2026-08-31",
@@ -7319,8 +7305,7 @@
     "polaris:xmt0hrtjx:2026-08-29:session:1": 1,
     "polaris:a3c:2026-08-29:session:1": 1,
     "polaris:xmtegz4dz:2026-08-29:session:1": 1,
-    "polaris:xmspae8dv:2026-08-31:session:1": 1,
-    "polaris:a3c:2026-08-31:session:1": 1
+    "polaris:xmspae8dv:2026-08-31:session:1": 1
   },
   "series": {
     "coding": [
@@ -9011,13 +8996,6 @@
       {
         "date": "2026-08-29",
         "cum": 109,
-        "feet": 1,
-        "tier": "tiny",
-        "activity": "Protocol second pass — judge the edits — a working sitting"
-      },
-      {
-        "date": "2026-08-31",
-        "cum": 110,
         "feet": 1,
         "tier": "tiny",
         "activity": "Protocol second pass — judge the edits — a working sitting"
