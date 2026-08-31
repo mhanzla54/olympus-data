@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 215.8
     },
-    "overall_total": 1169,
+    "overall_total": 1173,
     "generated_for": "2026-08-31",
-    "built_at": "2026-08-31T11:36:58.683Z",
+    "built_at": "2026-08-31T11:50:03.693Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1548
+      "ft_to_go": 1544
     },
     "captures_today_unscored": 0
   },
@@ -88,7 +88,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 368,
+      "current": 372,
       "working_on": "the next new-pound low (≤ 214.8 lb)"
     },
     {
@@ -7297,6 +7297,62 @@
       "evidence": "POLARIS xmt0hrtjx",
       "booked": "2026-08-31",
       "source": "polaris:xmt0hrtjx:2026-08-31:session:1"
+    },
+    {
+      "date": "2026-08-28",
+      "lane": "body",
+      "activity": "protein-day — 211 g",
+      "label": "protein-day — 211 g",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 369,
+      "cum_overall": 1170,
+      "reasoning": "codebook ⚖️ protein-day: needed >= 160 g; got 211 g — CAUGHT UP 3 days late (MFP scrape outage 08-28 09:10 → 08-31 07:28; the detector's today+yesterday window never saw this day). Targets confirmed in force by the unbroken 08-22→08-30 run of rows booked against the same >= 160 g floor.",
+      "evidence": "health warehouse",
+      "booked": "2026-08-31",
+      "source": "body:protein-day:2026-08-28"
+    },
+    {
+      "date": "2026-08-28",
+      "lane": "body",
+      "activity": "calorie-day — 1813 kcal",
+      "label": "calorie-day — 1813 kcal",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 370,
+      "cum_overall": 1171,
+      "reasoning": "codebook ⚖️ calorie-day: needed 1550–2100 kcal; got 1813 kcal — CAUGHT UP 3 days late (same outage). Day is final in the warehouse (logged=full, provisional=false), so the band verdict is a closed-day verdict, not a partial read.",
+      "evidence": "health warehouse",
+      "booked": "2026-08-31",
+      "source": "body:calorie-day:2026-08-28"
+    },
+    {
+      "date": "2026-08-29",
+      "lane": "body",
+      "activity": "protein-day — 215 g",
+      "label": "protein-day — 215 g",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 371,
+      "cum_overall": 1172,
+      "reasoning": "codebook ⚖️ protein-day: needed >= 160 g; got 215 g — CAUGHT UP 2 days late (same outage).",
+      "evidence": "health warehouse",
+      "booked": "2026-08-31",
+      "source": "body:protein-day:2026-08-29"
+    },
+    {
+      "date": "2026-08-29",
+      "lane": "body",
+      "activity": "calorie-day — 1889 kcal",
+      "label": "calorie-day — 1889 kcal",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 372,
+      "cum_overall": 1173,
+      "reasoning": "codebook ⚖️ calorie-day: needed 1550–2100 kcal; got 1889 kcal — CAUGHT UP 2 days late (same outage). Day is final in the warehouse (logged=full, provisional=false).",
+      "evidence": "health warehouse",
+      "booked": "2026-08-31",
+      "source": "body:calorie-day:2026-08-29"
     }
   ],
   "polaris_booked": {
@@ -10813,6 +10869,34 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "calorie-day — 1871 kcal"
+      },
+      {
+        "date": "2026-08-28",
+        "cum": 369,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "protein-day — 211 g"
+      },
+      {
+        "date": "2026-08-28",
+        "cum": 370,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "calorie-day — 1813 kcal"
+      },
+      {
+        "date": "2026-08-29",
+        "cum": 371,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "protein-day — 215 g"
+      },
+      {
+        "date": "2026-08-29",
+        "cum": 372,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "calorie-day — 1889 kcal"
       }
     ],
     "fieldpresence": [
