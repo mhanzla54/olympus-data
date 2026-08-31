@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 215.8
     },
-    "overall_total": 1165,
+    "overall_total": 1168,
     "generated_for": "2026-08-31",
-    "built_at": "2026-08-31T10:55:16.301Z",
+    "built_at": "2026-08-31T11:29:14.988Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1552
+      "ft_to_go": 1549
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 109,
+      "current": 110,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -88,7 +88,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 366,
+      "current": 368,
       "working_on": "the next new-pound low (≤ 214.8 lb)"
     },
     {
@@ -7241,6 +7241,48 @@
       "evidence": "POLARIS xmspae8dv",
       "booked": "2026-08-31",
       "source": "polaris:xmspae8dv:2026-08-31:session:1"
+    },
+    {
+      "date": "2026-08-31",
+      "lane": "method",
+      "activity": "Protocol second pass — judge the edits — a working sitting",
+      "label": "Protocol second pass — judge the edits — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 110,
+      "cum_overall": 1166,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS a3c",
+      "booked": "2026-08-31",
+      "source": "polaris:a3c:2026-08-31:session:1"
+    },
+    {
+      "date": "2026-08-30",
+      "lane": "body",
+      "activity": "protein-day — 177 g",
+      "label": "protein-day — 177 g",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 367,
+      "cum_overall": 1167,
+      "reasoning": "codebook ⚖️ protein-day: needed >= 160 g; got 177 g",
+      "evidence": "health warehouse",
+      "booked": "2026-08-31",
+      "source": "body:protein-day:2026-08-30"
+    },
+    {
+      "date": "2026-08-30",
+      "lane": "body",
+      "activity": "calorie-day — 1871 kcal",
+      "label": "calorie-day — 1871 kcal",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 368,
+      "cum_overall": 1168,
+      "reasoning": "codebook ⚖️ calorie-day: needed 1550–2100 kcal; got 1871 kcal",
+      "evidence": "health warehouse",
+      "booked": "2026-08-31",
+      "source": "body:calorie-day:2026-08-30"
     }
   ],
   "polaris_booked": {
@@ -7277,7 +7319,8 @@
     "polaris:xmt0hrtjx:2026-08-29:session:1": 1,
     "polaris:a3c:2026-08-29:session:1": 1,
     "polaris:xmtegz4dz:2026-08-29:session:1": 1,
-    "polaris:xmspae8dv:2026-08-31:session:1": 1
+    "polaris:xmspae8dv:2026-08-31:session:1": 1,
+    "polaris:a3c:2026-08-31:session:1": 1
   },
   "series": {
     "coding": [
@@ -8968,6 +9011,13 @@
       {
         "date": "2026-08-29",
         "cum": 109,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Protocol second pass — judge the edits — a working sitting"
+      },
+      {
+        "date": "2026-08-31",
+        "cum": 110,
         "feet": 1,
         "tier": "tiny",
         "activity": "Protocol second pass — judge the edits — a working sitting"
@@ -10727,6 +10777,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "calorie-day — 1775 kcal"
+      },
+      {
+        "date": "2026-08-30",
+        "cum": 367,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "protein-day — 177 g"
+      },
+      {
+        "date": "2026-08-30",
+        "cum": 368,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "calorie-day — 1871 kcal"
       }
     ],
     "fieldpresence": [
@@ -19607,6 +19671,22 @@
         "protein": 192,
         "dayType": "strict",
         "provisional": false
+      },
+      {
+        "date": "2026-08-28",
+        "w": 219.2,
+        "kcal": 1813,
+        "protein": 211,
+        "dayType": "strict",
+        "provisional": false
+      },
+      {
+        "date": "2026-08-30",
+        "w": 217.6,
+        "kcal": 1871,
+        "protein": 177,
+        "dayType": "strict",
+        "provisional": false
       }
     ],
     "trend": [
@@ -19969,9 +20049,17 @@
       {
         "date": "2026-08-27",
         "w": 220.65
+      },
+      {
+        "date": "2026-08-28",
+        "w": 220.36
+      },
+      {
+        "date": "2026-08-30",
+        "w": 219.9
       }
     ],
-    "noiseBand": 1.38,
+    "noiseBand": 1.39,
     "floors": [
       {
         "y": 230,
@@ -20104,9 +20192,14 @@
         "week": "Aug 16–Aug 22"
       },
       {
-        "date": "2026-08-26",
-        "w": 219.4,
+        "date": "2026-08-28",
+        "w": 219.2,
         "week": "Aug 23–Aug 29"
+      },
+      {
+        "date": "2026-08-30",
+        "w": 217.6,
+        "week": "Aug 30–Sep 5"
       }
     ],
     "weeklyAvgs": [
@@ -20226,37 +20319,28 @@
       },
       {
         "date": "2026-08-26",
-        "w": 220.7,
+        "w": 220.4,
         "week": "Aug 23–Aug 29",
-        "n": 4
+        "n": 5
+      },
+      {
+        "date": "2026-09-02",
+        "w": 217.6,
+        "week": "Aug 30–Sep 5",
+        "n": 1
       }
     ],
     "banner": {
       "startDate": "2026-03-22",
       "startW": 235,
-      "lost": 14.3,
+      "lost": 15.1,
       "goal": 180,
-      "pct": 26.1,
+      "pct": 27.5,
       "nextFloor": 210,
-      "toGo": 10.7,
+      "toGo": 9.9,
       "newLow": false
     },
     "strip": [
-      {
-        "date": "2026-07-30",
-        "state": "off",
-        "kcal": 2323
-      },
-      {
-        "date": "2026-07-31",
-        "state": "off",
-        "kcal": 2273
-      },
-      {
-        "date": "2026-08-01",
-        "state": "off",
-        "kcal": 2444
-      },
       {
         "date": "2026-08-02",
         "state": "off",
@@ -20389,6 +20473,21 @@
       },
       {
         "date": "2026-08-28",
+        "state": "off",
+        "kcal": 1813
+      },
+      {
+        "date": "2026-08-29",
+        "state": "off",
+        "kcal": 1889
+      },
+      {
+        "date": "2026-08-30",
+        "state": "off",
+        "kcal": 1871
+      },
+      {
+        "date": "2026-08-31",
         "state": "partial",
         "kcal": 0
       }
@@ -21148,6 +21247,30 @@
       },
       {
         "date": "2026-08-28",
+        "kcal": 1813,
+        "protein": 211,
+        "dayType": "strict",
+        "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-08-29",
+        "kcal": 1889,
+        "protein": 215,
+        "dayType": "strict",
+        "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-08-30",
+        "kcal": 1871,
+        "protein": 177,
+        "dayType": "strict",
+        "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-08-31",
         "kcal": 0,
         "protein": 0,
         "dayType": "empty",
