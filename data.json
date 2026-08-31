@@ -21,7 +21,7 @@
     },
     "overall_total": 1173,
     "generated_for": "2026-08-31",
-    "built_at": "2026-08-31T12:00:03.396Z",
+    "built_at": "2026-08-31T12:40:02.984Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -13312,6 +13312,12 @@
           "y": 3.63,
           "kind": "session",
           "label": "Full chin-up — 6, 5, 4 (avg 5 vs target 8)"
+        },
+        {
+          "date": "2026-08-31",
+          "y": 3.88,
+          "kind": "session",
+          "label": "Full chin-up — 8, 6, (avg 7 vs target 8)"
         }
       ],
       "steps": [
@@ -14107,15 +14113,11 @@
     },
     "chinup": {
       "candidates": 13,
-      "plotted": 11,
+      "plotted": 12,
       "rejected": [
         {
           "date": "2026-08-10",
           "why": "\"L-tuck hold (★knees up — hold at the top\" is rung-7 work, not the trained rung 3 — cleared/future-rung work does not plot (owner law)"
-        },
-        {
-          "date": "2026-08-31",
-          "why": "\"Chin-up (★full, underhand — then negativ\" logged no usable numbers"
         }
       ]
     },
@@ -15161,9 +15163,9 @@
           {
             "date": "2026-08-31",
             "name": "Chin-up (★full, underhand — then negatives as back-off)",
-            "raw": "",
-            "avg": null,
-            "status": "✗ not plotted — \"Chin-up (★full, underhand — then negativ\" logged no usable numbers"
+            "raw": "8, 6,",
+            "avg": 7,
+            "status": "● plotted at 3.88"
           }
         ]
       },
@@ -16303,7 +16305,7 @@
           },
           {
             "date": "2026-08-31",
-            "detail": "full reps: — · neg back-off: —"
+            "detail": "full reps: 8, 6, · neg back-off: 0, 2,"
           }
         ]
       },
@@ -17181,8 +17183,8 @@
             "ladderId": "chinup",
             "ladderName": "Chin-up",
             "name": "Chin-up (★full, underhand — then negatives as back-off)",
-            "raw": "",
-            "avg": null,
+            "raw": "8, 6,",
+            "avg": 7,
             "target": "8",
             "sets": 3,
             "cleared": false
@@ -19244,6 +19246,10 @@
     }
   ],
   "last_perf": {
+    "chinup": {
+      "date": "2026-08-31",
+      "detail": "8, 6,"
+    },
     "pull": {
       "date": "2026-08-29",
       "detail": "6, 3.5,"
@@ -19275,10 +19281,6 @@
     "planche": {
       "date": "2026-08-26",
       "detail": "5, 4"
-    },
-    "chinup": {
-      "date": "2026-08-24",
-      "detail": "6, 5, 4"
     },
     "handstand": {
       "date": "2026-08-24",
