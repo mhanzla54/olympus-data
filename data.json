@@ -21,7 +21,7 @@
     },
     "overall_total": 1184,
     "generated_for": "2026-08-31",
-    "built_at": "2026-08-31T14:10:03.673Z",
+    "built_at": "2026-08-31T14:14:45.302Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -11898,7 +11898,7 @@
         },
         {
           "name": "Wall HSPU — 75% ROM (three-quarter depth)",
-          "target": "6",
+          "target": "8",
           "sets": 3
         },
         {
@@ -12962,27 +12962,27 @@
         },
         {
           "date": "2026-08-08",
-          "y": 6.39,
+          "y": 6.29,
           "kind": "session",
-          "label": "Wall HSPU — 75% ROM (three-quarter depth) — 3, 2.5, 1.5 (avg 2.3 vs target 6)"
+          "label": "Wall HSPU — full ROM — 3, 2.5, 1.5 (avg 2.3 vs target 8)"
         },
         {
           "date": "2026-08-17",
-          "y": 6.28,
+          "y": 6.21,
           "kind": "session",
-          "label": "Wall HSPU — 75% ROM (three-quarter depth) — 2, 1.5, 1.5 (avg 1.7 vs target 6)"
+          "label": "Wall HSPU — full ROM — 2, 1.5, 1.5 (avg 1.7 vs target 8)"
         },
         {
           "date": "2026-08-24",
-          "y": 6.24,
+          "y": 6.18,
           "kind": "session",
-          "label": "Wall HSPU — 75% ROM (three-quarter depth) — 1.5, 1.8, 1 (avg 1.4 vs target 6)"
+          "label": "Wall HSPU — full ROM — 1.5, 1.8, 1 (avg 1.4 vs target 8)"
         },
         {
           "date": "2026-08-31",
-          "y": 6.44,
+          "y": 6.33,
           "kind": "session",
-          "label": "Wall HSPU — 75% ROM (three-quarter depth) — 2, 3, 3 (avg 2.7 vs target 6)"
+          "label": "Wall HSPU — full ROM — 2, 3, 3 (avg 2.7 vs target 8)"
         }
       ],
       "steps": [
@@ -14634,28 +14634,28 @@
             "name": "Wall HSPU (★full ROM)",
             "raw": "3, 2.5, 1.5",
             "avg": 2.3,
-            "status": "● plotted at 6.39"
+            "status": "● plotted at 6.29"
           },
           {
             "date": "2026-08-17",
             "name": "Wall HSPU (★full ROM)",
             "raw": "2, 1.5, 1.5",
             "avg": 1.7,
-            "status": "● plotted at 6.28"
+            "status": "● plotted at 6.21"
           },
           {
             "date": "2026-08-24",
             "name": "Wall HSPU (★full ROM)",
             "raw": "1.5, 1.8, 1",
             "avg": 1.4,
-            "status": "● plotted at 6.24"
+            "status": "● plotted at 6.18"
           },
           {
             "date": "2026-08-31",
             "name": "Wall HSPU (★full ROM)",
             "raw": "2, 3, 3",
             "avg": 2.7,
-            "status": "● plotted at 6.44"
+            "status": "● plotted at 6.33"
           }
         ]
       },
@@ -17273,7 +17273,7 @@
             "name": "Wall HSPU (★full ROM)",
             "raw": "2, 3, 3",
             "avg": 2.7,
-            "target": "6",
+            "target": "8",
             "sets": 3,
             "cleared": false
           },
@@ -17463,7 +17463,7 @@
             "name": "Wall HSPU (★full ROM)",
             "raw": "1.5, 1.8, 1",
             "avg": 1.4,
-            "target": "6",
+            "target": "8",
             "sets": 3,
             "cleared": false
           },
@@ -17628,7 +17628,7 @@
             "name": "Wall HSPU (★full ROM)",
             "raw": "2, 1.5, 1.5",
             "avg": 1.7,
-            "target": "6",
+            "target": "8",
             "sets": 3,
             "cleared": false
           },
@@ -17793,7 +17793,7 @@
             "name": "Wall HSPU (★full ROM)",
             "raw": "3, 2.5, 1.5",
             "avg": 2.3,
-            "target": "6",
+            "target": "8",
             "sets": 3,
             "cleared": false
           },
