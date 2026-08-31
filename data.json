@@ -21,7 +21,7 @@
     },
     "overall_total": 1173,
     "generated_for": "2026-08-31",
-    "built_at": "2026-08-31T12:40:02.984Z",
+    "built_at": "2026-08-31T12:50:03.559Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -13315,9 +13315,9 @@
         },
         {
           "date": "2026-08-31",
-          "y": 3.88,
+          "y": 3.73,
           "kind": "session",
-          "label": "Full chin-up — 8, 6, (avg 7 vs target 8)"
+          "label": "Full chin-up — 8, 6, 3.5 (avg 5.8 vs target 8)"
         }
       ],
       "steps": [
@@ -13978,6 +13978,12 @@
           "y": 5.5,
           "kind": "session",
           "label": "Oblique knee raises — 4 (avg 4 vs target 8)"
+        },
+        {
+          "date": "2026-08-31",
+          "y": 5.81,
+          "kind": "session",
+          "label": "Oblique knee raises — 6.5, (avg 6.5 vs target 8)"
         }
       ],
       "steps": [
@@ -14164,7 +14170,7 @@
     },
     "corehang": {
       "candidates": 37,
-      "plotted": 33,
+      "plotted": 34,
       "rejected": [
         {
           "date": "2026-06-27",
@@ -14177,15 +14183,11 @@
         {
           "date": "2026-07-06",
           "why": "\"Hanging knee raise\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
-        },
-        {
-          "date": "2026-08-31",
-          "why": "\"Oblique knee raises (★knees up, drive to\" logged no usable numbers"
         }
       ]
     },
     "frontlever": {
-      "candidates": 8,
+      "candidates": 7,
       "plotted": 0,
       "rejected": [
         {
@@ -14214,10 +14216,6 @@
         },
         {
           "date": "2026-08-29",
-          "why": "\"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
-        },
-        {
-          "date": "2026-08-31",
           "why": "\"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
         }
       ]
@@ -15062,13 +15060,6 @@
             "raw": "4",
             "avg": 4,
             "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
-          },
-          {
-            "date": "2026-08-31",
-            "name": "Oblique knee raises (★knees up, drive to one side)",
-            "raw": "",
-            "avg": null,
-            "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
           }
         ]
       },
@@ -15163,9 +15154,9 @@
           {
             "date": "2026-08-31",
             "name": "Chin-up (★full, underhand — then negatives as back-off)",
-            "raw": "8, 6,",
-            "avg": 7,
-            "status": "● plotted at 3.88"
+            "raw": "8, 6, 3.5",
+            "avg": 5.8,
+            "status": "● plotted at 3.73"
           }
         ]
       },
@@ -15844,10 +15835,10 @@
           },
           {
             "date": "2026-08-31",
-            "name": "Oblique knee raises (★knees up, drive to one side)",
-            "raw": "",
-            "avg": null,
-            "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" logged no usable numbers"
+            "name": "Oblique knee raises (★knees up, drive to",
+            "raw": "6.5,",
+            "avg": 6.5,
+            "status": "● plotted at 5.81"
           }
         ]
       }
@@ -16240,43 +16231,6 @@
         ]
       },
       {
-        "name": "Oblique knee raises (★knees up, drive to one side)",
-        "rows": [
-          {
-            "date": "2026-08-12",
-            "detail": "reps: 5.5, 4.5, 4.5"
-          },
-          {
-            "date": "2026-08-17",
-            "detail": "reps: 3.5, 3.5, 3"
-          },
-          {
-            "date": "2026-08-19",
-            "detail": "reps: 5.5, 4.5, 3.5"
-          },
-          {
-            "date": "2026-08-22",
-            "detail": "reps: 6.5, 6, 4"
-          },
-          {
-            "date": "2026-08-24",
-            "detail": "reps: 7, 3.5, 5"
-          },
-          {
-            "date": "2026-08-26",
-            "detail": "reps: 7.5, 4.5, 5"
-          },
-          {
-            "date": "2026-08-29",
-            "detail": "reps: 4"
-          },
-          {
-            "date": "2026-08-31",
-            "detail": "reps: —"
-          }
-        ]
-      },
-      {
         "name": "Chin-up (★full, underhand — then negatives as back-off)",
         "rows": [
           {
@@ -16305,7 +16259,7 @@
           },
           {
             "date": "2026-08-31",
-            "detail": "full reps: 8, 6, · neg back-off: 0, 2,"
+            "detail": "full reps: 8, 6, 3.5 · neg back-off: 0, 2, 5"
           }
         ]
       },
@@ -16438,6 +16392,39 @@
           {
             "date": "2026-08-28",
             "detail": "reps: 15, 15"
+          }
+        ]
+      },
+      {
+        "name": "Oblique knee raises (★knees up, drive to one side)",
+        "rows": [
+          {
+            "date": "2026-08-12",
+            "detail": "reps: 5.5, 4.5, 4.5"
+          },
+          {
+            "date": "2026-08-17",
+            "detail": "reps: 3.5, 3.5, 3"
+          },
+          {
+            "date": "2026-08-19",
+            "detail": "reps: 5.5, 4.5, 3.5"
+          },
+          {
+            "date": "2026-08-22",
+            "detail": "reps: 6.5, 6, 4"
+          },
+          {
+            "date": "2026-08-24",
+            "detail": "reps: 7, 3.5, 5"
+          },
+          {
+            "date": "2026-08-26",
+            "detail": "reps: 7.5, 4.5, 5"
+          },
+          {
+            "date": "2026-08-29",
+            "detail": "reps: 4"
           }
         ]
       },
@@ -17173,6 +17160,15 @@
             "detail": "held: 12, 10, 10"
           }
         ]
+      },
+      {
+        "name": "Oblique knee raises (★knees up, drive to",
+        "rows": [
+          {
+            "date": "2026-08-31",
+            "detail": "reps: 6.5,"
+          }
+        ]
       }
     ],
     "dates": [
@@ -17183,8 +17179,8 @@
             "ladderId": "chinup",
             "ladderName": "Chin-up",
             "name": "Chin-up (★full, underhand — then negatives as back-off)",
-            "raw": "8, 6,",
-            "avg": 7,
+            "raw": "8, 6, 3.5",
+            "avg": 5.8,
             "target": "8",
             "sets": 3,
             "cleared": false
@@ -17192,9 +17188,9 @@
           {
             "ladderId": "corehang",
             "ladderName": "Core — HANGING",
-            "name": "Oblique knee raises (★knees up, drive to one side)",
-            "raw": "",
-            "avg": null,
+            "name": "Oblique knee raises (★knees up, drive to",
+            "raw": "6.5,",
+            "avg": 6.5,
             "target": "8/side",
             "sets": 3,
             "cleared": false
@@ -19248,15 +19244,15 @@
   "last_perf": {
     "chinup": {
       "date": "2026-08-31",
-      "detail": "8, 6,"
+      "detail": "8, 6, 3.5"
+    },
+    "corehang": {
+      "date": "2026-08-31",
+      "detail": "6.5,"
     },
     "pull": {
       "date": "2026-08-29",
       "detail": "6, 3.5,"
-    },
-    "corehang": {
-      "date": "2026-08-29",
-      "detail": "4"
     },
     "frontlever": {
       "date": "2026-08-29",
