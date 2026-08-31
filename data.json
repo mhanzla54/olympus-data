@@ -21,7 +21,7 @@
     },
     "overall_total": 1173,
     "generated_for": "2026-08-31",
-    "built_at": "2026-08-31T13:20:03.655Z",
+    "built_at": "2026-08-31T13:30:03.149Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -12711,6 +12711,12 @@
           "y": 4,
           "kind": "session",
           "label": "Double clap push-up (two front claps) — 0, 0, 0 (avg 0 vs target 3)"
+        },
+        {
+          "date": "2026-08-31",
+          "y": 4.5,
+          "kind": "session",
+          "label": "Double clap push-up (two front claps) — 0, 2, 2.5 (avg 1.5 vs target 3)"
         }
       ],
       "steps": [
@@ -14040,13 +14046,8 @@
     },
     "explosive": {
       "candidates": 12,
-      "plotted": 11,
-      "rejected": [
-        {
-          "date": "2026-08-31",
-          "why": "\"Double clap push-up (★explosive — two fr\" logged no usable numbers"
-        }
-      ]
+      "plotted": 12,
+      "rejected": []
     },
     "planche": {
       "candidates": 12,
@@ -14413,9 +14414,9 @@
           {
             "date": "2026-08-31",
             "name": "Double clap push-up (★explosive — two front claps)",
-            "raw": "",
-            "avg": null,
-            "status": "✗ not plotted — \"Double clap push-up (★explosive — two fr\" logged no usable numbers"
+            "raw": "0, 2, 2.5",
+            "avg": 1.5,
+            "status": "● plotted at 4.5"
           }
         ]
       },
@@ -17015,7 +17016,7 @@
           },
           {
             "date": "2026-08-31",
-            "detail": "reps: —"
+            "detail": "reps: 0, 2, 2.5"
           }
         ]
       },
@@ -17221,8 +17222,8 @@
             "ladderId": "explosive",
             "ladderName": "Horizontal Push — EXPLOSIVE",
             "name": "Double clap push-up (★explosive — two front claps)",
-            "raw": "",
-            "avg": null,
+            "raw": "0, 2, 2.5",
+            "avg": 1.5,
             "target": "3",
             "sets": 3,
             "cleared": false
@@ -19264,6 +19265,10 @@
       "date": "2026-08-31",
       "detail": "2, 3, 3"
     },
+    "explosive": {
+      "date": "2026-08-31",
+      "detail": "0, 2, 2.5"
+    },
     "frontlever": {
       "date": "2026-08-29",
       "detail": "4"
@@ -19283,10 +19288,6 @@
     "planche": {
       "date": "2026-08-26",
       "detail": "5, 4"
-    },
-    "explosive": {
-      "date": "2026-08-24",
-      "detail": "0, 0, 0"
     },
     "legs": {
       "date": "2026-08-22",
