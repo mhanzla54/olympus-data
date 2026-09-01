@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 215.8
     },
-    "overall_total": 1210,
+    "overall_total": 1209,
     "generated_for": "2026-09-01",
-    "built_at": "2026-09-01T18:39:03.231Z",
+    "built_at": "2026-09-01T19:14:15.793Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1507
+      "ft_to_go": 1508
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 123,
+      "current": 122,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -7479,20 +7479,6 @@
       "evidence": "health warehouse",
       "booked": "2026-09-01",
       "source": "body:protein-day:2026-09-01"
-    },
-    {
-      "date": "2026-09-01",
-      "lane": "method",
-      "activity": "Protocol second pass — judge the edits — a working sitting",
-      "label": "Protocol second pass — judge the edits — a working sitting",
-      "tier": "tiny",
-      "feet": 1,
-      "cum_lane": 123,
-      "cum_overall": 1210,
-      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
-      "evidence": "POLARIS a3c",
-      "booked": "2026-09-01",
-      "source": "polaris:a3c:2026-09-01:session:1"
     }
   ],
   "polaris_booked": {
@@ -7537,8 +7523,7 @@
     "polaris:xmtij02rz:2026-09-01:session:1": 1,
     "polaris:xmtioz046:completion": 10,
     "polaris:xmt0hrtjx:2026-09-01:session:1": 1,
-    "polaris:xmt0hrtjx:completion": 10,
-    "polaris:a3c:2026-09-01:session:1": 1
+    "polaris:xmt0hrtjx:completion": 10
   },
   "series": {
     "coding": [
@@ -9274,13 +9259,6 @@
         "feet": 10,
         "tier": "small",
         "activity": "Finish Substrate V2 — FINISHED"
-      },
-      {
-        "date": "2026-09-01",
-        "cum": 123,
-        "feet": 1,
-        "tier": "tiny",
-        "activity": "Protocol second pass — judge the edits — a working sitting"
       }
     ],
     "literature": [
