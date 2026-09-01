@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 215.8
     },
-    "overall_total": 1197,
+    "overall_total": 1208,
     "generated_for": "2026-09-01",
-    "built_at": "2026-09-01T13:17:29.236Z",
+    "built_at": "2026-09-01T16:04:26.956Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1520
+      "ft_to_go": 1509
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 111,
+      "current": 122,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -7437,6 +7437,34 @@
       "evidence": "POLARIS xmtioz046",
       "booked": "2026-09-01",
       "source": "polaris:xmtioz046:completion"
+    },
+    {
+      "date": "2026-09-01",
+      "lane": "method",
+      "activity": "Finish Substrate V2 — a working sitting",
+      "label": "Finish Substrate V2 — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 112,
+      "cum_overall": 1198,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmt0hrtjx",
+      "booked": "2026-09-01",
+      "source": "polaris:xmt0hrtjx:2026-09-01:session:1"
+    },
+    {
+      "date": "2026-09-01",
+      "lane": "method",
+      "activity": "Finish Substrate V2 — FINISHED",
+      "label": "Finish Substrate V2 — FINISHED",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 122,
+      "cum_overall": 1208,
+      "reasoning": "Owner-priced in POLARIS: finishing it = small",
+      "evidence": "POLARIS xmt0hrtjx",
+      "booked": "2026-09-01",
+      "source": "polaris:xmt0hrtjx:completion"
     }
   ],
   "polaris_booked": {
@@ -7479,7 +7507,9 @@
     "polaris:xmt78btdt:2026-08-31:session:1": 1,
     "polaris:xmtharuxr:completion": 10,
     "polaris:xmtij02rz:2026-09-01:session:1": 1,
-    "polaris:xmtioz046:completion": 10
+    "polaris:xmtioz046:completion": 10,
+    "polaris:xmt0hrtjx:2026-09-01:session:1": 1,
+    "polaris:xmt0hrtjx:completion": 10
   },
   "series": {
     "coding": [
@@ -9201,6 +9231,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Finish Substrate V2 — a working sitting"
+      },
+      {
+        "date": "2026-09-01",
+        "cum": 112,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Finish Substrate V2 — a working sitting"
+      },
+      {
+        "date": "2026-09-01",
+        "cum": 122,
+        "feet": 10,
+        "tier": "small",
+        "activity": "Finish Substrate V2 — FINISHED"
       }
     ],
     "literature": [
