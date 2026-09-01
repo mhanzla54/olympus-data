@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 215.8
     },
-    "overall_total": 1187,
+    "overall_total": 1197,
     "generated_for": "2026-09-01",
-    "built_at": "2026-09-01T12:45:27.203Z",
+    "built_at": "2026-09-01T13:17:29.236Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1530
+      "ft_to_go": 1520
     },
     "captures_today_unscored": 0
   },
@@ -38,7 +38,7 @@
       "t0_note": "couldn't write a single line of Python — ran his first print() the day before t0",
       "endpoint": "Replicate AND extend a frontier alignment result — public, runnable code",
       "endpoint_tier": "verylarge",
-      "current": 133,
+      "current": 143,
       "working_on": "Automate the Boring Stuff textbook"
     },
     {
@@ -7423,6 +7423,20 @@
       "evidence": "POLARIS xmtij02rz",
       "booked": "2026-09-01",
       "source": "polaris:xmtij02rz:2026-09-01:session:1"
+    },
+    {
+      "date": "2026-09-01",
+      "lane": "coding",
+      "activity": "ATBS Chapter 9 Completion — FINISHED",
+      "label": "ATBS Chapter 9 Completion — FINISHED",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 143,
+      "cum_overall": 1197,
+      "reasoning": "Owner-priced in POLARIS: finishing it = small, locked 2026-09-01",
+      "evidence": "POLARIS xmtioz046",
+      "booked": "2026-09-01",
+      "source": "polaris:xmtioz046:completion"
     }
   ],
   "polaris_booked": {
@@ -7464,7 +7478,8 @@
     "polaris:xmt0hrtjx:2026-08-31:session:1": 1,
     "polaris:xmt78btdt:2026-08-31:session:1": 1,
     "polaris:xmtharuxr:completion": 10,
-    "polaris:xmtij02rz:2026-09-01:session:1": 1
+    "polaris:xmtij02rz:2026-09-01:session:1": 1,
+    "polaris:xmtioz046:completion": 10
   },
   "series": {
     "coding": [
@@ -8020,6 +8035,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Chapter 10 ATBS Coding Reading + Notes OR Practice — a working sitting"
+      },
+      {
+        "date": "2026-09-01",
+        "cum": 143,
+        "feet": 10,
+        "tier": "small",
+        "activity": "ATBS Chapter 9 Completion — FINISHED"
       }
     ],
     "mlai": [
