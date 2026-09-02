@@ -21,7 +21,7 @@
     },
     "overall_total": 1235,
     "generated_for": "2026-09-02",
-    "built_at": "2026-09-02T14:33:09.050Z",
+    "built_at": "2026-09-02T16:17:31.827Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -22713,6 +22713,25 @@
     "vista-pyramid": "vista-pyramid.webp",
     "vista-redeemer": "vista-redeemer.webp"
   },
-  "pending_clears": [],
+  "pending_clears": [
+    {
+      "key": "rung:planche:2:2026-09-02",
+      "date": "2026-09-02",
+      "ladder": "planche",
+      "ladder_name": "Horizontal Push — PLANCHE",
+      "rung": 2,
+      "movement": "Pseudo-planche push-ups (PPP)",
+      "exercise": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
+      "sets": [
+        8,
+        8
+      ],
+      "avg": 8,
+      "target": 8,
+      "sets_needed": 2,
+      "feet": 10,
+      "answer_line": "- notes / skips: clean rung:planche:2:2026-09-02 yes   # Horizontal Push — PLANCHE rung 2 — Pseudo-planche push-ups (PPP)"
+    }
+  ],
   "pending_clear_notes": []
 }
