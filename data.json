@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 215.8
     },
-    "overall_total": 1235,
+    "overall_total": 1245,
     "generated_for": "2026-09-02",
-    "built_at": "2026-09-02T17:57:19.033Z",
+    "built_at": "2026-09-02T18:12:04.949Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1482
+      "ft_to_go": 1472
     },
     "captures_today_unscored": 0
   },
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 325,
+      "current": 335,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -7591,6 +7591,20 @@
       "evidence": "workout-log; Typewriter push-up (★slide side-to-side)",
       "booked": "2026-09-02",
       "source": "rung:push:5:2026-09-02"
+    },
+    {
+      "date": "2026-09-02",
+      "lane": "strength",
+      "activity": "Horizontal Push — PLANCHE rung 2 CLEARED — Pseudo-planche push-ups (PPP) (8/8, avg 8 vs target 8)",
+      "label": "Horizontal Push — PLANCHE rung 2 CLEARED — Pseudo-planche…",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 335,
+      "cum_overall": 1245,
+      "reasoning": "SETS-STANDARD: first 2 sets avg 8 >= 8; clean-reps confirmed by owner",
+      "evidence": "workout-log; Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
+      "booked": "2026-09-02",
+      "source": "rung:planche:2:2026-09-02"
     }
   ],
   "polaris_booked": {
@@ -10074,6 +10088,13 @@
         "feet": 10,
         "tier": "small",
         "activity": "Horizontal Push — STRENGTH rung 5 CLEARED — Typewriter push-up (slide side-to-side) (8/8/8, avg 8 vs target 8)"
+      },
+      {
+        "date": "2026-09-02",
+        "cum": 335,
+        "feet": 10,
+        "tier": "small",
+        "activity": "Horizontal Push — PLANCHE rung 2 CLEARED — Pseudo-planche push-ups (PPP) (8/8, avg 8 vs target 8)"
       }
     ],
     "body": [
@@ -22728,26 +22749,6 @@
     "vista-pyramid": "vista-pyramid.webp",
     "vista-redeemer": "vista-redeemer.webp"
   },
-  "pending_clears": [
-    {
-      "key": "rung:planche:2:2026-09-02",
-      "date": "2026-09-02",
-      "ladder": "planche",
-      "ladder_name": "Horizontal Push — PLANCHE",
-      "rung": 2,
-      "movement": "Pseudo-planche push-ups (PPP)",
-      "exercise": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
-      "sets": [
-        8,
-        8
-      ],
-      "avg": 8,
-      "target": 8,
-      "sets_needed": 2,
-      "band": "small",
-      "feet": 10,
-      "answer_line": "- notes / skips: clean rung:planche:2:2026-09-02 yes   # Horizontal Push — PLANCHE rung 2 — Pseudo-planche push-ups (PPP)"
-    }
-  ],
+  "pending_clears": [],
   "pending_clear_notes": []
 }
