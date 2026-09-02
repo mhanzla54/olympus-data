@@ -21,7 +21,7 @@
     },
     "overall_total": 1224,
     "generated_for": "2026-09-02",
-    "built_at": "2026-09-02T14:10:03.105Z",
+    "built_at": "2026-09-02T14:20:03.515Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -16882,7 +16882,7 @@
           },
           {
             "date": "2026-09-02",
-            "detail": "reps: 3,"
+            "detail": "reps: 3, 4, 3"
           }
         ]
       },
