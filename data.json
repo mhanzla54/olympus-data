@@ -21,7 +21,7 @@
     },
     "overall_total": 1224,
     "generated_for": "2026-09-02",
-    "built_at": "2026-09-02T13:30:03.409Z",
+    "built_at": "2026-09-02T13:40:03.037Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -14349,6 +14349,12 @@
           "y": 5.69,
           "kind": "session",
           "label": "Oblique knee raises — 6.5, 6, 4 (avg 5.5 vs target 8)"
+        },
+        {
+          "date": "2026-09-02",
+          "y": 5.85,
+          "kind": "session",
+          "label": "Oblique knee raises — 8, 6.5, 6 (avg 6.8 vs target 8)"
         }
       ],
       "steps": [
@@ -14539,7 +14545,7 @@
     },
     "corehang": {
       "candidates": 38,
-      "plotted": 34,
+      "plotted": 35,
       "rejected": [
         {
           "date": "2026-06-27",
@@ -14552,10 +14558,6 @@
         {
           "date": "2026-07-06",
           "why": "\"Hanging knee raise\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
-        },
-        {
-          "date": "2026-09-02",
-          "why": "\"Oblique knee raises (★knees up, drive to\" logged no usable numbers"
         }
       ]
     },
@@ -15469,8 +15471,8 @@
           {
             "date": "2026-09-02",
             "name": "Oblique knee raises (★knees up, drive to one side)",
-            "raw": "",
-            "avg": null,
+            "raw": "8, 6.5, 6",
+            "avg": 6.8,
             "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
           }
         ]
@@ -16269,9 +16271,9 @@
           {
             "date": "2026-09-02",
             "name": "Oblique knee raises (★knees up, drive to one side)",
-            "raw": "",
-            "avg": null,
-            "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" logged no usable numbers"
+            "raw": "8, 6.5, 6",
+            "avg": 6.8,
+            "status": "● plotted at 5.85"
           }
         ]
       }
@@ -16778,7 +16780,7 @@
           },
           {
             "date": "2026-09-02",
-            "detail": "reps: —"
+            "detail": "reps: 8, 6.5, 6"
           }
         ]
       },
@@ -17655,8 +17657,8 @@
             "ladderId": "corehang",
             "ladderName": "Core — HANGING",
             "name": "Oblique knee raises (★knees up, drive to one side)",
-            "raw": "",
-            "avg": null,
+            "raw": "8, 6.5, 6",
+            "avg": 6.8,
             "target": "8/side",
             "sets": 3,
             "cleared": false
@@ -19777,13 +19779,17 @@
       "date": "2026-09-02",
       "detail": "6, 5, 3.5"
     },
+    "corehang": {
+      "date": "2026-09-02",
+      "detail": "8, 6.5, 6"
+    },
+    "frontlever": {
+      "date": "2026-09-02",
+      "detail": "8, 6.5, 6"
+    },
     "chinup": {
       "date": "2026-08-31",
       "detail": "8, 6, 3.5"
-    },
-    "corehang": {
-      "date": "2026-08-31",
-      "detail": "6.5, 6, 4"
     },
     "grip": {
       "date": "2026-08-31",
@@ -19796,10 +19802,6 @@
     "explosive": {
       "date": "2026-08-31",
       "detail": "0, 2, 2.5"
-    },
-    "frontlever": {
-      "date": "2026-08-29",
-      "detail": "4"
     },
     "hpull": {
       "date": "2026-08-29",
