@@ -21,7 +21,7 @@
     },
     "overall_total": 1224,
     "generated_for": "2026-09-02",
-    "built_at": "2026-09-02T14:00:03.194Z",
+    "built_at": "2026-09-02T14:10:03.105Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -12944,7 +12944,7 @@
           "date": "2026-09-02",
           "y": 5.97,
           "kind": "session",
-          "label": "Typewriter push-up (slide side-to-side) — 8, 8, (avg 8 vs target 8)"
+          "label": "Typewriter push-up (slide side-to-side) — 8, 8, 8 (avg 8 vs target 8)"
         }
       ],
       "steps": [
@@ -14710,7 +14710,7 @@
           {
             "date": "2026-09-02",
             "name": "Typewriter push-up (★slide side-to-side)",
-            "raw": "8, 8,",
+            "raw": "8, 8, 8",
             "avg": 8,
             "status": "● plotted at 5.97"
           }
@@ -16709,7 +16709,7 @@
           },
           {
             "date": "2026-09-02",
-            "detail": "reps: 8, 8,"
+            "detail": "reps: 8, 8, 8"
           }
         ]
       },
@@ -16882,7 +16882,7 @@
           },
           {
             "date": "2026-09-02",
-            "detail": "reps: —"
+            "detail": "reps: 3,"
           }
         ]
       },
@@ -17680,7 +17680,7 @@
             "ladderId": "push",
             "ladderName": "Horizontal Push — STRENGTH",
             "name": "Typewriter push-up (★slide side-to-side)",
-            "raw": "8, 8,",
+            "raw": "8, 8, 8",
             "avg": 8,
             "target": "8/side",
             "sets": 3,
@@ -19796,7 +19796,7 @@
     },
     "push": {
       "date": "2026-09-02",
-      "detail": "8, 8,"
+      "detail": "8, 8, 8"
     },
     "chinup": {
       "date": "2026-08-31",
@@ -22668,6 +22668,26 @@
     "vista-pyramid": "vista-pyramid.webp",
     "vista-redeemer": "vista-redeemer.webp"
   },
-  "pending_clears": [],
+  "pending_clears": [
+    {
+      "key": "rung:push:5:2026-09-02",
+      "date": "2026-09-02",
+      "ladder": "push",
+      "ladder_name": "Horizontal Push — STRENGTH",
+      "rung": 5,
+      "movement": "Typewriter push-up (slide side-to-side)",
+      "exercise": "Typewriter push-up (★slide side-to-side)",
+      "sets": [
+        8,
+        8,
+        8
+      ],
+      "avg": 8,
+      "target": 8,
+      "sets_needed": 3,
+      "feet": 10,
+      "answer_line": "- notes / skips: clean rung:push:5:2026-09-02 yes   # Horizontal Push — STRENGTH rung 5 — Typewriter push-up (slide side-to-side)"
+    }
+  ],
   "pending_clear_notes": []
 }
