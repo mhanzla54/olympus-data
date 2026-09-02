@@ -21,7 +21,7 @@
     },
     "overall_total": 1224,
     "generated_for": "2026-09-02",
-    "built_at": "2026-09-02T13:50:02.920Z",
+    "built_at": "2026-09-02T14:00:03.194Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -12939,6 +12939,12 @@
           "y": 5.83,
           "kind": "session",
           "label": "Typewriter push-up (slide side-to-side) — 7, 7, 6 (avg 6.7 vs target 8)"
+        },
+        {
+          "date": "2026-09-02",
+          "y": 5.97,
+          "kind": "session",
+          "label": "Typewriter push-up (slide side-to-side) — 8, 8, (avg 8 vs target 8)"
         }
       ],
       "steps": [
@@ -14391,7 +14397,7 @@
   "ladder_parity": {
     "push": {
       "candidates": 13,
-      "plotted": 10,
+      "plotted": 11,
       "rejected": [
         {
           "date": "2026-08-19",
@@ -14400,10 +14406,6 @@
         {
           "date": "2026-08-26",
           "why": "\"Typewriter push-up (★slide side-to-side)\" logged no usable numbers (skipped)"
-        },
-        {
-          "date": "2026-09-02",
-          "why": "\"Typewriter push-up (★slide side-to-side)\" logged no usable numbers"
         }
       ]
     },
@@ -14708,9 +14710,9 @@
           {
             "date": "2026-09-02",
             "name": "Typewriter push-up (★slide side-to-side)",
-            "raw": "",
-            "avg": null,
-            "status": "✗ not plotted — \"Typewriter push-up (★slide side-to-side)\" logged no usable numbers"
+            "raw": "8, 8,",
+            "avg": 8,
+            "status": "● plotted at 5.97"
           }
         ]
       },
@@ -16707,7 +16709,7 @@
           },
           {
             "date": "2026-09-02",
-            "detail": "reps: —"
+            "detail": "reps: 8, 8,"
           }
         ]
       },
@@ -17678,8 +17680,8 @@
             "ladderId": "push",
             "ladderName": "Horizontal Push — STRENGTH",
             "name": "Typewriter push-up (★slide side-to-side)",
-            "raw": "",
-            "avg": null,
+            "raw": "8, 8,",
+            "avg": 8,
             "target": "8/side",
             "sets": 3,
             "cleared": false
@@ -19792,6 +19794,10 @@
       "date": "2026-09-02",
       "detail": "22, 17"
     },
+    "push": {
+      "date": "2026-09-02",
+      "detail": "8, 8,"
+    },
     "chinup": {
       "date": "2026-08-31",
       "detail": "8, 6, 3.5"
@@ -19811,10 +19817,6 @@
     "corefloor": {
       "date": "2026-08-28",
       "detail": "15, 15"
-    },
-    "push": {
-      "date": "2026-08-26",
-      "detail": "(skipped to allow shoulder to heal)"
     },
     "planche": {
       "date": "2026-08-26",
