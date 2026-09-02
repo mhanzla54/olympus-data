@@ -21,7 +21,7 @@
     },
     "overall_total": 1224,
     "generated_for": "2026-09-02",
-    "built_at": "2026-09-02T13:20:03.755Z",
+    "built_at": "2026-09-02T13:30:03.409Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -13461,9 +13461,9 @@
         },
         {
           "date": "2026-09-02",
-          "y": 5.75,
+          "y": 5.6,
           "kind": "session",
-          "label": "Full pull-up — 6, (avg 6 vs target 8)"
+          "label": "Full pull-up — 6, 5, 3.5 (avg 4.8 vs target 8)"
         }
       ],
       "steps": [
@@ -15338,16 +15338,16 @@
           {
             "date": "2026-09-02",
             "name": "Pull-up (★full — then negatives as back-off)",
-            "raw": "6,",
-            "avg": 6,
-            "status": "● plotted at 5.75"
+            "raw": "6, 5, 3.5",
+            "avg": 4.8,
+            "status": "● plotted at 5.6"
           },
           {
             "date": "2026-09-02",
             "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
             "raw": "",
             "avg": null,
-            "status": "● plotted at 5.75"
+            "status": "● plotted at 5.6"
           }
         ]
       },
@@ -16447,7 +16447,7 @@
           },
           {
             "date": "2026-09-02",
-            "detail": "full reps: 6, · neg back-off: —"
+            "detail": "full reps: 6, 5, 3.5 · neg back-off: 2, 3, 5"
           }
         ]
       },
@@ -17645,8 +17645,8 @@
             "ladderId": "pull",
             "ladderName": "Pull",
             "name": "Pull-up (★full — then negatives as back-off)",
-            "raw": "6,",
-            "avg": 6,
+            "raw": "6, 5, 3.5",
+            "avg": 4.8,
             "target": "8",
             "sets": 3,
             "cleared": false
@@ -19775,7 +19775,7 @@
   "last_perf": {
     "pull": {
       "date": "2026-09-02",
-      "detail": "6,"
+      "detail": "6, 5, 3.5"
     },
     "chinup": {
       "date": "2026-08-31",
