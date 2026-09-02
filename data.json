@@ -21,7 +21,7 @@
     },
     "overall_total": 1224,
     "generated_for": "2026-09-02",
-    "built_at": "2026-09-02T14:20:03.515Z",
+    "built_at": "2026-09-02T14:30:03.838Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -13160,6 +13160,12 @@
           "y": 2.56,
           "kind": "session",
           "label": "Pseudo-planche push-ups (PPP) — 5, 4 (avg 4.5 vs target 8)"
+        },
+        {
+          "date": "2026-09-02",
+          "y": 2.97,
+          "kind": "session",
+          "label": "Pseudo-planche push-ups (PPP) — 8, 8 (avg 8 vs target 8)"
         }
       ],
       "steps": [
@@ -14105,6 +14111,12 @@
             "got": "15, 15",
             "avg": 15
           }
+        },
+        {
+          "date": "2026-09-02",
+          "y": 4,
+          "kind": "session",
+          "label": "Tuck L-sit — 0, 0 (avg 0 vs target 15)"
         }
       ],
       "steps": [
@@ -14416,13 +14428,8 @@
     },
     "planche": {
       "candidates": 13,
-      "plotted": 12,
-      "rejected": [
-        {
-          "date": "2026-09-02",
-          "why": "\"Pseudo-planche push-up (★PPP — planche l\" logged no usable numbers"
-        }
-      ]
+      "plotted": 13,
+      "rejected": []
     },
     "handstand": {
       "candidates": 12,
@@ -14538,13 +14545,8 @@
     },
     "corefloor": {
       "candidates": 16,
-      "plotted": 15,
-      "rejected": [
-        {
-          "date": "2026-09-02",
-          "why": "\"Tuck L-sit (★finisher)\" logged no usable numbers"
-        }
-      ]
+      "plotted": 16,
+      "rejected": []
     },
     "corehang": {
       "candidates": 38,
@@ -14897,9 +14899,9 @@
           {
             "date": "2026-09-02",
             "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
-            "raw": "",
-            "avg": null,
-            "status": "✗ not plotted — \"Pseudo-planche push-up (★PPP — planche l\" logged no usable numbers"
+            "raw": "8, 8",
+            "avg": 8,
+            "status": "● plotted at 2.97"
           }
         ]
       },
@@ -16002,9 +16004,9 @@
           {
             "date": "2026-09-02",
             "name": "Tuck L-sit (★finisher)",
-            "raw": "",
-            "avg": null,
-            "status": "✗ not plotted — \"Tuck L-sit (★finisher)\" logged no usable numbers"
+            "raw": "0, 0",
+            "avg": 0,
+            "status": "● plotted at 4"
           }
         ]
       },
@@ -16746,7 +16748,7 @@
           },
           {
             "date": "2026-09-02",
-            "detail": "reps: —"
+            "detail": "reps: 8, 8"
           }
         ]
       },
@@ -17637,7 +17639,7 @@
         "rows": [
           {
             "date": "2026-09-02",
-            "detail": "reps: —"
+            "detail": "reps: 0, 0"
           }
         ]
       }
@@ -17690,8 +17692,8 @@
             "ladderId": "corefloor",
             "ladderName": "Core — FLOOR",
             "name": "Tuck L-sit (★finisher)",
-            "raw": "",
-            "avg": null,
+            "raw": "0, 0",
+            "avg": 0,
             "target": "15s",
             "sets": 2,
             "cleared": false
@@ -17700,8 +17702,8 @@
             "ladderId": "planche",
             "ladderName": "Horizontal Push — PLANCHE",
             "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
-            "raw": "",
-            "avg": null,
+            "raw": "8, 8",
+            "avg": 8,
             "target": "8",
             "sets": 2,
             "cleared": false
@@ -19798,6 +19800,14 @@
       "date": "2026-09-02",
       "detail": "8, 8, 8"
     },
+    "corefloor": {
+      "date": "2026-09-02",
+      "detail": "0, 0"
+    },
+    "planche": {
+      "date": "2026-09-02",
+      "detail": "8, 8"
+    },
     "chinup": {
       "date": "2026-08-31",
       "detail": "8, 6, 3.5"
@@ -19813,14 +19823,6 @@
     "hpull": {
       "date": "2026-08-29",
       "detail": "5"
-    },
-    "corefloor": {
-      "date": "2026-08-28",
-      "detail": "15, 15"
-    },
-    "planche": {
-      "date": "2026-08-26",
-      "detail": "5, 4"
     },
     "legs": {
       "date": "2026-08-22",
