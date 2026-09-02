@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 215.8
     },
-    "overall_total": 1224,
+    "overall_total": 1235,
     "generated_for": "2026-09-02",
-    "built_at": "2026-09-02T14:30:03.838Z",
+    "built_at": "2026-09-02T14:33:09.050Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1493
+      "ft_to_go": 1482
     },
     "captures_today_unscored": 0
   },
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 314,
+      "current": 325,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -7563,6 +7563,34 @@
       "evidence": "POLARIS xmtjyhw8c",
       "booked": "2026-09-02",
       "source": "polaris:xmtjyhw8c:2026-09-02:session:1"
+    },
+    {
+      "date": "2026-09-02",
+      "lane": "strength",
+      "activity": "Workout — a working sitting",
+      "label": "Workout — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 315,
+      "cum_overall": 1225,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmta206fu",
+      "booked": "2026-09-02",
+      "source": "polaris:xmta206fu:2026-09-02:session:1"
+    },
+    {
+      "date": "2026-09-02",
+      "lane": "strength",
+      "activity": "Horizontal Push — STRENGTH rung 5 CLEARED — Typewriter push-up (slide side-to-side) (8/8/8, avg 8 vs target 8)",
+      "label": "Horizontal Push — STRENGTH rung 5 CLEARED — Typewriter…",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 325,
+      "cum_overall": 1235,
+      "reasoning": "SETS-STANDARD: first 3 sets avg 8 >= 8; clean-reps confirmed by owner",
+      "evidence": "workout-log; Typewriter push-up (★slide side-to-side)",
+      "booked": "2026-09-02",
+      "source": "rung:push:5:2026-09-02"
     }
   ],
   "polaris_booked": {
@@ -7612,7 +7640,8 @@
     "polaris:a3c:completion": 10,
     "polaris:xmtj1s4sb:completion": 1,
     "polaris:xmtij02rz:2026-09-02:session:1": 1,
-    "polaris:xmtjyhw8c:2026-09-02:session:1": 1
+    "polaris:xmtjyhw8c:2026-09-02:session:1": 1,
+    "polaris:xmta206fu:2026-09-02:session:1": 1
   },
   "series": {
     "coding": [
@@ -10031,6 +10060,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Sparse Training — FINISHED"
+      },
+      {
+        "date": "2026-09-02",
+        "cum": 315,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Workout — a working sitting"
+      },
+      {
+        "date": "2026-09-02",
+        "cum": 325,
+        "feet": 10,
+        "tier": "small",
+        "activity": "Horizontal Push — STRENGTH rung 5 CLEARED — Typewriter push-up (slide side-to-side) (8/8/8, avg 8 vs target 8)"
       }
     ],
     "body": [
@@ -22670,26 +22713,6 @@
     "vista-pyramid": "vista-pyramid.webp",
     "vista-redeemer": "vista-redeemer.webp"
   },
-  "pending_clears": [
-    {
-      "key": "rung:push:5:2026-09-02",
-      "date": "2026-09-02",
-      "ladder": "push",
-      "ladder_name": "Horizontal Push — STRENGTH",
-      "rung": 5,
-      "movement": "Typewriter push-up (slide side-to-side)",
-      "exercise": "Typewriter push-up (★slide side-to-side)",
-      "sets": [
-        8,
-        8,
-        8
-      ],
-      "avg": 8,
-      "target": 8,
-      "sets_needed": 3,
-      "feet": 10,
-      "answer_line": "- notes / skips: clean rung:push:5:2026-09-02 yes   # Horizontal Push — STRENGTH rung 5 — Typewriter push-up (slide side-to-side)"
-    }
-  ],
+  "pending_clears": [],
   "pending_clear_notes": []
 }
