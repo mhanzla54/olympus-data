@@ -21,7 +21,7 @@
     },
     "overall_total": 1235,
     "generated_for": "2026-09-02",
-    "built_at": "2026-09-02T16:17:31.827Z",
+    "built_at": "2026-09-02T17:50:03.527Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -22729,6 +22729,7 @@
       "avg": 8,
       "target": 8,
       "sets_needed": 2,
+      "band": "small",
       "feet": 10,
       "answer_line": "- notes / skips: clean rung:planche:2:2026-09-02 yes   # Horizontal Push — PLANCHE rung 2 — Pseudo-planche push-ups (PPP)"
     }
