@@ -21,7 +21,7 @@
     },
     "overall_total": 1245,
     "generated_for": "2026-09-02",
-    "built_at": "2026-09-02T18:12:04.949Z",
+    "built_at": "2026-09-02T18:20:03.509Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -12133,9 +12133,10 @@
       "id": "planche",
       "name": "Horizontal Push — PLANCHE",
       "elite": "full planche",
-      "current": 2,
+      "current": 3,
       "cleared_dates": {
-        "1": "2026-07-12"
+        "1": "2026-07-12",
+        "2": "2026-09-02"
       },
       "rungs": [
         {
@@ -12191,8 +12192,8 @@
       ],
       "gated": "healthy loaded wrists + ~20 clean push-ups — met.* ✅ ACTIVATED at rung 1 (2026-07-10): planche lean now runs as a ★ progression in Day A (flex finisher); beat the 20s rung-1 target to unlock PPP",
       "chart": 3,
-      "cleared_count": 1,
-      "height": 1,
+      "cleared_count": 2,
+      "height": 3,
       "triangular": [
         0,
         1,
@@ -13242,9 +13243,14 @@
         },
         {
           "date": "2026-09-02",
-          "y": 2.97,
-          "kind": "session",
-          "label": "Pseudo-planche push-ups (PPP) — 8, 8 (avg 8 vs target 8)"
+          "y": 3,
+          "kind": "clear",
+          "label": "Horizontal Push — PLANCHE — cleared: Pseudo-planche push-ups (PPP) (needed 8, got 8, 8 — avg 8)",
+          "perf": {
+            "needed": "8",
+            "got": "8, 8",
+            "avg": 8
+          }
         }
       ],
       "steps": [
@@ -13255,6 +13261,10 @@
         {
           "date": "2026-07-12",
           "rungs": 2
+        },
+        {
+          "date": "2026-09-02",
+          "rungs": 3
         }
       ],
       "chart": 3
@@ -14980,7 +14990,7 @@
             "name": "Pseudo-planche push-up (★PPP — planche ladder — 8 to advance; flex)",
             "raw": "8, 8",
             "avg": 8,
-            "status": "● plotted at 2.97"
+            "status": "✓ CLEAR DAY — carried by the clear dot (needed 8, avg 8)"
           }
         ]
       },
@@ -17785,7 +17795,7 @@
             "avg": 8,
             "target": "8",
             "sets": 2,
-            "cleared": false
+            "cleared": true
           }
         ]
       },
