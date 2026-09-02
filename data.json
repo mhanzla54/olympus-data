@@ -21,7 +21,7 @@
     },
     "overall_total": 1235,
     "generated_for": "2026-09-02",
-    "built_at": "2026-09-02T17:50:03.527Z",
+    "built_at": "2026-09-02T17:57:19.033Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -11955,10 +11955,11 @@
       "id": "push",
       "name": "Horizontal Push — STRENGTH",
       "elite": "one-arm push-up, legs together",
-      "current": 5,
+      "current": 6,
       "cleared_dates": {
         "3": "2026-07-01",
-        "4": "2026-07-08"
+        "4": "2026-07-08",
+        "5": "2026-09-02"
       },
       "rungs": [
         {
@@ -12013,8 +12014,8 @@
         }
       ],
       "chart": 1,
-      "cleared_count": 4,
-      "height": 10,
+      "cleared_count": 5,
+      "height": 15,
       "triangular": [
         0,
         1,
@@ -12768,6 +12769,11 @@
           "sets": 2
         },
         {
+          "name": "Elevated tuck L-sit (hands raised on blocks/parallettes)",
+          "target": "15s",
+          "sets": 2
+        },
+        {
           "name": "Tuck L-sit",
           "target": "15s",
           "sets": 2
@@ -12985,9 +12991,14 @@
         },
         {
           "date": "2026-09-02",
-          "y": 5.97,
-          "kind": "session",
-          "label": "Typewriter push-up (slide side-to-side) — 8, 8, 8 (avg 8 vs target 8)"
+          "y": 6,
+          "kind": "clear",
+          "label": "Horizontal Push — STRENGTH — cleared: Typewriter push-up (slide side-to-side) (needed 8/side, got 8, 8, 8 — avg 8)",
+          "perf": {
+            "needed": "8/side",
+            "got": "8, 8, 8",
+            "avg": 8
+          }
         }
       ],
       "steps": [
@@ -13002,6 +13013,10 @@
         {
           "date": "2026-07-08",
           "rungs": 5
+        },
+        {
+          "date": "2026-09-02",
+          "rungs": 6
         }
       ],
       "chart": 1
@@ -14757,7 +14772,7 @@
             "name": "Typewriter push-up (★slide side-to-side)",
             "raw": "8, 8, 8",
             "avg": 8,
-            "status": "● plotted at 5.97"
+            "status": "✓ CLEAR DAY — carried by the clear dot (needed 8/side, avg 8)"
           }
         ]
       },
@@ -17729,7 +17744,7 @@
             "avg": 8,
             "target": "8/side",
             "sets": 3,
-            "cleared": false
+            "cleared": true
           },
           {
             "ladderId": "corefloor",
