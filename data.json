@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 215.8
     },
-    "overall_total": 1250,
+    "overall_total": 1251,
     "generated_for": "2026-09-03",
-    "built_at": "2026-09-03T14:39:32.591Z",
+    "built_at": "2026-09-03T19:59:38.153Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1467
+      "ft_to_go": 1466
     },
     "captures_today_unscored": 0
   },
@@ -48,7 +48,7 @@
       "t0_note": "didn't hold the transformer internals — attention, embeddings, the residual stream were only 'encountered'",
       "endpoint": "A from-memory \"mini-textbook\" of the whole ML/alignment stack (FF is the floor; endpoint stays provisional)",
       "endpoint_tier": "verylarge",
-      "current": 216,
+      "current": 217,
       "working_on": "Field Foundations"
     },
     {
@@ -7675,6 +7675,20 @@
       "evidence": "POLARIS xmtlms9ez",
       "booked": "2026-09-03",
       "source": "polaris:xmtlms9ez:completion"
+    },
+    {
+      "date": "2026-09-03",
+      "lane": "mlai",
+      "activity": "Field Foundations Podcast Review — FINISHED",
+      "label": "Field Foundations Podcast Review",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 217,
+      "cum_overall": 1251,
+      "reasoning": "Owner-priced in POLARIS: finishing it = tiny, locked 2026-09-03",
+      "evidence": "POLARIS xmtly7w0y",
+      "booked": "2026-09-03",
+      "source": "polaris:xmtly7w0y:completion"
     }
   ],
   "polaris_booked": {
@@ -7728,7 +7742,8 @@
     "polaris:xmta206fu:2026-09-02:session:1": 1,
     "polaris:xmtij02rz:2026-09-03:session:1": 1,
     "polaris:xmtjyhw8c:2026-09-03:session:1": 1,
-    "polaris:xmtlms9ez:completion": 1
+    "polaris:xmtlms9ez:completion": 1,
+    "polaris:xmtly7w0y:completion": 1
   },
   "series": {
     "coding": [
@@ -8811,6 +8826,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "M1 & M2 Field Foundations Podcast + Retrieval Review — FINISHED"
+      },
+      {
+        "date": "2026-09-03",
+        "cum": 217,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Field Foundations Podcast Review — FINISHED"
       }
     ],
     "method": [
