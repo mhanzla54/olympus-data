@@ -20,8 +20,8 @@
       "all_time_low_lb": 215.8
     },
     "overall_total": 1245,
-    "generated_for": "2026-09-02",
-    "built_at": "2026-09-02T23:05:28.669Z",
+    "generated_for": "2026-09-03",
+    "built_at": "2026-09-03T11:30:03.313Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -20589,6 +20589,14 @@
         "protein": 241,
         "dayType": "strict-over",
         "provisional": false
+      },
+      {
+        "date": "2026-09-02",
+        "w": 217.8,
+        "kcal": 1221,
+        "protein": 147,
+        "dayType": "strict",
+        "provisional": false
       }
     ],
     "trend": [
@@ -20967,9 +20975,13 @@
       {
         "date": "2026-09-01",
         "w": 218.4
+      },
+      {
+        "date": "2026-09-02",
+        "w": 218.13
       }
     ],
-    "noiseBand": 1.37,
+    "noiseBand": 1.36,
     "floors": [
       {
         "y": 230,
@@ -21235,27 +21247,22 @@
       },
       {
         "date": "2026-09-02",
-        "w": 216.9,
+        "w": 217.2,
         "week": "Aug 30–Sep 5",
-        "n": 3
+        "n": 4
       }
     ],
     "banner": {
       "startDate": "2026-03-22",
       "startW": 235,
-      "lost": 16.6,
+      "lost": 16.9,
       "goal": 180,
-      "pct": 30.2,
+      "pct": 30.7,
       "nextFloor": 210,
-      "toGo": 8.4,
+      "toGo": 8.1,
       "newLow": false
     },
     "strip": [
-      {
-        "date": "2026-08-04",
-        "state": "off",
-        "kcal": 2588
-      },
       {
         "date": "2026-08-05",
         "state": "partial",
@@ -21398,6 +21405,11 @@
       },
       {
         "date": "2026-09-02",
+        "state": "good",
+        "kcal": 1221
+      },
+      {
+        "date": "2026-09-03",
         "state": "partial",
         "kcal": 0
       }
@@ -22197,6 +22209,14 @@
       },
       {
         "date": "2026-09-02",
+        "kcal": 1221,
+        "protein": 147,
+        "dayType": "strict",
+        "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-09-03",
         "kcal": 0,
         "protein": 0,
         "dayType": "empty",
