@@ -21,7 +21,7 @@
     },
     "overall_total": 1253,
     "generated_for": "2026-09-04",
-    "built_at": "2026-09-04T10:28:03.994Z",
+    "built_at": "2026-09-04T10:40:03.450Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -13811,6 +13811,12 @@
           "y": 3.63,
           "kind": "session",
           "label": "Feet-elevated ring row (feet on a chair) — 5 (avg 5 vs target 8)"
+        },
+        {
+          "date": "2026-09-03",
+          "y": 3.97,
+          "kind": "session",
+          "label": "Feet-elevated ring row (feet on a chair) — 8, 8, 9.5 (avg 8.5 vs target 8)"
         }
       ],
       "steps": [
@@ -14866,8 +14872,8 @@
       ]
     },
     "hpull": {
-      "candidates": 8,
-      "plotted": 6,
+      "candidates": 9,
+      "plotted": 7,
       "rejected": [
         {
           "date": "2026-07-18",
@@ -15678,6 +15684,13 @@
             "raw": "5",
             "avg": 5,
             "status": "● plotted at 3.63"
+          },
+          {
+            "date": "2026-09-03",
+            "name": "Feet-elevated Ring Row (★ feet on a chair)",
+            "raw": "8, 8, 9.5",
+            "avg": 8.5,
+            "status": "● plotted at 3.97"
           }
         ]
       },
@@ -17084,6 +17097,39 @@
         ]
       },
       {
+        "name": "Feet-elevated Ring Row (★ feet on a chair)",
+        "rows": [
+          {
+            "date": "2026-07-18",
+            "detail": "reps: 6, 6, 4"
+          },
+          {
+            "date": "2026-07-25",
+            "detail": "reps: 5.5, 4.5, 5"
+          },
+          {
+            "date": "2026-08-06",
+            "detail": "reps: 5, 5, 5"
+          },
+          {
+            "date": "2026-08-12",
+            "detail": "reps: 6, 5.5, 5"
+          },
+          {
+            "date": "2026-08-22",
+            "detail": "reps: 8, 6, 6"
+          },
+          {
+            "date": "2026-08-29",
+            "detail": "reps: 5"
+          },
+          {
+            "date": "2026-09-03",
+            "detail": "reps: 8, 8, 9.5"
+          }
+        ]
+      },
+      {
         "name": "Single-leg hip thrust (shoulders on bed/chair)",
         "rows": [
           {
@@ -17295,35 +17341,6 @@
           {
             "date": "2026-07-14",
             "detail": "reps / held: 10, 5, 5"
-          }
-        ]
-      },
-      {
-        "name": "Feet-elevated Ring Row (★ feet on a chair)",
-        "rows": [
-          {
-            "date": "2026-07-18",
-            "detail": "reps: 6, 6, 4"
-          },
-          {
-            "date": "2026-07-25",
-            "detail": "reps: 5.5, 4.5, 5"
-          },
-          {
-            "date": "2026-08-06",
-            "detail": "reps: 5, 5, 5"
-          },
-          {
-            "date": "2026-08-12",
-            "detail": "reps: 6, 5.5, 5"
-          },
-          {
-            "date": "2026-08-22",
-            "detail": "reps: 8, 6, 6"
-          },
-          {
-            "date": "2026-08-29",
-            "detail": "reps: 5"
           }
         ]
       },
@@ -17906,6 +17923,21 @@
       }
     ],
     "dates": [
+      {
+        "date": "2026-09-03",
+        "rows": [
+          {
+            "ladderId": "hpull",
+            "ladderName": "Horizontal Pull — ROWS",
+            "name": "Feet-elevated Ring Row (★ feet on a chair)",
+            "raw": "8, 8, 9.5",
+            "avg": 8.5,
+            "target": "8",
+            "sets": 3,
+            "cleared": false
+          }
+        ]
+      },
       {
         "date": "2026-09-02",
         "rows": [
@@ -20041,6 +20073,10 @@
     }
   ],
   "last_perf": {
+    "hpull": {
+      "date": "2026-09-03",
+      "detail": "8, 8, 9.5"
+    },
     "pull": {
       "date": "2026-09-02",
       "detail": "6, 5, 3.5"
@@ -20080,10 +20116,6 @@
     "explosive": {
       "date": "2026-08-31",
       "detail": "0, 2, 2.5"
-    },
-    "hpull": {
-      "date": "2026-08-29",
-      "detail": "5"
     },
     "legs": {
       "date": "2026-08-22",
@@ -22971,6 +23003,27 @@
     "vista-pyramid": "vista-pyramid.webp",
     "vista-redeemer": "vista-redeemer.webp"
   },
-  "pending_clears": [],
+  "pending_clears": [
+    {
+      "key": "rung:hpull:3:2026-09-03",
+      "date": "2026-09-03",
+      "ladder": "hpull",
+      "ladder_name": "Horizontal Pull — ROWS",
+      "rung": 3,
+      "movement": "Feet-elevated ring row (feet on a chair)",
+      "exercise": "Feet-elevated Ring Row (★ feet on a chair)",
+      "sets": [
+        8,
+        8,
+        9.5
+      ],
+      "avg": 8.5,
+      "target": 8,
+      "sets_needed": 3,
+      "band": "small",
+      "feet": 10,
+      "answer_line": "- notes / skips: clean rung:hpull:3:2026-09-03 yes   # Horizontal Pull — ROWS rung 3 — Feet-elevated ring row (feet on a chair)"
+    }
+  ],
   "pending_clear_notes": []
 }
