@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 215.8
     },
-    "overall_total": 1253,
+    "overall_total": 1263,
     "generated_for": "2026-09-04",
-    "built_at": "2026-09-04T10:40:03.450Z",
+    "built_at": "2026-09-04T11:40:04.202Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1464
+      "ft_to_go": 1454
     },
     "captures_today_unscored": 0
   },
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 336,
+      "current": 346,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -7717,6 +7717,20 @@
       "evidence": "health warehouse",
       "booked": "2026-09-04",
       "source": "body:calorie-day:2026-09-03"
+    },
+    {
+      "date": "2026-09-03",
+      "lane": "strength",
+      "activity": "Horizontal Pull — ROWS rung 3 CLEARED — Feet-elevated ring row (feet on a chair) (8/8/9.5, avg 8.5 vs target 8)",
+      "label": "Horizontal Pull — ROWS rung 3 CLEARED — Feet-elevated…",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 346,
+      "cum_overall": 1263,
+      "reasoning": "SETS-STANDARD: first 3 sets avg 8.5 >= 8; clean-reps confirmed by owner",
+      "evidence": "workout-log; Feet-elevated Ring Row (★ feet on a chair)",
+      "booked": "2026-09-04",
+      "source": "rung:hpull:3:2026-09-03"
     }
   ],
   "polaris_booked": {
@@ -10239,6 +10253,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Sparse Training — FINISHED"
+      },
+      {
+        "date": "2026-09-03",
+        "cum": 346,
+        "feet": 10,
+        "tier": "small",
+        "activity": "Horizontal Pull — ROWS rung 3 CLEARED — Feet-elevated ring row (feet on a chair) (8/8/9.5, avg 8.5 vs target 8)"
       }
     ],
     "body": [
@@ -23003,27 +23024,6 @@
     "vista-pyramid": "vista-pyramid.webp",
     "vista-redeemer": "vista-redeemer.webp"
   },
-  "pending_clears": [
-    {
-      "key": "rung:hpull:3:2026-09-03",
-      "date": "2026-09-03",
-      "ladder": "hpull",
-      "ladder_name": "Horizontal Pull — ROWS",
-      "rung": 3,
-      "movement": "Feet-elevated ring row (feet on a chair)",
-      "exercise": "Feet-elevated Ring Row (★ feet on a chair)",
-      "sets": [
-        8,
-        8,
-        9.5
-      ],
-      "avg": 8.5,
-      "target": 8,
-      "sets_needed": 3,
-      "band": "small",
-      "feet": 10,
-      "answer_line": "- notes / skips: clean rung:hpull:3:2026-09-03 yes   # Horizontal Pull — ROWS rung 3 — Feet-elevated ring row (feet on a chair)"
-    }
-  ],
+  "pending_clears": [],
   "pending_clear_notes": []
 }
