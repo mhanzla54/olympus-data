@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 215.8
     },
-    "overall_total": 1263,
-    "generated_for": "2026-09-04",
-    "built_at": "2026-09-04T11:40:04.202Z",
+    "overall_total": 1269,
+    "generated_for": "2026-09-05",
+    "built_at": "2026-09-05T10:30:03.031Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1454
+      "ft_to_go": 1448
     },
     "captures_today_unscored": 0
   },
@@ -38,7 +38,7 @@
       "t0_note": "couldn't write a single line of Python — ran his first print() the day before t0",
       "endpoint": "Replicate AND extend a frontier alignment result — public, runnable code",
       "endpoint_tier": "verylarge",
-      "current": 145,
+      "current": 146,
       "working_on": "Automate the Boring Stuff textbook"
     },
     {
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 135,
+      "current": 137,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 346,
+      "current": 347,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -88,7 +88,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 390,
+      "current": 392,
       "working_on": "the next new-pound low (≤ 214.8 lb)"
     },
     {
@@ -7731,6 +7731,90 @@
       "evidence": "workout-log; Feet-elevated Ring Row (★ feet on a chair)",
       "booked": "2026-09-04",
       "source": "rung:hpull:3:2026-09-03"
+    },
+    {
+      "date": "2026-09-04",
+      "lane": "coding",
+      "activity": "Chapter 10 ATBS Coding Reading + Notes OR Practice — a working sitting",
+      "label": "Chapter 10 ATBS Coding Reading + Notes OR Practice",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 146,
+      "cum_overall": 1264,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmtij02rz",
+      "booked": "2026-09-04",
+      "source": "polaris:xmtij02rz:2026-09-04:session:1"
+    },
+    {
+      "date": "2026-09-04",
+      "lane": "method",
+      "activity": "Osiris Substrate V3 — a working sitting",
+      "label": "Osiris Substrate V3 — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 136,
+      "cum_overall": 1265,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmtjyhw8c",
+      "booked": "2026-09-04",
+      "source": "polaris:xmtjyhw8c:2026-09-04:session:1"
+    },
+    {
+      "date": "2026-09-04",
+      "lane": "method",
+      "activity": "THE T0 DECISIONS SITTING — a working sitting",
+      "label": "THE T0 DECISIONS SITTING — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 137,
+      "cum_overall": 1266,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS s1",
+      "booked": "2026-09-04",
+      "source": "polaris:s1:2026-09-04:session:1"
+    },
+    {
+      "date": "2026-09-04",
+      "lane": "strength",
+      "activity": "Sparse Training — FINISHED",
+      "label": "Sparse Training — FINISHED",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 347,
+      "cum_overall": 1267,
+      "reasoning": "Owner-priced in POLARIS: finishing it = tiny, locked 2026-09-04",
+      "evidence": "POLARIS xmtn0m132",
+      "booked": "2026-09-04",
+      "source": "polaris:xmtn0m132:completion"
+    },
+    {
+      "date": "2026-09-04",
+      "lane": "body",
+      "activity": "protein-day — 217 g",
+      "label": "protein-day — 217 g",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 391,
+      "cum_overall": 1268,
+      "reasoning": "codebook ⚖️ protein-day: needed >= 160 g; got 217 g",
+      "evidence": "health warehouse",
+      "booked": "2026-09-05",
+      "source": "body:protein-day:2026-09-04"
+    },
+    {
+      "date": "2026-09-04",
+      "lane": "body",
+      "activity": "calorie-day — 1951 kcal",
+      "label": "calorie-day — 1951 kcal",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 392,
+      "cum_overall": 1269,
+      "reasoning": "codebook ⚖️ calorie-day: needed 1550–2100 kcal; got 1951 kcal",
+      "evidence": "health warehouse",
+      "booked": "2026-09-05",
+      "source": "body:calorie-day:2026-09-04"
     }
   ],
   "polaris_booked": {
@@ -7785,7 +7869,11 @@
     "polaris:xmtij02rz:2026-09-03:session:1": 1,
     "polaris:xmtjyhw8c:2026-09-03:session:1": 1,
     "polaris:xmtlms9ez:completion": 1,
-    "polaris:xmtly7w0y:completion": 1
+    "polaris:xmtly7w0y:completion": 1,
+    "polaris:xmtij02rz:2026-09-04:session:1": 1,
+    "polaris:xmtjyhw8c:2026-09-04:session:1": 1,
+    "polaris:s1:2026-09-04:session:1": 1,
+    "polaris:xmtn0m132:completion": 1
   },
   "series": {
     "coding": [
@@ -8359,6 +8447,13 @@
       {
         "date": "2026-09-03",
         "cum": 145,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Chapter 10 ATBS Coding Reading + Notes OR Practice — a working sitting"
+      },
+      {
+        "date": "2026-09-04",
+        "cum": 146,
         "feet": 1,
         "tier": "tiny",
         "activity": "Chapter 10 ATBS Coding Reading + Notes OR Practice — a working sitting"
@@ -9570,6 +9665,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Osiris Substrate V3 — a working sitting"
+      },
+      {
+        "date": "2026-09-04",
+        "cum": 136,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris Substrate V3 — a working sitting"
+      },
+      {
+        "date": "2026-09-04",
+        "cum": 137,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "THE T0 DECISIONS SITTING — a working sitting"
       }
     ],
     "literature": [
@@ -10260,6 +10369,13 @@
         "feet": 10,
         "tier": "small",
         "activity": "Horizontal Pull — ROWS rung 3 CLEARED — Feet-elevated ring row (feet on a chair) (8/8/9.5, avg 8.5 vs target 8)"
+      },
+      {
+        "date": "2026-09-04",
+        "cum": 347,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Sparse Training — FINISHED"
       }
     ],
     "body": [
@@ -11480,6 +11596,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "calorie-day — 1689 kcal"
+      },
+      {
+        "date": "2026-09-04",
+        "cum": 391,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "protein-day — 217 g"
+      },
+      {
+        "date": "2026-09-04",
+        "cum": 392,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "calorie-day — 1951 kcal"
       }
     ],
     "fieldpresence": [
@@ -12567,10 +12697,11 @@
       "id": "hpull",
       "name": "Horizontal Pull — ROWS",
       "elite": "one-arm ring row",
-      "current": 3,
+      "current": 4,
       "cleared_dates": {
         "1": "2026-07-16",
-        "2": "2026-08-01"
+        "2": "2026-08-01",
+        "3": "2026-09-03"
       },
       "rungs": [
         {
@@ -12589,8 +12720,8 @@
           "sets": 3
         },
         {
-          "name": "Feet-elevated ring row — slow eccentric (3s down)",
-          "target": "8",
+          "name": "Feet-elevated ring row — slow eccentric  (3s down)",
+          "target": "3 × 8",
           "sets": 3
         },
         {
@@ -12626,8 +12757,8 @@
       ],
       "gated": "gymnastic rings (hang from the doorway bar, strap-lowered so you can lean under)",
       "chart": 12,
-      "cleared_count": 2,
-      "height": 3,
+      "cleared_count": 3,
+      "height": 6,
       "triangular": [
         0,
         1,
@@ -13835,9 +13966,14 @@
         },
         {
           "date": "2026-09-03",
-          "y": 3.97,
-          "kind": "session",
-          "label": "Feet-elevated ring row (feet on a chair) — 8, 8, 9.5 (avg 8.5 vs target 8)"
+          "y": 4,
+          "kind": "clear",
+          "label": "Horizontal Pull — ROWS — cleared: Feet-elevated ring row (feet on a chair) (needed 8, got 8, 8, 9.5 — avg 8.5)",
+          "perf": {
+            "needed": "8",
+            "got": "8, 8, 9.5",
+            "avg": 8.5
+          }
         }
       ],
       "steps": [
@@ -13852,6 +13988,10 @@
         {
           "date": "2026-08-01",
           "rungs": 3
+        },
+        {
+          "date": "2026-09-03",
+          "rungs": 4
         }
       ],
       "chart": 12
@@ -15711,7 +15851,7 @@
             "name": "Feet-elevated Ring Row (★ feet on a chair)",
             "raw": "8, 8, 9.5",
             "avg": 8.5,
-            "status": "● plotted at 3.97"
+            "status": "✓ CLEAR DAY — carried by the clear dot (needed 8, avg 8.5)"
           }
         ]
       },
@@ -17955,7 +18095,7 @@
             "avg": 8.5,
             "target": "8",
             "sets": 3,
-            "cleared": false
+            "cleared": true
           }
         ]
       },
@@ -21501,11 +21641,6 @@
     },
     "strip": [
       {
-        "date": "2026-08-06",
-        "state": "off",
-        "kcal": 2095
-      },
-      {
         "date": "2026-08-07",
         "state": "off",
         "kcal": 2372
@@ -21647,6 +21782,11 @@
       },
       {
         "date": "2026-09-04",
+        "state": "off",
+        "kcal": 1951
+      },
+      {
+        "date": "2026-09-05",
         "state": "partial",
         "kcal": 0
       }
@@ -22462,6 +22602,14 @@
       },
       {
         "date": "2026-09-04",
+        "kcal": 1951,
+        "protein": 217,
+        "dayType": "strict",
+        "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-09-05",
         "kcal": 0,
         "protein": 0,
         "dayType": "empty",
