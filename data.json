@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 215.4
     },
-    "overall_total": 1280,
+    "overall_total": 1282,
     "generated_for": "2026-09-05",
-    "built_at": "2026-09-05T19:52:03.824Z",
+    "built_at": "2026-09-05T19:53:34.110Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1437
+      "ft_to_go": 1435
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 138,
+      "current": 139,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 357,
+      "current": 358,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -7843,6 +7843,34 @@
       "evidence": "workout-log; Oblique knee raises (★knees up, drive to one side)",
       "booked": "2026-09-05",
       "source": "rung:corehang:5:2026-09-05"
+    },
+    {
+      "date": "2026-09-05",
+      "lane": "strength",
+      "activity": "Workout — a working sitting",
+      "label": "Workout — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 358,
+      "cum_overall": 1281,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmtegz4dz",
+      "booked": "2026-09-05",
+      "source": "polaris:xmtegz4dz:2026-09-05:session:1"
+    },
+    {
+      "date": "2026-09-05",
+      "lane": "method",
+      "activity": "Research Methodology Module Work — a working sitting",
+      "label": "Research Methodology Module Work",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 139,
+      "cum_overall": 1282,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmtosvrta",
+      "booked": "2026-09-05",
+      "source": "polaris:xmtosvrta:2026-09-05:session:1"
     }
   ],
   "polaris_booked": {
@@ -7902,7 +7930,9 @@
     "polaris:xmtjyhw8c:2026-09-04:session:1": 1,
     "polaris:s1:2026-09-04:session:1": 1,
     "polaris:xmtn0m132:completion": 1,
-    "polaris:xmtjyhw8c:2026-09-05:session:1": 1
+    "polaris:xmtjyhw8c:2026-09-05:session:1": 1,
+    "polaris:xmtegz4dz:2026-09-05:session:1": 1,
+    "polaris:xmtosvrta:2026-09-05:session:1": 1
   },
   "series": {
     "coding": [
@@ -9715,6 +9745,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Osiris Substrate V3 — a working sitting"
+      },
+      {
+        "date": "2026-09-05",
+        "cum": 139,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Research Methodology Module Work — a working sitting"
       }
     ],
     "literature": [
@@ -10419,6 +10456,13 @@
         "feet": 10,
         "tier": "small",
         "activity": "Core — HANGING rung 5 CLEARED — Oblique knee raises (8/8/8, avg 8 vs target 8)"
+      },
+      {
+        "date": "2026-09-05",
+        "cum": 358,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Workout — a working sitting"
       }
     ],
     "body": [
@@ -13219,12 +13263,13 @@
       "id": "corehang",
       "name": "Core — HANGING",
       "elite": "windshield wipers",
-      "current": 5,
+      "current": 6,
       "cleared_dates": {
         "1": "2026-07-01",
         "2": "2026-07-25",
         "3": "2026-08-08",
-        "4": "2026-08-10"
+        "4": "2026-08-10",
+        "5": "2026-09-05"
       },
       "rungs": [
         {
@@ -13279,8 +13324,8 @@
         }
       ],
       "chart": 10,
-      "cleared_count": 4,
-      "height": 10,
+      "cleared_count": 5,
+      "height": 15,
       "triangular": [
         0,
         1,
@@ -14859,9 +14904,14 @@
         },
         {
           "date": "2026-09-05",
-          "y": 5.97,
-          "kind": "session",
-          "label": "Oblique knee raises — 8, 8, 8 (avg 8 vs target 8)"
+          "y": 6,
+          "kind": "clear",
+          "label": "Core — HANGING — cleared: Oblique knee raises (needed 8/side, got 8, 8, 8 — avg 8)",
+          "perf": {
+            "needed": "8/side",
+            "got": "8, 8, 8",
+            "avg": 8
+          }
         }
       ],
       "steps": [
@@ -14884,6 +14934,10 @@
         {
           "date": "2026-08-10",
           "rungs": 5
+        },
+        {
+          "date": "2026-09-05",
+          "rungs": 6
         }
       ],
       "chart": 10
@@ -16815,7 +16869,7 @@
             "name": "Oblique knee raises (★knees up, drive to one side)",
             "raw": "8, 8, 8",
             "avg": 8,
-            "status": "● plotted at 5.97"
+            "status": "✓ CLEAR DAY — carried by the clear dot (needed 8/side, avg 8)"
           }
         ]
       }
@@ -18236,7 +18290,7 @@
             "avg": 8,
             "target": "8/side",
             "sets": 3,
-            "cleared": false
+            "cleared": true
           },
           {
             "ladderId": "hpull",
