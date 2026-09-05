@@ -21,7 +21,7 @@
     },
     "overall_total": 1270,
     "generated_for": "2026-09-05",
-    "built_at": "2026-09-05T12:21:18.238Z",
+    "built_at": "2026-09-05T12:50:03.099Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -13911,6 +13911,12 @@
           "y": 5.6,
           "kind": "session",
           "label": "Full pull-up — 6, 5, 3.5 (avg 4.8 vs target 8)"
+        },
+        {
+          "date": "2026-09-05",
+          "y": 5.75,
+          "kind": "session",
+          "label": "Full pull-up — 6, (avg 6 vs target 8)"
         }
       ],
       "steps": [
@@ -14887,8 +14893,8 @@
       "rejected": []
     },
     "pull": {
-      "candidates": 40,
-      "plotted": 26,
+      "candidates": 41,
+      "plotted": 27,
       "rejected": [
         {
           "date": "2026-06-23",
@@ -14968,7 +14974,7 @@
       "rejected": []
     },
     "legs": {
-      "candidates": 17,
+      "candidates": 18,
       "plotted": 12,
       "rejected": [
         {
@@ -14990,6 +14996,10 @@
         {
           "date": "2026-08-29",
           "why": "\"Full pistol (★heel elevated ~2\", no hand\" logged no usable numbers"
+        },
+        {
+          "date": "2026-09-05",
+          "why": "\"Full pistol (★heel elevated ~2\", no hand\" logged no usable numbers"
         }
       ]
     },
@@ -14999,7 +15009,7 @@
       "rejected": []
     },
     "corehang": {
-      "candidates": 38,
+      "candidates": 39,
       "plotted": 35,
       "rejected": [
         {
@@ -15013,11 +15023,15 @@
         {
           "date": "2026-07-06",
           "why": "\"Hanging knee raise\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-09-05",
+          "why": "\"Oblique knee raises (★knees up, drive to\" logged no usable numbers"
         }
       ]
     },
     "frontlever": {
-      "candidates": 8,
+      "candidates": 9,
       "plotted": 0,
       "rejected": [
         {
@@ -15051,11 +15065,15 @@
         {
           "date": "2026-09-02",
           "why": "\"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
+        },
+        {
+          "date": "2026-09-05",
+          "why": "\"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
         }
       ]
     },
     "hpull": {
-      "candidates": 9,
+      "candidates": 10,
       "plotted": 7,
       "rejected": [
         {
@@ -15065,6 +15083,10 @@
         {
           "date": "2026-07-25",
           "why": "\"Feet-elevated Ring Row (★ feet on a chai\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
+        },
+        {
+          "date": "2026-09-05",
+          "why": "\"Feet-elevated ring row — slow eccentric \" logged no usable numbers"
         }
       ]
     }
@@ -15805,6 +15827,13 @@
             "raw": "22, 17",
             "avg": 19.5,
             "status": "● plotted at 5.6"
+          },
+          {
+            "date": "2026-09-05",
+            "name": "Pull-up (★full — then negatives as back-off)",
+            "raw": "6,",
+            "avg": 6,
+            "status": "● plotted at 5.75"
           }
         ]
       },
@@ -15874,6 +15903,13 @@
             "raw": "8, 8, 9.5",
             "avg": 8.5,
             "status": "✓ CLEAR DAY — carried by the clear dot (needed 8, avg 8.5)"
+          },
+          {
+            "date": "2026-09-05",
+            "name": "Feet-elevated ring row — slow eccentric (★3s down)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Feet-elevated ring row — slow eccentric \" logged no usable numbers"
           }
         ]
       },
@@ -15935,6 +15971,13 @@
             "name": "Oblique knee raises (★knees up, drive to one side)",
             "raw": "8, 6.5, 6",
             "avg": 6.8,
+            "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
+          },
+          {
+            "date": "2026-09-05",
+            "name": "Oblique knee raises (★knees up, drive to one side)",
+            "raw": "",
+            "avg": null,
             "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
           }
         ]
@@ -16339,6 +16382,13 @@
             "raw": "",
             "avg": null,
             "status": "✗ not plotted — \"Full pistol (★heel elevated ~2\", no hand\" logged no usable numbers"
+          },
+          {
+            "date": "2026-09-05",
+            "name": "Full pistol (★heel elevated ~2\", no hand assist)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Full pistol (★heel elevated ~2\", no hand\" logged no usable numbers"
           }
         ]
       },
@@ -16736,6 +16786,13 @@
             "raw": "8, 6.5, 6",
             "avg": 6.8,
             "status": "● plotted at 5.85"
+          },
+          {
+            "date": "2026-09-05",
+            "name": "Oblique knee raises (★knees up, drive to one side)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" logged no usable numbers"
           }
         ]
       }
@@ -16912,6 +16969,10 @@
           {
             "date": "2026-09-02",
             "detail": "full reps: 6, 5, 3.5 · neg back-off: 2, 3, 5"
+          },
+          {
+            "date": "2026-09-05",
+            "detail": "full reps: 6, · neg back-off: 2,"
           }
         ]
       },
@@ -16977,6 +17038,67 @@
         ]
       },
       {
+        "name": "Plank (finisher)",
+        "rows": [
+          {
+            "date": "2026-06-05",
+            "detail": "held: 30, 32"
+          },
+          {
+            "date": "2026-06-08",
+            "detail": "held: 30, 30"
+          },
+          {
+            "date": "2026-06-22",
+            "detail": "held: 40,"
+          },
+          {
+            "date": "2026-06-27",
+            "detail": "held: 50, 40"
+          },
+          {
+            "date": "2026-07-04",
+            "detail": "held: 45, 30"
+          },
+          {
+            "date": "2026-07-11",
+            "detail": "held: 30, 30"
+          },
+          {
+            "date": "2026-07-18",
+            "detail": "held: 30, 25"
+          },
+          {
+            "date": "2026-07-25",
+            "detail": "held: 30, 30"
+          },
+          {
+            "date": "2026-08-01",
+            "detail": "held: 22, 23"
+          },
+          {
+            "date": "2026-08-06",
+            "detail": "held: 30, 30"
+          },
+          {
+            "date": "2026-08-12",
+            "detail": "held: 30, 30"
+          },
+          {
+            "date": "2026-08-22",
+            "detail": "held: 30, 35"
+          },
+          {
+            "date": "2026-08-29",
+            "detail": "held: —"
+          },
+          {
+            "date": "2026-09-05",
+            "detail": "held: —"
+          }
+        ]
+      },
+      {
         "name": "Hanging knee raise (★full slow tempo — 3s up/3s down)",
         "rows": [
           {
@@ -17038,63 +17160,6 @@
         ]
       },
       {
-        "name": "Plank (finisher)",
-        "rows": [
-          {
-            "date": "2026-06-05",
-            "detail": "held: 30, 32"
-          },
-          {
-            "date": "2026-06-08",
-            "detail": "held: 30, 30"
-          },
-          {
-            "date": "2026-06-22",
-            "detail": "held: 40,"
-          },
-          {
-            "date": "2026-06-27",
-            "detail": "held: 50, 40"
-          },
-          {
-            "date": "2026-07-04",
-            "detail": "held: 45, 30"
-          },
-          {
-            "date": "2026-07-11",
-            "detail": "held: 30, 30"
-          },
-          {
-            "date": "2026-07-18",
-            "detail": "held: 30, 25"
-          },
-          {
-            "date": "2026-07-25",
-            "detail": "held: 30, 30"
-          },
-          {
-            "date": "2026-08-01",
-            "detail": "held: 22, 23"
-          },
-          {
-            "date": "2026-08-06",
-            "detail": "held: 30, 30"
-          },
-          {
-            "date": "2026-08-12",
-            "detail": "held: 30, 30"
-          },
-          {
-            "date": "2026-08-22",
-            "detail": "held: 30, 35"
-          },
-          {
-            "date": "2026-08-29",
-            "detail": "held: —"
-          }
-        ]
-      },
-      {
         "name": "Box pistol (low)",
         "rows": [
           {
@@ -17132,6 +17197,47 @@
           {
             "date": "2026-07-11",
             "detail": "reps: 5, 5, 5"
+          }
+        ]
+      },
+      {
+        "name": "Oblique knee raises (★knees up, drive to one side)",
+        "rows": [
+          {
+            "date": "2026-08-12",
+            "detail": "reps: 5.5, 4.5, 4.5"
+          },
+          {
+            "date": "2026-08-17",
+            "detail": "reps: 3.5, 3.5, 3"
+          },
+          {
+            "date": "2026-08-19",
+            "detail": "reps: 5.5, 4.5, 3.5"
+          },
+          {
+            "date": "2026-08-22",
+            "detail": "reps: 6.5, 6, 4"
+          },
+          {
+            "date": "2026-08-24",
+            "detail": "reps: 7, 3.5, 5"
+          },
+          {
+            "date": "2026-08-26",
+            "detail": "reps: 7.5, 4.5, 5"
+          },
+          {
+            "date": "2026-08-29",
+            "detail": "reps: 4"
+          },
+          {
+            "date": "2026-09-02",
+            "detail": "reps: 8, 6.5, 6"
+          },
+          {
+            "date": "2026-09-05",
+            "detail": "reps: —"
           }
         ]
       },
@@ -17210,39 +17316,39 @@
         ]
       },
       {
-        "name": "Oblique knee raises (★knees up, drive to one side)",
+        "name": "Single-leg hip thrust (shoulders on bed/chair)",
         "rows": [
           {
+            "date": "2026-07-18",
+            "detail": "reps: 3, 4, 5"
+          },
+          {
+            "date": "2026-07-25",
+            "detail": "reps: 10, 7, 6"
+          },
+          {
+            "date": "2026-08-01",
+            "detail": "reps: 9, 6, 6"
+          },
+          {
+            "date": "2026-08-06",
+            "detail": "reps: 5, 6, 4"
+          },
+          {
             "date": "2026-08-12",
-            "detail": "reps: 5.5, 4.5, 4.5"
-          },
-          {
-            "date": "2026-08-17",
-            "detail": "reps: 3.5, 3.5, 3"
-          },
-          {
-            "date": "2026-08-19",
-            "detail": "reps: 5.5, 4.5, 3.5"
+            "detail": "reps: 4, 4, 5"
           },
           {
             "date": "2026-08-22",
-            "detail": "reps: 6.5, 6, 4"
-          },
-          {
-            "date": "2026-08-24",
-            "detail": "reps: 7, 3.5, 5"
-          },
-          {
-            "date": "2026-08-26",
-            "detail": "reps: 7.5, 4.5, 5"
+            "detail": "reps: 8, 8, 8"
           },
           {
             "date": "2026-08-29",
-            "detail": "reps: 4"
+            "detail": "reps: —"
           },
           {
-            "date": "2026-09-02",
-            "detail": "reps: 8, 6.5, 6"
+            "date": "2026-09-05",
+            "detail": "reps: —"
           }
         ]
       },
@@ -17309,39 +17415,6 @@
           {
             "date": "2026-09-03",
             "detail": "reps: 8, 8, 9.5"
-          }
-        ]
-      },
-      {
-        "name": "Single-leg hip thrust (shoulders on bed/chair)",
-        "rows": [
-          {
-            "date": "2026-07-18",
-            "detail": "reps: 3, 4, 5"
-          },
-          {
-            "date": "2026-07-25",
-            "detail": "reps: 10, 7, 6"
-          },
-          {
-            "date": "2026-08-01",
-            "detail": "reps: 9, 6, 6"
-          },
-          {
-            "date": "2026-08-06",
-            "detail": "reps: 5, 6, 4"
-          },
-          {
-            "date": "2026-08-12",
-            "detail": "reps: 4, 4, 5"
-          },
-          {
-            "date": "2026-08-22",
-            "detail": "reps: 8, 8, 8"
-          },
-          {
-            "date": "2026-08-29",
-            "detail": "reps: —"
           }
         ]
       },
@@ -17729,6 +17802,27 @@
         ]
       },
       {
+        "name": "Full pistol (★heel elevated ~2\", no hand assist)",
+        "rows": [
+          {
+            "date": "2026-08-12",
+            "detail": "reps: 3, 2, 1.5"
+          },
+          {
+            "date": "2026-08-22",
+            "detail": "reps: 3, 3, 3"
+          },
+          {
+            "date": "2026-08-29",
+            "detail": "reps: —"
+          },
+          {
+            "date": "2026-09-05",
+            "detail": "reps: —"
+          }
+        ]
+      },
+      {
         "name": "Chin-up (negatives, underhand)",
         "rows": [
           {
@@ -17844,23 +17938,6 @@
           {
             "date": "2026-08-06",
             "detail": "reps: 0, 0, 0"
-          }
-        ]
-      },
-      {
-        "name": "Full pistol (★heel elevated ~2\", no hand assist)",
-        "rows": [
-          {
-            "date": "2026-08-12",
-            "detail": "reps: 3, 2, 1.5"
-          },
-          {
-            "date": "2026-08-22",
-            "detail": "reps: 3, 3, 3"
-          },
-          {
-            "date": "2026-08-29",
-            "detail": "reps: —"
           }
         ]
       },
@@ -18103,9 +18180,63 @@
             "detail": "reps: 0, 0"
           }
         ]
+      },
+      {
+        "name": "Feet-elevated ring row — slow eccentric (★3s down)",
+        "rows": [
+          {
+            "date": "2026-09-05",
+            "detail": "reps: —"
+          }
+        ]
       }
     ],
     "dates": [
+      {
+        "date": "2026-09-05",
+        "rows": [
+          {
+            "ladderId": "pull",
+            "ladderName": "Pull",
+            "name": "Pull-up (★full — then negatives as back-off)",
+            "raw": "6,",
+            "avg": 6,
+            "target": "8",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "corehang",
+            "ladderName": "Core — HANGING",
+            "name": "Oblique knee raises (★knees up, drive to one side)",
+            "raw": "",
+            "avg": null,
+            "target": "8/side",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "hpull",
+            "ladderName": "Horizontal Pull — ROWS",
+            "name": "Feet-elevated ring row — slow eccentric (★3s down)",
+            "raw": "",
+            "avg": null,
+            "target": "3 × 8",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "legs",
+            "ladderName": "Legs — Pistol",
+            "name": "Full pistol (★heel elevated ~2\", no hand assist)",
+            "raw": "",
+            "avg": null,
+            "target": "5/leg",
+            "sets": 3,
+            "cleared": false
+          }
+        ]
+      },
       {
         "date": "2026-09-03",
         "rows": [
@@ -20256,13 +20387,13 @@
     }
   ],
   "last_perf": {
+    "pull": {
+      "date": "2026-09-05",
+      "detail": "6,"
+    },
     "hpull": {
       "date": "2026-09-03",
       "detail": "8, 8, 9.5"
-    },
-    "pull": {
-      "date": "2026-09-02",
-      "detail": "6, 5, 3.5"
     },
     "corehang": {
       "date": "2026-09-02",
