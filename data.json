@@ -17,11 +17,11 @@
       "next_site_drop_in": 1,
       "ten_lb_milestone_crossed": 220,
       "next_ten_lb_marker": 210,
-      "all_time_low_lb": 215.8
+      "all_time_low_lb": 215.4
     },
     "overall_total": 1270,
     "generated_for": "2026-09-05",
-    "built_at": "2026-09-05T13:10:04.271Z",
+    "built_at": "2026-09-05T13:20:03.152Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -13914,9 +13914,9 @@
         },
         {
           "date": "2026-09-05",
-          "y": 5.69,
+          "y": 5.63,
           "kind": "session",
-          "label": "Full pull-up — 6, 5, (avg 5.5 vs target 8)"
+          "label": "Full pull-up — 6, 5, 4 (avg 5 vs target 8)"
         }
       ],
       "steps": [
@@ -15831,9 +15831,9 @@
           {
             "date": "2026-09-05",
             "name": "Pull-up (★full — then negatives as back-off)",
-            "raw": "6, 5,",
-            "avg": 5.5,
-            "status": "● plotted at 5.69"
+            "raw": "6, 5, 4",
+            "avg": 5,
+            "status": "● plotted at 5.63"
           }
         ]
       },
@@ -16972,7 +16972,7 @@
           },
           {
             "date": "2026-09-05",
-            "detail": "full reps: 6, 5, · neg back-off: 2, 3,"
+            "detail": "full reps: 6, 5, 4 · neg back-off: 2, 3, 4"
           }
         ]
       },
@@ -18199,8 +18199,8 @@
             "ladderId": "pull",
             "ladderName": "Pull",
             "name": "Pull-up (★full — then negatives as back-off)",
-            "raw": "6, 5,",
-            "avg": 5.5,
+            "raw": "6, 5, 4",
+            "avg": 5,
             "target": "8",
             "sets": 3,
             "cleared": false
@@ -20389,7 +20389,7 @@
   "last_perf": {
     "pull": {
       "date": "2026-09-05",
-      "detail": "6, 5,"
+      "detail": "6, 5, 4"
     },
     "hpull": {
       "date": "2026-09-03",
@@ -21123,6 +21123,14 @@
         "protein": 187,
         "dayType": "strict",
         "provisional": false
+      },
+      {
+        "date": "2026-09-05",
+        "w": 215.4,
+        "kcal": 0,
+        "protein": 0,
+        "dayType": "empty",
+        "provisional": true
       }
     ],
     "trend": [
@@ -21509,9 +21517,13 @@
       {
         "date": "2026-09-03",
         "w": 217.5
+      },
+      {
+        "date": "2026-09-05",
+        "w": 216.87
       }
     ],
-    "noiseBand": 1.35,
+    "noiseBand": 1.36,
     "floors": [
       {
         "y": 230,
@@ -21649,8 +21661,8 @@
         "week": "Aug 23–Aug 29"
       },
       {
-        "date": "2026-08-31",
-        "w": 216.4,
+        "date": "2026-09-05",
+        "w": 215.4,
         "week": "Aug 30–Sep 5"
       }
     ],
@@ -21777,20 +21789,20 @@
       },
       {
         "date": "2026-09-02",
-        "w": 217.2,
+        "w": 216.9,
         "week": "Aug 30–Sep 5",
-        "n": 5
+        "n": 6
       }
     ],
     "banner": {
       "startDate": "2026-03-22",
       "startW": 235,
-      "lost": 17.5,
+      "lost": 18.1,
       "goal": 180,
-      "pct": 31.8,
+      "pct": 33,
       "nextFloor": 210,
-      "toGo": 7.5,
-      "newLow": false
+      "toGo": 6.9,
+      "newLow": true
     },
     "strip": [
       {
