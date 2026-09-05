@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 215.4
     },
-    "overall_total": 1270,
+    "overall_total": 1280,
     "generated_for": "2026-09-05",
-    "built_at": "2026-09-05T13:30:03.918Z",
+    "built_at": "2026-09-05T19:52:03.824Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1447
+      "ft_to_go": 1437
     },
     "captures_today_unscored": 0
   },
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 347,
+      "current": 357,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -7829,6 +7829,20 @@
       "evidence": "POLARIS xmtjyhw8c",
       "booked": "2026-09-05",
       "source": "polaris:xmtjyhw8c:2026-09-05:session:1"
+    },
+    {
+      "date": "2026-09-05",
+      "lane": "strength",
+      "activity": "Core — HANGING rung 5 CLEARED — Oblique knee raises (8/8/8, avg 8 vs target 8)",
+      "label": "Core — HANGING rung 5 CLEARED — Oblique knee raises…",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 357,
+      "cum_overall": 1280,
+      "reasoning": "SETS-STANDARD: first 3 sets avg 8 >= 8; clean-reps confirmed by owner",
+      "evidence": "workout-log; Oblique knee raises (★knees up, drive to one side)",
+      "booked": "2026-09-05",
+      "source": "rung:corehang:5:2026-09-05"
     }
   ],
   "polaris_booked": {
@@ -10398,6 +10412,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Sparse Training — FINISHED"
+      },
+      {
+        "date": "2026-09-05",
+        "cum": 357,
+        "feet": 10,
+        "tier": "small",
+        "activity": "Core — HANGING rung 5 CLEARED — Oblique knee raises (8/8/8, avg 8 vs target 8)"
       }
     ],
     "body": [
@@ -23339,27 +23360,6 @@
     "vista-pyramid": "vista-pyramid.webp",
     "vista-redeemer": "vista-redeemer.webp"
   },
-  "pending_clears": [
-    {
-      "key": "rung:corehang:5:2026-09-05",
-      "date": "2026-09-05",
-      "ladder": "corehang",
-      "ladder_name": "Core — HANGING",
-      "rung": 5,
-      "movement": "Oblique knee raises",
-      "exercise": "Oblique knee raises (★knees up, drive to one side)",
-      "sets": [
-        8,
-        8,
-        8
-      ],
-      "avg": 8,
-      "target": 8,
-      "sets_needed": 3,
-      "band": "small",
-      "feet": 10,
-      "answer_line": "- notes / skips: clean rung:corehang:5:2026-09-05 yes   # Core — HANGING rung 5 — Oblique knee raises"
-    }
-  ],
+  "pending_clears": [],
   "pending_clear_notes": []
 }
