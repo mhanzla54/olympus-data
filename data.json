@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 215.8
     },
-    "overall_total": 1269,
+    "overall_total": 1271,
     "generated_for": "2026-09-05",
-    "built_at": "2026-09-05T10:30:03.031Z",
+    "built_at": "2026-09-05T12:20:54.985Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1448
+      "ft_to_go": 1446
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 137,
+      "current": 139,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -7815,6 +7815,34 @@
       "evidence": "health warehouse",
       "booked": "2026-09-05",
       "source": "body:calorie-day:2026-09-04"
+    },
+    {
+      "date": "2026-09-05",
+      "lane": "method",
+      "activity": "M6 — From Construct to Observable — FINISHED",
+      "label": "M6 — From Construct to Observable — FINISHED",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 138,
+      "cum_overall": 1270,
+      "reasoning": "Owner-priced in POLARIS: finishing it = tiny, locked 2026-08-31",
+      "evidence": "POLARIS s2",
+      "booked": "2026-09-05",
+      "source": "polaris:s2:completion"
+    },
+    {
+      "date": "2026-09-05",
+      "lane": "method",
+      "activity": "Osiris Substrate V3 — a working sitting",
+      "label": "Osiris Substrate V3 — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 139,
+      "cum_overall": 1271,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmtjyhw8c",
+      "booked": "2026-09-05",
+      "source": "polaris:xmtjyhw8c:2026-09-05:session:1"
     }
   ],
   "polaris_booked": {
@@ -7873,7 +7901,9 @@
     "polaris:xmtij02rz:2026-09-04:session:1": 1,
     "polaris:xmtjyhw8c:2026-09-04:session:1": 1,
     "polaris:s1:2026-09-04:session:1": 1,
-    "polaris:xmtn0m132:completion": 1
+    "polaris:xmtn0m132:completion": 1,
+    "polaris:s2:completion": 1,
+    "polaris:xmtjyhw8c:2026-09-05:session:1": 1
   },
   "series": {
     "coding": [
@@ -9679,6 +9709,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "THE T0 DECISIONS SITTING — a working sitting"
+      },
+      {
+        "date": "2026-09-05",
+        "cum": 138,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "M6 — From Construct to Observable — FINISHED"
+      },
+      {
+        "date": "2026-09-05",
+        "cum": 139,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris Substrate V3 — a working sitting"
       }
     ],
     "literature": [
