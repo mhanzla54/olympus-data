@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 215.4
     },
-    "overall_total": 1288,
+    "overall_total": 1290,
     "generated_for": "2026-09-07",
-    "built_at": "2026-09-07T13:40:04.120Z",
+    "built_at": "2026-09-07T13:58:31.191Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1429
+      "ft_to_go": 1427
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 141,
+      "current": 142,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 358,
+      "current": 359,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -7955,6 +7955,34 @@
       "evidence": "POLARIS xmtr6cbjo",
       "booked": "2026-09-07",
       "source": "polaris:xmtr6cbjo:completion"
+    },
+    {
+      "date": "2026-09-07",
+      "lane": "strength",
+      "activity": "Workout — a working sitting",
+      "label": "Workout — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 359,
+      "cum_overall": 1289,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmt78btdt",
+      "booked": "2026-09-07",
+      "source": "polaris:xmt78btdt:2026-09-07:session:1"
+    },
+    {
+      "date": "2026-09-07",
+      "lane": "method",
+      "activity": "Osiris Lens V2 — a working sitting",
+      "label": "Osiris Lens V2 — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 142,
+      "cum_overall": 1290,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmtr6bclh",
+      "booked": "2026-09-07",
+      "source": "polaris:xmtr6bclh:2026-09-07:session:1"
     }
   ],
   "polaris_booked": {
@@ -8019,7 +8047,9 @@
     "polaris:xmtosvrta:2026-09-05:session:1": 1,
     "polaris:xmtosvrta:2026-09-06:session:1": 1,
     "polaris:xmtij02rz:2026-09-07:session:1": 1,
-    "polaris:xmtr6cbjo:completion": 1
+    "polaris:xmtr6cbjo:completion": 1,
+    "polaris:xmt78btdt:2026-09-07:session:1": 1,
+    "polaris:xmtr6bclh:2026-09-07:session:1": 1
   },
   "series": {
     "coding": [
@@ -9860,6 +9890,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Protocol front door — 1–2pp summary — FINISHED"
+      },
+      {
+        "date": "2026-09-07",
+        "cum": 142,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris Lens V2 — a working sitting"
       }
     ],
     "literature": [
@@ -10568,6 +10605,13 @@
       {
         "date": "2026-09-05",
         "cum": 358,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Workout — a working sitting"
+      },
+      {
+        "date": "2026-09-07",
+        "cum": 359,
         "feet": 1,
         "tier": "tiny",
         "activity": "Workout — a working sitting"
