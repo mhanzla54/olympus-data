@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 215.4
     },
-    "overall_total": 1287,
+    "overall_total": 1288,
     "generated_for": "2026-09-07",
-    "built_at": "2026-09-07T12:00:05.006Z",
+    "built_at": "2026-09-07T12:04:53.863Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1430
+      "ft_to_go": 1429
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 140,
+      "current": 141,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -7941,6 +7941,20 @@
       "evidence": "POLARIS xmtij02rz",
       "booked": "2026-09-07",
       "source": "polaris:xmtij02rz:2026-09-07:session:1"
+    },
+    {
+      "date": "2026-09-07",
+      "lane": "method",
+      "activity": "Protocol front door — 1–2pp summary — FINISHED",
+      "label": "Protocol front door — 1–2pp summary — FINISHED",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 141,
+      "cum_overall": 1288,
+      "reasoning": "Owner-priced in POLARIS: finishing it = tiny, locked 2026-09-07",
+      "evidence": "POLARIS xmtr6cbjo",
+      "booked": "2026-09-07",
+      "source": "polaris:xmtr6cbjo:completion"
     }
   ],
   "polaris_booked": {
@@ -8004,7 +8018,8 @@
     "polaris:xmtegz4dz:2026-09-05:session:1": 1,
     "polaris:xmtosvrta:2026-09-05:session:1": 1,
     "polaris:xmtosvrta:2026-09-06:session:1": 1,
-    "polaris:xmtij02rz:2026-09-07:session:1": 1
+    "polaris:xmtij02rz:2026-09-07:session:1": 1,
+    "polaris:xmtr6cbjo:completion": 1
   },
   "series": {
     "coding": [
@@ -9838,6 +9853,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Research Methodology Module Work — a working sitting"
+      },
+      {
+        "date": "2026-09-07",
+        "cum": 141,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Protocol front door — 1–2pp summary — FINISHED"
       }
     ],
     "literature": [
