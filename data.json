@@ -21,7 +21,7 @@
     },
     "overall_total": 1290,
     "generated_for": "2026-09-07",
-    "built_at": "2026-09-07T14:50:04.092Z",
+    "built_at": "2026-09-07T17:40:04.479Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -12648,10 +12648,11 @@
       "id": "explosive",
       "name": "Horizontal Push — EXPLOSIVE",
       "elite": "triple-clap",
-      "current": 4,
+      "current": 5,
       "cleared_dates": {
         "2": "2026-06-29",
-        "3": "2026-08-17"
+        "3": "2026-08-17",
+        "4": "2026-09-07"
       },
       "rungs": [
         {
@@ -12679,7 +12680,7 @@
           "targetAmbiguous": false
         },
         {
-          "name": "Double clap",
+          "name": "Double clap push-up (two front claps)",
           "target": "8",
           "sets": 3,
           "targetAmbiguous": false
@@ -12716,8 +12717,8 @@
         }
       ],
       "chart": 2,
-      "cleared_count": 3,
-      "height": 6,
+      "cleared_count": 4,
+      "height": 10,
       "triangular": [
         0,
         1,
@@ -13846,9 +13847,14 @@
         },
         {
           "date": "2026-09-07",
-          "y": 4.97,
-          "kind": "session",
-          "label": "Double clap push-up (two front claps) — 3, 4, 4 (avg 3.7 vs target 3)"
+          "y": 5,
+          "kind": "clear",
+          "label": "Horizontal Push — EXPLOSIVE — cleared: Double clap push-up (two front claps) (needed 3, got 3, 4, 4 — avg 3.67)",
+          "perf": {
+            "needed": "3",
+            "got": "3, 4, 4",
+            "avg": 3.67
+          }
         }
       ],
       "steps": [
@@ -13863,6 +13869,10 @@
         {
           "date": "2026-08-17",
           "rungs": 4
+        },
+        {
+          "date": "2026-09-07",
+          "rungs": 5
         }
       ],
       "chart": 2
@@ -15694,7 +15704,7 @@
             "name": "Double clap push-up (★explosive — two front claps)",
             "raw": "3, 4, 4",
             "avg": 3.7,
-            "status": "● plotted at 4.97"
+            "status": "✓ CLEAR DAY — carried by the clear dot (needed 3, avg 3.67)"
           }
         ]
       },
@@ -18726,7 +18736,7 @@
             "avg": 3.7,
             "target": "3",
             "sets": 3,
-            "cleared": false
+            "cleared": true
           }
         ]
       },
@@ -21669,6 +21679,14 @@
         "protein": 207,
         "dayType": "strict-over",
         "provisional": false
+      },
+      {
+        "date": "2026-09-07",
+        "w": 215.4,
+        "kcal": 0,
+        "protein": 0,
+        "dayType": "empty",
+        "provisional": true
       }
     ],
     "trend": [
@@ -22059,9 +22077,13 @@
       {
         "date": "2026-09-05",
         "w": 216.87
+      },
+      {
+        "date": "2026-09-07",
+        "w": 216.52
       }
     ],
-    "noiseBand": 1.36,
+    "noiseBand": 1.34,
     "floors": [
       {
         "y": 230,
@@ -22202,6 +22224,11 @@
         "date": "2026-09-05",
         "w": 215.4,
         "week": "Aug 30–Sep 5"
+      },
+      {
+        "date": "2026-09-07",
+        "w": 215.4,
+        "week": "Sep 6–Sep 12"
       }
     ],
     "weeklyAvgs": [
@@ -22330,16 +22357,22 @@
         "w": 216.9,
         "week": "Aug 30–Sep 5",
         "n": 6
+      },
+      {
+        "date": "2026-09-09",
+        "w": 215.4,
+        "week": "Sep 6–Sep 12",
+        "n": 1
       }
     ],
     "banner": {
       "startDate": "2026-03-22",
       "startW": 235,
-      "lost": 18.1,
+      "lost": 18.5,
       "goal": 180,
-      "pct": 33,
+      "pct": 33.6,
       "nextFloor": 210,
-      "toGo": 6.9,
+      "toGo": 6.5,
       "newLow": true
     },
     "strip": [
