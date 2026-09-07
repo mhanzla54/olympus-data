@@ -21,7 +21,7 @@
     },
     "overall_total": 1286,
     "generated_for": "2026-09-07",
-    "built_at": "2026-09-07T10:36:04.516Z",
+    "built_at": "2026-09-07T10:50:03.896Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -14153,6 +14153,12 @@
             "got": "8, 8, 9.5",
             "avg": 8.5
           }
+        },
+        {
+          "date": "2026-09-05",
+          "y": 4.97,
+          "kind": "session",
+          "label": "Feet-elevated ring row — slow eccentric  (3s down) — 4.5, 4, 3.5 (avg 4 vs target 3)"
         }
       ],
       "steps": [
@@ -14585,6 +14591,12 @@
           "y": 7.6,
           "kind": "session",
           "label": "Full pistol — heel elevated (~2\" riser under the heel; no hand assist) — 3, 3, 3 (avg 3 vs target 5)"
+        },
+        {
+          "date": "2026-09-05",
+          "y": 7.47,
+          "kind": "session",
+          "label": "Full pistol — heel elevated (~2\" riser under the heel; no hand assist) — 4, 2, 1 (avg 2.3 vs target 5)"
         }
       ],
       "steps": [
@@ -15141,7 +15153,7 @@
     },
     "legs": {
       "candidates": 18,
-      "plotted": 12,
+      "plotted": 13,
       "rejected": [
         {
           "date": "2026-06-08",
@@ -15161,10 +15173,6 @@
         },
         {
           "date": "2026-08-29",
-          "why": "\"Full pistol (★heel elevated ~2\", no hand\" logged no usable numbers"
-        },
-        {
-          "date": "2026-09-05",
           "why": "\"Full pistol (★heel elevated ~2\", no hand\" logged no usable numbers"
         }
       ]
@@ -15236,7 +15244,7 @@
     },
     "hpull": {
       "candidates": 10,
-      "plotted": 7,
+      "plotted": 8,
       "rejected": [
         {
           "date": "2026-07-18",
@@ -15245,10 +15253,6 @@
         {
           "date": "2026-07-25",
           "why": "\"Feet-elevated Ring Row (★ feet on a chai\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
-        },
-        {
-          "date": "2026-09-05",
-          "why": "\"Feet-elevated ring row — slow eccentric \" logged no usable numbers"
         }
       ]
     }
@@ -16069,9 +16073,9 @@
           {
             "date": "2026-09-05",
             "name": "Feet-elevated ring row — slow eccentric (★3s down)",
-            "raw": "",
-            "avg": null,
-            "status": "✗ not plotted — \"Feet-elevated ring row — slow eccentric \" logged no usable numbers"
+            "raw": "4.5, 4, 3.5",
+            "avg": 4,
+            "status": "● plotted at 4.97"
           }
         ]
       },
@@ -16548,9 +16552,9 @@
           {
             "date": "2026-09-05",
             "name": "Full pistol (★heel elevated ~2\", no hand assist)",
-            "raw": "",
-            "avg": null,
-            "status": "✗ not plotted — \"Full pistol (★heel elevated ~2\", no hand\" logged no usable numbers"
+            "raw": "4, 2, 1",
+            "avg": 2.3,
+            "status": "● plotted at 7.47"
           }
         ]
       },
@@ -17256,7 +17260,7 @@
           },
           {
             "date": "2026-09-05",
-            "detail": "held: —"
+            "detail": "held: 32, 31"
           }
         ]
       },
@@ -17510,7 +17514,7 @@
           },
           {
             "date": "2026-09-05",
-            "detail": "reps: —"
+            "detail": "reps: 7, 6.5, 4"
           }
         ]
       },
@@ -17980,7 +17984,7 @@
           },
           {
             "date": "2026-09-05",
-            "detail": "reps: —"
+            "detail": "reps: 4, 2, 1"
           }
         ]
       },
@@ -18348,7 +18352,7 @@
         "rows": [
           {
             "date": "2026-09-05",
-            "detail": "reps: —"
+            "detail": "reps: 4.5, 4, 3.5"
           }
         ]
       }
@@ -18381,8 +18385,8 @@
             "ladderId": "hpull",
             "ladderName": "Horizontal Pull — ROWS",
             "name": "Feet-elevated ring row — slow eccentric (★3s down)",
-            "raw": "",
-            "avg": null,
+            "raw": "4.5, 4, 3.5",
+            "avg": 4,
             "target": "3 × 8",
             "sets": 3,
             "cleared": false
@@ -18391,8 +18395,8 @@
             "ladderId": "legs",
             "ladderName": "Legs — Pistol",
             "name": "Full pistol (★heel elevated ~2\", no hand assist)",
-            "raw": "",
-            "avg": null,
+            "raw": "4, 2, 1",
+            "avg": 2.3,
             "target": "5/leg",
             "sets": 3,
             "cleared": false
@@ -20562,8 +20566,12 @@
       "detail": "8, 8, 8"
     },
     "hpull": {
-      "date": "2026-09-03",
-      "detail": "8, 8, 9.5"
+      "date": "2026-09-05",
+      "detail": "4.5, 4, 3.5"
+    },
+    "legs": {
+      "date": "2026-09-05",
+      "detail": "4, 2, 1"
     },
     "grip": {
       "date": "2026-09-02",
@@ -20592,10 +20600,6 @@
     "explosive": {
       "date": "2026-08-31",
       "detail": "0, 2, 2.5"
-    },
-    "legs": {
-      "date": "2026-08-22",
-      "detail": "3, 3, 3"
     }
   },
   "health": {
@@ -23515,6 +23519,27 @@
     "vista-pyramid": "vista-pyramid.webp",
     "vista-redeemer": "vista-redeemer.webp"
   },
-  "pending_clears": [],
+  "pending_clears": [
+    {
+      "key": "rung:hpull:4:2026-09-05",
+      "date": "2026-09-05",
+      "ladder": "hpull",
+      "ladder_name": "Horizontal Pull — ROWS",
+      "rung": 4,
+      "movement": "Feet-elevated ring row — slow eccentric  (3s down)",
+      "exercise": "Feet-elevated ring row — slow eccentric (★3s down)",
+      "sets": [
+        4.5,
+        4,
+        3.5
+      ],
+      "avg": 4,
+      "target": 3,
+      "sets_needed": 3,
+      "band": "small",
+      "feet": 10,
+      "answer_line": "- notes / skips: clean rung:hpull:4:2026-09-05 yes   # Horizontal Pull — ROWS rung 4 — Feet-elevated ring row — slow eccentric  (3s down)"
+    }
+  ],
   "pending_clear_notes": []
 }
