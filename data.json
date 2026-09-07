@@ -21,7 +21,7 @@
     },
     "overall_total": 1287,
     "generated_for": "2026-09-07",
-    "built_at": "2026-09-07T11:05:52.051Z",
+    "built_at": "2026-09-07T12:00:05.006Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -12503,52 +12503,62 @@
         {
           "name": "Standard push-up",
           "target": "20",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Diamond push-up",
           "target": "15",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Archer push-up",
           "target": "8/side",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Uneven push-up (hand on block)",
           "target": "8/side",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Typewriter push-up (slide side-to-side)",
           "target": "8/side",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Elevated one-arm push-up (hands raised)",
           "target": "8/side",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "One-arm negative (3s lower)",
           "target": "8/side",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Assisted one-arm (fingertips)",
           "target": "8/side",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "One-arm push-up — legs wide",
           "target": "8/side",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "One-arm push-up — legs together",
           "target": "8/side = MASTERED",
-          "sets": 1
+          "sets": 1,
+          "targetAmbiguous": false
         }
       ],
       "chart": 1,
@@ -12581,52 +12591,62 @@
         {
           "name": "Power push-up (hands leave floor, no clap)",
           "target": "8",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Clap push-up (front)",
           "target": "8",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Chest-tap push-up",
           "target": "8",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Double clap push-up (two front claps)",
           "target": "3",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Double clap",
           "target": "8",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Hip/thigh-tap clap",
           "target": "8",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Behind-the-back clap",
           "target": "3",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Behind-the-back clap",
           "target": "8",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Front-then-behind clap",
           "target": "3",
-          "sets": 1
+          "sets": 1,
+          "targetAmbiguous": false
         },
         {
           "name": "Triple clap (front → behind → front)",
           "target": "3 = MASTERED",
-          "sets": 1
+          "sets": 1,
+          "targetAmbiguous": false
         }
       ],
       "chart": 2,
@@ -12659,52 +12679,62 @@
         {
           "name": "Planche lean",
           "target": "20s",
-          "sets": 2
+          "sets": 2,
+          "targetAmbiguous": false
         },
         {
           "name": "Pseudo-planche push-ups (PPP)",
           "target": "8",
-          "sets": 2
+          "sets": 2,
+          "targetAmbiguous": false
         },
         {
           "name": "Tuck planche",
           "target": "15s",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Tuck planche push-up",
           "target": "8",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Advanced-tuck planche",
           "target": "15s",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Advanced-tuck planche push-up",
           "target": "8",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Straddle planche",
           "target": "10s",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Straddle planche push-up",
           "target": "5",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Full planche — negative",
           "target": "5 slow",
-          "sets": 1
+          "sets": 1,
+          "targetAmbiguous": false
         },
         {
           "name": "Full planche",
           "target": "5s = MASTERED",
-          "sets": 1
+          "sets": 1,
+          "targetAmbiguous": false
         }
       ],
       "gated": "healthy loaded wrists + ~20 clean push-ups — met.* ✅ ACTIVATED at rung 1 (2026-07-10): planche lean now runs as a ★ progression in Day A (flex finisher); beat the 20s rung-1 target to unlock PPP",
@@ -12739,57 +12769,68 @@
         {
           "name": "Pike push-up",
           "target": "8",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Feet-elevated pike push-up",
           "target": "8",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Wall handstand hold (kick-up)",
           "target": "30s",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Chest-to-wall handstand hold",
           "target": "30s",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Wall HSPU — partial ROM",
           "target": "5",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Wall HSPU — 75% ROM (three-quarter depth)",
           "target": "8",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Wall HSPU — full ROM",
           "target": "8",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Freestanding kick-up + balance",
           "target": "consistent kick-up",
-          "sets": "3 of 5"
+          "sets": "3 of 5",
+          "targetAmbiguous": true
         },
         {
           "name": "Freestanding handstand hold",
           "target": "15s",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Freestanding HSPU",
           "target": "1–2",
-          "sets": 1
+          "sets": 1,
+          "targetAmbiguous": true
         },
         {
           "name": "Freestanding HSPU",
           "target": "3 = MASTERED",
-          "sets": 1
+          "sets": 1,
+          "targetAmbiguous": false
         }
       ],
       "chart": 4,
@@ -12822,52 +12863,62 @@
         {
           "name": "Dead hang",
           "target": "45s",
-          "sets": 2
+          "sets": 2,
+          "targetAmbiguous": false
         },
         {
           "name": "Scapular pulls",
           "target": "8",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Negative pull-up (5s)",
           "target": "8",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Full pull-up",
           "target": "3",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Full pull-up",
           "target": "8",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Uneven / towel pull-up",
           "target": "8/side",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "One-arm negative (3s)",
           "target": "8/side",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "One-arm top-hold / lockoff",
           "target": "10s/side",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Assisted one-arm (towel, minimal)",
           "target": "8/side",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "One-arm pull-up",
           "target": "3/side = MASTERED",
-          "sets": 1
+          "sets": 1,
+          "targetAmbiguous": false
         }
       ],
       "chart": 5,
@@ -12901,52 +12952,62 @@
         {
           "name": "Incline ring row (torso ~45°, feet under you)",
           "target": "8",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Parallel ring row (body horizontal, feet on floor)",
           "target": "8",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Feet-elevated ring row (feet on a chair)",
           "target": "8",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Feet-elevated ring row — slow eccentric  (3s down)",
-          "target": "3 × 8",
-          "sets": 3
+          "target": "8",
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Uneven ring row (one arm high on strap, one low)",
           "target": "8/side",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Uneven ring row — feet elevated",
           "target": "8/side",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Assisted one-arm ring row (off-hand fingertip assist)",
           "target": "5/side",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "One-arm ring row — negative (3s down)",
           "target": "5/side",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "One-arm ring row (feet on floor)",
           "target": "5/side",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "One-arm ring row — feet elevated",
           "target": "5/side = MASTERED",
-          "sets": 1
+          "sets": 1,
+          "targetAmbiguous": false
         }
       ],
       "gated": "gymnastic rings (hang from the doorway bar, strap-lowered so you can lean under)",
@@ -12977,52 +13038,62 @@
         {
           "name": "Tuck front lever",
           "target": "15s",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Tuck front-lever raises",
           "target": "8",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Advanced-tuck front lever",
           "target": "15s",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Advanced-tuck raises",
           "target": "8",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "One-leg front lever",
           "target": "10s/side",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "One-leg raises",
           "target": "8",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Straddle front lever",
           "target": "10s",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Straddle front lever",
           "target": "15s",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Full front lever — negative",
           "target": "5 slow",
-          "sets": 1
+          "sets": 1,
+          "targetAmbiguous": false
         },
         {
           "name": "Full front lever",
           "target": "5s = MASTERED",
-          "sets": 1
+          "sets": 1,
+          "targetAmbiguous": false
         }
       ],
       "gated": "~5 clean pull-ups + 45s hollow hold",
@@ -13056,52 +13127,62 @@
         {
           "name": "Negative chin-up (5s)",
           "target": "5",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Full chin-up (+ negative back-off)",
           "target": "3",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Full chin-up",
           "target": "8",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Towel / uneven chin-up",
           "target": "8/side",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Deeper towel chin-up (grip lower)",
           "target": "8/side",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "One-arm chin negative (3s)",
           "target": "8/side",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "One-arm chin lockoff / top-hold",
           "target": "10s/side",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Assisted one-arm chin (towel)",
           "target": "8/side",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "One-arm chin-up",
           "target": "1/side",
-          "sets": 1
+          "sets": 1,
+          "targetAmbiguous": false
         },
         {
           "name": "One-arm chin-up",
           "target": "3/side = MASTERED",
-          "sets": 1
+          "sets": 1,
+          "targetAmbiguous": false
         }
       ],
       "chart": 6,
@@ -13134,52 +13215,62 @@
         {
           "name": "Dead hang",
           "target": "30s",
-          "sets": 2
+          "sets": 2,
+          "targetAmbiguous": false
         },
         {
           "name": "Dead hang",
           "target": "45s",
-          "sets": 2
+          "sets": 2,
+          "targetAmbiguous": false
         },
         {
           "name": "Dead hang",
           "target": "60s",
-          "sets": 2
+          "sets": 2,
+          "targetAmbiguous": false
         },
         {
           "name": "Towel dead hang (thick grip)",
           "target": "20s",
-          "sets": 2
+          "sets": 2,
+          "targetAmbiguous": false
         },
         {
           "name": "Towel dead hang",
           "target": "30s",
-          "sets": 2
+          "sets": 2,
+          "targetAmbiguous": false
         },
         {
           "name": "One-towel hang (both hands, one towel)",
           "target": "20s",
-          "sets": 2
+          "sets": 2,
+          "targetAmbiguous": false
         },
         {
           "name": "Uneven hang (one hand bar, one hand towel low)",
           "target": "20s/side",
-          "sets": 2
+          "sets": 2,
+          "targetAmbiguous": false
         },
         {
           "name": "One-arm dead hang — assisted (other hand on towel)",
           "target": "15s/side",
-          "sets": 2
+          "sets": 2,
+          "targetAmbiguous": false
         },
         {
           "name": "One-arm dead hang",
           "target": "10s/side",
-          "sets": 1
+          "sets": 1,
+          "targetAmbiguous": false
         },
         {
           "name": "One-arm dead hang",
           "target": "20s/side = MASTERED",
-          "sets": 1
+          "sets": 1,
+          "targetAmbiguous": false
         }
       ],
       "chart": 7,
@@ -13212,57 +13303,68 @@
         {
           "name": "Bodyweight squat",
           "target": "20",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Split squat",
           "target": "12/leg",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Bulgarian split squat",
           "target": "10/leg",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Box pistol — high box",
           "target": "5/leg",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Box pistol — low box",
           "target": "5/leg",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Assisted floor pistol (hands on rings)",
           "target": "5/leg",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Full pistol — heel elevated (~2\" riser under the heel; no hand assist)",
           "target": "5/leg",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Full pistol — flat, no assist",
           "target": "5/leg",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Full pistol — tempo (3s down)",
           "target": "5/leg",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Deficit pistol (off a riser)",
           "target": "5/leg",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Deficit pistol — deeper / weighted backpack",
           "target": "5/leg = MASTERED",
-          "sets": 1
+          "sets": 1,
+          "targetAmbiguous": false
         }
       ],
       "chart": 8,
@@ -13296,57 +13398,68 @@
         {
           "name": "Hollow hold",
           "target": "30s",
-          "sets": 2
+          "sets": 2,
+          "targetAmbiguous": false
         },
         {
           "name": "Hollow hold",
           "target": "45s",
-          "sets": 2
+          "sets": 2,
+          "targetAmbiguous": false
         },
         {
           "name": "V-up / tuck-up",
           "target": "15",
-          "sets": 2
+          "sets": 2,
+          "targetAmbiguous": false
         },
         {
           "name": "Elevated tuck L-sit (hands raised on blocks/parallettes)",
           "target": "15s",
-          "sets": 2
+          "sets": 2,
+          "targetAmbiguous": false
         },
         {
           "name": "Tuck L-sit",
           "target": "15s",
-          "sets": 2
+          "sets": 2,
+          "targetAmbiguous": false
         },
         {
           "name": "One-leg L-sit",
           "target": "10s/side",
-          "sets": 2
+          "sets": 2,
+          "targetAmbiguous": false
         },
         {
           "name": "Full L-sit",
           "target": "15s",
-          "sets": 2
+          "sets": 2,
+          "targetAmbiguous": false
         },
         {
           "name": "Full L-sit",
           "target": "30s",
-          "sets": 2
+          "sets": 2,
+          "targetAmbiguous": false
         },
         {
           "name": "Dragon flag — tuck/bent negative",
           "target": "5",
-          "sets": 2
+          "sets": 2,
+          "targetAmbiguous": false
         },
         {
           "name": "Dragon flag — straight negative (5s)",
           "target": "5",
-          "sets": 2
+          "sets": 2,
+          "targetAmbiguous": false
         },
         {
           "name": "Dragon flag",
           "target": "5 = MASTERED",
-          "sets": 1
+          "sets": 1,
+          "targetAmbiguous": false
         }
       ],
       "chart": 9,
@@ -13382,52 +13495,62 @@
         {
           "name": "Hanging knee raise",
           "target": "12",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Hanging knee raise — slow eccentric (normal up, 3s down)",
           "target": "10",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Hanging knee raise — full slow tempo (3s up / 3s down)",
           "target": "10",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "L-tuck hold (knees up)",
           "target": "10s",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Oblique knee raises",
           "target": "8/side",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Bent-leg windshield wipers",
           "target": "6/side",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Tucked raise toward bar (as high as the low bar allows)",
           "target": "8",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Hanging windshield wipers — partial",
           "target": "5/side",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Hanging windshield wipers",
           "target": "6/side",
-          "sets": 3
+          "sets": 3,
+          "targetAmbiguous": false
         },
         {
           "name": "Hanging windshield wipers",
           "target": "8/side = MASTERED",
-          "sets": 1
+          "sets": 1,
+          "targetAmbiguous": false
         }
       ],
       "chart": 10,
@@ -14178,9 +14301,9 @@
         },
         {
           "date": "2026-09-05",
-          "y": 4.97,
+          "y": 4.5,
           "kind": "session",
-          "label": "Feet-elevated ring row — slow eccentric  (3s down) — 4.5, 4, 3.5 (avg 4 vs target 3)"
+          "label": "Feet-elevated ring row — slow eccentric  (3s down) — 4.5, 4, 3.5 (avg 4 vs target 8)"
         }
       ],
       "steps": [
@@ -16097,7 +16220,7 @@
             "name": "Feet-elevated ring row — slow eccentric (★3s down)",
             "raw": "4.5, 4, 3.5",
             "avg": 4,
-            "status": "● plotted at 4.97"
+            "status": "● plotted at 4.5"
           }
         ]
       },
@@ -18409,7 +18532,7 @@
             "name": "Feet-elevated ring row — slow eccentric (★3s down)",
             "raw": "4.5, 4, 3.5",
             "avg": 4,
-            "target": "3 × 8",
+            "target": "8",
             "sets": 3,
             "cleared": false
           },
@@ -23541,27 +23664,6 @@
     "vista-pyramid": "vista-pyramid.webp",
     "vista-redeemer": "vista-redeemer.webp"
   },
-  "pending_clears": [
-    {
-      "key": "rung:hpull:4:2026-09-05",
-      "date": "2026-09-05",
-      "ladder": "hpull",
-      "ladder_name": "Horizontal Pull — ROWS",
-      "rung": 4,
-      "movement": "Feet-elevated ring row — slow eccentric  (3s down)",
-      "exercise": "Feet-elevated ring row — slow eccentric (★3s down)",
-      "sets": [
-        4.5,
-        4,
-        3.5
-      ],
-      "avg": 4,
-      "target": 3,
-      "sets_needed": 3,
-      "band": "small",
-      "feet": 10,
-      "answer_line": "- notes / skips: clean rung:hpull:4:2026-09-05 yes   # Horizontal Pull — ROWS rung 4 — Feet-elevated ring row — slow eccentric  (3s down)"
-    }
-  ],
+  "pending_clears": [],
   "pending_clear_notes": []
 }
