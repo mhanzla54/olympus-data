@@ -21,7 +21,7 @@
     },
     "overall_total": 1288,
     "generated_for": "2026-09-07",
-    "built_at": "2026-09-07T13:00:04.117Z",
+    "built_at": "2026-09-07T13:20:04.221Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -14030,6 +14030,12 @@
           "y": 6.33,
           "kind": "session",
           "label": "Wall HSPU — full ROM — 2, 3, 3 (avg 2.7 vs target 8)"
+        },
+        {
+          "date": "2026-09-07",
+          "y": 6.44,
+          "kind": "session",
+          "label": "Wall HSPU — 75% ROM (three-quarter depth) — 3, 4, (avg 3.5 vs target 8)"
         }
       ],
       "steps": [
@@ -14654,6 +14660,12 @@
           "y": 3.33,
           "kind": "session",
           "label": "Dead hang — 22, 17 (avg 19.5 vs target 60)"
+        },
+        {
+          "date": "2026-09-07",
+          "y": 3.33,
+          "kind": "session",
+          "label": "Dead hang — 25, 14 (avg 19.5 vs target 60)"
         }
       ],
       "steps": [
@@ -15251,13 +15263,8 @@
     },
     "handstand": {
       "candidates": 13,
-      "plotted": 12,
-      "rejected": [
-        {
-          "date": "2026-09-07",
-          "why": "\"Wall HSPU (★75% ROM)\" logged no usable numbers"
-        }
-      ]
+      "plotted": 13,
+      "rejected": []
     },
     "pull": {
       "candidates": 42,
@@ -15341,13 +15348,8 @@
     },
     "grip": {
       "candidates": 26,
-      "plotted": 25,
-      "rejected": [
-        {
-          "date": "2026-09-07",
-          "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" logged no usable numbers"
-        }
-      ]
+      "plotted": 26,
+      "rejected": []
     },
     "legs": {
       "candidates": 18,
@@ -15839,9 +15841,9 @@
           {
             "date": "2026-09-07",
             "name": "Wall HSPU (★75% ROM)",
-            "raw": "",
-            "avg": null,
-            "status": "✗ not plotted — \"Wall HSPU (★75% ROM)\" logged no usable numbers"
+            "raw": "3, 4,",
+            "avg": 3.5,
+            "status": "● plotted at 6.44"
           }
         ]
       },
@@ -16216,8 +16218,8 @@
           {
             "date": "2026-09-07",
             "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
-            "raw": "",
-            "avg": null,
+            "raw": "25, 14",
+            "avg": 19.5,
             "status": "✗ not plotted — \"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           }
         ]
@@ -16653,9 +16655,9 @@
           {
             "date": "2026-09-07",
             "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
-            "raw": "",
-            "avg": null,
-            "status": "✗ not plotted — \"Grip+trap (flex): dead hang ★ + scap shr\" logged no usable numbers"
+            "raw": "25, 14",
+            "avg": 19.5,
+            "status": "● plotted at 3.33"
           }
         ]
       },
@@ -17297,7 +17299,7 @@
           },
           {
             "date": "2026-09-07",
-            "detail": "hang: — · shrugs: —"
+            "detail": "hang: 25, 14 · shrugs: 7, 10"
           }
         ]
       },
@@ -18622,7 +18624,7 @@
         "rows": [
           {
             "date": "2026-09-07",
-            "detail": "reps: —"
+            "detail": "reps: 3, 4,"
           }
         ]
       }
@@ -18655,8 +18657,8 @@
             "ladderId": "pull",
             "ladderName": "Pull",
             "name": "Dead hang ★",
-            "raw": "",
-            "avg": null,
+            "raw": "25, 14",
+            "avg": 19.5,
             "target": "45s",
             "sets": 2,
             "cleared": false
@@ -18665,8 +18667,8 @@
             "ladderId": "handstand",
             "ladderName": "Vertical Push / Handstand",
             "name": "Wall HSPU (★75% ROM)",
-            "raw": "",
-            "avg": null,
+            "raw": "3, 4,",
+            "avg": 3.5,
             "target": "8",
             "sets": 3,
             "cleared": false
@@ -20887,8 +20889,16 @@
       "detail": "8, 7, 4"
     },
     "pull": {
-      "date": "2026-09-05",
-      "detail": "6, 5, 4"
+      "date": "2026-09-07",
+      "detail": "25, 14"
+    },
+    "grip": {
+      "date": "2026-09-07",
+      "detail": "25, 14"
+    },
+    "handstand": {
+      "date": "2026-09-07",
+      "detail": "3, 4,"
     },
     "frontlever": {
       "date": "2026-09-05",
@@ -20902,10 +20912,6 @@
       "date": "2026-09-05",
       "detail": "4, 2, 1"
     },
-    "grip": {
-      "date": "2026-09-02",
-      "detail": "22, 17"
-    },
     "push": {
       "date": "2026-09-02",
       "detail": "8, 8, 8"
@@ -20917,10 +20923,6 @@
     "planche": {
       "date": "2026-09-02",
       "detail": "8, 8"
-    },
-    "handstand": {
-      "date": "2026-08-31",
-      "detail": "2, 3, 3"
     },
     "explosive": {
       "date": "2026-08-31",
