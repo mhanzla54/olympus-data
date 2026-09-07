@@ -21,7 +21,7 @@
     },
     "overall_total": 1288,
     "generated_for": "2026-09-07",
-    "built_at": "2026-09-07T13:30:03.602Z",
+    "built_at": "2026-09-07T13:40:04.120Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -13804,7 +13804,7 @@
           "date": "2026-09-07",
           "y": 4.97,
           "kind": "session",
-          "label": "Double clap push-up (two front claps) — 3, (avg 3 vs target 3)"
+          "label": "Double clap push-up (two front claps) — 3, 4, 4 (avg 3.7 vs target 3)"
         }
       ],
       "steps": [
@@ -15203,9 +15203,9 @@
         },
         {
           "date": "2026-09-07",
-          "y": 6.97,
+          "y": 6.53,
           "kind": "session",
-          "label": "Bent-leg windshield wipers — 8, 7, 4 (avg 6.3 vs target 6)"
+          "label": "Bent-leg windshield wipers — 4, 3.5, 2 (avg 3.2 vs target 6)"
         }
       ],
       "steps": [
@@ -15648,8 +15648,8 @@
           {
             "date": "2026-09-07",
             "name": "Double clap push-up (★explosive — two front claps)",
-            "raw": "3,",
-            "avg": 3,
+            "raw": "3, 4, 4",
+            "avg": 3.7,
             "status": "● plotted at 4.97"
           }
         ]
@@ -17199,9 +17199,9 @@
           {
             "date": "2026-09-07",
             "name": "Bent-leg windshield wipers ★",
-            "raw": "8, 7, 4",
-            "avg": 6.3,
-            "status": "● plotted at 6.97"
+            "raw": "4, 3.5, 2",
+            "avg": 3.2,
+            "status": "● plotted at 6.53"
           }
         ]
       }
@@ -18371,7 +18371,7 @@
           },
           {
             "date": "2026-09-07",
-            "detail": "reps: 3,"
+            "detail": "reps: 3, 4, 4"
           }
         ]
       },
@@ -18616,7 +18616,7 @@
         "rows": [
           {
             "date": "2026-09-07",
-            "detail": "reps: 8, 7, 4"
+            "detail": "reps: 4, 3.5, 2"
           }
         ]
       },
@@ -18648,8 +18648,8 @@
             "ladderId": "corehang",
             "ladderName": "Core — HANGING",
             "name": "Bent-leg windshield wipers ★",
-            "raw": "8, 7, 4",
-            "avg": 6.3,
+            "raw": "4, 3.5, 2",
+            "avg": 3.2,
             "target": "6/side",
             "sets": 3,
             "cleared": false
@@ -18678,8 +18678,8 @@
             "ladderId": "explosive",
             "ladderName": "Horizontal Push — EXPLOSIVE",
             "name": "Double clap push-up (★explosive — two front claps)",
-            "raw": "3,",
-            "avg": 3,
+            "raw": "3, 4, 4",
+            "avg": 3.7,
             "target": "3",
             "sets": 3,
             "cleared": false
@@ -20887,7 +20887,7 @@
     },
     "corehang": {
       "date": "2026-09-07",
-      "detail": "8, 7, 4"
+      "detail": "4, 3.5, 2"
     },
     "pull": {
       "date": "2026-09-07",
@@ -20903,7 +20903,7 @@
     },
     "explosive": {
       "date": "2026-09-07",
-      "detail": "3,"
+      "detail": "3, 4, 4"
     },
     "frontlever": {
       "date": "2026-09-05",
@@ -23849,24 +23849,24 @@
   },
   "pending_clears": [
     {
-      "key": "rung:corehang:6:2026-09-07",
+      "key": "rung:explosive:4:2026-09-07",
       "date": "2026-09-07",
-      "ladder": "corehang",
-      "ladder_name": "Core — HANGING",
-      "rung": 6,
-      "movement": "Bent-leg windshield wipers",
-      "exercise": "Bent-leg windshield wipers ★",
+      "ladder": "explosive",
+      "ladder_name": "Horizontal Push — EXPLOSIVE",
+      "rung": 4,
+      "movement": "Double clap push-up (two front claps)",
+      "exercise": "Double clap push-up (★explosive — two front claps)",
       "sets": [
-        8,
-        7,
+        3,
+        4,
         4
       ],
-      "avg": 6.33,
-      "target": 6,
+      "avg": 3.67,
+      "target": 3,
       "sets_needed": 3,
       "band": "small",
       "feet": 10,
-      "answer_line": "- notes / skips: clean rung:corehang:6:2026-09-07 yes   # Core — HANGING rung 6 — Bent-leg windshield wipers"
+      "answer_line": "- notes / skips: clean rung:explosive:4:2026-09-07 yes   # Horizontal Push — EXPLOSIVE rung 4 — Double clap push-up (two front claps)"
     }
   ],
   "pending_clear_notes": []
