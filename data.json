@@ -21,7 +21,7 @@
     },
     "overall_total": 1288,
     "generated_for": "2026-09-07",
-    "built_at": "2026-09-07T13:20:04.221Z",
+    "built_at": "2026-09-07T13:30:03.602Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -13799,6 +13799,12 @@
           "y": 4.5,
           "kind": "session",
           "label": "Double clap push-up (two front claps) — 0, 2, 2.5 (avg 1.5 vs target 3)"
+        },
+        {
+          "date": "2026-09-07",
+          "y": 4.97,
+          "kind": "session",
+          "label": "Double clap push-up (two front claps) — 3, (avg 3 vs target 3)"
         }
       ],
       "steps": [
@@ -14033,9 +14039,9 @@
         },
         {
           "date": "2026-09-07",
-          "y": 6.44,
+          "y": 6.38,
           "kind": "session",
-          "label": "Wall HSPU — 75% ROM (three-quarter depth) — 3, 4, (avg 3.5 vs target 8)"
+          "label": "Wall HSPU — 75% ROM (three-quarter depth) — 3, 4, 2 (avg 3 vs target 8)"
         }
       ],
       "steps": [
@@ -15248,13 +15254,8 @@
     },
     "explosive": {
       "candidates": 13,
-      "plotted": 12,
-      "rejected": [
-        {
-          "date": "2026-09-07",
-          "why": "\"Double clap push-up (★explosive — two fr\" logged no usable numbers"
-        }
-      ]
+      "plotted": 13,
+      "rejected": []
     },
     "planche": {
       "candidates": 13,
@@ -15647,9 +15648,9 @@
           {
             "date": "2026-09-07",
             "name": "Double clap push-up (★explosive — two front claps)",
-            "raw": "",
-            "avg": null,
-            "status": "✗ not plotted — \"Double clap push-up (★explosive — two fr\" logged no usable numbers"
+            "raw": "3,",
+            "avg": 3,
+            "status": "● plotted at 4.97"
           }
         ]
       },
@@ -15841,9 +15842,9 @@
           {
             "date": "2026-09-07",
             "name": "Wall HSPU (★75% ROM)",
-            "raw": "3, 4,",
-            "avg": 3.5,
-            "status": "● plotted at 6.44"
+            "raw": "3, 4, 2",
+            "avg": 3,
+            "status": "● plotted at 6.38"
           }
         ]
       },
@@ -18370,7 +18371,7 @@
           },
           {
             "date": "2026-09-07",
-            "detail": "reps: —"
+            "detail": "reps: 3,"
           }
         ]
       },
@@ -18624,7 +18625,7 @@
         "rows": [
           {
             "date": "2026-09-07",
-            "detail": "reps: 3, 4,"
+            "detail": "reps: 3, 4, 2"
           }
         ]
       }
@@ -18667,8 +18668,8 @@
             "ladderId": "handstand",
             "ladderName": "Vertical Push / Handstand",
             "name": "Wall HSPU (★75% ROM)",
-            "raw": "3, 4,",
-            "avg": 3.5,
+            "raw": "3, 4, 2",
+            "avg": 3,
             "target": "8",
             "sets": 3,
             "cleared": false
@@ -18677,8 +18678,8 @@
             "ladderId": "explosive",
             "ladderName": "Horizontal Push — EXPLOSIVE",
             "name": "Double clap push-up (★explosive — two front claps)",
-            "raw": "",
-            "avg": null,
+            "raw": "3,",
+            "avg": 3,
             "target": "3",
             "sets": 3,
             "cleared": false
@@ -20898,7 +20899,11 @@
     },
     "handstand": {
       "date": "2026-09-07",
-      "detail": "3, 4,"
+      "detail": "3, 4, 2"
+    },
+    "explosive": {
+      "date": "2026-09-07",
+      "detail": "3,"
     },
     "frontlever": {
       "date": "2026-09-05",
@@ -20923,10 +20928,6 @@
     "planche": {
       "date": "2026-09-02",
       "detail": "8, 8"
-    },
-    "explosive": {
-      "date": "2026-08-31",
-      "detail": "0, 2, 2.5"
     }
   },
   "health": {
