@@ -21,7 +21,7 @@
     },
     "overall_total": 1288,
     "generated_for": "2026-09-07",
-    "built_at": "2026-09-07T12:50:03.670Z",
+    "built_at": "2026-09-07T13:00:04.117Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -15182,6 +15182,12 @@
             "got": "8, 8, 8",
             "avg": 8
           }
+        },
+        {
+          "date": "2026-09-07",
+          "y": 6.97,
+          "kind": "session",
+          "label": "Bent-leg windshield wipers — 8, 7, 4 (avg 6.3 vs target 6)"
         }
       ],
       "steps": [
@@ -15376,7 +15382,7 @@
     },
     "corehang": {
       "candidates": 40,
-      "plotted": 36,
+      "plotted": 37,
       "rejected": [
         {
           "date": "2026-06-27",
@@ -15389,10 +15395,6 @@
         {
           "date": "2026-07-06",
           "why": "\"Hanging knee raise\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
-        },
-        {
-          "date": "2026-09-07",
-          "why": "\"Bent-leg windshield wipers ★\" logged no usable numbers"
         }
       ]
     },
@@ -17194,9 +17196,9 @@
           {
             "date": "2026-09-07",
             "name": "Bent-leg windshield wipers ★",
-            "raw": "",
-            "avg": null,
-            "status": "✗ not plotted — \"Bent-leg windshield wipers ★\" logged no usable numbers"
+            "raw": "8, 7, 4",
+            "avg": 6.3,
+            "status": "● plotted at 6.97"
           }
         ]
       }
@@ -18611,7 +18613,7 @@
         "rows": [
           {
             "date": "2026-09-07",
-            "detail": "reps: —"
+            "detail": "reps: 8, 7, 4"
           }
         ]
       },
@@ -18643,8 +18645,8 @@
             "ladderId": "corehang",
             "ladderName": "Core — HANGING",
             "name": "Bent-leg windshield wipers ★",
-            "raw": "",
-            "avg": null,
+            "raw": "8, 7, 4",
+            "avg": 6.3,
             "target": "6/side",
             "sets": 3,
             "cleared": false
@@ -20880,13 +20882,13 @@
       "date": "2026-09-07",
       "detail": "7, 6, 4"
     },
+    "corehang": {
+      "date": "2026-09-07",
+      "detail": "8, 7, 4"
+    },
     "pull": {
       "date": "2026-09-05",
       "detail": "6, 5, 4"
-    },
-    "corehang": {
-      "date": "2026-09-05",
-      "detail": "8, 8, 8"
     },
     "frontlever": {
       "date": "2026-09-05",
@@ -23842,6 +23844,27 @@
     "vista-pyramid": "vista-pyramid.webp",
     "vista-redeemer": "vista-redeemer.webp"
   },
-  "pending_clears": [],
+  "pending_clears": [
+    {
+      "key": "rung:corehang:6:2026-09-07",
+      "date": "2026-09-07",
+      "ladder": "corehang",
+      "ladder_name": "Core — HANGING",
+      "rung": 6,
+      "movement": "Bent-leg windshield wipers",
+      "exercise": "Bent-leg windshield wipers ★",
+      "sets": [
+        8,
+        7,
+        4
+      ],
+      "avg": 6.33,
+      "target": 6,
+      "sets_needed": 3,
+      "band": "small",
+      "feet": 10,
+      "answer_line": "- notes / skips: clean rung:corehang:6:2026-09-07 yes   # Core — HANGING rung 6 — Bent-leg windshield wipers"
+    }
+  ],
   "pending_clear_notes": []
 }
