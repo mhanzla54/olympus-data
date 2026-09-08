@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 214.2
     },
-    "overall_total": 1296,
+    "overall_total": 1306,
     "generated_for": "2026-09-08",
-    "built_at": "2026-09-08T18:20:04.271Z",
+    "built_at": "2026-09-08T18:20:06.624Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1421
+      "ft_to_go": 1411
     },
     "captures_today_unscored": 0
   },
@@ -88,7 +88,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 397,
+      "current": 407,
       "working_on": "the next new-pound low"
     },
     {
@@ -8067,6 +8067,20 @@
       "evidence": "POLARIS xmtr6bclh",
       "booked": "2026-09-08",
       "source": "polaris:xmtr6bclh:2026-09-08:session:1"
+    },
+    {
+      "date": "2026-09-08",
+      "lane": "body",
+      "activity": "weight-ratchet — 214.2 lb on 2026-09-08",
+      "label": "weight-ratchet — 214.2 lb on 2026-09-08",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 407,
+      "cum_overall": 1306,
+      "reasoning": "codebook ⚖️ weight-ratchet: needed UNDER 215 lb  (the 215 lb line); got 214.2 lb on 2026-09-08",
+      "evidence": "health warehouse",
+      "booked": "2026-09-08",
+      "source": "body:weight-ratchet:2026-09-08:215"
     }
   ],
   "polaris_booked": {
@@ -12000,6 +12014,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "calorie-day — 1758 kcal"
+      },
+      {
+        "date": "2026-09-08",
+        "cum": 407,
+        "feet": 10,
+        "tier": "small",
+        "activity": "weight-ratchet — 214.2 lb on 2026-09-08"
       }
     ],
     "fieldpresence": [
@@ -24076,7 +24097,17 @@
   },
   "pending_clears": [],
   "pending_clear_notes": [],
-  "body_crossings": [],
+  "body_crossings": [
+    {
+      "kind": "weight-ratchet",
+      "date": "2026-09-08",
+      "booked": "2026-09-08",
+      "feet": 10,
+      "line": 215,
+      "weight": 214.2,
+      "tier": "small"
+    }
+  ],
   "body_next_bars": {
     "next_lb_line": 215,
     "next_10lb_marker": 210,
