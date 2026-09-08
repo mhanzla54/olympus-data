@@ -21,7 +21,7 @@
     },
     "overall_total": 1296,
     "generated_for": "2026-09-08",
-    "built_at": "2026-09-08T17:10:03.570Z",
+    "built_at": "2026-09-08T17:24:18.483Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -89,7 +89,7 @@
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
       "current": 397,
-      "working_on": "the next new-pound low (≤ 215 lb)"
+      "working_on": "the next new-pound low"
     },
     {
       "id": "fieldpresence",
