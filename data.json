@@ -9,8 +9,8 @@
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
     "ratchet": {
-      "weight_low_lb": 215.8,
-      "next_weight_tick_lb": 215,
+      "weight_low_lb": 214.2,
+      "next_weight_tick_lb": 214,
       "waist_in": 37.5,
       "belly_in": 43,
       "hips_in": 43.75,
@@ -21,7 +21,7 @@
     },
     "overall_total": 1306,
     "generated_for": "2026-09-08",
-    "built_at": "2026-09-08T18:20:06.624Z",
+    "built_at": "2026-09-08T19:40:04.152Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -24109,8 +24109,8 @@
     }
   ],
   "body_next_bars": {
-    "next_lb_line": 215,
+    "next_lb_line": 214,
     "next_10lb_marker": 210,
-    "recorded_low": 215.8
+    "recorded_low": 214.2
   }
 }
