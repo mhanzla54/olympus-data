@@ -10,7 +10,7 @@
     ],
     "ratchet": {
       "weight_low_lb": 215.8,
-      "next_weight_tick_lb": 214.8,
+      "next_weight_tick_lb": 215,
       "waist_in": 37.5,
       "belly_in": 43,
       "hips_in": 43.75,
@@ -21,7 +21,7 @@
     },
     "overall_total": 1296,
     "generated_for": "2026-09-08",
-    "built_at": "2026-09-08T15:17:02.077Z",
+    "built_at": "2026-09-08T17:10:03.570Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -89,7 +89,7 @@
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
       "current": 397,
-      "working_on": "the next new-pound low (≤ 214.8 lb)"
+      "working_on": "the next new-pound low (≤ 215 lb)"
     },
     {
       "id": "fieldpresence",
@@ -24063,5 +24063,11 @@
     "vista-redeemer": "vista-redeemer.webp"
   },
   "pending_clears": [],
-  "pending_clear_notes": []
+  "pending_clear_notes": [],
+  "body_crossings": [],
+  "body_next_bars": {
+    "next_lb_line": 215,
+    "next_10lb_marker": 210,
+    "recorded_low": 215.8
+  }
 }
