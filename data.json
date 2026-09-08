@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 215.4
     },
-    "overall_total": 1294,
+    "overall_total": 1295,
     "generated_for": "2026-09-08",
-    "built_at": "2026-09-08T12:24:03.972Z",
+    "built_at": "2026-09-08T12:28:04.195Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1423
+      "ft_to_go": 1422
     },
     "captures_today_unscored": 0
   },
@@ -88,7 +88,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 396,
+      "current": 397,
       "working_on": "the next new-pound low (≤ 214.8 lb)"
     },
     {
@@ -8039,6 +8039,20 @@
       "evidence": "POLARIS xmtsn5csd",
       "booked": "2026-09-08",
       "source": "polaris:xmtsn5csd:completion"
+    },
+    {
+      "date": "2026-09-07",
+      "lane": "body",
+      "activity": "calorie-day — 1758 kcal",
+      "label": "calorie-day — 1758 kcal",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 397,
+      "cum_overall": 1295,
+      "reasoning": "codebook ⚖️ calorie-day: needed 1550–2100 kcal; got 1758 kcal",
+      "evidence": "health warehouse",
+      "booked": "2026-09-08",
+      "source": "body:calorie-day:2026-09-07"
     }
   ],
   "polaris_booked": {
@@ -11957,6 +11971,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "protein-day — 171 g (day still open — protein only rises, so this counts)"
+      },
+      {
+        "date": "2026-09-07",
+        "cum": 397,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "calorie-day — 1758 kcal"
       }
     ],
     "fieldpresence": [
@@ -21770,8 +21791,8 @@
       {
         "date": "2026-09-07",
         "w": 215.4,
-        "kcal": 1405,
-        "protein": 171,
+        "kcal": 1758,
+        "protein": 203,
         "dayType": "strict",
         "provisional": false
       }
@@ -22606,7 +22627,7 @@
       {
         "date": "2026-09-07",
         "state": "good",
-        "kcal": 1405
+        "kcal": 1758
       },
       {
         "date": "2026-09-08",
@@ -23449,8 +23470,8 @@
       },
       {
         "date": "2026-09-07",
-        "kcal": 1405,
-        "protein": 171,
+        "kcal": 1758,
+        "protein": 203,
         "dayType": "strict",
         "logged": "full",
         "provisional": false
