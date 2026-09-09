@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 214.2
     },
-    "overall_total": 1306,
-    "generated_for": "2026-09-08",
-    "built_at": "2026-09-08T19:40:04.152Z",
+    "overall_total": 1307,
+    "generated_for": "2026-09-09",
+    "built_at": "2026-09-09T12:23:45.044Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1411
+      "ft_to_go": 1410
     },
     "captures_today_unscored": 0
   },
@@ -38,7 +38,7 @@
       "t0_note": "couldn't write a single line of Python — ran his first print() the day before t0",
       "endpoint": "Replicate AND extend a frontier alignment result — public, runnable code",
       "endpoint_tier": "verylarge",
-      "current": 148,
+      "current": 149,
       "working_on": "Automate the Boring Stuff textbook"
     },
     {
@@ -8081,6 +8081,20 @@
       "evidence": "health warehouse",
       "booked": "2026-09-08",
       "source": "body:weight-ratchet:2026-09-08:215"
+    },
+    {
+      "date": "2026-09-09",
+      "lane": "coding",
+      "activity": "Chapter 10 ATBS Coding Reading + Notes OR Practice — a working sitting",
+      "label": "Chapter 10 ATBS Coding Reading + Notes OR Practice",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 149,
+      "cum_overall": 1307,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmtij02rz",
+      "booked": "2026-09-09",
+      "source": "polaris:xmtij02rz:2026-09-09:session:1"
     }
   ],
   "polaris_booked": {
@@ -8151,7 +8165,8 @@
     "polaris:xmtij02rz:2026-09-08:session:1": 1,
     "polaris:xmtjyhw8c:2026-09-08:session:1": 1,
     "polaris:xmtsn5csd:completion": 1,
-    "polaris:xmtr6bclh:2026-09-08:session:1": 1
+    "polaris:xmtr6bclh:2026-09-08:session:1": 1,
+    "polaris:xmtij02rz:2026-09-09:session:1": 1
   },
   "series": {
     "coding": [
@@ -8746,6 +8761,13 @@
       {
         "date": "2026-09-08",
         "cum": 148,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Chapter 10 ATBS Coding Reading + Notes OR Practice — a working sitting"
+      },
+      {
+        "date": "2026-09-09",
+        "cum": 149,
         "feet": 1,
         "tier": "tiny",
         "activity": "Chapter 10 ATBS Coding Reading + Notes OR Practice — a working sitting"
