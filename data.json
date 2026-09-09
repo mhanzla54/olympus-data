@@ -17,11 +17,11 @@
       "next_site_drop_in": 1,
       "ten_lb_milestone_crossed": 220,
       "next_ten_lb_marker": 210,
-      "all_time_low_lb": 214.2
+      "all_time_low_lb": 213.6
     },
     "overall_total": 1307,
     "generated_for": "2026-09-09",
-    "built_at": "2026-09-09T12:23:45.044Z",
+    "built_at": "2026-09-09T13:20:04.372Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -21864,6 +21864,14 @@
       {
         "date": "2026-09-08",
         "w": 214.2,
+        "kcal": 1923,
+        "protein": 206,
+        "dayType": "strict",
+        "provisional": false
+      },
+      {
+        "date": "2026-09-09",
+        "w": 213.6,
         "kcal": 0,
         "protein": 0,
         "dayType": "empty",
@@ -22266,9 +22274,13 @@
       {
         "date": "2026-09-08",
         "w": 216
+      },
+      {
+        "date": "2026-09-09",
+        "w": 215.16
       }
     ],
-    "noiseBand": 1.34,
+    "noiseBand": 1.33,
     "floors": [
       {
         "y": 230,
@@ -22411,8 +22423,8 @@
         "week": "Aug 30–Sep 5"
       },
       {
-        "date": "2026-09-08",
-        "w": 214.2,
+        "date": "2026-09-09",
+        "w": 213.6,
         "week": "Sep 6–Sep 12"
       }
     ],
@@ -22545,27 +22557,22 @@
       },
       {
         "date": "2026-09-09",
-        "w": 214.8,
+        "w": 214.4,
         "week": "Sep 6–Sep 12",
-        "n": 2
+        "n": 3
       }
     ],
     "banner": {
       "startDate": "2026-03-22",
       "startW": 235,
-      "lost": 19,
+      "lost": 19.8,
       "goal": 180,
-      "pct": 34.5,
+      "pct": 36.1,
       "nextFloor": 210,
-      "toGo": 6,
+      "toGo": 5.2,
       "newLow": true
     },
     "strip": [
-      {
-        "date": "2026-08-10",
-        "state": "off",
-        "kcal": 2226
-      },
       {
         "date": "2026-08-11",
         "state": "off",
@@ -22708,6 +22715,11 @@
       },
       {
         "date": "2026-09-08",
+        "state": "off",
+        "kcal": 1923
+      },
+      {
+        "date": "2026-09-09",
         "state": "partial",
         "kcal": 0
       }
@@ -23555,6 +23567,14 @@
       },
       {
         "date": "2026-09-08",
+        "kcal": 1923,
+        "protein": 206,
+        "dayType": "strict",
+        "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-09-09",
         "kcal": 0,
         "protein": 0,
         "dayType": "empty",
