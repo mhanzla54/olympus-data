@@ -9,8 +9,8 @@
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
     "ratchet": {
-      "weight_low_lb": 214.2,
-      "next_weight_tick_lb": 214,
+      "weight_low_lb": 213.6,
+      "next_weight_tick_lb": 213,
       "waist_in": 37.5,
       "belly_in": 43,
       "hips_in": 43.75,
@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 213.6
     },
-    "overall_total": 1307,
+    "overall_total": 1319,
     "generated_for": "2026-09-09",
-    "built_at": "2026-09-09T13:20:04.372Z",
+    "built_at": "2026-09-09T13:22:07.204Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1410
+      "ft_to_go": 1398
     },
     "captures_today_unscored": 0
   },
@@ -88,7 +88,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 407,
+      "current": 419,
       "working_on": "the next new-pound low"
     },
     {
@@ -8095,6 +8095,48 @@
       "evidence": "POLARIS xmtij02rz",
       "booked": "2026-09-09",
       "source": "polaris:xmtij02rz:2026-09-09:session:1"
+    },
+    {
+      "date": "2026-09-08",
+      "lane": "body",
+      "activity": "protein-day — 206 g",
+      "label": "protein-day — 206 g",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 408,
+      "cum_overall": 1308,
+      "reasoning": "codebook ⚖️ protein-day: needed >= 160 g; got 206 g",
+      "evidence": "health warehouse",
+      "booked": "2026-09-09",
+      "source": "body:protein-day:2026-09-08"
+    },
+    {
+      "date": "2026-09-08",
+      "lane": "body",
+      "activity": "calorie-day — 1923 kcal",
+      "label": "calorie-day — 1923 kcal",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 409,
+      "cum_overall": 1309,
+      "reasoning": "codebook ⚖️ calorie-day: needed 1550–2100 kcal; got 1923 kcal",
+      "evidence": "health warehouse",
+      "booked": "2026-09-09",
+      "source": "body:calorie-day:2026-09-08"
+    },
+    {
+      "date": "2026-09-09",
+      "lane": "body",
+      "activity": "weight-ratchet — 213.6 lb on 2026-09-09",
+      "label": "weight-ratchet — 213.6 lb on 2026-09-09",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 419,
+      "cum_overall": 1319,
+      "reasoning": "codebook ⚖️ weight-ratchet: needed UNDER 214 lb  (the 214 lb line); got 213.6 lb on 2026-09-09",
+      "evidence": "health warehouse",
+      "booked": "2026-09-09",
+      "source": "body:weight-ratchet:2026-09-09:214"
     }
   ],
   "polaris_booked": {
@@ -12043,6 +12085,27 @@
         "feet": 10,
         "tier": "small",
         "activity": "weight-ratchet — 214.2 lb on 2026-09-08"
+      },
+      {
+        "date": "2026-09-08",
+        "cum": 408,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "protein-day — 206 g"
+      },
+      {
+        "date": "2026-09-08",
+        "cum": 409,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "calorie-day — 1923 kcal"
+      },
+      {
+        "date": "2026-09-09",
+        "cum": 419,
+        "feet": 10,
+        "tier": "small",
+        "activity": "weight-ratchet — 213.6 lb on 2026-09-09"
       }
     ],
     "fieldpresence": [
@@ -24142,6 +24205,15 @@
   "body_crossings": [
     {
       "kind": "weight-ratchet",
+      "date": "2026-09-09",
+      "booked": "2026-09-09",
+      "feet": 10,
+      "line": 214,
+      "weight": 213.6,
+      "tier": "small"
+    },
+    {
+      "kind": "weight-ratchet",
       "date": "2026-09-08",
       "booked": "2026-09-08",
       "feet": 10,
@@ -24151,8 +24223,8 @@
     }
   ],
   "body_next_bars": {
-    "next_lb_line": 214,
+    "next_lb_line": 213,
     "next_10lb_marker": 210,
-    "recorded_low": 214.2
+    "recorded_low": 213.6
   }
 }
