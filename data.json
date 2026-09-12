@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 213.6
     },
-    "overall_total": 1343,
+    "overall_total": 1345,
     "generated_for": "2026-09-12",
-    "built_at": "2026-09-12T11:10:06.465Z",
+    "built_at": "2026-09-12T13:48:23.984Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1374
+      "ft_to_go": 1372
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 149,
+      "current": 151,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -8347,6 +8347,34 @@
       "evidence": "health warehouse",
       "booked": "2026-09-12",
       "source": "body:calorie-day:2026-09-11"
+    },
+    {
+      "date": "2026-09-12",
+      "lane": "method",
+      "activity": "Osiris Substrate V3 — a working sitting",
+      "label": "Osiris Substrate V3 — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 150,
+      "cum_overall": 1344,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmtjyhw8c",
+      "booked": "2026-09-12",
+      "source": "polaris:xmtjyhw8c:2026-09-12:session:1"
+    },
+    {
+      "date": "2026-09-12",
+      "lane": "method",
+      "activity": "Research Methodology Module Work — a working sitting",
+      "label": "Research Methodology Module Work",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 151,
+      "cum_overall": 1345,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmtx01dqz",
+      "booked": "2026-09-12",
+      "source": "polaris:xmtx01dqz:2026-09-12:session:1"
     }
   ],
   "polaris_booked": {
@@ -8427,7 +8455,9 @@
     "polaris:xmtvu2p06:completion": 10,
     "polaris:xmtjyhw8c:2026-09-11:session:1": 1,
     "polaris:xmtr6bclh:2026-09-11:session:1": 1,
-    "polaris:xmtxj8yj8:completion": 1
+    "polaris:xmtxj8yj8:completion": 1,
+    "polaris:xmtjyhw8c:2026-09-12:session:1": 1,
+    "polaris:xmtx01dqz:2026-09-12:session:1": 1
   },
   "series": {
     "coding": [
@@ -10345,6 +10375,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Osiris Lens V2 — a working sitting"
+      },
+      {
+        "date": "2026-09-12",
+        "cum": 150,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris Substrate V3 — a working sitting"
+      },
+      {
+        "date": "2026-09-12",
+        "cum": 151,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Research Methodology Module Work — a working sitting"
       }
     ],
     "literature": [
