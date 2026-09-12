@@ -21,7 +21,7 @@
     },
     "overall_total": 1345,
     "generated_for": "2026-09-12",
-    "built_at": "2026-09-12T15:20:05.332Z",
+    "built_at": "2026-09-12T15:30:04.525Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -15473,9 +15473,9 @@
         },
         {
           "date": "2026-09-12",
-          "y": 7.5,
+          "y": 7.6,
           "kind": "session",
-          "label": "Full pistol — heel elevated (~2\" riser under the heel; no hand assist) — 2.5, (avg 2.5 vs target 5)"
+          "label": "Full pistol — heel elevated (~2\" riser under the heel; no hand assist) — 2.5, 5, 1.5 (avg 3 vs target 5)"
         }
       ],
       "steps": [
@@ -17558,9 +17558,9 @@
           {
             "date": "2026-09-12",
             "name": "Full pistol (★heel elevated ~2\", no hand assist)",
-            "raw": "2.5,",
-            "avg": 2.5,
-            "status": "● plotted at 7.5"
+            "raw": "2.5, 5, 1.5",
+            "avg": 3,
+            "status": "● plotted at 7.6"
           }
         ]
       },
@@ -18928,7 +18928,7 @@
           },
           {
             "date": "2026-09-12",
-            "detail": "reps: 2.5,"
+            "detail": "reps: 2.5, 5, 1.5"
           }
         ]
       },
@@ -19526,8 +19526,8 @@
             "ladderId": "legs",
             "ladderName": "Legs — Pistol",
             "name": "Full pistol (★heel elevated ~2\", no hand assist)",
-            "raw": "2.5,",
-            "avg": 2.5,
+            "raw": "2.5, 5, 1.5",
+            "avg": 3,
             "target": "5/leg",
             "sets": 3,
             "cleared": false
@@ -21863,7 +21863,7 @@
     },
     "legs": {
       "date": "2026-09-12",
-      "detail": "2.5,"
+      "detail": "2.5, 5, 1.5"
     },
     "grip": {
       "date": "2026-09-09",
