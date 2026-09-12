@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 213.6
     },
-    "overall_total": 1345,
+    "overall_total": 1346,
     "generated_for": "2026-09-12",
-    "built_at": "2026-09-12T15:40:04.976Z",
+    "built_at": "2026-09-12T15:49:22.123Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1372
+      "ft_to_go": 1371
     },
     "captures_today_unscored": 0
   },
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 362,
+      "current": 363,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -8375,6 +8375,20 @@
       "evidence": "POLARIS xmtx01dqz",
       "booked": "2026-09-12",
       "source": "polaris:xmtx01dqz:2026-09-12:session:1"
+    },
+    {
+      "date": "2026-09-12",
+      "lane": "strength",
+      "activity": "Workout — a working sitting",
+      "label": "Workout — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 363,
+      "cum_overall": 1346,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmtegz4dz",
+      "booked": "2026-09-12",
+      "source": "polaris:xmtegz4dz:2026-09-12:session:1"
     }
   ],
   "polaris_booked": {
@@ -8457,7 +8471,8 @@
     "polaris:xmtr6bclh:2026-09-11:session:1": 1,
     "polaris:xmtxj8yj8:completion": 1,
     "polaris:xmtjyhw8c:2026-09-12:session:1": 1,
-    "polaris:xmtx01dqz:2026-09-12:session:1": 1
+    "polaris:xmtx01dqz:2026-09-12:session:1": 1,
+    "polaris:xmtegz4dz:2026-09-12:session:1": 1
   },
   "series": {
     "coding": [
@@ -11128,6 +11143,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Sparse Training — FINISHED"
+      },
+      {
+        "date": "2026-09-12",
+        "cum": 363,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Workout — a working sitting"
       }
     ],
     "body": [
@@ -18253,7 +18275,7 @@
           },
           {
             "date": "2026-09-12",
-            "detail": "held: —"
+            "detail": "held: 40, 30"
           }
         ]
       },
