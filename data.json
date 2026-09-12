@@ -21,7 +21,7 @@
     },
     "overall_total": 1345,
     "generated_for": "2026-09-12",
-    "built_at": "2026-09-12T15:00:05.262Z",
+    "built_at": "2026-09-12T15:10:05.029Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -14914,9 +14914,9 @@
         },
         {
           "date": "2026-09-12",
-          "y": 5.7,
+          "y": 5.65,
           "kind": "session",
-          "label": "Full pull-up — 7, 5.5, 7, 5.5, 3 (avg 5.6 vs target 8)"
+          "label": "Full pull-up — 7, 5.5, 3 (avg 5.2 vs target 8)"
         }
       ],
       "steps": [
@@ -15891,9 +15891,9 @@
         },
         {
           "date": "2026-09-12",
-          "y": 6.67,
+          "y": 6.53,
           "kind": "session",
-          "label": "Bent-leg windshield wipers — 4, (avg 4 vs target 6)"
+          "label": "Bent-leg windshield wipers — 4, 3, 2.5 (avg 3.2 vs target 6)"
         }
       ],
       "steps": [
@@ -16964,9 +16964,9 @@
           {
             "date": "2026-09-12",
             "name": "Pull-up (★full — then negatives as back-off)",
-            "raw": "7, 5.5, 7, 5.5, 3",
-            "avg": 5.6,
-            "status": "● plotted at 5.7"
+            "raw": "7, 5.5, 3",
+            "avg": 5.2,
+            "status": "● plotted at 5.65"
           }
         ]
       },
@@ -17986,9 +17986,9 @@
           {
             "date": "2026-09-12",
             "name": "Bent-leg windshield wipers ★",
-            "raw": "4,",
-            "avg": 4,
-            "status": "● plotted at 6.67"
+            "raw": "4, 3, 2.5",
+            "avg": 3.2,
+            "status": "● plotted at 6.53"
           }
         ]
       }
@@ -18184,7 +18184,7 @@
           },
           {
             "date": "2026-09-12",
-            "detail": "full reps: 7, 5.5, 7, 5.5, 3 · neg back-off: 1, 3, 5 1, 3,"
+            "detail": "full reps: 7, 5.5, 3 · neg back-off: 1, 3, 5"
           }
         ]
       },
@@ -19203,7 +19203,7 @@
           },
           {
             "date": "2026-09-12",
-            "detail": "reps: 4,"
+            "detail": "reps: 4, 3, 2.5"
           }
         ]
       },
@@ -19492,8 +19492,8 @@
             "ladderId": "pull",
             "ladderName": "Pull",
             "name": "Pull-up (★full — then negatives as back-off)",
-            "raw": "7, 5.5, 7, 5.5, 3",
-            "avg": 5.6,
+            "raw": "7, 5.5, 3",
+            "avg": 5.2,
             "target": "8",
             "sets": 3,
             "cleared": false
@@ -19502,8 +19502,8 @@
             "ladderId": "corehang",
             "ladderName": "Core — HANGING",
             "name": "Bent-leg windshield wipers ★",
-            "raw": "4,",
-            "avg": 4,
+            "raw": "4, 3, 2.5",
+            "avg": 3.2,
             "target": "6/side",
             "sets": 3,
             "cleared": false
@@ -21847,11 +21847,11 @@
   "last_perf": {
     "pull": {
       "date": "2026-09-12",
-      "detail": "7, 5.5, 7, 5.5, 3"
+      "detail": "7, 5.5, 3"
     },
     "corehang": {
       "date": "2026-09-12",
-      "detail": "4,"
+      "detail": "4, 3, 2.5"
     },
     "grip": {
       "date": "2026-09-09",
