@@ -21,7 +21,7 @@
     },
     "overall_total": 1345,
     "generated_for": "2026-09-12",
-    "built_at": "2026-09-12T13:48:23.984Z",
+    "built_at": "2026-09-12T14:40:04.594Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -14453,11 +14453,11 @@
           "date": "2026-09-07",
           "y": 5,
           "kind": "clear",
-          "label": "Horizontal Push — EXPLOSIVE — cleared: Double clap push-up (two front claps) (needed 3, got 3, 4, 44 — avg 17)",
+          "label": "Horizontal Push — EXPLOSIVE — cleared: Double clap push-up (two front claps) (needed 3, got 3, 4, 4 — avg 3.67)",
           "perf": {
             "needed": "3",
-            "got": "3, 4, 44",
-            "avg": 17
+            "got": "3, 4, 4",
+            "avg": 3.67
           }
         }
       ],
@@ -14908,9 +14908,9 @@
         },
         {
           "date": "2026-09-09",
-          "y": 5.75,
+          "y": 5.67,
           "kind": "session",
-          "label": "Full pull-up — 7, 5, (avg 6 vs target 8)"
+          "label": "Full pull-up — 7, 5, 4 (avg 5.3 vs target 8)"
         }
       ],
       "steps": [
@@ -15873,9 +15873,15 @@
         },
         {
           "date": "2026-09-07",
-          "y": 6.48,
+          "y": 6.53,
           "kind": "session",
-          "label": "Bent-leg windshield wipers — 4, 3.5, 2, 2 (avg 2.9 vs target 6)"
+          "label": "Bent-leg windshield wipers — 4, 3.5, 2 (avg 3.2 vs target 6)"
+        },
+        {
+          "date": "2026-09-09",
+          "y": 6.5,
+          "kind": "session",
+          "label": "Bent-leg windshield wipers — 4, 3, 2 (avg 3 vs target 6)"
         }
       ],
       "steps": [
@@ -15947,7 +15953,7 @@
       "rejected": []
     },
     "pull": {
-      "candidates": 43,
+      "candidates": 44,
       "plotted": 28,
       "rejected": [
         {
@@ -16013,6 +16019,10 @@
         {
           "date": "2026-09-07",
           "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-09-12",
+          "why": "\"Pull-up (★full — then negatives as back-\" logged no usable numbers"
         }
       ]
     },
@@ -16032,7 +16042,7 @@
       "rejected": []
     },
     "legs": {
-      "candidates": 18,
+      "candidates": 19,
       "plotted": 13,
       "rejected": [
         {
@@ -16054,6 +16064,10 @@
         {
           "date": "2026-08-29",
           "why": "\"Full pistol (★heel elevated ~2\", no hand\" logged no usable numbers"
+        },
+        {
+          "date": "2026-09-12",
+          "why": "\"Full pistol (★heel elevated ~2\", no hand\" logged no usable numbers"
         }
       ]
     },
@@ -16068,8 +16082,8 @@
       ]
     },
     "corehang": {
-      "candidates": 41,
-      "plotted": 37,
+      "candidates": 42,
+      "plotted": 38,
       "rejected": [
         {
           "date": "2026-06-27",
@@ -16084,7 +16098,7 @@
           "why": "\"Hanging knee raise\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
         },
         {
-          "date": "2026-09-09",
+          "date": "2026-09-12",
           "why": "\"Bent-leg windshield wipers ★\" logged no usable numbers"
         }
       ]
@@ -16132,7 +16146,7 @@
       ]
     },
     "hpull": {
-      "candidates": 10,
+      "candidates": 11,
       "plotted": 8,
       "rejected": [
         {
@@ -16142,6 +16156,10 @@
         {
           "date": "2026-07-25",
           "why": "\"Feet-elevated Ring Row (★ feet on a chai\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
+        },
+        {
+          "date": "2026-09-12",
+          "why": "\"Feet-elevated ring row — slow eccentric \" logged no usable numbers"
         }
       ]
     }
@@ -16343,9 +16361,9 @@
           {
             "date": "2026-09-07",
             "name": "Double clap push-up (★explosive — two front claps)",
-            "raw": "3, 4, 44",
-            "avg": 17,
-            "status": "✓ CLEAR DAY — carried by the clear dot (needed 3, avg 17)"
+            "raw": "3, 4, 4",
+            "avg": 3.7,
+            "status": "✓ CLEAR DAY — carried by the clear dot (needed 3, avg 3.67)"
           }
         ]
       },
@@ -16928,16 +16946,23 @@
           {
             "date": "2026-09-09",
             "name": "Pull-up (★full — then negatives as back-off)",
-            "raw": "7, 5,",
-            "avg": 6,
-            "status": "● plotted at 5.75"
+            "raw": "7, 5, 4",
+            "avg": 5.3,
+            "status": "● plotted at 5.67"
           },
           {
             "date": "2026-09-09",
             "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
             "raw": "38, 28",
             "avg": 33,
-            "status": "● plotted at 5.75"
+            "status": "● plotted at 5.67"
+          },
+          {
+            "date": "2026-09-12",
+            "name": "Pull-up (★full — then negatives as back-off)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Pull-up (★full — then negatives as back-\" logged no usable numbers"
           }
         ]
       },
@@ -17014,6 +17039,13 @@
             "raw": "4.5, 4, 3.5",
             "avg": 4,
             "status": "● plotted at 4.5"
+          },
+          {
+            "date": "2026-09-12",
+            "name": "Feet-elevated ring row — slow eccentric (★3s down)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Feet-elevated ring row — slow eccentric \" logged no usable numbers"
           }
         ]
       },
@@ -17514,6 +17546,13 @@
             "raw": "4, 2, 1",
             "avg": 2.3,
             "status": "● plotted at 7.47"
+          },
+          {
+            "date": "2026-09-12",
+            "name": "Full pistol (★heel elevated ~2\", no hand assist)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Full pistol (★heel elevated ~2\", no hand\" logged no usable numbers"
           }
         ]
       },
@@ -17929,12 +17968,19 @@
           {
             "date": "2026-09-07",
             "name": "Bent-leg windshield wipers ★",
-            "raw": "4, 3.5, 2, 2",
-            "avg": 2.9,
-            "status": "● plotted at 6.48"
+            "raw": "4, 3.5, 2",
+            "avg": 3.2,
+            "status": "● plotted at 6.53"
           },
           {
             "date": "2026-09-09",
+            "name": "Bent-leg windshield wipers ★",
+            "raw": "4, 3, 2",
+            "avg": 3,
+            "status": "● plotted at 6.5"
+          },
+          {
+            "date": "2026-09-12",
             "name": "Bent-leg windshield wipers ★",
             "raw": "",
             "avg": null,
@@ -18130,68 +18176,11 @@
           },
           {
             "date": "2026-09-09",
-            "detail": "full reps: 7, 5, · neg back-off: 1,"
-          }
-        ]
-      },
-      {
-        "name": "Hanging knee raise",
-        "rows": [
-          {
-            "date": "2026-06-05",
-            "detail": "reps: 7, 6, 5.5"
+            "detail": "full reps: 7, 5, 4 · neg back-off: 1, 3, 4"
           },
           {
-            "date": "2026-06-06",
-            "detail": "reps: 8 (with breaks), 7 (non stop), 7 (with breaks)"
-          },
-          {
-            "date": "2026-06-08",
-            "detail": "reps: 3, 4,  4"
-          },
-          {
-            "date": "2026-06-10",
-            "detail": "reps: 7, 7, 7"
-          },
-          {
-            "date": "2026-06-13",
-            "detail": "reps: 10, 9, 6"
-          },
-          {
-            "date": "2026-06-17",
-            "detail": "reps: 9, 9, 6"
-          },
-          {
-            "date": "2026-06-20",
-            "detail": "reps: 10, 7, 5"
-          },
-          {
-            "date": "2026-06-22",
-            "detail": "reps: 6, 7, 4"
-          },
-          {
-            "date": "2026-06-24",
-            "detail": "reps: 6, 6, 3"
-          },
-          {
-            "date": "2026-06-27",
-            "detail": "reps: (skipped because of calus tearing)"
-          },
-          {
-            "date": "2026-06-29",
-            "detail": "reps: 12, 10, 5"
-          },
-          {
-            "date": "2026-07-01",
-            "detail": "reps: 14, 12, 12"
-          },
-          {
-            "date": "2026-07-04",
-            "detail": "reps: 12,  10, 8"
-          },
-          {
-            "date": "2026-07-06",
-            "detail": "reps: 12, 7, 5"
+            "date": "2026-09-12",
+            "detail": "full reps: — · neg back-off: —"
           }
         ]
       },
@@ -18253,6 +18242,71 @@
           {
             "date": "2026-09-05",
             "detail": "held: 32, 31"
+          },
+          {
+            "date": "2026-09-12",
+            "detail": "held: —"
+          }
+        ]
+      },
+      {
+        "name": "Hanging knee raise",
+        "rows": [
+          {
+            "date": "2026-06-05",
+            "detail": "reps: 7, 6, 5.5"
+          },
+          {
+            "date": "2026-06-06",
+            "detail": "reps: 8 (with breaks), 7 (non stop), 7 (with breaks)"
+          },
+          {
+            "date": "2026-06-08",
+            "detail": "reps: 3, 4,  4"
+          },
+          {
+            "date": "2026-06-10",
+            "detail": "reps: 7, 7, 7"
+          },
+          {
+            "date": "2026-06-13",
+            "detail": "reps: 10, 9, 6"
+          },
+          {
+            "date": "2026-06-17",
+            "detail": "reps: 9, 9, 6"
+          },
+          {
+            "date": "2026-06-20",
+            "detail": "reps: 10, 7, 5"
+          },
+          {
+            "date": "2026-06-22",
+            "detail": "reps: 6, 7, 4"
+          },
+          {
+            "date": "2026-06-24",
+            "detail": "reps: 6, 6, 3"
+          },
+          {
+            "date": "2026-06-27",
+            "detail": "reps: (skipped because of calus tearing)"
+          },
+          {
+            "date": "2026-06-29",
+            "detail": "reps: 12, 10, 5"
+          },
+          {
+            "date": "2026-07-01",
+            "detail": "reps: 14, 12, 12"
+          },
+          {
+            "date": "2026-07-04",
+            "detail": "reps: 12,  10, 8"
+          },
+          {
+            "date": "2026-07-06",
+            "detail": "reps: 12, 7, 5"
           }
         ]
       },
@@ -18355,6 +18409,47 @@
           {
             "date": "2026-07-11",
             "detail": "reps: 5, 5, 5"
+          }
+        ]
+      },
+      {
+        "name": "Single-leg hip thrust (shoulders on bed/chair)",
+        "rows": [
+          {
+            "date": "2026-07-18",
+            "detail": "reps: 3, 4, 5"
+          },
+          {
+            "date": "2026-07-25",
+            "detail": "reps: 10, 7, 6"
+          },
+          {
+            "date": "2026-08-01",
+            "detail": "reps: 9, 6, 6"
+          },
+          {
+            "date": "2026-08-06",
+            "detail": "reps: 5, 6, 4"
+          },
+          {
+            "date": "2026-08-12",
+            "detail": "reps: 4, 4, 5"
+          },
+          {
+            "date": "2026-08-22",
+            "detail": "reps: 8, 8, 8"
+          },
+          {
+            "date": "2026-08-29",
+            "detail": "reps: —"
+          },
+          {
+            "date": "2026-09-05",
+            "detail": "reps: 7, 6.5, 4"
+          },
+          {
+            "date": "2026-09-12",
+            "detail": "reps: —"
           }
         ]
       },
@@ -18507,43 +18602,6 @@
           {
             "date": "2026-09-02",
             "detail": "reps: 8, 8"
-          }
-        ]
-      },
-      {
-        "name": "Single-leg hip thrust (shoulders on bed/chair)",
-        "rows": [
-          {
-            "date": "2026-07-18",
-            "detail": "reps: 3, 4, 5"
-          },
-          {
-            "date": "2026-07-25",
-            "detail": "reps: 10, 7, 6"
-          },
-          {
-            "date": "2026-08-01",
-            "detail": "reps: 9, 6, 6"
-          },
-          {
-            "date": "2026-08-06",
-            "detail": "reps: 5, 6, 4"
-          },
-          {
-            "date": "2026-08-12",
-            "detail": "reps: 4, 4, 5"
-          },
-          {
-            "date": "2026-08-22",
-            "detail": "reps: 8, 8, 8"
-          },
-          {
-            "date": "2026-08-29",
-            "detail": "reps: —"
-          },
-          {
-            "date": "2026-09-05",
-            "detail": "reps: 7, 6.5, 4"
           }
         ]
       },
@@ -18842,6 +18900,31 @@
         ]
       },
       {
+        "name": "Full pistol (★heel elevated ~2\", no hand assist)",
+        "rows": [
+          {
+            "date": "2026-08-12",
+            "detail": "reps: 3, 2, 1.5"
+          },
+          {
+            "date": "2026-08-22",
+            "detail": "reps: 3, 3, 3"
+          },
+          {
+            "date": "2026-08-29",
+            "detail": "reps: —"
+          },
+          {
+            "date": "2026-09-05",
+            "detail": "reps: 4, 2, 1"
+          },
+          {
+            "date": "2026-09-12",
+            "detail": "reps: —"
+          }
+        ]
+      },
+      {
         "name": "Pike push-up",
         "rows": [
           {
@@ -18964,27 +19047,6 @@
           {
             "date": "2026-08-31",
             "detail": "reps: 2, 3, 3"
-          }
-        ]
-      },
-      {
-        "name": "Full pistol (★heel elevated ~2\", no hand assist)",
-        "rows": [
-          {
-            "date": "2026-08-12",
-            "detail": "reps: 3, 2, 1.5"
-          },
-          {
-            "date": "2026-08-22",
-            "detail": "reps: 3, 3, 3"
-          },
-          {
-            "date": "2026-08-29",
-            "detail": "reps: —"
-          },
-          {
-            "date": "2026-09-05",
-            "detail": "reps: 4, 2, 1"
           }
         ]
       },
@@ -19120,7 +19182,24 @@
           },
           {
             "date": "2026-09-07",
-            "detail": "reps: 3, 4, 44"
+            "detail": "reps: 3, 4, 4"
+          }
+        ]
+      },
+      {
+        "name": "Bent-leg windshield wipers ★",
+        "rows": [
+          {
+            "date": "2026-09-07",
+            "detail": "reps: 4, 3.5, 2"
+          },
+          {
+            "date": "2026-09-09",
+            "detail": "reps: 4, 3, 2"
+          },
+          {
+            "date": "2026-09-12",
+            "detail": "reps: —"
           }
         ]
       },
@@ -19190,14 +19269,14 @@
         ]
       },
       {
-        "name": "Bent-leg windshield wipers ★",
+        "name": "Feet-elevated ring row — slow eccentric (★3s down)",
         "rows": [
           {
-            "date": "2026-09-07",
-            "detail": "reps: 4, 3.5, 2, 2"
+            "date": "2026-09-05",
+            "detail": "reps: 4.5, 4, 3.5"
           },
           {
-            "date": "2026-09-09",
+            "date": "2026-09-12",
             "detail": "reps: —"
           }
         ]
@@ -19365,15 +19444,6 @@
         ]
       },
       {
-        "name": "Feet-elevated ring row — slow eccentric (★3s down)",
-        "rows": [
-          {
-            "date": "2026-09-05",
-            "detail": "reps: 4.5, 4, 3.5"
-          }
-        ]
-      },
-      {
         "name": "Wall HSPU (★75% ROM)",
         "rows": [
           {
@@ -19412,14 +19482,14 @@
     ],
     "dates": [
       {
-        "date": "2026-09-09",
+        "date": "2026-09-12",
         "rows": [
           {
             "ladderId": "pull",
             "ladderName": "Pull",
             "name": "Pull-up (★full — then negatives as back-off)",
-            "raw": "7, 5,",
-            "avg": 6,
+            "raw": "",
+            "avg": null,
             "target": "8",
             "sets": 3,
             "cleared": false
@@ -19430,6 +19500,51 @@
             "name": "Bent-leg windshield wipers ★",
             "raw": "",
             "avg": null,
+            "target": "6/side",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "hpull",
+            "ladderName": "Horizontal Pull — ROWS",
+            "name": "Feet-elevated ring row — slow eccentric (★3s down)",
+            "raw": "",
+            "avg": null,
+            "target": "8",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "legs",
+            "ladderName": "Legs — Pistol",
+            "name": "Full pistol (★heel elevated ~2\", no hand assist)",
+            "raw": "",
+            "avg": null,
+            "target": "5/leg",
+            "sets": 3,
+            "cleared": false
+          }
+        ]
+      },
+      {
+        "date": "2026-09-09",
+        "rows": [
+          {
+            "ladderId": "pull",
+            "ladderName": "Pull",
+            "name": "Pull-up (★full — then negatives as back-off)",
+            "raw": "7, 5, 4",
+            "avg": 5.3,
+            "target": "8",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "corehang",
+            "ladderName": "Core — HANGING",
+            "name": "Bent-leg windshield wipers ★",
+            "raw": "4, 3, 2",
+            "avg": 3,
             "target": "6/side",
             "sets": 3,
             "cleared": false
@@ -19493,8 +19608,8 @@
             "ladderId": "corehang",
             "ladderName": "Core — HANGING",
             "name": "Bent-leg windshield wipers ★",
-            "raw": "4, 3.5, 2, 2",
-            "avg": 2.9,
+            "raw": "4, 3.5, 2",
+            "avg": 3.2,
             "target": "6/side",
             "sets": 3,
             "cleared": false
@@ -19523,8 +19638,8 @@
             "ladderId": "explosive",
             "ladderName": "Horizontal Push — EXPLOSIVE",
             "name": "Double clap push-up (★explosive — two front claps)",
-            "raw": "3, 4, 44",
-            "avg": 17,
+            "raw": "3, 4, 4",
+            "avg": 3.7,
             "target": "3",
             "sets": 3,
             "cleared": true
@@ -21728,7 +21843,11 @@
   "last_perf": {
     "pull": {
       "date": "2026-09-09",
-      "detail": "7, 5,"
+      "detail": "7, 5, 4"
+    },
+    "corehang": {
+      "date": "2026-09-09",
+      "detail": "4, 3, 2"
     },
     "grip": {
       "date": "2026-09-09",
@@ -21738,17 +21857,13 @@
       "date": "2026-09-07",
       "detail": "7, 6, 4"
     },
-    "corehang": {
-      "date": "2026-09-07",
-      "detail": "4, 3.5, 2, 2"
-    },
     "handstand": {
       "date": "2026-09-07",
       "detail": "3, 4, 2"
     },
     "explosive": {
       "date": "2026-09-07",
-      "detail": "3, 4, 44"
+      "detail": "3, 4, 4"
     },
     "frontlever": {
       "date": "2026-09-05",
