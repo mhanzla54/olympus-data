@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 213.6
     },
-    "overall_total": 1346,
+    "overall_total": 1347,
     "generated_for": "2026-09-12",
-    "built_at": "2026-09-12T15:49:22.123Z",
+    "built_at": "2026-09-12T17:32:13.004Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1371
+      "ft_to_go": 1370
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 151,
+      "current": 152,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -8389,6 +8389,20 @@
       "evidence": "POLARIS xmtegz4dz",
       "booked": "2026-09-12",
       "source": "polaris:xmtegz4dz:2026-09-12:session:1"
+    },
+    {
+      "date": "2026-09-12",
+      "lane": "method",
+      "activity": "Osiris Lens V2 — a working sitting",
+      "label": "Osiris Lens V2 — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 152,
+      "cum_overall": 1347,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmtr6bclh",
+      "booked": "2026-09-12",
+      "source": "polaris:xmtr6bclh:2026-09-12:session:1"
     }
   ],
   "polaris_booked": {
@@ -8472,7 +8486,8 @@
     "polaris:xmtxj8yj8:completion": 1,
     "polaris:xmtjyhw8c:2026-09-12:session:1": 1,
     "polaris:xmtx01dqz:2026-09-12:session:1": 1,
-    "polaris:xmtegz4dz:2026-09-12:session:1": 1
+    "polaris:xmtegz4dz:2026-09-12:session:1": 1,
+    "polaris:xmtr6bclh:2026-09-12:session:1": 1
   },
   "series": {
     "coding": [
@@ -10404,6 +10419,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Research Methodology Module Work — a working sitting"
+      },
+      {
+        "date": "2026-09-12",
+        "cum": 152,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris Lens V2 — a working sitting"
       }
     ],
     "literature": [
