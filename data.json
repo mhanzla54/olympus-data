@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 213.6
     },
-    "overall_total": 1347,
-    "generated_for": "2026-09-12",
-    "built_at": "2026-09-12T23:20:04.278Z",
+    "overall_total": 1348,
+    "generated_for": "2026-09-13",
+    "built_at": "2026-09-13T10:35:44.223Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1370
+      "ft_to_go": 1369
     },
     "captures_today_unscored": 0
   },
@@ -98,7 +98,7 @@
       "t0_note": "no public track record — not known in the field; every post, repo and paper still ahead",
       "endpoint": "A recognized public body of work — provisional and open by design (§14.0.2); this lane has no terminus",
       "endpoint_tier": "enormous",
-      "current": 17,
+      "current": 18,
       "working_on": "Not yet started — the first public thing ships from here"
     }
   ],
@@ -8403,6 +8403,20 @@
       "evidence": "POLARIS xmtr6bclh",
       "booked": "2026-09-12",
       "source": "polaris:xmtr6bclh:2026-09-12:session:1"
+    },
+    {
+      "date": "2026-09-12",
+      "lane": "fieldpresence",
+      "activity": "Work on Substack Post — FINISHED",
+      "label": "Work on Substack Post — FINISHED",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 18,
+      "cum_overall": 1348,
+      "reasoning": "Owner-priced in POLARIS: finishing it = tiny, locked 2026-09-13",
+      "evidence": "POLARIS xmtzoha9x",
+      "booked": "2026-09-13",
+      "source": "polaris:xmtzoha9x:completion"
     }
   ],
   "polaris_booked": {
@@ -8487,7 +8501,8 @@
     "polaris:xmtjyhw8c:2026-09-12:session:1": 1,
     "polaris:xmtx01dqz:2026-09-12:session:1": 1,
     "polaris:xmtegz4dz:2026-09-12:session:1": 1,
-    "polaris:xmtr6bclh:2026-09-12:session:1": 1
+    "polaris:xmtr6bclh:2026-09-12:session:1": 1,
+    "polaris:xmtzoha9x:completion": 1
   },
   "series": {
     "coding": [
@@ -12576,6 +12591,13 @@
         "feet": 10,
         "tier": "small",
         "activity": "**🏔️ THE RESEARCHER SITE WENT LIVE — `https://muhammadhanzla.netlify.app/`, HIS FIRST PERSONAL WEBSITE, PUBLICLY REACHABLE. The lane's FIRST ARTIFACT in the twenty-four days it has existed; every prior ✍️ row was a work-day tiny.** Published 2026-08-17T16:59:38Z (12:59 EDT). Own dedicated build 07-28 → 08-17, ~3 weeks, seven work-days already on this ledger beneath it."
+      },
+      {
+        "date": "2026-09-12",
+        "cum": 18,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Work on Substack Post — FINISHED"
       }
     ]
   },
