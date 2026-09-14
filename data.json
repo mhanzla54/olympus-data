@@ -21,7 +21,7 @@
     },
     "overall_total": 1354,
     "generated_for": "2026-09-14",
-    "built_at": "2026-09-14T14:00:04.835Z",
+    "built_at": "2026-09-14T14:10:04.661Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -15554,6 +15554,12 @@
           "y": 3.55,
           "kind": "session",
           "label": "Dead hang — 38, 28 (avg 33 vs target 60)"
+        },
+        {
+          "date": "2026-09-14",
+          "y": 3.5,
+          "kind": "session",
+          "label": "Dead hang — 30, (avg 30 vs target 60)"
         }
       ],
       "steps": [
@@ -16109,9 +16115,9 @@
         },
         {
           "date": "2026-09-14",
-          "y": 6.67,
+          "y": 6.5,
           "kind": "session",
-          "label": "Bent-leg windshield wipers — 4, (avg 4 vs target 6)"
+          "label": "Bent-leg windshield wipers — 4, 3, 2 (avg 3 vs target 6)"
         }
       ],
       "steps": [
@@ -16278,13 +16284,8 @@
     },
     "grip": {
       "candidates": 28,
-      "plotted": 27,
-      "rejected": [
-        {
-          "date": "2026-09-14",
-          "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" logged no usable numbers"
-        }
-      ]
+      "plotted": 28,
+      "rejected": []
     },
     "legs": {
       "candidates": 19,
@@ -17214,8 +17215,8 @@
           {
             "date": "2026-09-14",
             "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
-            "raw": "",
-            "avg": null,
+            "raw": "30,",
+            "avg": 30,
             "status": "✗ not plotted — \"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           }
         ]
@@ -17679,9 +17680,9 @@
           {
             "date": "2026-09-14",
             "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
-            "raw": "",
-            "avg": null,
-            "status": "✗ not plotted — \"Grip+trap (flex): dead hang ★ + scap shr\" logged no usable numbers"
+            "raw": "30,",
+            "avg": 30,
+            "status": "● plotted at 3.5"
           }
         ]
       },
@@ -18257,9 +18258,9 @@
           {
             "date": "2026-09-14",
             "name": "Bent-leg windshield wipers ★",
-            "raw": "4,",
-            "avg": 4,
-            "status": "● plotted at 6.67"
+            "raw": "4, 3, 2",
+            "avg": 3,
+            "status": "● plotted at 6.5"
           }
         ]
       }
@@ -18366,7 +18367,7 @@
           },
           {
             "date": "2026-09-14",
-            "detail": "hang: — · shrugs: —"
+            "detail": "hang: 30, · shrugs: —"
           }
         ]
       },
@@ -19371,7 +19372,7 @@
           },
           {
             "date": "2026-09-14",
-            "detail": "reps: 4,"
+            "detail": "reps: 4, 3, 2"
           }
         ]
       },
@@ -19793,8 +19794,8 @@
             "ladderId": "corehang",
             "ladderName": "Core — HANGING",
             "name": "Bent-leg windshield wipers ★",
-            "raw": "4,",
-            "avg": 4,
+            "raw": "4, 3, 2",
+            "avg": 3,
             "target": "6/side",
             "sets": 3,
             "cleared": false
@@ -19803,8 +19804,8 @@
             "ladderId": "pull",
             "ladderName": "Pull",
             "name": "Dead hang ★",
-            "raw": "",
-            "avg": null,
+            "raw": "30,",
+            "avg": 30,
             "target": "45s",
             "sets": 2,
             "cleared": false
@@ -22197,11 +22198,15 @@
     },
     "corehang": {
       "date": "2026-09-14",
-      "detail": "4,"
+      "detail": "4, 3, 2"
     },
     "pull": {
-      "date": "2026-09-12",
-      "detail": "7, 5.5, 3"
+      "date": "2026-09-14",
+      "detail": "30,"
+    },
+    "grip": {
+      "date": "2026-09-14",
+      "detail": "30,"
     },
     "hpull": {
       "date": "2026-09-12",
@@ -22210,10 +22215,6 @@
     "legs": {
       "date": "2026-09-12",
       "detail": "2.5, 5, 1.5"
-    },
-    "grip": {
-      "date": "2026-09-09",
-      "detail": "38, 28"
     },
     "handstand": {
       "date": "2026-09-07",
