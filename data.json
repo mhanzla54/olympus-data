@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 213.6
     },
-    "overall_total": 1361,
+    "overall_total": 1362,
     "generated_for": "2026-09-15",
-    "built_at": "2026-09-15T12:14:30.566Z",
+    "built_at": "2026-09-15T14:50:05.378Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1356
+      "ft_to_go": 1355
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 155,
+      "current": 156,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -8599,6 +8599,20 @@
       "evidence": "POLARIS xmtij02rz",
       "booked": "2026-09-15",
       "source": "polaris:xmtij02rz:2026-09-15:session:1"
+    },
+    {
+      "date": "2026-09-15",
+      "lane": "method",
+      "activity": "Osiris Lens V2 — a working sitting",
+      "label": "Osiris Lens V2 — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 156,
+      "cum_overall": 1362,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmtr6bclh",
+      "booked": "2026-09-15",
+      "source": "polaris:xmtr6bclh:2026-09-15:session:1"
     }
   ],
   "polaris_booked": {
@@ -8691,7 +8705,8 @@
     "polaris:xmtjyhw8c:2026-09-14:session:1": 1,
     "polaris:xmtr6bclh:2026-09-14:session:1": 1,
     "polaris:xmu1xelj0:completion": 1,
-    "polaris:xmtij02rz:2026-09-15:session:1": 1
+    "polaris:xmtij02rz:2026-09-15:session:1": 1,
+    "polaris:xmtr6bclh:2026-09-15:session:1": 1
   },
   "series": {
     "coding": [
@@ -10662,6 +10677,13 @@
       {
         "date": "2026-09-14",
         "cum": 155,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris Lens V2 — a working sitting"
+      },
+      {
+        "date": "2026-09-15",
+        "cum": 156,
         "feet": 1,
         "tier": "tiny",
         "activity": "Osiris Lens V2 — a working sitting"
