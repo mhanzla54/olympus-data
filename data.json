@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 212.4
     },
-    "overall_total": 1373,
+    "overall_total": 1374,
     "generated_for": "2026-09-15",
-    "built_at": "2026-09-15T20:28:18.164Z",
+    "built_at": "2026-09-15T20:29:14.693Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1344
+      "ft_to_go": 1343
     },
     "captures_today_unscored": 0
   },
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 365,
+      "current": 366,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -8641,6 +8641,20 @@
       "evidence": "POLARIS s3b",
       "booked": "2026-09-15",
       "source": "polaris:s3b:2026-09-15:session:1"
+    },
+    {
+      "date": "2026-09-15",
+      "lane": "strength",
+      "activity": "Sparse Training — FINISHED",
+      "label": "Sparse Training — FINISHED",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 366,
+      "cum_overall": 1374,
+      "reasoning": "Owner-priced in POLARIS: finishing it = tiny, locked 2026-09-15",
+      "evidence": "POLARIS xmu34k9kt",
+      "booked": "2026-09-15",
+      "source": "polaris:xmu34k9kt:completion"
     }
   ],
   "polaris_booked": {
@@ -8735,7 +8749,8 @@
     "polaris:xmu1xelj0:completion": 1,
     "polaris:xmtij02rz:2026-09-15:session:1": 1,
     "polaris:xmtr6bclh:2026-09-15:session:1": 1,
-    "polaris:s3b:2026-09-15:session:1": 1
+    "polaris:s3b:2026-09-15:session:1": 1,
+    "polaris:xmu34k9kt:completion": 1
   },
   "series": {
     "coding": [
@@ -11480,6 +11495,13 @@
       {
         "date": "2026-09-14",
         "cum": 365,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Sparse Training — FINISHED"
+      },
+      {
+        "date": "2026-09-15",
+        "cum": 366,
         "feet": 1,
         "tier": "tiny",
         "activity": "Sparse Training — FINISHED"
