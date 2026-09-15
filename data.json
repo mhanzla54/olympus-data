@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 213.6
     },
-    "overall_total": 1354,
+    "overall_total": 1357,
     "generated_for": "2026-09-14",
-    "built_at": "2026-09-14T14:20:05.055Z",
+    "built_at": "2026-09-15T00:19:59.970Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1363
+      "ft_to_go": 1360
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 153,
+      "current": 155,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 363,
+      "current": 364,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -8501,6 +8501,48 @@
       "evidence": "POLARIS xmtij02rz",
       "booked": "2026-09-14",
       "source": "polaris:xmtij02rz:2026-09-14:session:1"
+    },
+    {
+      "date": "2026-09-14",
+      "lane": "strength",
+      "activity": "Workout — a working sitting",
+      "label": "Workout — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 364,
+      "cum_overall": 1355,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmt78btdt",
+      "booked": "2026-09-14",
+      "source": "polaris:xmt78btdt:2026-09-14:session:1"
+    },
+    {
+      "date": "2026-09-14",
+      "lane": "method",
+      "activity": "Osiris Substrate V3 — a working sitting",
+      "label": "Osiris Substrate V3 — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 154,
+      "cum_overall": 1356,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmtjyhw8c",
+      "booked": "2026-09-14",
+      "source": "polaris:xmtjyhw8c:2026-09-14:session:1"
+    },
+    {
+      "date": "2026-09-14",
+      "lane": "method",
+      "activity": "Osiris Lens V2 — a working sitting",
+      "label": "Osiris Lens V2 — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 155,
+      "cum_overall": 1357,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmtr6bclh",
+      "booked": "2026-09-14",
+      "source": "polaris:xmtr6bclh:2026-09-14:session:1"
     }
   ],
   "polaris_booked": {
@@ -8588,7 +8630,10 @@
     "polaris:xmtr6bclh:2026-09-12:session:1": 1,
     "polaris:xmtzoha9x:completion": 1,
     "polaris:xmtx01dqz:2026-09-13:session:1": 1,
-    "polaris:xmtij02rz:2026-09-14:session:1": 1
+    "polaris:xmtij02rz:2026-09-14:session:1": 1,
+    "polaris:xmt78btdt:2026-09-14:session:1": 1,
+    "polaris:xmtjyhw8c:2026-09-14:session:1": 1,
+    "polaris:xmtr6bclh:2026-09-14:session:1": 1
   },
   "series": {
     "coding": [
@@ -10541,6 +10586,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Research Methodology Module Work — a working sitting"
+      },
+      {
+        "date": "2026-09-14",
+        "cum": 154,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris Substrate V3 — a working sitting"
+      },
+      {
+        "date": "2026-09-14",
+        "cum": 155,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris Lens V2 — a working sitting"
       }
     ],
     "literature": [
@@ -11284,6 +11343,13 @@
       {
         "date": "2026-09-12",
         "cum": 363,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Workout — a working sitting"
+      },
+      {
+        "date": "2026-09-14",
+        "cum": 364,
         "feet": 1,
         "tier": "tiny",
         "activity": "Workout — a working sitting"
