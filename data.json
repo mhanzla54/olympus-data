@@ -17,11 +17,11 @@
       "next_site_drop_in": 1,
       "ten_lb_milestone_crossed": 220,
       "next_ten_lb_marker": 210,
-      "all_time_low_lb": 213.6
+      "all_time_low_lb": 212.4
     },
     "overall_total": 1362,
     "generated_for": "2026-09-15",
-    "built_at": "2026-09-15T14:50:05.378Z",
+    "built_at": "2026-09-15T18:20:04.815Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -23175,6 +23175,14 @@
         "protein": 208,
         "dayType": "strict",
         "provisional": false
+      },
+      {
+        "date": "2026-09-15",
+        "w": 212.4,
+        "kcal": 0,
+        "protein": 0,
+        "dayType": "empty",
+        "provisional": true
       }
     ],
     "trend": [
@@ -23597,9 +23605,13 @@
       {
         "date": "2026-09-14",
         "w": 214.17
+      },
+      {
+        "date": "2026-09-15",
+        "w": 213.91
       }
     ],
-    "noiseBand": 1.28,
+    "noiseBand": 1.29,
     "floors": [
       {
         "y": 230,
@@ -23747,8 +23759,8 @@
         "week": "Sep 6–Sep 12"
       },
       {
-        "date": "2026-09-14",
-        "w": 213.8,
+        "date": "2026-09-15",
+        "w": 212.4,
         "week": "Sep 13–Sep 19"
       }
     ],
@@ -23887,20 +23899,20 @@
       },
       {
         "date": "2026-09-16",
-        "w": 214,
+        "w": 213.5,
         "week": "Sep 13–Sep 19",
-        "n": 2
+        "n": 3
       }
     ],
     "banner": {
       "startDate": "2026-03-22",
       "startW": 235,
-      "lost": 20.8,
+      "lost": 21.1,
       "goal": 180,
-      "pct": 37.9,
+      "pct": 38.3,
       "nextFloor": 210,
-      "toGo": 4.2,
-      "newLow": false
+      "toGo": 3.9,
+      "newLow": true
     },
     "strip": [
       {
