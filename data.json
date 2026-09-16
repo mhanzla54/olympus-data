@@ -21,7 +21,7 @@
     },
     "overall_total": 1375,
     "generated_for": "2026-09-16",
-    "built_at": "2026-09-16T04:00:05.025Z",
+    "built_at": "2026-09-16T12:20:05.053Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -14919,7 +14919,7 @@
           "date": "2026-09-14",
           "y": 5.25,
           "kind": "session",
-          "label": "Double clap push-up (two front claps) — 2, 2, (avg 2 vs target 8)"
+          "label": "Double clap push-up (two front claps) — 2, 2, 2 (avg 2 vs target 8)"
         }
       ],
       "steps": [
@@ -16418,7 +16418,7 @@
   ],
   "ladder_parity": {
     "push": {
-      "candidates": 14,
+      "candidates": 15,
       "plotted": 11,
       "rejected": [
         {
@@ -16432,6 +16432,10 @@
         {
           "date": "2026-09-09",
           "why": "\"Elevated one-arm push-up (★hands raised \" logged no usable numbers"
+        },
+        {
+          "date": "2026-09-16",
+          "why": "\"Elevated one-arm push-up (★hands raised \" logged no usable numbers"
         }
       ]
     },
@@ -16441,11 +16445,15 @@
       "rejected": []
     },
     "planche": {
-      "candidates": 14,
+      "candidates": 15,
       "plotted": 13,
       "rejected": [
         {
           "date": "2026-09-09",
+          "why": "\"Tuck planche ★\" logged no usable numbers"
+        },
+        {
+          "date": "2026-09-16",
           "why": "\"Tuck planche ★\" logged no usable numbers"
         }
       ]
@@ -16461,7 +16469,7 @@
       ]
     },
     "pull": {
-      "candidates": 45,
+      "candidates": 46,
       "plotted": 29,
       "rejected": [
         {
@@ -16531,6 +16539,10 @@
         {
           "date": "2026-09-14",
           "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-09-16",
+          "why": "\"Pull-up (★full — then negatives as back-\" logged no usable numbers"
         }
       ]
     },
@@ -16545,9 +16557,14 @@
       ]
     },
     "grip": {
-      "candidates": 28,
+      "candidates": 29,
       "plotted": 28,
-      "rejected": []
+      "rejected": [
+        {
+          "date": "2026-09-16",
+          "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" logged no usable numbers"
+        }
+      ]
     },
     "legs": {
       "candidates": 19,
@@ -16576,17 +16593,21 @@
       ]
     },
     "corefloor": {
-      "candidates": 17,
+      "candidates": 18,
       "plotted": 16,
       "rejected": [
         {
           "date": "2026-09-09",
           "why": "\"Elevated tuck L-sit (★finisher — hands r\" logged no usable numbers"
+        },
+        {
+          "date": "2026-09-16",
+          "why": "\"Elevated tuck L-sit (★finisher — hands r\" logged no usable numbers"
         }
       ]
     },
     "corehang": {
-      "candidates": 43,
+      "candidates": 44,
       "plotted": 40,
       "rejected": [
         {
@@ -16600,6 +16621,10 @@
         {
           "date": "2026-07-06",
           "why": "\"Hanging knee raise\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-09-16",
+          "why": "\"Bent-leg windshield wipers ★\" logged no usable numbers"
         }
       ]
     },
@@ -16763,6 +16788,13 @@
             "raw": "",
             "avg": null,
             "status": "✗ not plotted — \"Elevated one-arm push-up (★hands raised \" logged no usable numbers"
+          },
+          {
+            "date": "2026-09-16",
+            "name": "Elevated one-arm push-up (★hands raised on a block/step)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Elevated one-arm push-up (★hands raised \" logged no usable numbers"
           }
         ]
       },
@@ -16864,7 +16896,7 @@
           {
             "date": "2026-09-14",
             "name": "Double clap push-up (★explosive — two front claps)",
-            "raw": "2, 2,",
+            "raw": "2, 2, 2",
             "avg": 2,
             "status": "● plotted at 5.25"
           }
@@ -16967,6 +16999,13 @@
           },
           {
             "date": "2026-09-09",
+            "name": "Tuck planche ★",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Tuck planche ★\" logged no usable numbers"
+          },
+          {
+            "date": "2026-09-16",
             "name": "Tuck planche ★",
             "raw": "",
             "avg": null,
@@ -17480,6 +17519,20 @@
             "raw": "30, 15",
             "avg": 22.5,
             "status": "✗ not plotted — \"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+          },
+          {
+            "date": "2026-09-16",
+            "name": "Pull-up (★full — then negatives as back-off)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Pull-up (★full — then negatives as back-\" logged no usable numbers"
+          },
+          {
+            "date": "2026-09-16",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Pull-up (★full — then negatives as back-\" logged no usable numbers"
           }
         ]
       },
@@ -17945,6 +17998,13 @@
             "raw": "30, 15",
             "avg": 22.5,
             "status": "● plotted at 3.38"
+          },
+          {
+            "date": "2026-09-16",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Grip+trap (flex): dead hang ★ + scap shr\" logged no usable numbers"
           }
         ]
       },
@@ -18212,6 +18272,13 @@
           },
           {
             "date": "2026-09-09",
+            "name": "Elevated tuck L-sit (★finisher — hands raised; height is the dial)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Elevated tuck L-sit (★finisher — hands r\" logged no usable numbers"
+          },
+          {
+            "date": "2026-09-16",
             "name": "Elevated tuck L-sit (★finisher — hands raised; height is the dial)",
             "raw": "",
             "avg": null,
@@ -18523,6 +18590,13 @@
             "raw": "4, 3, 2",
             "avg": 3,
             "status": "● plotted at 6.5"
+          },
+          {
+            "date": "2026-09-16",
+            "name": "Bent-leg windshield wipers ★",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Bent-leg windshield wipers ★\" logged no usable numbers"
           }
         ]
       }
@@ -18630,6 +18704,10 @@
           {
             "date": "2026-09-14",
             "detail": "hang: 30, 15 · shrugs: —"
+          },
+          {
+            "date": "2026-09-16",
+            "detail": "hang: — · shrugs: —"
           }
         ]
       },
@@ -18723,6 +18801,10 @@
           {
             "date": "2026-09-12",
             "detail": "full reps: 7, 5.5, 3 · neg back-off: 1, 3, 5"
+          },
+          {
+            "date": "2026-09-16",
+            "detail": "full reps: — · neg back-off: —"
           }
         ]
       },
@@ -19037,6 +19119,47 @@
         ]
       },
       {
+        "name": "Feet -elevated Pike push-up (accessory)",
+        "rows": [
+          {
+            "date": "2026-07-22",
+            "detail": "reps: 5, 4, 5"
+          },
+          {
+            "date": "2026-07-29",
+            "detail": "reps: 6, 5.5, 3"
+          },
+          {
+            "date": "2026-08-03",
+            "detail": "reps: 8, 6, 5"
+          },
+          {
+            "date": "2026-08-10",
+            "detail": "reps: 3, 3, 3"
+          },
+          {
+            "date": "2026-08-19",
+            "detail": "reps: 8, 8, 5"
+          },
+          {
+            "date": "2026-08-26",
+            "detail": "reps: 8, 5, 3"
+          },
+          {
+            "date": "2026-09-02",
+            "detail": "reps: 3, 4, 3"
+          },
+          {
+            "date": "2026-09-09",
+            "detail": "reps: 4, 5, 4"
+          },
+          {
+            "date": "2026-09-16",
+            "detail": "reps: —"
+          }
+        ]
+      },
+      {
         "name": "Oblique knee raises (★knees up, drive to one side)",
         "rows": [
           {
@@ -19148,43 +19271,6 @@
           {
             "date": "2026-09-02",
             "detail": "reps: 8, 8"
-          }
-        ]
-      },
-      {
-        "name": "Feet -elevated Pike push-up (accessory)",
-        "rows": [
-          {
-            "date": "2026-07-22",
-            "detail": "reps: 5, 4, 5"
-          },
-          {
-            "date": "2026-07-29",
-            "detail": "reps: 6, 5.5, 3"
-          },
-          {
-            "date": "2026-08-03",
-            "detail": "reps: 8, 6, 5"
-          },
-          {
-            "date": "2026-08-10",
-            "detail": "reps: 3, 3, 3"
-          },
-          {
-            "date": "2026-08-19",
-            "detail": "reps: 8, 8, 5"
-          },
-          {
-            "date": "2026-08-26",
-            "detail": "reps: 8, 5, 3"
-          },
-          {
-            "date": "2026-09-02",
-            "detail": "reps: 3, 4, 3"
-          },
-          {
-            "date": "2026-09-09",
-            "detail": "reps: 4, 5, 4"
           }
         ]
       },
@@ -19471,6 +19557,31 @@
         ]
       },
       {
+        "name": "Bent-leg windshield wipers ★",
+        "rows": [
+          {
+            "date": "2026-09-07",
+            "detail": "reps: 4, 3.5, 2"
+          },
+          {
+            "date": "2026-09-09",
+            "detail": "reps: 4, 3, 2"
+          },
+          {
+            "date": "2026-09-12",
+            "detail": "reps: 4, 3, 2.5"
+          },
+          {
+            "date": "2026-09-14",
+            "detail": "reps: 4, 3, 2"
+          },
+          {
+            "date": "2026-09-16",
+            "detail": "reps: —"
+          }
+        ]
+      },
+      {
         "name": "Pike push-up",
         "rows": [
           {
@@ -19613,28 +19724,7 @@
           },
           {
             "date": "2026-09-14",
-            "detail": "reps: 2, 2,"
-          }
-        ]
-      },
-      {
-        "name": "Bent-leg windshield wipers ★",
-        "rows": [
-          {
-            "date": "2026-09-07",
-            "detail": "reps: 4, 3.5, 2"
-          },
-          {
-            "date": "2026-09-09",
-            "detail": "reps: 4, 3, 2"
-          },
-          {
-            "date": "2026-09-12",
-            "detail": "reps: 4, 3, 2.5"
-          },
-          {
-            "date": "2026-09-14",
-            "detail": "reps: 4, 3, 2"
+            "detail": "reps: 2, 2, 2"
           }
         ]
       },
@@ -19849,6 +19939,45 @@
         ]
       },
       {
+        "name": "Elevated one-arm push-up (★hands raised on a block/step)",
+        "rows": [
+          {
+            "date": "2026-09-09",
+            "detail": "reps: —"
+          },
+          {
+            "date": "2026-09-16",
+            "detail": "reps: —"
+          }
+        ]
+      },
+      {
+        "name": "Elevated tuck L-sit (★finisher — hands raised; height is the dial)",
+        "rows": [
+          {
+            "date": "2026-09-09",
+            "detail": "reps: —"
+          },
+          {
+            "date": "2026-09-16",
+            "detail": "reps: —"
+          }
+        ]
+      },
+      {
+        "name": "Tuck planche ★",
+        "rows": [
+          {
+            "date": "2026-09-09",
+            "detail": "reps: —"
+          },
+          {
+            "date": "2026-09-16",
+            "detail": "reps: —"
+          }
+        ]
+      },
+      {
         "name": "Push-up (archer)",
         "rows": [
           {
@@ -20009,36 +20138,74 @@
             "detail": "reps: 0, 0"
           }
         ]
-      },
-      {
-        "name": "Elevated one-arm push-up (★hands raised on a block/step)",
-        "rows": [
-          {
-            "date": "2026-09-09",
-            "detail": "reps: —"
-          }
-        ]
-      },
-      {
-        "name": "Elevated tuck L-sit (★finisher — hands raised; height is the dial)",
-        "rows": [
-          {
-            "date": "2026-09-09",
-            "detail": "reps: —"
-          }
-        ]
-      },
-      {
-        "name": "Tuck planche ★",
-        "rows": [
-          {
-            "date": "2026-09-09",
-            "detail": "reps: —"
-          }
-        ]
       }
     ],
     "dates": [
+      {
+        "date": "2026-09-16",
+        "rows": [
+          {
+            "ladderId": "pull",
+            "ladderName": "Pull",
+            "name": "Pull-up (★full — then negatives as back-off)",
+            "raw": "",
+            "avg": null,
+            "target": "8",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "corehang",
+            "ladderName": "Core — HANGING",
+            "name": "Bent-leg windshield wipers ★",
+            "raw": "",
+            "avg": null,
+            "target": "6/side",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "pull",
+            "ladderName": "Pull",
+            "name": "Dead hang ★",
+            "raw": "",
+            "avg": null,
+            "target": "45s",
+            "sets": 2,
+            "cleared": false
+          },
+          {
+            "ladderId": "push",
+            "ladderName": "Horizontal Push — STRENGTH",
+            "name": "Elevated one-arm push-up (★hands raised on a block/step)",
+            "raw": "",
+            "avg": null,
+            "target": "8/side",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "corefloor",
+            "ladderName": "Core — FLOOR",
+            "name": "Elevated tuck L-sit (★finisher — hands raised; height is the dial)",
+            "raw": "",
+            "avg": null,
+            "target": "15s",
+            "sets": 2,
+            "cleared": false
+          },
+          {
+            "ladderId": "planche",
+            "ladderName": "Horizontal Push — PLANCHE",
+            "name": "Tuck planche ★",
+            "raw": "",
+            "avg": null,
+            "target": "15s",
+            "sets": 3,
+            "cleared": false
+          }
+        ]
+      },
       {
         "date": "2026-09-14",
         "rows": [
@@ -20086,7 +20253,7 @@
             "ladderId": "explosive",
             "ladderName": "Horizontal Push — EXPLOSIVE",
             "name": "Double clap push-up (★explosive — two front claps)",
-            "raw": "2, 2,",
+            "raw": "2, 2, 2",
             "avg": 2,
             "target": "8",
             "sets": 3,
@@ -22476,7 +22643,7 @@
     },
     "explosive": {
       "date": "2026-09-14",
-      "detail": "2, 2,"
+      "detail": "2, 2, 2"
     },
     "hpull": {
       "date": "2026-09-12",
