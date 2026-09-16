@@ -21,7 +21,7 @@
     },
     "overall_total": 1375,
     "generated_for": "2026-09-16",
-    "built_at": "2026-09-16T12:20:05.053Z",
+    "built_at": "2026-09-16T12:30:04.959Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -15378,6 +15378,12 @@
           "y": 5.65,
           "kind": "session",
           "label": "Full pull-up — 7, 5.5, 3 (avg 5.2 vs target 8)"
+        },
+        {
+          "date": "2026-09-16",
+          "y": 5.88,
+          "kind": "session",
+          "label": "Full pull-up — 8, 6, (avg 7 vs target 8)"
         }
       ],
       "steps": [
@@ -16470,7 +16476,7 @@
     },
     "pull": {
       "candidates": 46,
-      "plotted": 29,
+      "plotted": 30,
       "rejected": [
         {
           "date": "2026-06-23",
@@ -16539,10 +16545,6 @@
         {
           "date": "2026-09-14",
           "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
-        },
-        {
-          "date": "2026-09-16",
-          "why": "\"Pull-up (★full — then negatives as back-\" logged no usable numbers"
         }
       ]
     },
@@ -17523,16 +17525,16 @@
           {
             "date": "2026-09-16",
             "name": "Pull-up (★full — then negatives as back-off)",
-            "raw": "",
-            "avg": null,
-            "status": "✗ not plotted — \"Pull-up (★full — then negatives as back-\" logged no usable numbers"
+            "raw": "8, 6,",
+            "avg": 7,
+            "status": "● plotted at 5.88"
           },
           {
             "date": "2026-09-16",
             "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
             "raw": "",
             "avg": null,
-            "status": "✗ not plotted — \"Pull-up (★full — then negatives as back-\" logged no usable numbers"
+            "status": "● plotted at 5.88"
           }
         ]
       },
@@ -18804,7 +18806,7 @@
           },
           {
             "date": "2026-09-16",
-            "detail": "full reps: — · neg back-off: —"
+            "detail": "full reps: 8, 6, · neg back-off: 0,"
           }
         ]
       },
@@ -20148,8 +20150,8 @@
             "ladderId": "pull",
             "ladderName": "Pull",
             "name": "Pull-up (★full — then negatives as back-off)",
-            "raw": "",
-            "avg": null,
+            "raw": "8, 6,",
+            "avg": 7,
             "target": "8",
             "sets": 3,
             "cleared": false
@@ -22621,6 +22623,10 @@
     }
   ],
   "last_perf": {
+    "pull": {
+      "date": "2026-09-16",
+      "detail": "8, 6,"
+    },
     "chinup": {
       "date": "2026-09-14",
       "detail": "8, 6, 5"
@@ -22628,10 +22634,6 @@
     "corehang": {
       "date": "2026-09-14",
       "detail": "4, 3, 2"
-    },
-    "pull": {
-      "date": "2026-09-14",
-      "detail": "30, 15"
     },
     "grip": {
       "date": "2026-09-14",
