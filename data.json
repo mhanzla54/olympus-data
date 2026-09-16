@@ -17,11 +17,11 @@
       "next_site_drop_in": 1,
       "ten_lb_milestone_crossed": 220,
       "next_ten_lb_marker": 210,
-      "all_time_low_lb": 212.4
+      "all_time_low_lb": 212
     },
     "overall_total": 1380,
     "generated_for": "2026-09-16",
-    "built_at": "2026-09-16T18:00:04.997Z",
+    "built_at": "2026-09-16T18:20:05.335Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -23554,6 +23554,14 @@
         "protein": 180,
         "dayType": "strict",
         "provisional": false
+      },
+      {
+        "date": "2026-09-16",
+        "w": 212,
+        "kcal": 1194,
+        "protein": 153,
+        "dayType": "strict",
+        "provisional": true
       }
     ],
     "trend": [
@@ -23980,9 +23988,13 @@
       {
         "date": "2026-09-15",
         "w": 213.91
+      },
+      {
+        "date": "2026-09-16",
+        "w": 213.69
       }
     ],
-    "noiseBand": 1.29,
+    "noiseBand": 1.27,
     "floors": [
       {
         "y": 230,
@@ -24130,8 +24142,8 @@
         "week": "Sep 6–Sep 12"
       },
       {
-        "date": "2026-09-15",
-        "w": 212.4,
+        "date": "2026-09-16",
+        "w": 212,
         "week": "Sep 13–Sep 19"
       }
     ],
@@ -24270,19 +24282,19 @@
       },
       {
         "date": "2026-09-16",
-        "w": 213.5,
+        "w": 213.1,
         "week": "Sep 13–Sep 19",
-        "n": 3
+        "n": 4
       }
     ],
     "banner": {
       "startDate": "2026-03-22",
       "startW": 235,
-      "lost": 21.1,
+      "lost": 21.3,
       "goal": 180,
-      "pct": 38.3,
+      "pct": 38.7,
       "nextFloor": 210,
-      "toGo": 3.9,
+      "toGo": 3.7,
       "newLow": true
     },
     "strip": [
@@ -24434,7 +24446,7 @@
       {
         "date": "2026-09-16",
         "state": "partial",
-        "kcal": 0
+        "kcal": 1194
       }
     ],
     "days": [
@@ -25344,10 +25356,10 @@
       },
       {
         "date": "2026-09-16",
-        "kcal": 0,
-        "protein": 0,
-        "dayType": "empty",
-        "logged": "empty",
+        "kcal": 1194,
+        "protein": 153,
+        "dayType": "strict",
+        "logged": "full",
         "provisional": true
       }
     ],
