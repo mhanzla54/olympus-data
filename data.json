@@ -21,7 +21,7 @@
     },
     "overall_total": 1380,
     "generated_for": "2026-09-16",
-    "built_at": "2026-09-16T17:18:57.414Z",
+    "built_at": "2026-09-16T18:00:04.997Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -13821,11 +13821,10 @@
       "id": "explosive",
       "name": "Horizontal Push — EXPLOSIVE",
       "elite": "triple-clap",
-      "current": 5,
+      "current": 4,
       "cleared_dates": {
         "2": "2026-06-29",
-        "3": "2026-08-17",
-        "4": "2026-09-07"
+        "3": "2026-08-17"
       },
       "rungs": [
         {
@@ -13890,8 +13889,8 @@
         }
       ],
       "chart": 2,
-      "cleared_count": 4,
-      "height": 10,
+      "cleared_count": 3,
+      "height": 6,
       "triangular": [
         0,
         1,
@@ -15032,20 +15031,15 @@
         },
         {
           "date": "2026-09-07",
-          "y": 5,
-          "kind": "clear",
-          "label": "Horizontal Push — EXPLOSIVE — cleared: Double clap push-up (two front claps) (needed 3, got 3, 4, 4 — avg 3.67)",
-          "perf": {
-            "needed": "3",
-            "got": "3, 4, 4",
-            "avg": 3.67
-          }
+          "y": 4.97,
+          "kind": "session",
+          "label": "Double clap push-up (two front claps) — 3, 4, 4 (avg 3.7 vs target 3)"
         },
         {
           "date": "2026-09-14",
-          "y": 5.25,
+          "y": 4.67,
           "kind": "session",
-          "label": "Double clap push-up (two front claps) — 2, 2, 2 (avg 2 vs target 8)"
+          "label": "Double clap push-up (two front claps) — 2, 2, 2 (avg 2 vs target 3)"
         }
       ],
       "steps": [
@@ -15060,10 +15054,6 @@
         {
           "date": "2026-08-17",
           "rungs": 4
-        },
-        {
-          "date": "2026-09-07",
-          "rungs": 5
         }
       ],
       "chart": 2
@@ -17018,14 +17008,14 @@
             "name": "Double clap push-up (★explosive — two front claps)",
             "raw": "3, 4, 4",
             "avg": 3.7,
-            "status": "✓ CLEAR DAY — carried by the clear dot (needed 3, avg 3.67)"
+            "status": "● plotted at 4.97"
           },
           {
             "date": "2026-09-14",
             "name": "Double clap push-up (★explosive — two front claps)",
             "raw": "2, 2, 2",
             "avg": 2,
-            "status": "● plotted at 5.25"
+            "status": "● plotted at 4.67"
           }
         ]
       },
@@ -20382,7 +20372,7 @@
             "name": "Double clap push-up (★explosive — two front claps)",
             "raw": "2, 2, 2",
             "avg": 2,
-            "target": "8",
+            "target": "3",
             "sets": 3,
             "cleared": false
           }
@@ -20549,7 +20539,7 @@
             "avg": 3.7,
             "target": "3",
             "sets": 3,
-            "cleared": true
+            "cleared": false
           }
         ]
       },
