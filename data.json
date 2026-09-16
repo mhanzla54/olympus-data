@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 212
     },
-    "overall_total": 1380,
+    "overall_total": 1381,
     "generated_for": "2026-09-16",
-    "built_at": "2026-09-16T18:20:05.335Z",
+    "built_at": "2026-09-16T20:22:37.912Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1337
+      "ft_to_go": 1336
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 159,
+      "current": 160,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -8739,6 +8739,20 @@
       "evidence": "POLARIS xmta206fu",
       "booked": "2026-09-16",
       "source": "polaris:xmta206fu:2026-09-16:session:1"
+    },
+    {
+      "date": "2026-09-16",
+      "lane": "method",
+      "activity": "Write the agent question battery — a working sitting",
+      "label": "Write the agent question battery",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 160,
+      "cum_overall": 1381,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS s3b",
+      "booked": "2026-09-16",
+      "source": "polaris:s3b:2026-09-16:session:1"
     }
   ],
   "polaris_booked": {
@@ -8838,7 +8852,8 @@
     "polaris:xmu2kjpv8:completion": 1,
     "polaris:xmtjyhw8c:2026-09-16:session:1": 1,
     "polaris:xmtr6bclh:2026-09-16:session:1": 1,
-    "polaris:xmta206fu:2026-09-16:session:1": 1
+    "polaris:xmta206fu:2026-09-16:session:1": 1,
+    "polaris:s3b:2026-09-16:session:1": 1
   },
   "series": {
     "coding": [
@@ -10840,6 +10855,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Osiris Lens V2 — a working sitting"
+      },
+      {
+        "date": "2026-09-16",
+        "cum": 160,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Write the agent question battery — a working sitting"
       }
     ],
     "literature": [
