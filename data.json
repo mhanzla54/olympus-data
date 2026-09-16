@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 212.4
     },
-    "overall_total": 1374,
+    "overall_total": 1375,
     "generated_for": "2026-09-15",
-    "built_at": "2026-09-15T20:29:14.693Z",
+    "built_at": "2026-09-16T00:59:18.869Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1343
+      "ft_to_go": 1342
     },
     "captures_today_unscored": 0
   },
@@ -98,7 +98,7 @@
       "t0_note": "no public track record — not known in the field; every post, repo and paper still ahead",
       "endpoint": "A recognized public body of work — provisional and open by design (§14.0.2); this lane has no terminus",
       "endpoint_tier": "enormous",
-      "current": 18,
+      "current": 19,
       "working_on": "Not yet started — the first public thing ships from here"
     }
   ],
@@ -8655,6 +8655,20 @@
       "evidence": "POLARIS xmu34k9kt",
       "booked": "2026-09-15",
       "source": "polaris:xmu34k9kt:completion"
+    },
+    {
+      "date": "2026-09-15",
+      "lane": "fieldpresence",
+      "activity": "Revise Substack Post — FINISHED",
+      "label": "Revise Substack Post — FINISHED",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 19,
+      "cum_overall": 1375,
+      "reasoning": "Owner-priced in POLARIS: finishing it = tiny, locked 2026-09-15",
+      "evidence": "POLARIS xmu2kjpv8",
+      "booked": "2026-09-15",
+      "source": "polaris:xmu2kjpv8:completion"
     }
   ],
   "polaris_booked": {
@@ -8750,7 +8764,8 @@
     "polaris:xmtij02rz:2026-09-15:session:1": 1,
     "polaris:xmtr6bclh:2026-09-15:session:1": 1,
     "polaris:s3b:2026-09-15:session:1": 1,
-    "polaris:xmu34k9kt:completion": 1
+    "polaris:xmu34k9kt:completion": 1,
+    "polaris:xmu2kjpv8:completion": 1
   },
   "series": {
     "coding": [
@@ -12965,6 +12980,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Work on Substack Post — FINISHED"
+      },
+      {
+        "date": "2026-09-15",
+        "cum": 19,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Revise Substack Post — FINISHED"
       }
     ]
   },
