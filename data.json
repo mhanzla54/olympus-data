@@ -20,8 +20,8 @@
       "all_time_low_lb": 212
     },
     "overall_total": 1382,
-    "generated_for": "2026-09-16",
-    "built_at": "2026-09-16T23:09:07.288Z",
+    "generated_for": "2026-09-17",
+    "built_at": "2026-09-17T04:00:05.297Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -25972,15 +25972,6 @@
       "feet": 10,
       "line": 213,
       "weight": 212.4,
-      "tier": "small"
-    },
-    {
-      "kind": "weight-ratchet",
-      "date": "2026-09-09",
-      "booked": "2026-09-09",
-      "feet": 10,
-      "line": 214,
-      "weight": 213.6,
       "tier": "small"
     }
   ],
