@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 212
     },
-    "overall_total": 1388,
+    "overall_total": 1390,
     "generated_for": "2026-09-17",
-    "built_at": "2026-09-17T15:21:41.387Z",
+    "built_at": "2026-09-18T01:02:18.670Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1329
+      "ft_to_go": 1327
     },
     "captures_today_unscored": 0
   },
@@ -98,7 +98,7 @@
       "t0_note": "no public track record — not known in the field; every post, repo and paper still ahead",
       "endpoint": "A recognized public body of work — provisional and open by design (§14.0.2); this lane has no terminus",
       "endpoint_tier": "enormous",
-      "current": 20,
+      "current": 22,
       "working_on": "Not yet started — the first public thing ships from here"
     }
   ],
@@ -8851,6 +8851,34 @@
       "evidence": "POLARIS xmtjyhw8c",
       "booked": "2026-09-17",
       "source": "polaris:xmtjyhw8c:2026-09-17:session:1"
+    },
+    {
+      "date": "2026-09-17",
+      "lane": "fieldpresence",
+      "activity": "MANIFEST — the fundability system — a working sitting",
+      "label": "MANIFEST — the fundability system — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 21,
+      "cum_overall": 1389,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmu4poq7q",
+      "booked": "2026-09-17",
+      "source": "polaris:xmu4poq7q:2026-09-17:session:1"
+    },
+    {
+      "date": "2026-09-17",
+      "lane": "fieldpresence",
+      "activity": "Substack Post 1 Work — a working sitting",
+      "label": "Substack Post 1 Work — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 22,
+      "cum_overall": 1390,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmu4ppo5c",
+      "booked": "2026-09-17",
+      "source": "polaris:xmu4ppo5c:2026-09-17:session:1"
     }
   ],
   "polaris_booked": {
@@ -8956,7 +8984,9 @@
     "polaris:xmtij02rz:2026-09-17:session:1": 1,
     "polaris:xmtr6bclh:2026-09-17:session:1": 1,
     "polaris:xmu5lb8rc:completion": 1,
-    "polaris:xmtjyhw8c:2026-09-17:session:1": 1
+    "polaris:xmtjyhw8c:2026-09-17:session:1": 1,
+    "polaris:xmu4poq7q:2026-09-17:session:1": 1,
+    "polaris:xmu4ppo5c:2026-09-17:session:1": 1
   },
   "series": {
     "coding": [
@@ -13266,6 +13296,20 @@
       {
         "date": "2026-09-16",
         "cum": 20,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Substack Post 1 Work — a working sitting"
+      },
+      {
+        "date": "2026-09-17",
+        "cum": 21,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "MANIFEST — the fundability system — a working sitting"
+      },
+      {
+        "date": "2026-09-17",
+        "cum": 22,
         "feet": 1,
         "tier": "tiny",
         "activity": "Substack Post 1 Work — a working sitting"
