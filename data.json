@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 212
     },
-    "overall_total": 1392,
+    "overall_total": 1394,
     "generated_for": "2026-09-18",
-    "built_at": "2026-09-18T12:27:27.260Z",
+    "built_at": "2026-09-18T13:12:04.263Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1325
+      "ft_to_go": 1323
     },
     "captures_today_unscored": 0
   },
@@ -88,7 +88,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 455,
+      "current": 457,
       "working_on": "the next new-pound low"
     },
     {
@@ -8907,6 +8907,34 @@
       "evidence": "POLARIS xmtjyhw8c",
       "booked": "2026-09-18",
       "source": "polaris:xmtjyhw8c:2026-09-18:session:1"
+    },
+    {
+      "date": "2026-09-17",
+      "lane": "body",
+      "activity": "protein-day — 161 g",
+      "label": "protein-day — 161 g",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 456,
+      "cum_overall": 1393,
+      "reasoning": "codebook ⚖️ protein-day: needed >= 160 g; got 161 g",
+      "evidence": "health warehouse",
+      "booked": "2026-09-18",
+      "source": "body:protein-day:2026-09-17"
+    },
+    {
+      "date": "2026-09-17",
+      "lane": "body",
+      "activity": "calorie-day — 1866 kcal",
+      "label": "calorie-day — 1866 kcal",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 457,
+      "cum_overall": 1394,
+      "reasoning": "codebook ⚖️ calorie-day: needed 1550–2100 kcal; got 1866 kcal",
+      "evidence": "health warehouse",
+      "booked": "2026-09-18",
+      "source": "body:calorie-day:2026-09-17"
     }
   ],
   "polaris_booked": {
@@ -13264,6 +13292,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "calorie-day — 1990 kcal"
+      },
+      {
+        "date": "2026-09-17",
+        "cum": 456,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "protein-day — 161 g"
+      },
+      {
+        "date": "2026-09-17",
+        "cum": 457,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "calorie-day — 1866 kcal"
       }
     ],
     "fieldpresence": [
@@ -23824,6 +23866,14 @@
         "protein": 213,
         "dayType": "strict",
         "provisional": false
+      },
+      {
+        "date": "2026-09-17",
+        "w": 212.8,
+        "kcal": 1866,
+        "protein": 161,
+        "dayType": "strict",
+        "provisional": false
       }
     ],
     "trend": [
@@ -24254,6 +24304,10 @@
       {
         "date": "2026-09-16",
         "w": 213.69
+      },
+      {
+        "date": "2026-09-17",
+        "w": 213.54
       }
     ],
     "noiseBand": 1.27,
@@ -24544,27 +24598,22 @@
       },
       {
         "date": "2026-09-16",
-        "w": 213.1,
+        "w": 213,
         "week": "Sep 13–Sep 19",
-        "n": 4
+        "n": 5
       }
     ],
     "banner": {
       "startDate": "2026-03-22",
       "startW": 235,
-      "lost": 21.3,
+      "lost": 21.5,
       "goal": 180,
-      "pct": 38.7,
+      "pct": 39,
       "nextFloor": 210,
-      "toGo": 3.7,
-      "newLow": true
+      "toGo": 3.5,
+      "newLow": false
     },
     "strip": [
-      {
-        "date": "2026-08-19",
-        "state": "partial",
-        "kcal": 0
-      },
       {
         "date": "2026-08-20",
         "state": "partial",
@@ -24707,6 +24756,11 @@
       },
       {
         "date": "2026-09-17",
+        "state": "off",
+        "kcal": 1866
+      },
+      {
+        "date": "2026-09-18",
         "state": "partial",
         "kcal": 0
       }
@@ -25626,6 +25680,14 @@
       },
       {
         "date": "2026-09-17",
+        "kcal": 1866,
+        "protein": 161,
+        "dayType": "strict",
+        "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-09-18",
         "kcal": 0,
         "protein": 0,
         "dayType": "empty",
