@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 212
     },
-    "overall_total": 1390,
-    "generated_for": "2026-09-17",
-    "built_at": "2026-09-18T01:02:18.670Z",
+    "overall_total": 1392,
+    "generated_for": "2026-09-18",
+    "built_at": "2026-09-18T12:27:27.260Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1327
+      "ft_to_go": 1325
     },
     "captures_today_unscored": 0
   },
@@ -38,7 +38,7 @@
       "t0_note": "couldn't write a single line of Python — ran his first print() the day before t0",
       "endpoint": "Replicate AND extend a frontier alignment result — public, runnable code",
       "endpoint_tier": "verylarge",
-      "current": 153,
+      "current": 154,
       "working_on": "Automate the Boring Stuff textbook"
     },
     {
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 162,
+      "current": 163,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -8879,6 +8879,34 @@
       "evidence": "POLARIS xmu4ppo5c",
       "booked": "2026-09-17",
       "source": "polaris:xmu4ppo5c:2026-09-17:session:1"
+    },
+    {
+      "date": "2026-09-18",
+      "lane": "coding",
+      "activity": "Chapter 10 ATBS Coding Reading + Notes OR Practice — a working sitting",
+      "label": "Chapter 10 ATBS Coding Reading + Notes OR Practice",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 154,
+      "cum_overall": 1391,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmtij02rz",
+      "booked": "2026-09-18",
+      "source": "polaris:xmtij02rz:2026-09-18:session:1"
+    },
+    {
+      "date": "2026-09-18",
+      "lane": "method",
+      "activity": "Osiris Substrate V3 — a working sitting",
+      "label": "Osiris Substrate V3 — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 163,
+      "cum_overall": 1392,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmtjyhw8c",
+      "booked": "2026-09-18",
+      "source": "polaris:xmtjyhw8c:2026-09-18:session:1"
     }
   ],
   "polaris_booked": {
@@ -8986,7 +9014,9 @@
     "polaris:xmu5lb8rc:completion": 1,
     "polaris:xmtjyhw8c:2026-09-17:session:1": 1,
     "polaris:xmu4poq7q:2026-09-17:session:1": 1,
-    "polaris:xmu4ppo5c:2026-09-17:session:1": 1
+    "polaris:xmu4ppo5c:2026-09-17:session:1": 1,
+    "polaris:xmtij02rz:2026-09-18:session:1": 1,
+    "polaris:xmtjyhw8c:2026-09-18:session:1": 1
   },
   "series": {
     "coding": [
@@ -9616,6 +9646,13 @@
       {
         "date": "2026-09-17",
         "cum": 153,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Chapter 10 ATBS Coding Reading + Notes OR Practice — a working sitting"
+      },
+      {
+        "date": "2026-09-18",
+        "cum": 154,
         "feet": 1,
         "tier": "tiny",
         "activity": "Chapter 10 ATBS Coding Reading + Notes OR Practice — a working sitting"
@@ -11013,6 +11050,13 @@
       {
         "date": "2026-09-17",
         "cum": 162,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris Substrate V3 — a working sitting"
+      },
+      {
+        "date": "2026-09-18",
+        "cum": 163,
         "feet": 1,
         "tier": "tiny",
         "activity": "Osiris Substrate V3 — a working sitting"
