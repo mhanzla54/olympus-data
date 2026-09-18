@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 212
     },
-    "overall_total": 1395,
+    "overall_total": 1396,
     "generated_for": "2026-09-18",
-    "built_at": "2026-09-18T13:27:31.232Z",
+    "built_at": "2026-09-18T18:12:01.125Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1322
+      "ft_to_go": 1321
     },
     "captures_today_unscored": 0
   },
@@ -98,7 +98,7 @@
       "t0_note": "no public track record — not known in the field; every post, repo and paper still ahead",
       "endpoint": "A recognized public body of work — provisional and open by design (§14.0.2); this lane has no terminus",
       "endpoint_tier": "enormous",
-      "current": 22,
+      "current": 23,
       "working_on": "Not yet started — the first public thing ships from here"
     }
   ],
@@ -8949,6 +8949,20 @@
       "evidence": "POLARIS xmtr6bclh",
       "booked": "2026-09-18",
       "source": "polaris:xmtr6bclh:2026-09-18:session:1"
+    },
+    {
+      "date": "2026-09-18",
+      "lane": "fieldpresence",
+      "activity": "MANIFEST — the fundability system — a working sitting",
+      "label": "MANIFEST — the fundability system — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 23,
+      "cum_overall": 1396,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmu4poq7q",
+      "booked": "2026-09-18",
+      "source": "polaris:xmu4poq7q:2026-09-18:session:1"
     }
   ],
   "polaris_booked": {
@@ -9059,7 +9073,8 @@
     "polaris:xmu4ppo5c:2026-09-17:session:1": 1,
     "polaris:xmtij02rz:2026-09-18:session:1": 1,
     "polaris:xmtjyhw8c:2026-09-18:session:1": 1,
-    "polaris:xmtr6bclh:2026-09-18:session:1": 1
+    "polaris:xmtr6bclh:2026-09-18:session:1": 1,
+    "polaris:xmu4poq7q:2026-09-18:session:1": 1
   },
   "series": {
     "coding": [
@@ -13421,6 +13436,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Substack Post 1 Work — a working sitting"
+      },
+      {
+        "date": "2026-09-18",
+        "cum": 23,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "MANIFEST — the fundability system — a working sitting"
       }
     ]
   },
@@ -24784,7 +24806,7 @@
       {
         "date": "2026-09-18",
         "state": "partial",
-        "kcal": 0
+        "kcal": 1006
       }
     ],
     "days": [
@@ -25710,10 +25732,10 @@
       },
       {
         "date": "2026-09-18",
-        "kcal": 0,
-        "protein": 0,
-        "dayType": "empty",
-        "logged": "empty",
+        "kcal": 1006,
+        "protein": 97,
+        "dayType": "strict",
+        "logged": "full",
         "provisional": true
       }
     ],
