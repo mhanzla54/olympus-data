@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 212
     },
-    "overall_total": 1396,
-    "generated_for": "2026-09-18",
-    "built_at": "2026-09-18T18:12:01.125Z",
+    "overall_total": 1401,
+    "generated_for": "2026-09-19",
+    "built_at": "2026-09-19T13:11:48.900Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1321
+      "ft_to_go": 1316
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 164,
+      "current": 166,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 368,
+      "current": 369,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -88,7 +88,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 457,
+      "current": 459,
       "working_on": "the next new-pound low"
     },
     {
@@ -8963,6 +8963,76 @@
       "evidence": "POLARIS xmu4poq7q",
       "booked": "2026-09-18",
       "source": "polaris:xmu4poq7q:2026-09-18:session:1"
+    },
+    {
+      "date": "2026-09-19",
+      "lane": "strength",
+      "activity": "Workout — a working sitting",
+      "label": "Workout — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 369,
+      "cum_overall": 1397,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmtegz4dz",
+      "booked": "2026-09-19",
+      "source": "polaris:xmtegz4dz:2026-09-19:session:1"
+    },
+    {
+      "date": "2026-09-19",
+      "lane": "method",
+      "activity": "Osiris Substrate V3 — a working sitting",
+      "label": "Osiris Substrate V3 — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 165,
+      "cum_overall": 1398,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmtjyhw8c",
+      "booked": "2026-09-19",
+      "source": "polaris:xmtjyhw8c:2026-09-19:session:1"
+    },
+    {
+      "date": "2026-09-19",
+      "lane": "method",
+      "activity": "Osiris Lens V2 — a working sitting",
+      "label": "Osiris Lens V2 — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 166,
+      "cum_overall": 1399,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmtr6bclh",
+      "booked": "2026-09-19",
+      "source": "polaris:xmtr6bclh:2026-09-19:session:1"
+    },
+    {
+      "date": "2026-09-18",
+      "lane": "body",
+      "activity": "protein-day — 166 g",
+      "label": "protein-day — 166 g",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 458,
+      "cum_overall": 1400,
+      "reasoning": "codebook ⚖️ protein-day: needed >= 160 g; got 166 g",
+      "evidence": "health warehouse",
+      "booked": "2026-09-19",
+      "source": "body:protein-day:2026-09-18"
+    },
+    {
+      "date": "2026-09-18",
+      "lane": "body",
+      "activity": "calorie-day — 2023 kcal",
+      "label": "calorie-day — 2023 kcal",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 459,
+      "cum_overall": 1401,
+      "reasoning": "codebook ⚖️ calorie-day: needed 1550–2100 kcal; got 2023 kcal",
+      "evidence": "health warehouse",
+      "booked": "2026-09-19",
+      "source": "body:calorie-day:2026-09-18"
     }
   ],
   "polaris_booked": {
@@ -9074,7 +9144,10 @@
     "polaris:xmtij02rz:2026-09-18:session:1": 1,
     "polaris:xmtjyhw8c:2026-09-18:session:1": 1,
     "polaris:xmtr6bclh:2026-09-18:session:1": 1,
-    "polaris:xmu4poq7q:2026-09-18:session:1": 1
+    "polaris:xmu4poq7q:2026-09-18:session:1": 1,
+    "polaris:xmtegz4dz:2026-09-19:session:1": 1,
+    "polaris:xmtjyhw8c:2026-09-19:session:1": 1,
+    "polaris:xmtr6bclh:2026-09-19:session:1": 1
   },
   "series": {
     "coding": [
@@ -11125,6 +11198,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Osiris Lens V2 — a working sitting"
+      },
+      {
+        "date": "2026-09-19",
+        "cum": 165,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris Substrate V3 — a working sitting"
+      },
+      {
+        "date": "2026-09-19",
+        "cum": 166,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris Lens V2 — a working sitting"
       }
     ],
     "literature": [
@@ -11906,6 +11993,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Sparse Training — FINISHED"
+      },
+      {
+        "date": "2026-09-19",
+        "cum": 369,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Workout — a working sitting"
       }
     ],
     "body": [
@@ -13343,6 +13437,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "calorie-day — 1866 kcal"
+      },
+      {
+        "date": "2026-09-18",
+        "cum": 458,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "protein-day — 166 g"
+      },
+      {
+        "date": "2026-09-18",
+        "cum": 459,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "calorie-day — 2023 kcal"
       }
     ],
     "fieldpresence": [
@@ -23918,6 +24026,22 @@
         "protein": 161,
         "dayType": "strict",
         "provisional": false
+      },
+      {
+        "date": "2026-09-18",
+        "w": 212.6,
+        "kcal": 2023,
+        "protein": 166,
+        "dayType": "strict",
+        "provisional": false
+      },
+      {
+        "date": "2026-09-19",
+        "w": 212,
+        "kcal": 0,
+        "protein": 0,
+        "dayType": "empty",
+        "provisional": true
       }
     ],
     "trend": [
@@ -24352,9 +24476,17 @@
       {
         "date": "2026-09-17",
         "w": 213.54
+      },
+      {
+        "date": "2026-09-18",
+        "w": 213.14
+      },
+      {
+        "date": "2026-09-19",
+        "w": 212.83
       }
     ],
-    "noiseBand": 1.27,
+    "noiseBand": 1.25,
     "floors": [
       {
         "y": 230,
@@ -24642,27 +24774,22 @@
       },
       {
         "date": "2026-09-16",
-        "w": 213,
+        "w": 212.8,
         "week": "Sep 13–Sep 19",
-        "n": 5
+        "n": 7
       }
     ],
     "banner": {
       "startDate": "2026-03-22",
       "startW": 235,
-      "lost": 21.5,
+      "lost": 22.2,
       "goal": 180,
-      "pct": 39,
+      "pct": 40.3,
       "nextFloor": 210,
-      "toGo": 3.5,
-      "newLow": false
+      "toGo": 2.8,
+      "newLow": true
     },
     "strip": [
-      {
-        "date": "2026-08-20",
-        "state": "partial",
-        "kcal": 0
-      },
       {
         "date": "2026-08-21",
         "state": "partial",
@@ -24805,8 +24932,13 @@
       },
       {
         "date": "2026-09-18",
+        "state": "off",
+        "kcal": 2023
+      },
+      {
+        "date": "2026-09-19",
         "state": "partial",
-        "kcal": 1006
+        "kcal": 0
       }
     ],
     "days": [
@@ -25732,10 +25864,18 @@
       },
       {
         "date": "2026-09-18",
-        "kcal": 1006,
-        "protein": 97,
+        "kcal": 2023,
+        "protein": 166,
         "dayType": "strict",
         "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-09-19",
+        "kcal": 0,
+        "protein": 0,
+        "dayType": "empty",
+        "logged": "empty",
         "provisional": true
       }
     ],
