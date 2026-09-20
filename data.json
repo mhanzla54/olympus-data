@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 212
     },
-    "overall_total": 1402,
+    "overall_total": 1412,
     "generated_for": "2026-09-20",
-    "built_at": "2026-09-20T15:34:59.828Z",
+    "built_at": "2026-09-20T15:35:30.963Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1315
+      "ft_to_go": 1305
     },
     "captures_today_unscored": 0
   },
@@ -88,7 +88,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 459,
+      "current": 469,
       "working_on": "the next new-pound low"
     },
     {
@@ -9047,6 +9047,20 @@
       "evidence": "POLARIS xmu4ppo5c",
       "booked": "2026-09-20",
       "source": "polaris:xmu4ppo5c:2026-09-19:session:1"
+    },
+    {
+      "date": "2026-09-20",
+      "lane": "body",
+      "activity": "Cut Cycle Completion — FINISHED",
+      "label": "Cut Cycle Completion — FINISHED",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 469,
+      "cum_overall": 1412,
+      "reasoning": "Owner-priced in POLARIS: finishing it = small, locked 2026-09-20",
+      "evidence": "POLARIS xmu9z9rcl",
+      "booked": "2026-09-20",
+      "source": "polaris:xmu9z9rcl:completion"
     }
   ],
   "polaris_booked": {
@@ -9162,7 +9176,8 @@
     "polaris:xmtegz4dz:2026-09-19:session:1": 1,
     "polaris:xmtjyhw8c:2026-09-19:session:1": 1,
     "polaris:xmtr6bclh:2026-09-19:session:1": 1,
-    "polaris:xmu4ppo5c:2026-09-19:session:1": 1
+    "polaris:xmu4ppo5c:2026-09-19:session:1": 1,
+    "polaris:xmu9z9rcl:completion": 10
   },
   "series": {
     "coding": [
@@ -13466,6 +13481,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "calorie-day — 2023 kcal"
+      },
+      {
+        "date": "2026-09-20",
+        "cum": 469,
+        "feet": 10,
+        "tier": "small",
+        "activity": "Cut Cycle Completion — FINISHED"
       }
     ],
     "fieldpresence": [
