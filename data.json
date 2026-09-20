@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 212
     },
-    "overall_total": 1401,
-    "generated_for": "2026-09-19",
-    "built_at": "2026-09-19T13:11:48.900Z",
+    "overall_total": 1402,
+    "generated_for": "2026-09-20",
+    "built_at": "2026-09-20T15:34:59.828Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1316
+      "ft_to_go": 1315
     },
     "captures_today_unscored": 0
   },
@@ -98,7 +98,7 @@
       "t0_note": "no public track record — not known in the field; every post, repo and paper still ahead",
       "endpoint": "A recognized public body of work — provisional and open by design (§14.0.2); this lane has no terminus",
       "endpoint_tier": "enormous",
-      "current": 23,
+      "current": 24,
       "working_on": "Not yet started — the first public thing ships from here"
     }
   ],
@@ -9033,6 +9033,20 @@
       "evidence": "health warehouse",
       "booked": "2026-09-19",
       "source": "body:calorie-day:2026-09-18"
+    },
+    {
+      "date": "2026-09-19",
+      "lane": "fieldpresence",
+      "activity": "Substack Post 1 Work — a working sitting",
+      "label": "Substack Post 1 Work — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 24,
+      "cum_overall": 1402,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmu4ppo5c",
+      "booked": "2026-09-20",
+      "source": "polaris:xmu4ppo5c:2026-09-19:session:1"
     }
   ],
   "polaris_booked": {
@@ -9147,7 +9161,8 @@
     "polaris:xmu4poq7q:2026-09-18:session:1": 1,
     "polaris:xmtegz4dz:2026-09-19:session:1": 1,
     "polaris:xmtjyhw8c:2026-09-19:session:1": 1,
-    "polaris:xmtr6bclh:2026-09-19:session:1": 1
+    "polaris:xmtr6bclh:2026-09-19:session:1": 1,
+    "polaris:xmu4ppo5c:2026-09-19:session:1": 1
   },
   "series": {
     "coding": [
@@ -13551,6 +13566,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "MANIFEST — the fundability system — a working sitting"
+      },
+      {
+        "date": "2026-09-19",
+        "cum": 24,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Substack Post 1 Work — a working sitting"
       }
     ]
   },
