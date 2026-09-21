@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 212
     },
-    "overall_total": 1413,
+    "overall_total": 1424,
     "generated_for": "2026-09-21",
-    "built_at": "2026-09-21T11:00:04.748Z",
+    "built_at": "2026-09-21T11:59:40.321Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1304
+      "ft_to_go": 1293
     },
     "captures_today_unscored": 0
   },
@@ -38,7 +38,7 @@
       "t0_note": "couldn't write a single line of Python — ran his first print() the day before t0",
       "endpoint": "Replicate AND extend a frontier alignment result — public, runnable code",
       "endpoint_tier": "verylarge",
-      "current": 154,
+      "current": 155,
       "working_on": "Automate the Boring Stuff textbook"
     },
     {
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 369,
+      "current": 379,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -9075,6 +9075,34 @@
       "evidence": "health warehouse",
       "booked": "2026-09-20",
       "source": "body:calorie-day:2026-09-19"
+    },
+    {
+      "date": "2026-09-21",
+      "lane": "coding",
+      "activity": "Chapter 10 ATBS Coding Reading + Notes OR Practice — a working sitting",
+      "label": "Chapter 10 ATBS Coding Reading + Notes OR Practice",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 155,
+      "cum_overall": 1414,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmtij02rz",
+      "booked": "2026-09-21",
+      "source": "polaris:xmtij02rz:2026-09-21:session:1"
+    },
+    {
+      "date": "2026-09-19",
+      "lane": "strength",
+      "activity": "Legs — Pistol rung 7 CLEARED — Full pistol — heel elevated (~2\" riser under the heel; no hand assist) (5/5/5, avg 5 vs target 5)",
+      "label": "Legs — Pistol rung 7 CLEARED — Full pistol — heel elevated",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 379,
+      "cum_overall": 1424,
+      "reasoning": "SETS-STANDARD: first 3 sets avg 5 >= 5; clean-reps confirmed by owner",
+      "evidence": "workout-log; Full pistol (★heel elevated ~2\", no hand assist)",
+      "booked": "2026-09-21",
+      "source": "rung:legs:7:2026-09-19"
     }
   ],
   "polaris_booked": {
@@ -9191,7 +9219,8 @@
     "polaris:xmtjyhw8c:2026-09-19:session:1": 1,
     "polaris:xmtr6bclh:2026-09-19:session:1": 1,
     "polaris:xmu4ppo5c:2026-09-19:session:1": 1,
-    "polaris:xmu9z9rcl:completion": 10
+    "polaris:xmu9z9rcl:completion": 10,
+    "polaris:xmtij02rz:2026-09-21:session:1": 1
   },
   "series": {
     "coding": [
@@ -9828,6 +9857,13 @@
       {
         "date": "2026-09-18",
         "cum": 154,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Chapter 10 ATBS Coding Reading + Notes OR Practice — a working sitting"
+      },
+      {
+        "date": "2026-09-21",
+        "cum": 155,
         "feet": 1,
         "tier": "tiny",
         "activity": "Chapter 10 ATBS Coding Reading + Notes OR Practice — a working sitting"
@@ -12044,6 +12080,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Workout — a working sitting"
+      },
+      {
+        "date": "2026-09-19",
+        "cum": 379,
+        "feet": 10,
+        "tier": "small",
+        "activity": "Legs — Pistol rung 7 CLEARED — Full pistol — heel elevated (~2\" riser under the heel; no hand assist) (5/5/5, avg 5 vs target 5)"
       }
     ],
     "body": [
@@ -26628,28 +26671,7 @@
     "vista-pyramid": "vista-pyramid.webp",
     "vista-redeemer": "vista-redeemer.webp"
   },
-  "pending_clears": [
-    {
-      "key": "rung:legs:7:2026-09-19",
-      "date": "2026-09-19",
-      "ladder": "legs",
-      "ladder_name": "Legs — Pistol",
-      "rung": 7,
-      "movement": "Full pistol — heel elevated (~2\" riser under the heel; no hand assist)",
-      "exercise": "Full pistol (★heel elevated ~2\", no hand assist)",
-      "sets": [
-        5,
-        5,
-        5
-      ],
-      "avg": 5,
-      "target": 5,
-      "sets_needed": 3,
-      "band": "small",
-      "feet": 10,
-      "answer_line": "- notes / skips: clean rung:legs:7:2026-09-19 yes   # Legs — Pistol rung 7 — Full pistol — heel elevated (~2\" riser under the heel; no hand assist)"
-    }
-  ],
+  "pending_clears": [],
   "pending_clear_notes": [],
   "body_crossings": [
     {
