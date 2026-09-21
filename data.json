@@ -21,7 +21,7 @@
     },
     "overall_total": 1430,
     "generated_for": "2026-09-21",
-    "built_at": "2026-09-21T16:42:21.094Z",
+    "built_at": "2026-09-21T17:08:05.318Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -14272,7 +14272,8 @@
         "name": "Front Lever ladder — UNLOCK (gate)",
         "criterion": "~5 clean pull-ups + 45s hollow hold",
         "tier": "medium",
-        "status": "locked"
+        "status": "earned",
+        "date": "2026-08-10"
       },
       {
         "name": "First elite capstone (any ladder)",
@@ -14969,9 +14970,9 @@
     },
     {
       "id": "frontlever",
-      "name": "Front Lever (GOAL)",
+      "name": "Front Lever",
       "elite": "full front lever",
-      "current": 0,
+      "current": 1,
       "cleared_dates": {},
       "rungs": [
         {
@@ -15035,7 +15036,7 @@
           "targetAmbiguous": false
         }
       ],
-      "gated": "~5 clean pull-ups + 45s hollow hold",
+      "gated": "~5 clean pull-ups + 45s hollow hold — met 2026-08-10",
       "chart": 11,
       "cleared_count": 0,
       "height": 0,
@@ -16334,20 +16335,20 @@
     },
     {
       "id": "frontlever",
-      "name": "Front Lever (GOAL)",
+      "name": "Front Lever",
       "baseline": 0,
       "points": [
         {
           "date": "2026-03-22",
-          "y": 0,
+          "y": 1,
           "kind": "baseline",
-          "label": "Front Lever (GOAL) — gated, not yet started"
+          "label": "Front Lever — on rung 1 at t0"
         }
       ],
       "steps": [
         {
           "date": "2026-03-22",
-          "rungs": 0
+          "rungs": 1
         }
       ],
       "chart": 11
@@ -18533,7 +18534,7 @@
       },
       {
         "id": "frontlever",
-        "name": "Front Lever (GOAL)",
+        "name": "Front Lever",
         "rows": [
           {
             "date": "2026-08-12",
