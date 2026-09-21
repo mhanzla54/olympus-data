@@ -1,10 +1,26 @@
 {
-  "state": "ok",
-  "since": null,
-  "attempts": 0,
-  "gates": [],
-  "down_human": null,
+  "state": "withheld",
+  "since": "2026-09-21T12:10:05.732Z",
+  "attempts": 1,
+  "gates": [
+    "marker",
+    "split parse",
+    "asset",
+    "alias coverage",
+    "workout convert",
+    "parse",
+    "row count",
+    "totals",
+    "parity",
+    "impossible point",
+    "quarantine",
+    "health",
+    "deed label",
+    "ratchet",
+    "rung eras"
+  ],
+  "down_human": "0 minutes",
   "ledger_total": 1425,
   "feed_built_at": "2026-09-21T12:00:05.752Z",
-  "stamped_at": "2026-09-21T12:00:08.860Z"
+  "stamped_at": "2026-09-21T12:10:05.833Z"
 }
