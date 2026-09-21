@@ -21,7 +21,7 @@
     },
     "overall_total": 1430,
     "generated_for": "2026-09-21",
-    "built_at": "2026-09-21T17:08:05.318Z",
+    "built_at": "2026-09-21T17:29:29.304Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -14266,7 +14266,8 @@
         "name": "Planche ladder — UNLOCK (gate)",
         "criterion": "Healthy loaded wrists + ~20 clean push-ups",
         "tier": "medium",
-        "status": "locked"
+        "status": "earned",
+        "date": "2026-07-10"
       },
       {
         "name": "Front Lever ladder — UNLOCK (gate)",
