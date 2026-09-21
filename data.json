@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 212
     },
-    "overall_total": 1425,
+    "overall_total": 1429,
     "generated_for": "2026-09-21",
-    "built_at": "2026-09-21T12:00:05.752Z",
+    "built_at": "2026-09-21T14:30:05.738Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1292
+      "ft_to_go": 1288
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 167,
+      "current": 168,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 379,
+      "current": 380,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -88,7 +88,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 470,
+      "current": 472,
       "working_on": "the next new-pound low"
     },
     {
@@ -9117,6 +9117,62 @@
       "evidence": "POLARIS xmtjyhw8c",
       "booked": "2026-09-21",
       "source": "polaris:xmtjyhw8c:2026-09-21:session:1"
+    },
+    {
+      "date": "2026-09-20",
+      "lane": "body",
+      "activity": "protein-day — 176 g",
+      "label": "protein-day — 176 g",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 471,
+      "cum_overall": 1426,
+      "reasoning": "codebook ⚖️ protein-day: needed >= 160 g; got 176 g",
+      "evidence": "health warehouse",
+      "booked": "2026-09-21",
+      "source": "body:protein-day:2026-09-20"
+    },
+    {
+      "date": "2026-09-20",
+      "lane": "body",
+      "activity": "calorie-day — 2088 kcal",
+      "label": "calorie-day — 2088 kcal",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 472,
+      "cum_overall": 1427,
+      "reasoning": "codebook ⚖️ calorie-day: needed 1550–2100 kcal; got 2088 kcal",
+      "evidence": "health warehouse",
+      "booked": "2026-09-21",
+      "source": "body:calorie-day:2026-09-20"
+    },
+    {
+      "date": "2026-09-21",
+      "lane": "strength",
+      "activity": "Workout — a working sitting",
+      "label": "Workout — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 380,
+      "cum_overall": 1428,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmt78btdt",
+      "booked": "2026-09-21",
+      "source": "polaris:xmt78btdt:2026-09-21:session:1"
+    },
+    {
+      "date": "2026-09-21",
+      "lane": "method",
+      "activity": "Osiris Lens V2 — a working sitting",
+      "label": "Osiris Lens V2 — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 168,
+      "cum_overall": 1429,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmtr6bclh",
+      "booked": "2026-09-21",
+      "source": "polaris:xmtr6bclh:2026-09-21:session:1"
     }
   ],
   "polaris_booked": {
@@ -9235,7 +9291,9 @@
     "polaris:xmu4ppo5c:2026-09-19:session:1": 1,
     "polaris:xmu9z9rcl:completion": 10,
     "polaris:xmtij02rz:2026-09-21:session:1": 1,
-    "polaris:xmtjyhw8c:2026-09-21:session:1": 1
+    "polaris:xmtjyhw8c:2026-09-21:session:1": 1,
+    "polaris:xmt78btdt:2026-09-21:session:1": 1,
+    "polaris:xmtr6bclh:2026-09-21:session:1": 1
   },
   "series": {
     "coding": [
@@ -11314,6 +11372,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Osiris Substrate V3 — a working sitting"
+      },
+      {
+        "date": "2026-09-21",
+        "cum": 168,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris Lens V2 — a working sitting"
       }
     ],
     "literature": [
@@ -12109,6 +12174,13 @@
         "feet": 10,
         "tier": "small",
         "activity": "Legs — Pistol rung 7 CLEARED — Full pistol — heel elevated (~2\" riser under the heel; no hand assist) (5/5/5, avg 5 vs target 5)"
+      },
+      {
+        "date": "2026-09-21",
+        "cum": 380,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Workout — a working sitting"
       }
     ],
     "body": [
@@ -13574,6 +13646,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "calorie-day — 2674 kcal"
+      },
+      {
+        "date": "2026-09-20",
+        "cum": 471,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "protein-day — 176 g"
+      },
+      {
+        "date": "2026-09-20",
+        "cum": 472,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "calorie-day — 2088 kcal"
       }
     ],
     "fieldpresence": [
@@ -15125,10 +15211,11 @@
       "id": "legs",
       "name": "Legs — Pistol",
       "elite": "deficit pistol",
-      "current": 7,
+      "current": 8,
       "cleared_dates": {
         "5": "2026-07-11",
-        "6": "2026-08-01"
+        "6": "2026-08-01",
+        "7": "2026-09-19"
       },
       "rungs": [
         {
@@ -15199,8 +15286,8 @@
         }
       ],
       "chart": 8,
-      "cleared_count": 6,
-      "height": 21,
+      "cleared_count": 7,
+      "height": 28,
       "triangular": [
         0,
         1,
@@ -15626,6 +15713,12 @@
           "y": 4.67,
           "kind": "session",
           "label": "Double clap push-up (two front claps) — 2, 2, 2 (avg 2 vs target 3)"
+        },
+        {
+          "date": "2026-09-21",
+          "y": 4.44,
+          "kind": "session",
+          "label": "Double clap push-up (two front claps) — 1, 1, 2 (avg 1.3 vs target 3)"
         }
       ],
       "steps": [
@@ -16341,6 +16434,12 @@
           "y": 3.79,
           "kind": "session",
           "label": "Full chin-up — 8, 6, 5 (avg 6.3 vs target 8)"
+        },
+        {
+          "date": "2026-09-21",
+          "y": 3.88,
+          "kind": "session",
+          "label": "Full chin-up — 8, 7, 6 (avg 7 vs target 8)"
         }
       ],
       "steps": [
@@ -16553,6 +16652,12 @@
           "y": 3.35,
           "kind": "session",
           "label": "Dead hang — 22, 20 (avg 21 vs target 60)"
+        },
+        {
+          "date": "2026-09-21",
+          "y": 3.4,
+          "kind": "session",
+          "label": "Dead hang — 30, 18 (avg 24 vs target 60)"
         }
       ],
       "steps": [
@@ -16678,9 +16783,14 @@
         },
         {
           "date": "2026-09-19",
-          "y": 7.97,
-          "kind": "session",
-          "label": "Full pistol — heel elevated (~2\" riser under the heel; no hand assist) — 5, 5, 5 (avg 5 vs target 5)"
+          "y": 8,
+          "kind": "clear",
+          "label": "Legs — Pistol — cleared: Full pistol — heel elevated (~2\" riser under the heel; no hand assist) (needed 5/leg, got 5, 5, 5 — avg 5)",
+          "perf": {
+            "needed": "5/leg",
+            "got": "5, 5, 5",
+            "avg": 5
+          }
         }
       ],
       "steps": [
@@ -16695,6 +16805,10 @@
         {
           "date": "2026-08-01",
           "rungs": 7
+        },
+        {
+          "date": "2026-09-19",
+          "rungs": 8
         }
       ],
       "chart": 8
@@ -17129,6 +17243,12 @@
           "y": 6.56,
           "kind": "session",
           "label": "Bent-leg windshield wipers — 6, 2, 2 (avg 3.3 vs target 6)"
+        },
+        {
+          "date": "2026-09-21",
+          "y": 6.56,
+          "kind": "session",
+          "label": "Bent-leg windshield wipers — 5, 3, 2 (avg 3.3 vs target 6)"
         }
       ],
       "steps": [
@@ -17180,8 +17300,8 @@
       ]
     },
     "explosive": {
-      "candidates": 14,
-      "plotted": 14,
+      "candidates": 15,
+      "plotted": 15,
       "rejected": []
     },
     "planche": {
@@ -17199,17 +17319,21 @@
       ]
     },
     "handstand": {
-      "candidates": 14,
+      "candidates": 15,
       "plotted": 13,
       "rejected": [
         {
           "date": "2026-09-14",
           "why": "\"Wall HSPU (★75% ROM)\" logged no usable numbers (skipped)"
+        },
+        {
+          "date": "2026-09-21",
+          "why": "\"Wall HSPU (★75% ROM)\" logged no usable numbers (skipped)"
         }
       ]
     },
     "pull": {
-      "candidates": 47,
+      "candidates": 48,
       "plotted": 31,
       "rejected": [
         {
@@ -17279,12 +17403,16 @@
         {
           "date": "2026-09-14",
           "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-09-21",
+          "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
         }
       ]
     },
     "chinup": {
-      "candidates": 15,
-      "plotted": 14,
+      "candidates": 16,
+      "plotted": 15,
       "rejected": [
         {
           "date": "2026-08-10",
@@ -17293,8 +17421,8 @@
       ]
     },
     "grip": {
-      "candidates": 29,
-      "plotted": 29,
+      "candidates": 30,
+      "plotted": 30,
       "rejected": []
     },
     "legs": {
@@ -17338,8 +17466,8 @@
       ]
     },
     "corehang": {
-      "candidates": 45,
-      "plotted": 42,
+      "candidates": 46,
+      "plotted": 43,
       "rejected": [
         {
           "date": "2026-06-27",
@@ -17626,6 +17754,13 @@
             "raw": "2, 2, 2",
             "avg": 2,
             "status": "● plotted at 4.67"
+          },
+          {
+            "date": "2026-09-21",
+            "name": "Double clap push-up (★explosive — two front claps)",
+            "raw": "1, 1, 2",
+            "avg": 1.3,
+            "status": "● plotted at 4.44"
           }
         ]
       },
@@ -17839,6 +17974,13 @@
             "date": "2026-09-14",
             "name": "Wall HSPU (★75% ROM)",
             "raw": "(skipped cuz of left shoulder injury)",
+            "avg": null,
+            "status": "✗ not plotted — \"Wall HSPU (★75% ROM)\" logged no usable numbers (skipped)"
+          },
+          {
+            "date": "2026-09-21",
+            "name": "Wall HSPU (★75% ROM)",
+            "raw": "(Skipped for injury recovery)",
             "avg": null,
             "status": "✗ not plotted — \"Wall HSPU (★75% ROM)\" logged no usable numbers (skipped)"
           }
@@ -18267,6 +18409,13 @@
             "raw": "8, 6, 4",
             "avg": 6,
             "status": "● plotted at 5.75"
+          },
+          {
+            "date": "2026-09-21",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "30, 18",
+            "avg": 24,
+            "status": "✗ not plotted — \"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           }
         ]
       },
@@ -18537,6 +18686,13 @@
             "raw": "8, 6, 5",
             "avg": 6.3,
             "status": "● plotted at 3.79"
+          },
+          {
+            "date": "2026-09-21",
+            "name": "Chin-up (★full, underhand — then negatives as back-off)",
+            "raw": "8, 7, 6",
+            "avg": 7,
+            "status": "● plotted at 3.88"
           }
         ]
       },
@@ -18746,6 +18902,13 @@
             "raw": "22, 20",
             "avg": 21,
             "status": "● plotted at 3.35"
+          },
+          {
+            "date": "2026-09-21",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "30, 18",
+            "avg": 24,
+            "status": "● plotted at 3.4"
           }
         ]
       },
@@ -18891,7 +19054,7 @@
             "name": "Full pistol (★heel elevated ~2\", no hand assist)",
             "raw": "5, 5, 5",
             "avg": 5,
-            "status": "● plotted at 7.97"
+            "status": "✓ CLEAR DAY — carried by the clear dot (needed 5/leg, avg 5)"
           }
         ]
       },
@@ -19352,6 +19515,13 @@
             "raw": "6, 2, 2",
             "avg": 3.3,
             "status": "● plotted at 6.56"
+          },
+          {
+            "date": "2026-09-21",
+            "name": "Bent-leg windshield wipers ★",
+            "raw": "5, 3, 2",
+            "avg": 3.3,
+            "status": "● plotted at 6.56"
           }
         ]
       }
@@ -19463,6 +19633,10 @@
           {
             "date": "2026-09-16",
             "detail": "hang: 22, 20 · shrugs: 7, 7"
+          },
+          {
+            "date": "2026-09-21",
+            "detail": "hang: 30, 18 · shrugs: 12, 10.5"
           }
         ]
       },
@@ -19759,6 +19933,51 @@
         ]
       },
       {
+        "name": "Chin-up (★full, underhand — then negatives as back-off)",
+        "rows": [
+          {
+            "date": "2026-07-13",
+            "detail": "full reps: 4, 2.5,  .5 · neg back-off: 0, 4, 3"
+          },
+          {
+            "date": "2026-07-20",
+            "detail": "full reps: 4.5, 2.5, 1.5 · neg back-off: 3, 3.5, 2"
+          },
+          {
+            "date": "2026-07-27",
+            "detail": "full reps: 3, 3, 3 · neg back-off: 2, 3, 3"
+          },
+          {
+            "date": "2026-08-08",
+            "detail": "full reps: 5, 4, 3 · neg back-off: 3, 4, 5"
+          },
+          {
+            "date": "2026-08-17",
+            "detail": "full reps: 6.5, 5, 4 · neg back-off: 3, 3, 4"
+          },
+          {
+            "date": "2026-08-24",
+            "detail": "full reps: 6, 5, 4 · neg back-off: 2, 3, 4"
+          },
+          {
+            "date": "2026-08-31",
+            "detail": "full reps: 8, 6, 3.5 · neg back-off: 0, 2, 5"
+          },
+          {
+            "date": "2026-09-07",
+            "detail": "full reps: 7, 6, 4 · neg back-off: 1, 2, 4"
+          },
+          {
+            "date": "2026-09-14",
+            "detail": "full reps: 8, 6, 5 · neg back-off: 0, 2, 3"
+          },
+          {
+            "date": "2026-09-21",
+            "detail": "full reps: 8, 7, 6 · neg back-off: 0, 1, 2"
+          }
+        ]
+      },
+      {
         "name": "Single-leg hip thrust (shoulders on bed/chair)",
         "rows": [
           {
@@ -19841,47 +20060,6 @@
           {
             "date": "2026-07-11",
             "detail": "reps: 5, 5, 5"
-          }
-        ]
-      },
-      {
-        "name": "Chin-up (★full, underhand — then negatives as back-off)",
-        "rows": [
-          {
-            "date": "2026-07-13",
-            "detail": "full reps: 4, 2.5,  .5 · neg back-off: 0, 4, 3"
-          },
-          {
-            "date": "2026-07-20",
-            "detail": "full reps: 4.5, 2.5, 1.5 · neg back-off: 3, 3.5, 2"
-          },
-          {
-            "date": "2026-07-27",
-            "detail": "full reps: 3, 3, 3 · neg back-off: 2, 3, 3"
-          },
-          {
-            "date": "2026-08-08",
-            "detail": "full reps: 5, 4, 3 · neg back-off: 3, 4, 5"
-          },
-          {
-            "date": "2026-08-17",
-            "detail": "full reps: 6.5, 5, 4 · neg back-off: 3, 3, 4"
-          },
-          {
-            "date": "2026-08-24",
-            "detail": "full reps: 6, 5, 4 · neg back-off: 2, 3, 4"
-          },
-          {
-            "date": "2026-08-31",
-            "detail": "full reps: 8, 6, 3.5 · neg back-off: 0, 2, 5"
-          },
-          {
-            "date": "2026-09-07",
-            "detail": "full reps: 7, 6, 4 · neg back-off: 1, 2, 4"
-          },
-          {
-            "date": "2026-09-14",
-            "detail": "full reps: 8, 6, 5 · neg back-off: 0, 2, 3"
           }
         ]
       },
@@ -20108,6 +20286,39 @@
         ]
       },
       {
+        "name": "Bent-leg windshield wipers ★",
+        "rows": [
+          {
+            "date": "2026-09-07",
+            "detail": "reps: 4, 3.5, 2"
+          },
+          {
+            "date": "2026-09-09",
+            "detail": "reps: 4, 3, 2"
+          },
+          {
+            "date": "2026-09-12",
+            "detail": "reps: 4, 3, 2.5"
+          },
+          {
+            "date": "2026-09-14",
+            "detail": "reps: 4, 3, 2"
+          },
+          {
+            "date": "2026-09-16",
+            "detail": "reps: 4, 3, 4.5"
+          },
+          {
+            "date": "2026-09-19",
+            "detail": "reps: 6, 2, 2"
+          },
+          {
+            "date": "2026-09-21",
+            "detail": "reps: 5, 3, 2"
+          }
+        ]
+      },
+      {
         "name": "Pull-up (negatives)",
         "rows": [
           {
@@ -20253,35 +20464,6 @@
         ]
       },
       {
-        "name": "Bent-leg windshield wipers ★",
-        "rows": [
-          {
-            "date": "2026-09-07",
-            "detail": "reps: 4, 3.5, 2"
-          },
-          {
-            "date": "2026-09-09",
-            "detail": "reps: 4, 3, 2"
-          },
-          {
-            "date": "2026-09-12",
-            "detail": "reps: 4, 3, 2.5"
-          },
-          {
-            "date": "2026-09-14",
-            "detail": "reps: 4, 3, 2"
-          },
-          {
-            "date": "2026-09-16",
-            "detail": "reps: 4, 3, 4.5"
-          },
-          {
-            "date": "2026-09-19",
-            "detail": "reps: 6, 2, 2"
-          }
-        ]
-      },
-      {
         "name": "Planche lean (flex, light)",
         "rows": [
           {
@@ -20353,6 +20535,31 @@
           {
             "date": "2026-08-17",
             "detail": "reps: 8, 9, 9"
+          }
+        ]
+      },
+      {
+        "name": "Double clap push-up (★explosive — two front claps)",
+        "rows": [
+          {
+            "date": "2026-08-24",
+            "detail": "reps: 0, 0, 0"
+          },
+          {
+            "date": "2026-08-31",
+            "detail": "reps: 0, 2, 2.5"
+          },
+          {
+            "date": "2026-09-07",
+            "detail": "reps: 3, 4, 4"
+          },
+          {
+            "date": "2026-09-14",
+            "detail": "reps: 2, 2, 2"
+          },
+          {
+            "date": "2026-09-21",
+            "detail": "reps: 1, 1, 2"
           }
         ]
       },
@@ -20479,27 +20686,6 @@
           {
             "date": "2026-08-31",
             "detail": "reps: 2, 3, 3"
-          }
-        ]
-      },
-      {
-        "name": "Double clap push-up (★explosive — two front claps)",
-        "rows": [
-          {
-            "date": "2026-08-24",
-            "detail": "reps: 0, 0, 0"
-          },
-          {
-            "date": "2026-08-31",
-            "detail": "reps: 0, 2, 2.5"
-          },
-          {
-            "date": "2026-09-07",
-            "detail": "reps: 3, 4, 4"
-          },
-          {
-            "date": "2026-09-14",
-            "detail": "reps: 2, 2, 2"
           }
         ]
       },
@@ -20640,6 +20826,23 @@
         ]
       },
       {
+        "name": "Wall HSPU (★75% ROM)",
+        "rows": [
+          {
+            "date": "2026-09-07",
+            "detail": "reps: 3, 4, 2"
+          },
+          {
+            "date": "2026-09-14",
+            "detail": "reps: (skipped cuz of left shoulder injury)"
+          },
+          {
+            "date": "2026-09-21",
+            "detail": "reps: (Skipped for injury recovery)"
+          }
+        ]
+      },
+      {
         "name": "Grip+trap (flex): towel hang + scap shrugs",
         "rows": [
           {
@@ -20701,19 +20904,6 @@
           {
             "date": "2026-07-16",
             "detail": "reps / held: 45, 45"
-          }
-        ]
-      },
-      {
-        "name": "Wall HSPU (★75% ROM)",
-        "rows": [
-          {
-            "date": "2026-09-07",
-            "detail": "reps: 3, 4, 2"
-          },
-          {
-            "date": "2026-09-14",
-            "detail": "reps: (skipped cuz of left shoulder injury)"
           }
         ]
       },
@@ -20921,6 +21111,61 @@
     ],
     "dates": [
       {
+        "date": "2026-09-21",
+        "rows": [
+          {
+            "ladderId": "chinup",
+            "ladderName": "Chin-up",
+            "name": "Chin-up (★full, underhand — then negatives as back-off)",
+            "raw": "8, 7, 6",
+            "avg": 7,
+            "target": "8",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "corehang",
+            "ladderName": "Core — HANGING",
+            "name": "Bent-leg windshield wipers ★",
+            "raw": "5, 3, 2",
+            "avg": 3.3,
+            "target": "6/side",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "pull",
+            "ladderName": "Pull",
+            "name": "Dead hang ★",
+            "raw": "30, 18",
+            "avg": 24,
+            "target": "45s",
+            "sets": 2,
+            "cleared": false
+          },
+          {
+            "ladderId": "handstand",
+            "ladderName": "Vertical Push / Handstand",
+            "name": "Wall HSPU (★75% ROM)",
+            "raw": "(Skipped for injury recovery)",
+            "avg": null,
+            "target": "8",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "explosive",
+            "ladderName": "Horizontal Push — EXPLOSIVE",
+            "name": "Double clap push-up (★explosive — two front claps)",
+            "raw": "1, 1, 2",
+            "avg": 1.3,
+            "target": "3",
+            "sets": 3,
+            "cleared": false
+          }
+        ]
+      },
+      {
         "date": "2026-09-19",
         "rows": [
           {
@@ -20961,7 +21206,7 @@
             "avg": 5,
             "target": "5/leg",
             "sets": 3,
-            "cleared": false
+            "cleared": true
           }
         ]
       },
@@ -23445,13 +23690,29 @@
     }
   ],
   "last_perf": {
-    "pull": {
-      "date": "2026-09-19",
-      "detail": "8, 6, 4"
+    "chinup": {
+      "date": "2026-09-21",
+      "detail": "8, 7, 6"
     },
     "corehang": {
-      "date": "2026-09-19",
-      "detail": "6, 2, 2"
+      "date": "2026-09-21",
+      "detail": "5, 3, 2"
+    },
+    "pull": {
+      "date": "2026-09-21",
+      "detail": "30, 18"
+    },
+    "grip": {
+      "date": "2026-09-21",
+      "detail": "30, 18"
+    },
+    "handstand": {
+      "date": "2026-09-21",
+      "detail": "(Skipped for injury recovery)"
+    },
+    "explosive": {
+      "date": "2026-09-21",
+      "detail": "1, 1, 2"
     },
     "hpull": {
       "date": "2026-09-19",
@@ -23460,10 +23721,6 @@
     "legs": {
       "date": "2026-09-19",
       "detail": "5, 5, 5"
-    },
-    "grip": {
-      "date": "2026-09-16",
-      "detail": "22, 20"
     },
     "push": {
       "date": "2026-09-16",
@@ -23476,18 +23733,6 @@
     "planche": {
       "date": "2026-09-16",
       "detail": "Skipped (equipment not ready yet)"
-    },
-    "chinup": {
-      "date": "2026-09-14",
-      "detail": "8, 6, 5"
-    },
-    "handstand": {
-      "date": "2026-09-14",
-      "detail": "(skipped cuz of left shoulder injury)"
-    },
-    "explosive": {
-      "date": "2026-09-14",
-      "detail": "2, 2, 2"
     },
     "frontlever": {
       "date": "2026-09-05",
@@ -24293,6 +24538,14 @@
         "protein": 143,
         "dayType": "anomaly-pending",
         "provisional": false
+      },
+      {
+        "date": "2026-09-20",
+        "w": 213.4,
+        "kcal": 2088,
+        "protein": 176,
+        "dayType": "strict",
+        "provisional": false
       }
     ],
     "trend": [
@@ -24735,6 +24988,10 @@
       {
         "date": "2026-09-19",
         "w": 212.83
+      },
+      {
+        "date": "2026-09-20",
+        "w": 212.71
       }
     ],
     "noiseBand": 1.25,
@@ -24888,6 +25145,11 @@
         "date": "2026-09-16",
         "w": 212,
         "week": "Sep 13–Sep 19"
+      },
+      {
+        "date": "2026-09-20",
+        "w": 213.4,
+        "week": "Sep 20–Sep 26"
       }
     ],
     "weeklyAvgs": [
@@ -25028,24 +25290,25 @@
         "w": 212.8,
         "week": "Sep 13–Sep 19",
         "n": 7
+      },
+      {
+        "date": "2026-09-23",
+        "w": 213.4,
+        "week": "Sep 20–Sep 26",
+        "n": 1
       }
     ],
     "banner": {
       "startDate": "2026-03-22",
       "startW": 235,
-      "lost": 22.2,
+      "lost": 22.3,
       "goal": 180,
-      "pct": 40.3,
+      "pct": 40.5,
       "nextFloor": 210,
-      "toGo": 2.8,
-      "newLow": true
+      "toGo": 2.7,
+      "newLow": false
     },
     "strip": [
-      {
-        "date": "2026-08-22",
-        "state": "off",
-        "kcal": 1906
-      },
       {
         "date": "2026-08-23",
         "state": "off",
@@ -25188,6 +25451,11 @@
       },
       {
         "date": "2026-09-20",
+        "state": "off",
+        "kcal": 2088
+      },
+      {
+        "date": "2026-09-21",
         "state": "partial",
         "kcal": 0
       }
@@ -26131,6 +26399,14 @@
       },
       {
         "date": "2026-09-20",
+        "kcal": 2088,
+        "protein": 176,
+        "dayType": "strict",
+        "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-09-21",
         "kcal": 0,
         "protein": 0,
         "dayType": "empty",
