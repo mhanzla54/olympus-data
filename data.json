@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 212
     },
-    "overall_total": 1434,
+    "overall_total": 1436,
     "generated_for": "2026-09-22",
-    "built_at": "2026-09-22T13:51:59.891Z",
+    "built_at": "2026-09-22T13:52:21.337Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1283
+      "ft_to_go": 1281
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 169,
+      "current": 171,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -9243,6 +9243,34 @@
       "evidence": "POLARIS xmttyob2j",
       "booked": "2026-09-22",
       "source": "polaris:xmttyob2j:2026-09-22:session:1"
+    },
+    {
+      "date": "2026-09-22",
+      "lane": "method",
+      "activity": "Osiris Substrate V3 — a working sitting",
+      "label": "Osiris Substrate V3 — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 170,
+      "cum_overall": 1435,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmtjyhw8c",
+      "booked": "2026-09-22",
+      "source": "polaris:xmtjyhw8c:2026-09-22:session:1"
+    },
+    {
+      "date": "2026-09-22",
+      "lane": "method",
+      "activity": "Osiris Lens V2 — a working sitting",
+      "label": "Osiris Lens V2 — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 171,
+      "cum_overall": 1436,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmtr6bclh",
+      "booked": "2026-09-22",
+      "source": "polaris:xmtr6bclh:2026-09-22:session:1"
     }
   ],
   "polaris_booked": {
@@ -9366,7 +9394,9 @@
     "polaris:xmtr6bclh:2026-09-21:session:1": 1,
     "polaris:xmu7cybpy:2026-09-21:session:1": 1,
     "polaris:xmtij02rz:2026-09-22:session:1": 1,
-    "polaris:xmttyob2j:2026-09-22:session:1": 1
+    "polaris:xmttyob2j:2026-09-22:session:1": 1,
+    "polaris:xmtjyhw8c:2026-09-22:session:1": 1,
+    "polaris:xmtr6bclh:2026-09-22:session:1": 1
   },
   "series": {
     "coding": [
@@ -11466,6 +11496,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Protocol V3 · Walk the V3 list (65 items) — a working sitting"
+      },
+      {
+        "date": "2026-09-22",
+        "cum": 170,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris Substrate V3 — a working sitting"
+      },
+      {
+        "date": "2026-09-22",
+        "cum": 171,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris Lens V2 — a working sitting"
       }
     ],
     "literature": [
