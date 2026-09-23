@@ -17,16 +17,16 @@
       "next_site_drop_in": 1,
       "ten_lb_milestone_crossed": 220,
       "next_ten_lb_marker": 210,
-      "all_time_low_lb": 212
+      "all_time_low_lb": 211.2
     },
-    "overall_total": 1439,
+    "overall_total": 1441,
     "generated_for": "2026-09-23",
-    "built_at": "2026-09-23T12:30:52.994Z",
+    "built_at": "2026-09-23T13:12:05.151Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1278
+      "ft_to_go": 1276
     },
     "captures_today_unscored": 0
   },
@@ -88,7 +88,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 474,
+      "current": 476,
       "working_on": "the next new-pound low"
     },
     {
@@ -9313,6 +9313,34 @@
       "evidence": "POLARIS xmtij02rz",
       "booked": "2026-09-23",
       "source": "polaris:xmtij02rz:2026-09-23:session:1"
+    },
+    {
+      "date": "2026-09-22",
+      "lane": "body",
+      "activity": "protein-day — 200 g",
+      "label": "protein-day — 200 g",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 475,
+      "cum_overall": 1440,
+      "reasoning": "codebook ⚖️ protein-day: needed >= 160 g; got 200 g",
+      "evidence": "health warehouse",
+      "booked": "2026-09-23",
+      "source": "body:protein-day:2026-09-22"
+    },
+    {
+      "date": "2026-09-22",
+      "lane": "body",
+      "activity": "calorie-day — 1807 kcal",
+      "label": "calorie-day — 1807 kcal",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 476,
+      "cum_overall": 1441,
+      "reasoning": "codebook ⚖️ calorie-day: needed 1550–2100 kcal; got 1807 kcal",
+      "evidence": "health warehouse",
+      "booked": "2026-09-23",
+      "source": "body:calorie-day:2026-09-22"
     }
   ],
   "polaris_booked": {
@@ -13871,6 +13899,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "calorie-day — 1776 kcal"
+      },
+      {
+        "date": "2026-09-22",
+        "cum": 475,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "protein-day — 200 g"
+      },
+      {
+        "date": "2026-09-22",
+        "cum": 476,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "calorie-day — 1807 kcal"
       }
     ],
     "fieldpresence": [
@@ -16405,6 +16447,12 @@
           "y": 5.75,
           "kind": "session",
           "label": "Full pull-up — 8, 6, 4 (avg 6 vs target 8)"
+        },
+        {
+          "date": "2026-09-23",
+          "y": 5.94,
+          "kind": "session",
+          "label": "Full pull-up — 7.5, (avg 7.5 vs target 8)"
         }
       ],
       "steps": [
@@ -17502,7 +17550,7 @@
   ],
   "ladder_parity": {
     "push": {
-      "candidates": 15,
+      "candidates": 16,
       "plotted": 12,
       "rejected": [
         {
@@ -17516,6 +17564,10 @@
         {
           "date": "2026-09-09",
           "why": "\"Elevated one-arm push-up (★hands raised \" logged no usable numbers"
+        },
+        {
+          "date": "2026-09-23",
+          "why": "\"High-incline one-arm push-up (★stairs — \" logged no usable numbers"
         }
       ]
     },
@@ -17525,7 +17577,7 @@
       "rejected": []
     },
     "planche": {
-      "candidates": 15,
+      "candidates": 16,
       "plotted": 13,
       "rejected": [
         {
@@ -17535,6 +17587,10 @@
         {
           "date": "2026-09-16",
           "why": "\"Tuck planche ★\" logged no usable numbers (skipped)"
+        },
+        {
+          "date": "2026-09-23",
+          "why": "\"Frog stand ★ (parallettes — knees restin\" logged no usable numbers"
         }
       ]
     },
@@ -17553,8 +17609,8 @@
       ]
     },
     "pull": {
-      "candidates": 48,
-      "plotted": 31,
+      "candidates": 49,
+      "plotted": 32,
       "rejected": [
         {
           "date": "2026-06-23",
@@ -17641,9 +17697,14 @@
       ]
     },
     "grip": {
-      "candidates": 30,
+      "candidates": 31,
       "plotted": 30,
-      "rejected": []
+      "rejected": [
+        {
+          "date": "2026-09-23",
+          "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" logged no usable numbers"
+        }
+      ]
     },
     "legs": {
       "candidates": 20,
@@ -17672,7 +17733,7 @@
       ]
     },
     "corefloor": {
-      "candidates": 18,
+      "candidates": 19,
       "plotted": 16,
       "rejected": [
         {
@@ -17682,11 +17743,15 @@
         {
           "date": "2026-09-16",
           "why": "\"Elevated tuck L-sit (★finisher — hands r\" logged no usable numbers (skipped)"
+        },
+        {
+          "date": "2026-09-23",
+          "why": "\"Elevated tuck L-sit (★finisher — hands r\" logged no usable numbers"
         }
       ]
     },
     "corehang": {
-      "candidates": 46,
+      "candidates": 47,
       "plotted": 43,
       "rejected": [
         {
@@ -17700,6 +17765,10 @@
         {
           "date": "2026-07-06",
           "why": "\"Hanging knee raise\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-09-23",
+          "why": "\"Bent-leg windshield wipers ★\" logged no usable numbers"
         }
       ]
     },
@@ -17870,6 +17939,13 @@
             "raw": "2, 3, 3",
             "avg": 2.7,
             "status": "● plotted at 6.33"
+          },
+          {
+            "date": "2026-09-23",
+            "name": "High-incline one-arm push-up (★stairs — hand on a step ~3 ft up)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"High-incline one-arm push-up (★stairs — \" logged no usable numbers"
           }
         ]
       },
@@ -18092,6 +18168,13 @@
             "raw": "Skipped (equipment not ready yet)",
             "avg": null,
             "status": "✗ not plotted — \"Tuck planche ★\" logged no usable numbers (skipped)"
+          },
+          {
+            "date": "2026-09-23",
+            "name": "Frog stand ★ (parallettes — knees resting on elbows)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Frog stand ★ (parallettes — knees restin\" logged no usable numbers"
           }
         ]
       },
@@ -18636,6 +18719,20 @@
             "raw": "30, 18",
             "avg": 24,
             "status": "✗ not plotted — \"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+          },
+          {
+            "date": "2026-09-23",
+            "name": "Pull-up (★full — then negatives as back-off)",
+            "raw": "7.5,",
+            "avg": 7.5,
+            "status": "● plotted at 5.94"
+          },
+          {
+            "date": "2026-09-23",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "",
+            "avg": null,
+            "status": "● plotted at 5.94"
           }
         ]
       },
@@ -19129,6 +19226,13 @@
             "raw": "30, 18",
             "avg": 24,
             "status": "● plotted at 3.4"
+          },
+          {
+            "date": "2026-09-23",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Grip+trap (flex): dead hang ★ + scap shr\" logged no usable numbers"
           }
         ]
       },
@@ -19414,6 +19518,13 @@
             "raw": "Skipped (equipment not ready yet)",
             "avg": null,
             "status": "✗ not plotted — \"Elevated tuck L-sit (★finisher — hands r\" logged no usable numbers (skipped)"
+          },
+          {
+            "date": "2026-09-23",
+            "name": "Elevated tuck L-sit (★finisher — hands raised; height is the dial)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Elevated tuck L-sit (★finisher — hands r\" logged no usable numbers"
           }
         ]
       },
@@ -19742,6 +19853,13 @@
             "raw": "5, 3, 2",
             "avg": 3.3,
             "status": "● plotted at 6.56"
+          },
+          {
+            "date": "2026-09-23",
+            "name": "Bent-leg windshield wipers ★",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Bent-leg windshield wipers ★\" logged no usable numbers"
           }
         ]
       }
@@ -19857,6 +19975,10 @@
           {
             "date": "2026-09-21",
             "detail": "hang: 30, 18 · shrugs: 12, 10.5"
+          },
+          {
+            "date": "2026-09-23",
+            "detail": "hang: — · shrugs: —"
           }
         ]
       },
@@ -19958,6 +20080,10 @@
           {
             "date": "2026-09-19",
             "detail": "full reps: 8, 6, 4 · neg back-off: 0, 2, 4"
+          },
+          {
+            "date": "2026-09-23",
+            "detail": "full reps: 7.5, · neg back-off: 1,"
           }
         ]
       },
@@ -20243,47 +20369,6 @@
         ]
       },
       {
-        "name": "Box pistol (low)",
-        "rows": [
-          {
-            "date": "2026-06-05",
-            "detail": "reps: 5, 4, 2.5"
-          },
-          {
-            "date": "2026-06-10",
-            "detail": "reps: 4, 2, 1.5"
-          },
-          {
-            "date": "2026-06-17",
-            "detail": "reps: 4, 5, 2.5"
-          },
-          {
-            "date": "2026-06-22",
-            "detail": "reps: 6, 3.5, 3"
-          },
-          {
-            "date": "2026-06-24",
-            "detail": "reps: 6, 4, 3"
-          },
-          {
-            "date": "2026-06-27",
-            "detail": "reps: 8, 7, 4"
-          },
-          {
-            "date": "2026-06-29",
-            "detail": "reps: 6, 4, 3"
-          },
-          {
-            "date": "2026-07-04",
-            "detail": "reps: 4, 3, 3"
-          },
-          {
-            "date": "2026-07-11",
-            "detail": "reps: 5, 5, 5"
-          }
-        ]
-      },
-      {
         "name": "Feet -elevated Pike push-up (accessory)",
         "rows": [
           {
@@ -20321,6 +20406,51 @@
           {
             "date": "2026-09-16",
             "detail": "reps: SKIPPED for injury in shoulder"
+          },
+          {
+            "date": "2026-09-23",
+            "detail": "reps: —"
+          }
+        ]
+      },
+      {
+        "name": "Box pistol (low)",
+        "rows": [
+          {
+            "date": "2026-06-05",
+            "detail": "reps: 5, 4, 2.5"
+          },
+          {
+            "date": "2026-06-10",
+            "detail": "reps: 4, 2, 1.5"
+          },
+          {
+            "date": "2026-06-17",
+            "detail": "reps: 4, 5, 2.5"
+          },
+          {
+            "date": "2026-06-22",
+            "detail": "reps: 6, 3.5, 3"
+          },
+          {
+            "date": "2026-06-24",
+            "detail": "reps: 6, 4, 3"
+          },
+          {
+            "date": "2026-06-27",
+            "detail": "reps: 8, 7, 4"
+          },
+          {
+            "date": "2026-06-29",
+            "detail": "reps: 6, 4, 3"
+          },
+          {
+            "date": "2026-07-04",
+            "detail": "reps: 4, 3, 3"
+          },
+          {
+            "date": "2026-07-11",
+            "detail": "reps: 5, 5, 5"
           }
         ]
       },
@@ -20440,6 +20570,43 @@
         ]
       },
       {
+        "name": "Bent-leg windshield wipers ★",
+        "rows": [
+          {
+            "date": "2026-09-07",
+            "detail": "reps: 4, 3.5, 2"
+          },
+          {
+            "date": "2026-09-09",
+            "detail": "reps: 4, 3, 2"
+          },
+          {
+            "date": "2026-09-12",
+            "detail": "reps: 4, 3, 2.5"
+          },
+          {
+            "date": "2026-09-14",
+            "detail": "reps: 4, 3, 2"
+          },
+          {
+            "date": "2026-09-16",
+            "detail": "reps: 4, 3, 4.5"
+          },
+          {
+            "date": "2026-09-19",
+            "detail": "reps: 6, 2, 2"
+          },
+          {
+            "date": "2026-09-21",
+            "detail": "reps: 5, 3, 2"
+          },
+          {
+            "date": "2026-09-23",
+            "detail": "reps: —"
+          }
+        ]
+      },
+      {
         "name": "Feet-elevated Ring Row (★ feet on a chair)",
         "rows": [
           {
@@ -20502,39 +20669,6 @@
           {
             "date": "2026-08-28",
             "detail": "reps: 15, 15"
-          }
-        ]
-      },
-      {
-        "name": "Bent-leg windshield wipers ★",
-        "rows": [
-          {
-            "date": "2026-09-07",
-            "detail": "reps: 4, 3.5, 2"
-          },
-          {
-            "date": "2026-09-09",
-            "detail": "reps: 4, 3, 2"
-          },
-          {
-            "date": "2026-09-12",
-            "detail": "reps: 4, 3, 2.5"
-          },
-          {
-            "date": "2026-09-14",
-            "detail": "reps: 4, 3, 2"
-          },
-          {
-            "date": "2026-09-16",
-            "detail": "reps: 4, 3, 4.5"
-          },
-          {
-            "date": "2026-09-19",
-            "detail": "reps: 6, 2, 2"
-          },
-          {
-            "date": "2026-09-21",
-            "detail": "reps: 5, 3, 2"
           }
         ]
       },
@@ -21063,6 +21197,23 @@
         ]
       },
       {
+        "name": "Elevated tuck L-sit (★finisher — hands raised; height is the dial)",
+        "rows": [
+          {
+            "date": "2026-09-09",
+            "detail": "reps: —"
+          },
+          {
+            "date": "2026-09-16",
+            "detail": "reps: Skipped (equipment not ready yet)"
+          },
+          {
+            "date": "2026-09-23",
+            "detail": "reps: —"
+          }
+        ]
+      },
+      {
         "name": "Grip+trap (flex): towel hang + scap shrugs",
         "rows": [
           {
@@ -21137,19 +21288,6 @@
           {
             "date": "2026-09-16",
             "detail": "reps: 2, 3, 3"
-          }
-        ]
-      },
-      {
-        "name": "Elevated tuck L-sit (★finisher — hands raised; height is the dial)",
-        "rows": [
-          {
-            "date": "2026-09-09",
-            "detail": "reps: —"
-          },
-          {
-            "date": "2026-09-16",
-            "detail": "reps: Skipped (equipment not ready yet)"
           }
         ]
       },
@@ -21327,9 +21465,92 @@
             "detail": "reps: 0, 0"
           }
         ]
+      },
+      {
+        "name": "High-incline one-arm push-up (★stairs — hand on a step ~3 ft up)",
+        "rows": [
+          {
+            "date": "2026-09-23",
+            "detail": "reps: —"
+          }
+        ]
+      },
+      {
+        "name": "Frog stand ★ (parallettes — knees resting on elbows)",
+        "rows": [
+          {
+            "date": "2026-09-23",
+            "detail": "held: —"
+          }
+        ]
       }
     ],
     "dates": [
+      {
+        "date": "2026-09-23",
+        "rows": [
+          {
+            "ladderId": "pull",
+            "ladderName": "Pull",
+            "name": "Pull-up (★full — then negatives as back-off)",
+            "raw": "7.5,",
+            "avg": 7.5,
+            "target": "8",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "corehang",
+            "ladderName": "Core — HANGING",
+            "name": "Bent-leg windshield wipers ★",
+            "raw": "",
+            "avg": null,
+            "target": "6/side",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "pull",
+            "ladderName": "Pull",
+            "name": "Dead hang ★",
+            "raw": "",
+            "avg": null,
+            "target": "45s",
+            "sets": 2,
+            "cleared": false
+          },
+          {
+            "ladderId": "push",
+            "ladderName": "Horizontal Push — STRENGTH",
+            "name": "High-incline one-arm push-up (★stairs — hand on a step ~3 ft up)",
+            "raw": "",
+            "avg": null,
+            "target": "8/side",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "corefloor",
+            "ladderName": "Core — FLOOR",
+            "name": "Elevated tuck L-sit (★finisher — hands raised; height is the dial)",
+            "raw": "",
+            "avg": null,
+            "target": "15s",
+            "sets": 2,
+            "cleared": false
+          },
+          {
+            "ladderId": "planche",
+            "ladderName": "Horizontal Push — PLANCHE",
+            "name": "Frog stand ★ (parallettes — knees resting on elbows)",
+            "raw": "",
+            "avg": null,
+            "target": "30s",
+            "sets": 3,
+            "cleared": false
+          }
+        ]
+      },
       {
         "date": "2026-09-21",
         "rows": [
@@ -23910,6 +24131,10 @@
     }
   ],
   "last_perf": {
+    "pull": {
+      "date": "2026-09-23",
+      "detail": "7.5,"
+    },
     "chinup": {
       "date": "2026-09-21",
       "detail": "8, 7, 6"
@@ -23917,10 +24142,6 @@
     "corehang": {
       "date": "2026-09-21",
       "detail": "5, 3, 2"
-    },
-    "pull": {
-      "date": "2026-09-21",
-      "detail": "30, 18"
     },
     "grip": {
       "date": "2026-09-21",
@@ -24766,6 +24987,30 @@
         "protein": 176,
         "dayType": "strict",
         "provisional": false
+      },
+      {
+        "date": "2026-09-21",
+        "w": 213.4,
+        "kcal": 1776,
+        "protein": 180,
+        "dayType": "strict",
+        "provisional": false
+      },
+      {
+        "date": "2026-09-22",
+        "w": 213,
+        "kcal": 1807,
+        "protein": 200,
+        "dayType": "strict",
+        "provisional": false
+      },
+      {
+        "date": "2026-09-23",
+        "w": 211.2,
+        "kcal": 0,
+        "protein": 0,
+        "dayType": "empty",
+        "provisional": true
       }
     ],
     "trend": [
@@ -25212,9 +25457,21 @@
       {
         "date": "2026-09-20",
         "w": 212.71
+      },
+      {
+        "date": "2026-09-21",
+        "w": 212.66
+      },
+      {
+        "date": "2026-09-22",
+        "w": 212.74
+      },
+      {
+        "date": "2026-09-23",
+        "w": 212.63
       }
     ],
-    "noiseBand": 1.25,
+    "noiseBand": 1.23,
     "floors": [
       {
         "y": 230,
@@ -25367,8 +25624,8 @@
         "week": "Sep 13–Sep 19"
       },
       {
-        "date": "2026-09-20",
-        "w": 213.4,
+        "date": "2026-09-23",
+        "w": 211.2,
         "week": "Sep 20–Sep 26"
       }
     ],
@@ -25513,27 +25770,22 @@
       },
       {
         "date": "2026-09-23",
-        "w": 213.4,
+        "w": 212.8,
         "week": "Sep 20–Sep 26",
-        "n": 1
+        "n": 4
       }
     ],
     "banner": {
       "startDate": "2026-03-22",
       "startW": 235,
-      "lost": 22.3,
+      "lost": 22.4,
       "goal": 180,
-      "pct": 40.5,
+      "pct": 40.7,
       "nextFloor": 210,
-      "toGo": 2.7,
-      "newLow": false
+      "toGo": 2.6,
+      "newLow": true
     },
     "strip": [
-      {
-        "date": "2026-08-24",
-        "state": "good",
-        "kcal": 1754
-      },
       {
         "date": "2026-08-25",
         "state": "off",
@@ -25676,6 +25928,11 @@
       },
       {
         "date": "2026-09-22",
+        "state": "off",
+        "kcal": 1807
+      },
+      {
+        "date": "2026-09-23",
         "state": "partial",
         "kcal": 0
       }
@@ -26635,6 +26892,14 @@
       },
       {
         "date": "2026-09-22",
+        "kcal": 1807,
+        "protein": 200,
+        "dayType": "strict",
+        "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-09-23",
         "kcal": 0,
         "protein": 0,
         "dayType": "empty",
