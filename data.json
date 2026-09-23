@@ -21,7 +21,7 @@
     },
     "overall_total": 1451,
     "generated_for": "2026-09-23",
-    "built_at": "2026-09-23T13:14:04.464Z",
+    "built_at": "2026-09-23T13:30:04.823Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -16473,7 +16473,7 @@
           "date": "2026-09-23",
           "y": 5.94,
           "kind": "session",
-          "label": "Full pull-up — 7.5, (avg 7.5 vs target 8)"
+          "label": "Full pull-up — 7.5, 7.5, (avg 7.5 vs target 8)"
         }
       ],
       "steps": [
@@ -18744,7 +18744,7 @@
           {
             "date": "2026-09-23",
             "name": "Pull-up (★full — then negatives as back-off)",
-            "raw": "7.5,",
+            "raw": "7.5, 7.5,",
             "avg": 7.5,
             "status": "● plotted at 5.94"
           },
@@ -20104,7 +20104,7 @@
           },
           {
             "date": "2026-09-23",
-            "detail": "full reps: 7.5, · neg back-off: 1,"
+            "detail": "full reps: 7.5, 7.5, · neg back-off: 1, 1,"
           }
         ]
       },
@@ -21514,7 +21514,7 @@
             "ladderId": "pull",
             "ladderName": "Pull",
             "name": "Pull-up (★full — then negatives as back-off)",
-            "raw": "7.5,",
+            "raw": "7.5, 7.5,",
             "avg": 7.5,
             "target": "8",
             "sets": 3,
@@ -24154,7 +24154,7 @@
   "last_perf": {
     "pull": {
       "date": "2026-09-23",
-      "detail": "7.5,"
+      "detail": "7.5, 7.5,"
     },
     "chinup": {
       "date": "2026-09-21",
