@@ -9,8 +9,8 @@
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
     "ratchet": {
-      "weight_low_lb": 212.4,
-      "next_weight_tick_lb": 212,
+      "weight_low_lb": 211.2,
+      "next_weight_tick_lb": 211,
       "waist_in": 37.5,
       "belly_in": 43,
       "hips_in": 43.75,
@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 211.2
     },
-    "overall_total": 1441,
+    "overall_total": 1451,
     "generated_for": "2026-09-23",
-    "built_at": "2026-09-23T13:12:05.151Z",
+    "built_at": "2026-09-23T13:14:04.464Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1276
+      "ft_to_go": 1266
     },
     "captures_today_unscored": 0
   },
@@ -88,7 +88,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 476,
+      "current": 486,
       "working_on": "the next new-pound low"
     },
     {
@@ -9341,6 +9341,20 @@
       "evidence": "health warehouse",
       "booked": "2026-09-23",
       "source": "body:calorie-day:2026-09-22"
+    },
+    {
+      "date": "2026-09-23",
+      "lane": "body",
+      "activity": "weight-ratchet — 211.2 lb on 2026-09-23",
+      "label": "weight-ratchet — 211.2 lb on 2026-09-23",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 486,
+      "cum_overall": 1451,
+      "reasoning": "codebook ⚖️ weight-ratchet: needed UNDER 212 lb  (the 212 lb line); got 211.2 lb on 2026-09-23",
+      "evidence": "health warehouse",
+      "booked": "2026-09-23",
+      "source": "body:weight-ratchet:2026-09-23:212"
     }
   ],
   "polaris_booked": {
@@ -13913,6 +13927,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "calorie-day — 1807 kcal"
+      },
+      {
+        "date": "2026-09-23",
+        "cum": 486,
+        "feet": 10,
+        "tier": "small",
+        "activity": "weight-ratchet — 211.2 lb on 2026-09-23"
       }
     ],
     "fieldpresence": [
@@ -27464,10 +27485,20 @@
   },
   "pending_clears": [],
   "pending_clear_notes": [],
-  "body_crossings": [],
+  "body_crossings": [
+    {
+      "kind": "weight-ratchet",
+      "date": "2026-09-23",
+      "booked": "2026-09-23",
+      "feet": 10,
+      "line": 212,
+      "weight": 211.2,
+      "tier": "small"
+    }
+  ],
   "body_next_bars": {
-    "next_lb_line": 212,
+    "next_lb_line": 211,
     "next_10lb_marker": 210,
-    "recorded_low": 212.4
+    "recorded_low": 211.2
   }
 }
