@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 211.2
     },
-    "overall_total": 1460,
+    "overall_total": 1471,
     "generated_for": "2026-09-24",
-    "built_at": "2026-09-24T13:46:35.999Z",
+    "built_at": "2026-09-24T14:33:25.094Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1257
+      "ft_to_go": 1246
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 176,
+      "current": 187,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -9481,6 +9481,34 @@
       "evidence": "POLARIS xmttyob2j",
       "booked": "2026-09-24",
       "source": "polaris:xmttyob2j:2026-09-24:session:1"
+    },
+    {
+      "date": "2026-09-24",
+      "lane": "method",
+      "activity": "Osiris Substrate V3 — a working sitting",
+      "label": "Osiris Substrate V3 — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 177,
+      "cum_overall": 1461,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmtjyhw8c",
+      "booked": "2026-09-24",
+      "source": "polaris:xmtjyhw8c:2026-09-24:session:1"
+    },
+    {
+      "date": "2026-09-24",
+      "lane": "method",
+      "activity": "Osiris Substrate V3 — FINISHED",
+      "label": "Osiris Substrate V3 — FINISHED",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 187,
+      "cum_overall": 1471,
+      "reasoning": "Owner-priced in POLARIS: finishing it = small, locked 2026-09-02",
+      "evidence": "POLARIS xmtjyhw8c",
+      "booked": "2026-09-24",
+      "source": "polaris:xmtjyhw8c:completion"
     }
   ],
   "polaris_booked": {
@@ -9616,7 +9644,9 @@
     "polaris:xmu4ppo5c:2026-09-23:session:1": 1,
     "polaris:xmtij02rz:2026-09-24:session:1": 1,
     "polaris:xmtr6bclh:2026-09-24:session:1": 1,
-    "polaris:xmttyob2j:2026-09-24:session:1": 1
+    "polaris:xmttyob2j:2026-09-24:session:1": 1,
+    "polaris:xmtjyhw8c:2026-09-24:session:1": 1,
+    "polaris:xmtjyhw8c:completion": 10
   },
   "series": {
     "coding": [
@@ -11779,6 +11809,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Cost Model V2 — a working sitting"
+      },
+      {
+        "date": "2026-09-24",
+        "cum": 177,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris Substrate V3 — a working sitting"
+      },
+      {
+        "date": "2026-09-24",
+        "cum": 187,
+        "feet": 10,
+        "tier": "small",
+        "activity": "Osiris Substrate V3 — FINISHED"
       }
     ],
     "literature": [
