@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 211.2
     },
-    "overall_total": 1454,
+    "overall_total": 1455,
     "generated_for": "2026-09-23",
-    "built_at": "2026-09-23T21:34:52.153Z",
+    "built_at": "2026-09-24T00:55:46.248Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1263
+      "ft_to_go": 1262
     },
     "captures_today_unscored": 0
   },
@@ -98,7 +98,7 @@
       "t0_note": "no public track record — not known in the field; every post, repo and paper still ahead",
       "endpoint": "A recognized public body of work — provisional and open by design (§14.0.2); this lane has no terminus",
       "endpoint_tier": "enormous",
-      "current": 25,
+      "current": 26,
       "working_on": "Not yet started — the first public thing ships from here"
     }
   ],
@@ -9397,6 +9397,20 @@
       "evidence": "POLARIS xmu7cybpy",
       "booked": "2026-09-23",
       "source": "polaris:xmu7cybpy:2026-09-23:session:1"
+    },
+    {
+      "date": "2026-09-23",
+      "lane": "fieldpresence",
+      "activity": "Substack Post 1 Work — a working sitting",
+      "label": "Substack Post 1 Work — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 26,
+      "cum_overall": 1455,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmu4ppo5c",
+      "booked": "2026-09-23",
+      "source": "polaris:xmu4ppo5c:2026-09-23:session:1"
     }
   ],
   "polaris_booked": {
@@ -9528,7 +9542,8 @@
     "polaris:xmtij02rz:2026-09-23:session:1": 1,
     "polaris:xmta206fu:2026-09-23:session:1": 1,
     "polaris:xmtjyhw8c:2026-09-23:session:1": 1,
-    "polaris:xmu7cybpy:2026-09-23:session:1": 1
+    "polaris:xmu7cybpy:2026-09-23:session:1": 1,
+    "polaris:xmu4ppo5c:2026-09-23:session:1": 1
   },
   "series": {
     "coding": [
@@ -14114,6 +14129,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Cost Model V2 — a working sitting"
+      },
+      {
+        "date": "2026-09-23",
+        "cum": 26,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Substack Post 1 Work — a working sitting"
       }
     ]
   },
