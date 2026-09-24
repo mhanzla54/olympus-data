@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 211.2
     },
-    "overall_total": 1471,
+    "overall_total": 1472,
     "generated_for": "2026-09-24",
-    "built_at": "2026-09-24T14:33:25.094Z",
+    "built_at": "2026-09-24T18:03:23.097Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1246
+      "ft_to_go": 1245
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 187,
+      "current": 188,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -9509,6 +9509,20 @@
       "evidence": "POLARIS xmtjyhw8c",
       "booked": "2026-09-24",
       "source": "polaris:xmtjyhw8c:completion"
+    },
+    {
+      "date": "2026-09-24",
+      "lane": "method",
+      "activity": "Protocol V3 · Walk the V3 list (65 items) — a working sitting",
+      "label": "Protocol V3 · Walk the V3 list (65 items)",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 188,
+      "cum_overall": 1472,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmu7cybpy",
+      "booked": "2026-09-24",
+      "source": "polaris:xmu7cybpy:2026-09-24:session:1"
     }
   ],
   "polaris_booked": {
@@ -9646,7 +9660,8 @@
     "polaris:xmtr6bclh:2026-09-24:session:1": 1,
     "polaris:xmttyob2j:2026-09-24:session:1": 1,
     "polaris:xmtjyhw8c:2026-09-24:session:1": 1,
-    "polaris:xmtjyhw8c:completion": 10
+    "polaris:xmtjyhw8c:completion": 10,
+    "polaris:xmu7cybpy:2026-09-24:session:1": 1
   },
   "series": {
     "coding": [
@@ -11823,6 +11838,13 @@
         "feet": 10,
         "tier": "small",
         "activity": "Osiris Substrate V3 — FINISHED"
+      },
+      {
+        "date": "2026-09-24",
+        "cum": 188,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Protocol V3 · Walk the V3 list (65 items) — a working sitting"
       }
     ],
     "literature": [
