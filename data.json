@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 211.2
     },
-    "overall_total": 1474,
+    "overall_total": 1485,
     "generated_for": "2026-09-25",
-    "built_at": "2026-09-25T11:16:17.538Z",
+    "built_at": "2026-09-25T11:20:04.796Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1243
+      "ft_to_go": 1232
     },
     "captures_today_unscored": 0
   },
@@ -38,7 +38,7 @@
       "t0_note": "couldn't write a single line of Python — ran his first print() the day before t0",
       "endpoint": "Replicate AND extend a frontier alignment result — public, runnable code",
       "endpoint_tier": "verylarge",
-      "current": 158,
+      "current": 169,
       "working_on": "Automate the Boring Stuff textbook"
     },
     {
@@ -9551,6 +9551,34 @@
       "evidence": "POLARIS xmugv7n3n",
       "booked": "2026-09-25",
       "source": "polaris:xmugv7n3n:completion"
+    },
+    {
+      "date": "2026-09-25",
+      "lane": "coding",
+      "activity": "Chapter 10 ATBS Coding Reading + Notes OR Practice — a working sitting",
+      "label": "Chapter 10 ATBS Coding Reading + Notes OR Practice",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 159,
+      "cum_overall": 1475,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmtij02rz",
+      "booked": "2026-09-25",
+      "source": "polaris:xmtij02rz:2026-09-25:session:1"
+    },
+    {
+      "date": "2026-09-25",
+      "lane": "coding",
+      "activity": "Chapter 10 ATBS Coding Reading + Notes OR Practice — FINISHED",
+      "label": "Chapter 10 ATBS Coding Reading + Notes OR Practice",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 169,
+      "cum_overall": 1485,
+      "reasoning": "Owner-priced in POLARIS: finishing it = small, locked 2026-09-01",
+      "evidence": "POLARIS xmtij02rz",
+      "booked": "2026-09-25",
+      "source": "polaris:xmtij02rz:completion"
     }
   ],
   "polaris_booked": {
@@ -9691,7 +9719,9 @@
     "polaris:xmtjyhw8c:completion": 10,
     "polaris:xmu7cybpy:2026-09-24:session:1": 1,
     "polaris:xmu4ppo5c:2026-09-24:session:1": 1,
-    "polaris:xmugv7n3n:completion": 1
+    "polaris:xmugv7n3n:completion": 1,
+    "polaris:xmtij02rz:2026-09-25:session:1": 1,
+    "polaris:xmtij02rz:completion": 10
   },
   "series": {
     "coding": [
@@ -10359,6 +10389,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Chapter 10 ATBS Coding Reading + Notes OR Practice — a working sitting"
+      },
+      {
+        "date": "2026-09-25",
+        "cum": 159,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Chapter 10 ATBS Coding Reading + Notes OR Practice — a working sitting"
+      },
+      {
+        "date": "2026-09-25",
+        "cum": 169,
+        "feet": 10,
+        "tier": "small",
+        "activity": "Chapter 10 ATBS Coding Reading + Notes OR Practice — FINISHED"
       }
     ],
     "mlai": [
