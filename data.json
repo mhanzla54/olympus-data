@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 211.2
     },
-    "overall_total": 1490,
+    "overall_total": 1491,
     "generated_for": "2026-09-25",
-    "built_at": "2026-09-25T19:27:35.882Z",
+    "built_at": "2026-09-25T22:48:03.149Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1227
+      "ft_to_go": 1226
     },
     "captures_today_unscored": 0
   },
@@ -98,7 +98,7 @@
       "t0_note": "no public track record — not known in the field; every post, repo and paper still ahead",
       "endpoint": "A recognized public body of work — provisional and open by design (§14.0.2); this lane has no terminus",
       "endpoint_tier": "enormous",
-      "current": 27,
+      "current": 28,
       "working_on": "Not yet started — the first public thing ships from here"
     }
   ],
@@ -9649,6 +9649,20 @@
       "evidence": "POLARIS xmuhcrg9s",
       "booked": "2026-09-25",
       "source": "polaris:xmuhcrg9s:completion"
+    },
+    {
+      "date": "2026-09-25",
+      "lane": "fieldpresence",
+      "activity": "Substack Post 1 Work — a working sitting",
+      "label": "Substack Post 1 Work — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 28,
+      "cum_overall": 1491,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmu4ppo5c",
+      "booked": "2026-09-25",
+      "source": "polaris:xmu4ppo5c:2026-09-25:session:1"
     }
   ],
   "polaris_booked": {
@@ -9795,7 +9809,8 @@
     "polaris:xmtr6bclh:2026-09-25:session:1": 1,
     "polaris:xmufm9lgj:2026-09-25:session:1": 1,
     "polaris:xmu7cybpy:2026-09-25:session:1": 1,
-    "polaris:xmuhcrg9s:completion": 1
+    "polaris:xmuhcrg9s:completion": 1,
+    "polaris:xmu4ppo5c:2026-09-25:session:1": 1
   },
   "series": {
     "coding": [
@@ -14504,6 +14519,13 @@
       {
         "date": "2026-09-24",
         "cum": 27,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Substack Post 1 Work — a working sitting"
+      },
+      {
+        "date": "2026-09-25",
+        "cum": 28,
         "feet": 1,
         "tier": "tiny",
         "activity": "Substack Post 1 Work — a working sitting"
