@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 211.2
     },
-    "overall_total": 1473,
-    "generated_for": "2026-09-24",
-    "built_at": "2026-09-24T21:28:45.594Z",
+    "overall_total": 1474,
+    "generated_for": "2026-09-25",
+    "built_at": "2026-09-25T11:16:17.538Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1244
+      "ft_to_go": 1243
     },
     "captures_today_unscored": 0
   },
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 382,
+      "current": 383,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -9537,6 +9537,20 @@
       "evidence": "POLARIS xmu4ppo5c",
       "booked": "2026-09-24",
       "source": "polaris:xmu4ppo5c:2026-09-24:session:1"
+    },
+    {
+      "date": "2026-09-24",
+      "lane": "strength",
+      "activity": "Sparse Training — FINISHED",
+      "label": "Sparse Training — FINISHED",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 383,
+      "cum_overall": 1474,
+      "reasoning": "Owner-priced in POLARIS: finishing it = tiny, locked 2026-09-25",
+      "evidence": "POLARIS xmugv7n3n",
+      "booked": "2026-09-25",
+      "source": "polaris:xmugv7n3n:completion"
     }
   ],
   "polaris_booked": {
@@ -9676,7 +9690,8 @@
     "polaris:xmtjyhw8c:2026-09-24:session:1": 1,
     "polaris:xmtjyhw8c:completion": 10,
     "polaris:xmu7cybpy:2026-09-24:session:1": 1,
-    "polaris:xmu4ppo5c:2026-09-24:session:1": 1
+    "polaris:xmu4ppo5c:2026-09-24:session:1": 1,
+    "polaris:xmugv7n3n:completion": 1
   },
   "series": {
     "coding": [
@@ -12676,6 +12691,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Workout — a working sitting"
+      },
+      {
+        "date": "2026-09-24",
+        "cum": 383,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Sparse Training — FINISHED"
       }
     ],
     "body": [
