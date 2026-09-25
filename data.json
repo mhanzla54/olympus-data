@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 210,
       "all_time_low_lb": 211.2
     },
-    "overall_total": 1489,
+    "overall_total": 1490,
     "generated_for": "2026-09-25",
-    "built_at": "2026-09-25T19:27:15.907Z",
+    "built_at": "2026-09-25T19:27:35.882Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1228
+      "ft_to_go": 1227
     },
     "captures_today_unscored": 0
   },
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 383,
+      "current": 384,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -9635,6 +9635,20 @@
       "evidence": "POLARIS xmu7cybpy",
       "booked": "2026-09-25",
       "source": "polaris:xmu7cybpy:2026-09-25:session:1"
+    },
+    {
+      "date": "2026-09-25",
+      "lane": "strength",
+      "activity": "Sparse Training — FINISHED",
+      "label": "Sparse Training — FINISHED",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 384,
+      "cum_overall": 1490,
+      "reasoning": "Owner-priced in POLARIS: finishing it = tiny, locked 2026-09-25",
+      "evidence": "POLARIS xmuhcrg9s",
+      "booked": "2026-09-25",
+      "source": "polaris:xmuhcrg9s:completion"
     }
   ],
   "polaris_booked": {
@@ -9780,7 +9794,8 @@
     "polaris:xmtij02rz:completion": 10,
     "polaris:xmtr6bclh:2026-09-25:session:1": 1,
     "polaris:xmufm9lgj:2026-09-25:session:1": 1,
-    "polaris:xmu7cybpy:2026-09-25:session:1": 1
+    "polaris:xmu7cybpy:2026-09-25:session:1": 1,
+    "polaris:xmuhcrg9s:completion": 1
   },
   "series": {
     "coding": [
@@ -12819,6 +12834,13 @@
       {
         "date": "2026-09-24",
         "cum": 383,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Sparse Training — FINISHED"
+      },
+      {
+        "date": "2026-09-25",
+        "cum": 384,
         "feet": 1,
         "tier": "tiny",
         "activity": "Sparse Training — FINISHED"
