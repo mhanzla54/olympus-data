@@ -11,22 +11,22 @@
     "ratchet": {
       "weight_low_lb": 208.6,
       "next_weight_tick_lb": 208,
-      "waist_in": 37.5,
-      "belly_in": 43,
-      "hips_in": 43.75,
+      "waist_in": 37,
+      "belly_in": 42,
+      "hips_in": 42.5,
       "next_site_drop_in": 1,
       "ten_lb_milestone_crossed": 210,
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 208.6
     },
-    "overall_total": 1628,
+    "overall_total": 1648,
     "generated_for": "2026-09-28",
-    "built_at": "2026-09-28T14:54:03.917Z",
+    "built_at": "2026-09-28T14:57:57.219Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1089
+      "ft_to_go": 1069
     },
     "captures_today_unscored": 0
   },
@@ -88,7 +88,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 624,
+      "current": 644,
       "working_on": "the next new-pound low"
     },
     {
@@ -9817,6 +9817,34 @@
       "evidence": "health warehouse",
       "booked": "2026-09-28",
       "source": "body:calorie-day:2026-09-27"
+    },
+    {
+      "date": "2026-09-28",
+      "lane": "body",
+      "activity": "site-belly — 42\"",
+      "label": "site-belly — 42\"",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 634,
+      "cum_overall": 1638,
+      "reasoning": "codebook ⚖️ site-belly: needed <= 42\"  (1\" under the 43\" benchmark); got 42\"",
+      "evidence": "health warehouse",
+      "booked": "2026-09-28",
+      "source": "body:site-belly:2026-09-28:42"
+    },
+    {
+      "date": "2026-09-28",
+      "lane": "body",
+      "activity": "site-hips — 42.5\"",
+      "label": "site-hips — 42.5\"",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 644,
+      "cum_overall": 1648,
+      "reasoning": "codebook ⚖️ site-hips: needed <= 42.75\"  (1\" under the 43.75\" benchmark); got 42.5\"",
+      "evidence": "health warehouse",
+      "booked": "2026-09-28",
+      "source": "body:site-hips:2026-09-28:42.75"
     }
   ],
   "polaris_booked": {
@@ -14627,6 +14655,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "calorie-day — 2796 kcal"
+      },
+      {
+        "date": "2026-09-28",
+        "cum": 634,
+        "feet": 10,
+        "tier": "small",
+        "activity": "site-belly — 42\""
+      },
+      {
+        "date": "2026-09-28",
+        "cum": 644,
+        "feet": 10,
+        "tier": "small",
+        "activity": "site-hips — 42.5\""
       }
     ],
     "fieldpresence": [
