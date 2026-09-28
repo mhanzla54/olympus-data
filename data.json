@@ -21,7 +21,7 @@
     },
     "overall_total": 1649,
     "generated_for": "2026-09-28",
-    "built_at": "2026-09-28T18:20:03.477Z",
+    "built_at": "2026-09-28T18:44:04.323Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -16014,6 +16014,12 @@
       "cleared_dates": {},
       "rungs": [
         {
+          "name": "Tuck front lever — negative (hop up, ~5s down)",
+          "target": "5",
+          "sets": 3,
+          "targetAmbiguous": false
+        },
+        {
           "name": "Tuck front lever",
           "target": "15s",
           "sets": 3,
@@ -18610,43 +18616,43 @@
       "rejected": [
         {
           "date": "2026-08-12",
-          "why": "\"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
+          "why": "\"Oblique knee raises (★knees up, drive to\" is rung-7 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
         },
         {
           "date": "2026-08-17",
-          "why": "\"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
+          "why": "\"Oblique knee raises (★knees up, drive to\" is rung-7 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
         },
         {
           "date": "2026-08-19",
-          "why": "\"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
+          "why": "\"Oblique knee raises (★knees up, drive to\" is rung-7 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
         },
         {
           "date": "2026-08-22",
-          "why": "\"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
+          "why": "\"Oblique knee raises (★knees up, drive to\" is rung-7 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
         },
         {
           "date": "2026-08-24",
-          "why": "\"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
+          "why": "\"Oblique knee raises (★knees up, drive to\" is rung-7 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
         },
         {
           "date": "2026-08-26",
-          "why": "\"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
+          "why": "\"Oblique knee raises (★knees up, drive to\" is rung-7 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
         },
         {
           "date": "2026-08-29",
-          "why": "\"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
+          "why": "\"Oblique knee raises (★knees up, drive to\" is rung-7 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
         },
         {
           "date": "2026-09-02",
-          "why": "\"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
+          "why": "\"Oblique knee raises (★knees up, drive to\" is rung-7 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
         },
         {
           "date": "2026-09-05",
-          "why": "\"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
+          "why": "\"Oblique knee raises (★knees up, drive to\" is rung-7 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
         },
         {
           "date": "2026-09-28",
-          "why": "\"Tuck front lever ★ (arms straight, knees\" logged no usable numbers (skipped)"
+          "why": "\"Tuck front lever ★ (arms straight, knees\" is rung-2 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
         }
       ]
     },
@@ -19685,70 +19691,70 @@
             "name": "Oblique knee raises (★knees up, drive to one side)",
             "raw": "5.5, 4.5, 4.5",
             "avg": 4.8,
-            "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
+            "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" is rung-7 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
           },
           {
             "date": "2026-08-17",
             "name": "Oblique knee raises (★knees up, drive to one side)",
             "raw": "3.5, 3.5, 3",
             "avg": 3.3,
-            "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
+            "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" is rung-7 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
           },
           {
             "date": "2026-08-19",
             "name": "Oblique knee raises (★knees up, drive to one side)",
             "raw": "5.5, 4.5, 3.5",
             "avg": 4.5,
-            "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
+            "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" is rung-7 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
           },
           {
             "date": "2026-08-22",
             "name": "Oblique knee raises (★knees up, drive to one side)",
             "raw": "6.5, 6, 4",
             "avg": 5.5,
-            "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
+            "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" is rung-7 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
           },
           {
             "date": "2026-08-24",
             "name": "Oblique knee raises (★knees up, drive to one side)",
             "raw": "7, 3.5, 5",
             "avg": 5.2,
-            "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
+            "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" is rung-7 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
           },
           {
             "date": "2026-08-26",
             "name": "Oblique knee raises (★knees up, drive to one side)",
             "raw": "7.5, 4.5, 5",
             "avg": 5.7,
-            "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
+            "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" is rung-7 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
           },
           {
             "date": "2026-08-29",
             "name": "Oblique knee raises (★knees up, drive to one side)",
             "raw": "4",
             "avg": 4,
-            "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
+            "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" is rung-7 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
           },
           {
             "date": "2026-09-02",
             "name": "Oblique knee raises (★knees up, drive to one side)",
             "raw": "8, 6.5, 6",
             "avg": 6.8,
-            "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
+            "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" is rung-7 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
           },
           {
             "date": "2026-09-05",
             "name": "Oblique knee raises (★knees up, drive to one side)",
             "raw": "8, 8, 8",
             "avg": 8,
-            "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
+            "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" is rung-7 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
           },
           {
             "date": "2026-09-28",
             "name": "Tuck front lever ★ (arms straight, knees tucked, back flat)",
             "raw": "(practiced)",
             "avg": null,
-            "status": "✗ not plotted — \"Tuck front lever ★ (arms straight, knees\" logged no usable numbers (skipped)"
+            "status": "✗ not plotted — \"Tuck front lever ★ (arms straight, knees\" is rung-2 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
           }
         ]
       },
