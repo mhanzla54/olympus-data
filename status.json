@@ -1,7 +1,7 @@
 {
   "state": "withheld",
   "since": "2026-09-27T18:22:04.441Z",
-  "attempts": 1,
+  "attempts": 107,
   "gates": [
     "marker",
     "split parse",
@@ -19,8 +19,8 @@
     "ratchet",
     "rung eras"
   ],
-  "down_human": "0 minutes",
-  "ledger_total": 1624,
+  "down_human": "17h 32m",
+  "ledger_total": 1625,
   "feed_built_at": "2026-09-27T18:20:03.878Z",
-  "stamped_at": "2026-09-27T18:22:04.468Z"
+  "stamped_at": "2026-09-28T11:54:03.703Z"
 }
