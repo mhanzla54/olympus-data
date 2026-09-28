@@ -9,24 +9,24 @@
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
     "ratchet": {
-      "weight_low_lb": 211.2,
-      "next_weight_tick_lb": 211,
+      "weight_low_lb": 208.6,
+      "next_weight_tick_lb": 208,
       "waist_in": 37.5,
       "belly_in": 43,
       "hips_in": 43.75,
       "next_site_drop_in": 1,
-      "ten_lb_milestone_crossed": 220,
-      "next_ten_lb_marker": 210,
+      "ten_lb_milestone_crossed": 210,
+      "next_ten_lb_marker": 200,
       "all_time_low_lb": 208.6
     },
-    "overall_total": 1494,
-    "generated_for": "2026-09-27",
-    "built_at": "2026-09-27T18:20:03.878Z",
+    "overall_total": 1628,
+    "generated_for": "2026-09-28",
+    "built_at": "2026-09-28T14:54:03.917Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1223
+      "ft_to_go": 1089
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 191,
+      "current": 193,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -88,7 +88,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 492,
+      "current": 624,
       "working_on": "the next new-pound low"
     },
     {
@@ -9705,6 +9705,118 @@
       "evidence": "health warehouse",
       "booked": "2026-09-27",
       "source": "body:protein-day:2026-09-26"
+    },
+    {
+      "date": "2026-09-27",
+      "lane": "body",
+      "activity": "weight-ratchet — 208.6 lb on 2026-09-27",
+      "label": "weight-ratchet — 208.6 lb on 2026-09-27",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 502,
+      "cum_overall": 1504,
+      "reasoning": "codebook ⚖️ weight-ratchet: needed UNDER 211 lb  (the 211 lb line); got 208.6 lb on 2026-09-27",
+      "evidence": "health warehouse",
+      "booked": "2026-09-27",
+      "source": "body:weight-ratchet:2026-09-27:211"
+    },
+    {
+      "date": "2026-09-27",
+      "lane": "body",
+      "activity": "weight-ratchet — 208.6 lb on 2026-09-27",
+      "label": "weight-ratchet — 208.6 lb on 2026-09-27",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 512,
+      "cum_overall": 1514,
+      "reasoning": "codebook ⚖️ weight-ratchet: needed UNDER 210 lb  (the 210 lb line); got 208.6 lb on 2026-09-27",
+      "evidence": "health warehouse",
+      "booked": "2026-09-27",
+      "source": "body:weight-ratchet:2026-09-27:210"
+    },
+    {
+      "date": "2026-09-27",
+      "lane": "body",
+      "activity": "weight-ratchet — 208.6 lb on 2026-09-27",
+      "label": "weight-ratchet — 208.6 lb on 2026-09-27",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 522,
+      "cum_overall": 1524,
+      "reasoning": "codebook ⚖️ weight-ratchet: needed UNDER 209 lb  (the 209 lb line); got 208.6 lb on 2026-09-27",
+      "evidence": "health warehouse",
+      "booked": "2026-09-27",
+      "source": "body:weight-ratchet:2026-09-27:209"
+    },
+    {
+      "date": "2026-09-27",
+      "lane": "body",
+      "activity": "10lb-milestone — 208.6 lb on 2026-09-27",
+      "label": "10lb-milestone — 208.6 lb on 2026-09-27",
+      "tier": "medium",
+      "feet": 100,
+      "cum_lane": 622,
+      "cum_overall": 1624,
+      "reasoning": "codebook ⚖️ 10lb-milestone: needed UNDER 210 lb  (the 210 lb marker); got 208.6 lb on 2026-09-27",
+      "evidence": "health warehouse",
+      "booked": "2026-09-27",
+      "source": "body:10lb-milestone:2026-09-27:210"
+    },
+    {
+      "date": "2026-09-28",
+      "lane": "method",
+      "activity": "Cost Model V2 — a working sitting",
+      "label": "Cost Model V2 — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 192,
+      "cum_overall": 1625,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmttyob2j",
+      "booked": "2026-09-28",
+      "source": "polaris:xmttyob2j:2026-09-28:session:1"
+    },
+    {
+      "date": "2026-09-28",
+      "lane": "method",
+      "activity": "Research Methodology Module Work — a working sitting",
+      "label": "Research Methodology Module Work",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 193,
+      "cum_overall": 1626,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmuhstngq",
+      "booked": "2026-09-28",
+      "source": "polaris:xmuhstngq:2026-09-28:session:1"
+    },
+    {
+      "date": "2026-09-27",
+      "lane": "body",
+      "activity": "protein-day — 194 g",
+      "label": "protein-day — 194 g",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 623,
+      "cum_overall": 1627,
+      "reasoning": "codebook ⚖️ protein-day: needed >= 170 g; got 194 g",
+      "evidence": "health warehouse",
+      "booked": "2026-09-28",
+      "source": "body:protein-day:2026-09-27"
+    },
+    {
+      "date": "2026-09-27",
+      "lane": "body",
+      "activity": "calorie-day — 2796 kcal",
+      "label": "calorie-day — 2796 kcal",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 624,
+      "cum_overall": 1628,
+      "reasoning": "codebook ⚖️ calorie-day: needed 2300–3800 kcal; got 2796 kcal",
+      "evidence": "health warehouse",
+      "booked": "2026-09-28",
+      "source": "body:calorie-day:2026-09-27"
     }
   ],
   "polaris_booked": {
@@ -9852,7 +9964,9 @@
     "polaris:xmufm9lgj:2026-09-25:session:1": 1,
     "polaris:xmu7cybpy:2026-09-25:session:1": 1,
     "polaris:xmuhcrg9s:completion": 1,
-    "polaris:xmu4ppo5c:2026-09-25:session:1": 1
+    "polaris:xmu4ppo5c:2026-09-25:session:1": 1,
+    "polaris:xmttyob2j:2026-09-28:session:1": 1,
+    "polaris:xmuhstngq:2026-09-28:session:1": 1
   },
   "series": {
     "coding": [
@@ -12071,6 +12185,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Protocol V3 · Walk the V3 list (65 items) — a working sitting"
+      },
+      {
+        "date": "2026-09-28",
+        "cum": 192,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Cost Model V2 — a working sitting"
+      },
+      {
+        "date": "2026-09-28",
+        "cum": 193,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Research Methodology Module Work — a working sitting"
       }
     ],
     "literature": [
@@ -14457,6 +14585,48 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "protein-day — 164 g"
+      },
+      {
+        "date": "2026-09-27",
+        "cum": 502,
+        "feet": 10,
+        "tier": "small",
+        "activity": "weight-ratchet — 208.6 lb on 2026-09-27"
+      },
+      {
+        "date": "2026-09-27",
+        "cum": 512,
+        "feet": 10,
+        "tier": "small",
+        "activity": "weight-ratchet — 208.6 lb on 2026-09-27"
+      },
+      {
+        "date": "2026-09-27",
+        "cum": 522,
+        "feet": 10,
+        "tier": "small",
+        "activity": "weight-ratchet — 208.6 lb on 2026-09-27"
+      },
+      {
+        "date": "2026-09-27",
+        "cum": 622,
+        "feet": 100,
+        "tier": "medium",
+        "activity": "10lb-milestone — 208.6 lb on 2026-09-27"
+      },
+      {
+        "date": "2026-09-27",
+        "cum": 623,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "protein-day — 194 g"
+      },
+      {
+        "date": "2026-09-27",
+        "cum": 624,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "calorie-day — 2796 kcal"
       }
     ],
     "fieldpresence": [
@@ -16671,9 +16841,9 @@
         },
         {
           "date": "2026-09-23",
-          "y": 3.25,
+          "y": 3.26,
           "kind": "session",
-          "label": "Frog stand (on parallettes — knees resting on elbows) — 5, 10, (avg 7.5 vs target 30)"
+          "label": "Frog stand (on parallettes — knees resting on elbows) — 5, 10, 8 (avg 7.7 vs target 30)"
         }
       ],
       "steps": [
@@ -18196,7 +18366,7 @@
       ]
     },
     "pull": {
-      "candidates": 49,
+      "candidates": 50,
       "plotted": 32,
       "rejected": [
         {
@@ -18270,6 +18440,10 @@
         {
           "date": "2026-09-21",
           "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-09-28",
+          "why": "\"Pull-up (★full — then negatives as back-\" logged no usable numbers"
         }
       ]
     },
@@ -18289,7 +18463,7 @@
       "rejected": []
     },
     "legs": {
-      "candidates": 20,
+      "candidates": 21,
       "plotted": 15,
       "rejected": [
         {
@@ -18311,6 +18485,10 @@
         {
           "date": "2026-08-29",
           "why": "\"Full pistol (★heel elevated ~2\", no hand\" logged no usable numbers"
+        },
+        {
+          "date": "2026-09-28",
+          "why": "\"Full pistol — flat, no assist ★\" logged no usable numbers"
         }
       ]
     },
@@ -18329,7 +18507,7 @@
       ]
     },
     "corehang": {
-      "candidates": 47,
+      "candidates": 48,
       "plotted": 44,
       "rejected": [
         {
@@ -18343,11 +18521,15 @@
         {
           "date": "2026-07-06",
           "why": "\"Hanging knee raise\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-09-28",
+          "why": "\"Bent-leg windshield wipers ★\" logged no usable numbers"
         }
       ]
     },
     "frontlever": {
-      "candidates": 9,
+      "candidates": 10,
       "plotted": 0,
       "rejected": [
         {
@@ -18385,11 +18567,15 @@
         {
           "date": "2026-09-05",
           "why": "\"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
+        },
+        {
+          "date": "2026-09-28",
+          "why": "\"Tuck front lever ★ (arms straight, knees\" logged no usable numbers"
         }
       ]
     },
     "hpull": {
-      "candidates": 12,
+      "candidates": 13,
       "plotted": 10,
       "rejected": [
         {
@@ -18399,6 +18585,10 @@
         {
           "date": "2026-07-25",
           "why": "\"Feet-elevated Ring Row (★ feet on a chai\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
+        },
+        {
+          "date": "2026-09-28",
+          "why": "\"Feet-elevated ring row — slow eccentric \" logged no usable numbers"
         }
       ]
     }
@@ -18746,9 +18936,9 @@
           {
             "date": "2026-09-23",
             "name": "Frog stand ★ (parallettes — knees resting on elbows)",
-            "raw": "5, 10,",
-            "avg": 7.5,
-            "status": "● plotted at 3.25"
+            "raw": "5, 10, 8",
+            "avg": 7.7,
+            "status": "● plotted at 3.26"
           }
         ]
       },
@@ -19307,6 +19497,13 @@
             "raw": "32, 20",
             "avg": 26,
             "status": "● plotted at 5.9"
+          },
+          {
+            "date": "2026-09-28",
+            "name": "Pull-up (★full — then negatives as back-off)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Pull-up (★full — then negatives as back-\" logged no usable numbers"
           }
         ]
       },
@@ -19397,6 +19594,13 @@
             "raw": "3, 4, 4.5",
             "avg": 3.8,
             "status": "● plotted at 4.48"
+          },
+          {
+            "date": "2026-09-28",
+            "name": "Feet-elevated ring row — slow eccentric (★3s down)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Feet-elevated ring row — slow eccentric \" logged no usable numbers"
           }
         ]
       },
@@ -19466,6 +19670,13 @@
             "raw": "8, 8, 8",
             "avg": 8,
             "status": "✗ not plotted — \"Oblique knee raises (★knees up, drive to\" is rung-6 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
+          },
+          {
+            "date": "2026-09-28",
+            "name": "Tuck front lever ★ (arms straight, knees tucked, back flat)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Tuck front lever ★ (arms straight, knees\" logged no usable numbers"
           }
         ]
       },
@@ -19953,6 +20164,13 @@
             "raw": "5, 5, 5",
             "avg": 5,
             "status": "✓ CLEAR DAY — carried by the clear dot (needed 5/leg, avg 5)"
+          },
+          {
+            "date": "2026-09-28",
+            "name": "Full pistol — flat, no assist ★",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Full pistol — flat, no assist ★\" logged no usable numbers"
           }
         ]
       },
@@ -20434,6 +20652,13 @@
             "raw": "6, 6, 3",
             "avg": 5,
             "status": "● plotted at 6.83"
+          },
+          {
+            "date": "2026-09-28",
+            "name": "Bent-leg windshield wipers ★",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Bent-leg windshield wipers ★\" logged no usable numbers"
           }
         ]
       }
@@ -20658,6 +20883,10 @@
           {
             "date": "2026-09-23",
             "detail": "full reps: 7.5, 7.5, 6.5 · neg back-off: 1, 1, 2"
+          },
+          {
+            "date": "2026-09-28",
+            "detail": "full reps: — · neg back-off: —"
           }
         ]
       },
@@ -21070,6 +21299,47 @@
         ]
       },
       {
+        "name": "Bent-leg windshield wipers ★",
+        "rows": [
+          {
+            "date": "2026-09-07",
+            "detail": "reps: 4, 3.5, 2"
+          },
+          {
+            "date": "2026-09-09",
+            "detail": "reps: 4, 3, 2"
+          },
+          {
+            "date": "2026-09-12",
+            "detail": "reps: 4, 3, 2.5"
+          },
+          {
+            "date": "2026-09-14",
+            "detail": "reps: 4, 3, 2"
+          },
+          {
+            "date": "2026-09-16",
+            "detail": "reps: 4, 3, 4.5"
+          },
+          {
+            "date": "2026-09-19",
+            "detail": "reps: 6, 2, 2"
+          },
+          {
+            "date": "2026-09-21",
+            "detail": "reps: 5, 3, 2"
+          },
+          {
+            "date": "2026-09-23",
+            "detail": "reps: 6, 6, 3"
+          },
+          {
+            "date": "2026-09-28",
+            "detail": "reps: —"
+          }
+        ]
+      },
+      {
         "name": "Typewriter push-up (★slide side-to-side)",
         "rows": [
           {
@@ -21140,43 +21410,6 @@
           {
             "date": "2026-09-02",
             "detail": "reps: 8, 8"
-          }
-        ]
-      },
-      {
-        "name": "Bent-leg windshield wipers ★",
-        "rows": [
-          {
-            "date": "2026-09-07",
-            "detail": "reps: 4, 3.5, 2"
-          },
-          {
-            "date": "2026-09-09",
-            "detail": "reps: 4, 3, 2"
-          },
-          {
-            "date": "2026-09-12",
-            "detail": "reps: 4, 3, 2.5"
-          },
-          {
-            "date": "2026-09-14",
-            "detail": "reps: 4, 3, 2"
-          },
-          {
-            "date": "2026-09-16",
-            "detail": "reps: 4, 3, 4.5"
-          },
-          {
-            "date": "2026-09-19",
-            "detail": "reps: 6, 2, 2"
-          },
-          {
-            "date": "2026-09-21",
-            "detail": "reps: 5, 3, 2"
-          },
-          {
-            "date": "2026-09-23",
-            "detail": "reps: 6, 6, 3"
           }
         ]
       },
@@ -21618,6 +21851,27 @@
         ]
       },
       {
+        "name": "Feet-elevated ring row — slow eccentric (★3s down)",
+        "rows": [
+          {
+            "date": "2026-09-05",
+            "detail": "reps: 4.5, 4, 3.5"
+          },
+          {
+            "date": "2026-09-12",
+            "detail": "reps: 5, 3.5, 3.5"
+          },
+          {
+            "date": "2026-09-19",
+            "detail": "reps: 3, 4, 4.5"
+          },
+          {
+            "date": "2026-09-28",
+            "detail": "reps: —"
+          }
+        ]
+      },
+      {
         "name": "Chin-up (negatives, underhand)",
         "rows": [
           {
@@ -21733,23 +21987,6 @@
           {
             "date": "2026-08-06",
             "detail": "reps: 0, 0, 0"
-          }
-        ]
-      },
-      {
-        "name": "Feet-elevated ring row — slow eccentric (★3s down)",
-        "rows": [
-          {
-            "date": "2026-09-05",
-            "detail": "reps: 4.5, 4, 3.5"
-          },
-          {
-            "date": "2026-09-12",
-            "detail": "reps: 5, 3.5, 3.5"
-          },
-          {
-            "date": "2026-09-19",
-            "detail": "reps: 3, 4, 4.5"
           }
         ]
       },
@@ -22054,12 +22291,94 @@
         "rows": [
           {
             "date": "2026-09-23",
-            "detail": "held: 5, 10,"
+            "detail": "held: 5, 10, 8"
+          }
+        ]
+      },
+      {
+        "name": "Tuck front lever ★ (arms straight, knees tucked, back flat)",
+        "rows": [
+          {
+            "date": "2026-09-28",
+            "detail": "held: —"
+          }
+        ]
+      },
+      {
+        "name": "Full pistol — flat, no assist ★",
+        "rows": [
+          {
+            "date": "2026-09-28",
+            "detail": "reps: —"
+          }
+        ]
+      },
+      {
+        "name": "Sliding hamstring curl (accessory — floor, heels on towel/socks)",
+        "rows": [
+          {
+            "date": "2026-09-28",
+            "detail": "reps: —"
           }
         ]
       }
     ],
     "dates": [
+      {
+        "date": "2026-09-28",
+        "rows": [
+          {
+            "ladderId": "pull",
+            "ladderName": "Pull",
+            "name": "Pull-up (★full — then negatives as back-off)",
+            "raw": "",
+            "avg": null,
+            "target": "8",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "corehang",
+            "ladderName": "Core — HANGING",
+            "name": "Bent-leg windshield wipers ★",
+            "raw": "",
+            "avg": null,
+            "target": "6/side",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "frontlever",
+            "ladderName": "Front Lever",
+            "name": "Tuck front lever ★ (arms straight, knees tucked, back flat)",
+            "raw": "",
+            "avg": null,
+            "target": "15s",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "hpull",
+            "ladderName": "Horizontal Pull — ROWS",
+            "name": "Feet-elevated ring row — slow eccentric (★3s down)",
+            "raw": "",
+            "avg": null,
+            "target": "8",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "legs",
+            "ladderName": "Legs — Pistol",
+            "name": "Full pistol — flat, no assist ★",
+            "raw": "",
+            "avg": null,
+            "target": "5/leg",
+            "sets": 3,
+            "cleared": false
+          }
+        ]
+      },
       {
         "date": "2026-09-23",
         "rows": [
@@ -22117,8 +22436,8 @@
             "ladderId": "planche",
             "ladderName": "Horizontal Push — PLANCHE",
             "name": "Frog stand ★ (parallettes — knees resting on elbows)",
-            "raw": "5, 10,",
-            "avg": 7.5,
+            "raw": "5, 10, 8",
+            "avg": 7.7,
             "target": "30s",
             "sets": 3,
             "cleared": false
@@ -24727,7 +25046,7 @@
     },
     "planche": {
       "date": "2026-09-23",
-      "detail": "5, 10,"
+      "detail": "5, 10, 8"
     },
     "chinup": {
       "date": "2026-09-21",
@@ -25613,10 +25932,10 @@
       {
         "date": "2026-09-27",
         "w": 208.6,
-        "kcal": 0,
-        "protein": 0,
-        "dayType": "empty",
-        "provisional": true,
+        "kcal": 2796,
+        "protein": 194,
+        "dayType": "anomaly-pending",
+        "provisional": false,
         "floors": [
           210
         ]
@@ -26423,11 +26742,6 @@
     },
     "strip": [
       {
-        "date": "2026-08-29",
-        "state": "off",
-        "kcal": 1889
-      },
-      {
         "date": "2026-08-30",
         "state": "off",
         "kcal": 1871
@@ -26569,6 +26883,11 @@
       },
       {
         "date": "2026-09-27",
+        "state": "anomaly",
+        "kcal": 2796
+      },
+      {
+        "date": "2026-09-28",
         "state": "partial",
         "kcal": 0
       }
@@ -27568,6 +27887,14 @@
       },
       {
         "date": "2026-09-27",
+        "kcal": 2796,
+        "protein": 194,
+        "dayType": "anomaly-pending",
+        "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-09-28",
         "kcal": 0,
         "protein": 0,
         "dayType": "empty",
@@ -28135,6 +28462,42 @@
   "body_crossings": [
     {
       "kind": "weight-ratchet",
+      "date": "2026-09-27",
+      "booked": "2026-09-27",
+      "feet": 10,
+      "line": 211,
+      "weight": 208.6,
+      "tier": "small"
+    },
+    {
+      "kind": "weight-ratchet",
+      "date": "2026-09-27",
+      "booked": "2026-09-27",
+      "feet": 10,
+      "line": 210,
+      "weight": 208.6,
+      "tier": "small"
+    },
+    {
+      "kind": "10lb-milestone",
+      "date": "2026-09-27",
+      "booked": "2026-09-27",
+      "feet": 100,
+      "line": 210,
+      "weight": 10,
+      "tier": "medium"
+    },
+    {
+      "kind": "weight-ratchet",
+      "date": "2026-09-27",
+      "booked": "2026-09-27",
+      "feet": 10,
+      "line": 209,
+      "weight": 208.6,
+      "tier": "small"
+    },
+    {
+      "kind": "weight-ratchet",
       "date": "2026-09-23",
       "booked": "2026-09-23",
       "feet": 10,
@@ -28144,8 +28507,8 @@
     }
   ],
   "body_next_bars": {
-    "next_lb_line": 211,
-    "next_10lb_marker": 210,
-    "recorded_low": 211.2
+    "next_lb_line": 208,
+    "next_10lb_marker": 200,
+    "recorded_low": 208.6
   }
 }
