@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 208.6
     },
-    "overall_total": 1654,
+    "overall_total": 1655,
     "generated_for": "2026-09-29",
-    "built_at": "2026-09-29T11:23:29.325Z",
+    "built_at": "2026-09-29T12:23:45.657Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1063
+      "ft_to_go": 1062
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 196,
+      "current": 197,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -9929,6 +9929,20 @@
       "evidence": "POLARIS xmuhstngq",
       "booked": "2026-09-29",
       "source": "polaris:xmuhstngq:2026-09-29:session:1"
+    },
+    {
+      "date": "2026-09-29",
+      "lane": "method",
+      "activity": "Osiris Substrate V4 — a working sitting",
+      "label": "Osiris Substrate V4 — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 197,
+      "cum_overall": 1655,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmufm9lgj",
+      "booked": "2026-09-29",
+      "source": "polaris:xmufm9lgj:2026-09-29:session:1"
     }
   ],
   "polaris_booked": {
@@ -10082,7 +10096,8 @@
     "polaris:xmt78btdt:2026-09-28:session:1": 1,
     "polaris:xmu7cybpy:2026-09-28:session:1": 1,
     "polaris:xmufm9lgj:2026-09-28:session:1": 1,
-    "polaris:xmuhstngq:2026-09-29:session:1": 1
+    "polaris:xmuhstngq:2026-09-29:session:1": 1,
+    "polaris:xmufm9lgj:2026-09-29:session:1": 1
   },
   "series": {
     "coding": [
@@ -12336,6 +12351,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Research Methodology Module Work — a working sitting"
+      },
+      {
+        "date": "2026-09-29",
+        "cum": 197,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris Substrate V4 — a working sitting"
       }
     ],
     "literature": [
