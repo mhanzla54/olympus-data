@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 208.6
     },
-    "overall_total": 1662,
+    "overall_total": 1663,
     "generated_for": "2026-09-30",
-    "built_at": "2026-09-30T13:12:03.962Z",
+    "built_at": "2026-09-30T13:55:12.757Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1055
+      "ft_to_go": 1054
     },
     "captures_today_unscored": 0
   },
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 385,
+      "current": 386,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -10041,6 +10041,20 @@
       "evidence": "health warehouse",
       "booked": "2026-09-30",
       "source": "body:calorie-day:2026-09-29"
+    },
+    {
+      "date": "2026-09-30",
+      "lane": "strength",
+      "activity": "Workout — a working sitting",
+      "label": "Workout — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 386,
+      "cum_overall": 1663,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmta206fu",
+      "booked": "2026-09-30",
+      "source": "polaris:xmta206fu:2026-09-30:session:1"
     }
   ],
   "polaris_booked": {
@@ -10200,7 +10214,8 @@
     "polaris:xmu4ppo5c:2026-09-29:session:1": 1,
     "polaris:xmu7cybq4:2026-09-29:session:1": 1,
     "polaris:xmuhstngq:2026-09-30:session:1": 1,
-    "polaris:xmufm9lgj:2026-09-30:session:1": 1
+    "polaris:xmufm9lgj:2026-09-30:session:1": 1,
+    "polaris:xmta206fu:2026-09-30:session:1": 1
   },
   "series": {
     "coding": [
@@ -13316,6 +13331,13 @@
       {
         "date": "2026-09-28",
         "cum": 385,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Workout — a working sitting"
+      },
+      {
+        "date": "2026-09-30",
+        "cum": 386,
         "feet": 1,
         "tier": "tiny",
         "activity": "Workout — a working sitting"
