@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 208.6
     },
-    "overall_total": 1665,
+    "overall_total": 1666,
     "generated_for": "2026-10-01",
-    "built_at": "2026-10-01T04:00:04.755Z",
+    "built_at": "2026-10-01T11:17:27.312Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1052
+      "ft_to_go": 1051
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 201,
+      "current": 202,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -10083,6 +10083,20 @@
       "evidence": "POLARIS xmuous6nf",
       "booked": "2026-09-30",
       "source": "polaris:xmuous6nf:completion"
+    },
+    {
+      "date": "2026-10-01",
+      "lane": "method",
+      "activity": "Research Methodology Module Work — a working sitting",
+      "label": "Research Methodology Module Work",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 202,
+      "cum_overall": 1666,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmuhstngq",
+      "booked": "2026-10-01",
+      "source": "polaris:xmuhstngq:2026-10-01:session:1"
     }
   ],
   "polaris_booked": {
@@ -10245,7 +10259,8 @@
     "polaris:xmufm9lgj:2026-09-30:session:1": 1,
     "polaris:xmta206fu:2026-09-30:session:1": 1,
     "polaris:xmu7cybpy:2026-09-30:session:1": 1,
-    "polaris:xmuous6nf:completion": 1
+    "polaris:xmuous6nf:completion": 1,
+    "polaris:xmuhstngq:2026-10-01:session:1": 1
   },
   "series": {
     "coding": [
@@ -12534,6 +12549,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Protocol V3 · Walk the V3 list (65 items) — a working sitting"
+      },
+      {
+        "date": "2026-10-01",
+        "cum": 202,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Research Methodology Module Work — a working sitting"
       }
     ],
     "literature": [
