@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 208.6
     },
-    "overall_total": 1664,
+    "overall_total": 1665,
     "generated_for": "2026-09-30",
-    "built_at": "2026-09-30T13:58:42.156Z",
+    "built_at": "2026-10-01T01:26:22.389Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1053
+      "ft_to_go": 1052
     },
     "captures_today_unscored": 0
   },
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 386,
+      "current": 387,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -10069,6 +10069,20 @@
       "evidence": "POLARIS xmu7cybpy",
       "booked": "2026-09-30",
       "source": "polaris:xmu7cybpy:2026-09-30:session:1"
+    },
+    {
+      "date": "2026-09-30",
+      "lane": "strength",
+      "activity": "Sparse Training — FINISHED",
+      "label": "Sparse Training — FINISHED",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 387,
+      "cum_overall": 1665,
+      "reasoning": "Owner-priced in POLARIS: finishing it = tiny",
+      "evidence": "POLARIS xmuous6nf",
+      "booked": "2026-09-30",
+      "source": "polaris:xmuous6nf:completion"
     }
   ],
   "polaris_booked": {
@@ -10230,7 +10244,8 @@
     "polaris:xmuhstngq:2026-09-30:session:1": 1,
     "polaris:xmufm9lgj:2026-09-30:session:1": 1,
     "polaris:xmta206fu:2026-09-30:session:1": 1,
-    "polaris:xmu7cybpy:2026-09-30:session:1": 1
+    "polaris:xmu7cybpy:2026-09-30:session:1": 1,
+    "polaris:xmuous6nf:completion": 1
   },
   "series": {
     "coding": [
@@ -13363,6 +13378,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Workout — a working sitting"
+      },
+      {
+        "date": "2026-09-30",
+        "cum": 387,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Sparse Training — FINISHED"
       }
     ],
     "body": [
