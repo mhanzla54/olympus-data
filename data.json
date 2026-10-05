@@ -20,8 +20,8 @@
       "all_time_low_lb": 208.6
     },
     "overall_total": 1685,
-    "generated_for": "2026-10-03",
-    "built_at": "2026-10-03T23:20:04.178Z",
+    "generated_for": "2026-10-05",
+    "built_at": "2026-10-05T04:00:03.951Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -29188,44 +29188,7 @@
   },
   "pending_clears": [],
   "pending_clear_notes": [],
-  "body_crossings": [
-    {
-      "kind": "weight-ratchet",
-      "date": "2026-09-27",
-      "booked": "2026-09-27",
-      "feet": 10,
-      "line": 211,
-      "weight": 208.6,
-      "tier": "small"
-    },
-    {
-      "kind": "weight-ratchet",
-      "date": "2026-09-27",
-      "booked": "2026-09-27",
-      "feet": 10,
-      "line": 210,
-      "weight": 208.6,
-      "tier": "small"
-    },
-    {
-      "kind": "10lb-milestone",
-      "date": "2026-09-27",
-      "booked": "2026-09-27",
-      "feet": 100,
-      "line": 210,
-      "weight": 10,
-      "tier": "medium"
-    },
-    {
-      "kind": "weight-ratchet",
-      "date": "2026-09-27",
-      "booked": "2026-09-27",
-      "feet": 10,
-      "line": 209,
-      "weight": 208.6,
-      "tier": "small"
-    }
-  ],
+  "body_crossings": [],
   "body_next_bars": {
     "next_lb_line": 208,
     "next_10lb_marker": 200,
