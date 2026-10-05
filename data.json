@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 208.6
     },
-    "overall_total": 1696,
+    "overall_total": 1700,
     "generated_for": "2026-10-05",
-    "built_at": "2026-10-05T11:37:27.370Z",
+    "built_at": "2026-10-05T14:15:42.329Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1021
+      "ft_to_go": 1017
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 206,
+      "current": 207,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 398,
+      "current": 399,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -88,7 +88,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 651,
+      "current": 653,
       "working_on": "the next new-pound low"
     },
     {
@@ -10265,6 +10265,62 @@
       "evidence": "workout-log; Chin-up (★full, underhand — then negatives as back-off)",
       "booked": "2026-10-05",
       "source": "rung:chinup:3:2026-09-30"
+    },
+    {
+      "date": "2026-10-04",
+      "lane": "body",
+      "activity": "protein-day — 186 g",
+      "label": "protein-day — 186 g",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 652,
+      "cum_overall": 1697,
+      "reasoning": "codebook ⚖️ protein-day: needed >= 160 g; got 186 g",
+      "evidence": "health warehouse",
+      "booked": "2026-10-05",
+      "source": "body:protein-day:2026-10-04"
+    },
+    {
+      "date": "2026-10-04",
+      "lane": "body",
+      "activity": "calorie-day — 1710 kcal",
+      "label": "calorie-day — 1710 kcal",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 653,
+      "cum_overall": 1698,
+      "reasoning": "codebook ⚖️ calorie-day: needed 1550–2100 kcal; got 1710 kcal",
+      "evidence": "health warehouse",
+      "booked": "2026-10-05",
+      "source": "body:calorie-day:2026-10-04"
+    },
+    {
+      "date": "2026-10-05",
+      "lane": "strength",
+      "activity": "Workout — a working sitting",
+      "label": "Workout — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 399,
+      "cum_overall": 1699,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmt78btdt",
+      "booked": "2026-10-05",
+      "source": "polaris:xmt78btdt:2026-10-05:session:1"
+    },
+    {
+      "date": "2026-10-05",
+      "lane": "method",
+      "activity": "Osiris Substrate V4 — a working sitting",
+      "label": "Osiris Substrate V4 — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 207,
+      "cum_overall": 1700,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmufm9lgj",
+      "booked": "2026-10-05",
+      "source": "polaris:xmufm9lgj:2026-10-05:session:1"
     }
   ],
   "polaris_booked": {
@@ -10436,7 +10492,9 @@
     "polaris:xmu7cybpy:2026-10-03:session:1": 1,
     "polaris:xmu4ppo5c:2026-10-03:session:1": 1,
     "polaris:xmu4ppo5c:completion": 10,
-    "polaris:xmu7cybq4:2026-10-05:session:1": 1
+    "polaris:xmu7cybq4:2026-10-05:session:1": 1,
+    "polaris:xmt78btdt:2026-10-05:session:1": 1,
+    "polaris:xmufm9lgj:2026-10-05:session:1": 1
   },
   "series": {
     "coding": [
@@ -12760,6 +12818,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Protocol V3 · Walk the V3 list (65 items) — a working sitting"
+      },
+      {
+        "date": "2026-10-05",
+        "cum": 207,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris Substrate V4 — a working sitting"
       }
     ],
     "literature": [
@@ -13625,6 +13690,13 @@
         "feet": 10,
         "tier": "small",
         "activity": "Chin-up rung 3 CLEARED — Full chin-up (8/8/8, avg 8 vs target 8)"
+      },
+      {
+        "date": "2026-10-05",
+        "cum": 399,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Workout — a working sitting"
       }
     ],
     "body": [
@@ -15286,6 +15358,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "calorie-day — 1997 kcal"
+      },
+      {
+        "date": "2026-10-04",
+        "cum": 652,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "protein-day — 186 g"
+      },
+      {
+        "date": "2026-10-04",
+        "cum": 653,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "calorie-day — 1710 kcal"
       }
     ],
     "fieldpresence": [
@@ -16732,10 +16818,11 @@
       "id": "chinup",
       "name": "Chin-up",
       "elite": "one-arm chin-up",
-      "current": 3,
+      "current": 4,
       "cleared_dates": {
         "1": "2026-07-06",
-        "2": "2026-07-27"
+        "2": "2026-07-27",
+        "3": "2026-09-30"
       },
       "rungs": [
         {
@@ -16800,8 +16887,8 @@
         }
       ],
       "chart": 6,
-      "cleared_count": 2,
-      "height": 3,
+      "cleared_count": 3,
+      "height": 6,
       "triangular": [
         0,
         1,
@@ -17936,6 +18023,12 @@
           "y": 5.83,
           "kind": "session",
           "label": "Full pull-up — 8, 7, 5 (avg 6.7 vs target 8)"
+        },
+        {
+          "date": "2026-10-05",
+          "y": 5.97,
+          "kind": "session",
+          "label": "Full pull-up — 8, 8, 8 (avg 8 vs target 8)"
         }
       ],
       "steps": [
@@ -18045,6 +18138,12 @@
           "y": 4.9,
           "kind": "session",
           "label": "Feet-elevated ring row — slow eccentric  (3s down) — 8, 6.5, 7 (avg 7.2 vs target 8)"
+        },
+        {
+          "date": "2026-10-05",
+          "y": 4.97,
+          "kind": "session",
+          "label": "Feet-elevated ring row — slow eccentric  (3s down) — 8, 8, 8 (avg 8 vs target 8)"
         }
       ],
       "steps": [
@@ -18077,6 +18176,12 @@
           "y": 1,
           "kind": "baseline",
           "label": "Front Lever — on rung 1 at t0"
+        },
+        {
+          "date": "2026-10-05",
+          "y": 1.4,
+          "kind": "session",
+          "label": "Tuck front lever — negative (hop up, ~5s down) — 2, 2, 2 (avg 2 vs target 5)"
         }
       ],
       "steps": [
@@ -18200,9 +18305,14 @@
         },
         {
           "date": "2026-09-30",
-          "y": 3.97,
-          "kind": "session",
-          "label": "Full chin-up — 8, 8, 8 (avg 8 vs target 8)"
+          "y": 4,
+          "kind": "clear",
+          "label": "Chin-up — cleared: Full chin-up (needed 8, got 8, 8, 8 — avg 8)",
+          "perf": {
+            "needed": "8",
+            "got": "8, 8, 8",
+            "avg": 8
+          }
         }
       ],
       "steps": [
@@ -18217,6 +18327,10 @@
         {
           "date": "2026-07-27",
           "rungs": 3
+        },
+        {
+          "date": "2026-09-30",
+          "rungs": 4
         }
       ],
       "chart": 6
@@ -18578,6 +18692,12 @@
           "y": 8.53,
           "kind": "session",
           "label": "Full pistol — flat, no assist — 3, 3, 2 (avg 2.7 vs target 5)"
+        },
+        {
+          "date": "2026-10-05",
+          "y": 8.67,
+          "kind": "session",
+          "label": "Full pistol — flat, no assist — 5, 2, 3 (avg 3.3 vs target 5)"
         }
       ],
       "steps": [
@@ -19072,6 +19192,12 @@
           "y": 6.72,
           "kind": "session",
           "label": "Bent-leg windshield wipers — 5, 6, 2 (avg 4.3 vs target 6)"
+        },
+        {
+          "date": "2026-10-05",
+          "y": 6.78,
+          "kind": "session",
+          "label": "Bent-leg windshield wipers — 6, 4, 4 (avg 4.7 vs target 6)"
         }
       ],
       "steps": [
@@ -19156,8 +19282,8 @@
       ]
     },
     "pull": {
-      "candidates": 52,
-      "plotted": 34,
+      "candidates": 53,
+      "plotted": 35,
       "rejected": [
         {
           "date": "2026-06-23",
@@ -19253,8 +19379,8 @@
       "rejected": []
     },
     "legs": {
-      "candidates": 21,
-      "plotted": 16,
+      "candidates": 22,
+      "plotted": 17,
       "rejected": [
         {
           "date": "2026-06-08",
@@ -19279,7 +19405,7 @@
       ]
     },
     "corefloor": {
-      "candidates": 20,
+      "candidates": 21,
       "plotted": 18,
       "rejected": [
         {
@@ -19289,12 +19415,16 @@
         {
           "date": "2026-09-16",
           "why": "\"Elevated tuck L-sit (★finisher — hands r\" logged no usable numbers (skipped)"
+        },
+        {
+          "date": "2026-10-05",
+          "why": "\"Tuck front lever negative ★ (hop up, arm\" is rung-3 work while training rung 4 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
         }
       ]
     },
     "corehang": {
-      "candidates": 50,
-      "plotted": 47,
+      "candidates": 51,
+      "plotted": 48,
       "rejected": [
         {
           "date": "2026-06-27",
@@ -19311,8 +19441,8 @@
       ]
     },
     "frontlever": {
-      "candidates": 10,
-      "plotted": 0,
+      "candidates": 11,
+      "plotted": 1,
       "rejected": [
         {
           "date": "2026-08-12",
@@ -19357,8 +19487,8 @@
       ]
     },
     "hpull": {
-      "candidates": 13,
-      "plotted": 11,
+      "candidates": 14,
+      "plotted": 12,
       "rejected": [
         {
           "date": "2026-07-18",
@@ -20331,6 +20461,13 @@
             "raw": "25, 11",
             "avg": 18,
             "status": "● plotted at 5.83"
+          },
+          {
+            "date": "2026-10-05",
+            "name": "Pull-up (★full — then negatives as back-off)",
+            "raw": "8, 8, 8",
+            "avg": 8,
+            "status": "● plotted at 5.97"
           }
         ]
       },
@@ -20428,6 +20565,13 @@
             "raw": "8, 6.5, 7",
             "avg": 7.2,
             "status": "● plotted at 4.9"
+          },
+          {
+            "date": "2026-10-05",
+            "name": "Feet-elevated ring row — slow eccentric (★3s down)",
+            "raw": "8, 8, 8",
+            "avg": 8,
+            "status": "● plotted at 4.97"
           }
         ]
       },
@@ -20504,6 +20648,13 @@
             "raw": "(practiced)",
             "avg": null,
             "status": "✗ not plotted — \"Tuck front lever ★ (arms straight, knees\" is rung-2 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
+          },
+          {
+            "date": "2026-10-05",
+            "name": "Tuck front lever negative ★ (hop up, arms straight, back flat, ~5s down)",
+            "raw": "2, 2, 2",
+            "avg": 2,
+            "status": "● plotted at 1.4"
           }
         ]
       },
@@ -20628,7 +20779,7 @@
             "name": "Chin-up (★full, underhand — then negatives as back-off)",
             "raw": "8, 8, 8",
             "avg": 8,
-            "status": "● plotted at 3.97"
+            "status": "✓ CLEAR DAY — carried by the clear dot (needed 8, avg 8)"
           }
         ]
       },
@@ -21019,6 +21170,13 @@
             "raw": "3, 3, 2",
             "avg": 2.7,
             "status": "● plotted at 8.53"
+          },
+          {
+            "date": "2026-10-05",
+            "name": "Full pistol — flat, no assist ★",
+            "raw": "5, 2, 3",
+            "avg": 3.3,
+            "status": "● plotted at 8.67"
           }
         ]
       },
@@ -21172,6 +21330,13 @@
             "raw": "7, 7",
             "avg": 7,
             "status": "● plotted at 4.47"
+          },
+          {
+            "date": "2026-10-05",
+            "name": "Tuck front lever negative ★ (hop up, arms straight, back flat, ~5s down)",
+            "raw": "2, 2, 2",
+            "avg": 2,
+            "status": "✗ not plotted — \"Tuck front lever negative ★ (hop up, arm\" is rung-3 work while training rung 4 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           }
         ]
       },
@@ -21528,6 +21693,13 @@
             "raw": "5, 6, 2",
             "avg": 4.3,
             "status": "● plotted at 6.72"
+          },
+          {
+            "date": "2026-10-05",
+            "name": "Bent-leg windshield wipers ★",
+            "raw": "6, 4, 4",
+            "avg": 4.7,
+            "status": "● plotted at 6.78"
           }
         ]
       }
@@ -21768,6 +21940,10 @@
           {
             "date": "2026-10-03",
             "detail": "full reps: 8, 7, 5 · neg back-off: 0, 1, 3"
+          },
+          {
+            "date": "2026-10-05",
+            "detail": "full reps: 8, 8, 8 · neg back-off: 0, 0, 0"
           }
         ]
       },
@@ -21963,6 +22139,59 @@
         ]
       },
       {
+        "name": "Bent-leg windshield wipers ★",
+        "rows": [
+          {
+            "date": "2026-09-07",
+            "detail": "reps: 4, 3.5, 2"
+          },
+          {
+            "date": "2026-09-09",
+            "detail": "reps: 4, 3, 2"
+          },
+          {
+            "date": "2026-09-12",
+            "detail": "reps: 4, 3, 2.5"
+          },
+          {
+            "date": "2026-09-14",
+            "detail": "reps: 4, 3, 2"
+          },
+          {
+            "date": "2026-09-16",
+            "detail": "reps: 4, 3, 4.5"
+          },
+          {
+            "date": "2026-09-19",
+            "detail": "reps: 6, 2, 2"
+          },
+          {
+            "date": "2026-09-21",
+            "detail": "reps: 5, 3, 2"
+          },
+          {
+            "date": "2026-09-23",
+            "detail": "reps: 6, 6, 3"
+          },
+          {
+            "date": "2026-09-28",
+            "detail": "reps: 6, 6, 4.5"
+          },
+          {
+            "date": "2026-09-30",
+            "detail": "reps: 6, 6, 3"
+          },
+          {
+            "date": "2026-10-03",
+            "detail": "reps: 5, 6, 2"
+          },
+          {
+            "date": "2026-10-05",
+            "detail": "reps: 6, 4, 4"
+          }
+        ]
+      },
+      {
         "name": "Chin-up (★full, underhand — then negatives as back-off)",
         "rows": [
           {
@@ -22057,55 +22286,6 @@
           {
             "date": "2026-10-03",
             "detail": "reps: 6, 5, 4"
-          }
-        ]
-      },
-      {
-        "name": "Bent-leg windshield wipers ★",
-        "rows": [
-          {
-            "date": "2026-09-07",
-            "detail": "reps: 4, 3.5, 2"
-          },
-          {
-            "date": "2026-09-09",
-            "detail": "reps: 4, 3, 2"
-          },
-          {
-            "date": "2026-09-12",
-            "detail": "reps: 4, 3, 2.5"
-          },
-          {
-            "date": "2026-09-14",
-            "detail": "reps: 4, 3, 2"
-          },
-          {
-            "date": "2026-09-16",
-            "detail": "reps: 4, 3, 4.5"
-          },
-          {
-            "date": "2026-09-19",
-            "detail": "reps: 6, 2, 2"
-          },
-          {
-            "date": "2026-09-21",
-            "detail": "reps: 5, 3, 2"
-          },
-          {
-            "date": "2026-09-23",
-            "detail": "reps: 6, 6, 3"
-          },
-          {
-            "date": "2026-09-28",
-            "detail": "reps: 6, 6, 4.5"
-          },
-          {
-            "date": "2026-09-30",
-            "detail": "reps: 6, 6, 3"
-          },
-          {
-            "date": "2026-10-03",
-            "detail": "reps: 5, 6, 2"
           }
         ]
       },
@@ -22626,6 +22806,31 @@
         ]
       },
       {
+        "name": "Feet-elevated ring row — slow eccentric (★3s down)",
+        "rows": [
+          {
+            "date": "2026-09-05",
+            "detail": "reps: 4.5, 4, 3.5"
+          },
+          {
+            "date": "2026-09-12",
+            "detail": "reps: 5, 3.5, 3.5"
+          },
+          {
+            "date": "2026-09-19",
+            "detail": "reps: 3, 4, 4.5"
+          },
+          {
+            "date": "2026-09-28",
+            "detail": "reps: 8, 6.5, 7"
+          },
+          {
+            "date": "2026-10-05",
+            "detail": "reps: 8, 8, 8"
+          }
+        ]
+      },
+      {
         "name": "Pike push-up",
         "rows": [
           {
@@ -22748,27 +22953,6 @@
           {
             "date": "2026-08-31",
             "detail": "reps: 2, 3, 3"
-          }
-        ]
-      },
-      {
-        "name": "Feet-elevated ring row — slow eccentric (★3s down)",
-        "rows": [
-          {
-            "date": "2026-09-05",
-            "detail": "reps: 4.5, 4, 3.5"
-          },
-          {
-            "date": "2026-09-12",
-            "detail": "reps: 5, 3.5, 3.5"
-          },
-          {
-            "date": "2026-09-19",
-            "detail": "reps: 3, 4, 4.5"
-          },
-          {
-            "date": "2026-09-28",
-            "detail": "reps: 8, 6.5, 7"
           }
         ]
       },
@@ -23051,6 +23235,32 @@
         ]
       },
       {
+        "name": "Full pistol — flat, no assist ★",
+        "rows": [
+          {
+            "date": "2026-09-28",
+            "detail": "reps: 3, 3, 2"
+          },
+          {
+            "date": "2026-10-05",
+            "detail": "reps: 5, 2, 3"
+          }
+        ]
+      },
+      {
+        "name": "Sliding hamstring curl (accessory — floor, heels on towel/socks)",
+        "rows": [
+          {
+            "date": "2026-09-28",
+            "detail": "reps: 4, 3, 3"
+          },
+          {
+            "date": "2026-10-05",
+            "detail": "reps: 5, 3, 3"
+          }
+        ]
+      },
+      {
         "name": "Push-up (archer)",
         "rows": [
           {
@@ -23222,25 +23432,71 @@
         ]
       },
       {
-        "name": "Full pistol — flat, no assist ★",
+        "name": "Tuck front lever negative ★ (hop up, arms straight, back flat, ~5s down)",
         "rows": [
           {
-            "date": "2026-09-28",
-            "detail": "reps: 3, 3, 2"
-          }
-        ]
-      },
-      {
-        "name": "Sliding hamstring curl (accessory — floor, heels on towel/socks)",
-        "rows": [
-          {
-            "date": "2026-09-28",
-            "detail": "reps: 4, 3, 3"
+            "date": "2026-10-05",
+            "detail": "reps: 2, 2, 2"
           }
         ]
       }
     ],
     "dates": [
+      {
+        "date": "2026-10-05",
+        "rows": [
+          {
+            "ladderId": "pull",
+            "ladderName": "Pull",
+            "name": "Pull-up (★full — then negatives as back-off)",
+            "raw": "8, 8, 8",
+            "avg": 8,
+            "target": "8",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "corefloor",
+            "ladderName": "Core — FLOOR",
+            "name": "Tuck front lever negative ★ (hop up, arms straight, back flat, ~5s down)",
+            "raw": "2, 2, 2",
+            "avg": 2,
+            "target": "15",
+            "sets": 2,
+            "cleared": false
+          },
+          {
+            "ladderId": "corehang",
+            "ladderName": "Core — HANGING",
+            "name": "Bent-leg windshield wipers ★",
+            "raw": "6, 4, 4",
+            "avg": 4.7,
+            "target": "6/side",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "hpull",
+            "ladderName": "Horizontal Pull — ROWS",
+            "name": "Feet-elevated ring row — slow eccentric (★3s down)",
+            "raw": "8, 8, 8",
+            "avg": 8,
+            "target": "8",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "legs",
+            "ladderName": "Legs — Pistol",
+            "name": "Full pistol — flat, no assist ★",
+            "raw": "5, 2, 3",
+            "avg": 3.3,
+            "target": "5/leg",
+            "sets": 3,
+            "cleared": false
+          }
+        ]
+      },
       {
         "date": "2026-10-03",
         "rows": [
@@ -23317,7 +23573,7 @@
             "avg": 8,
             "target": "8",
             "sets": 3,
-            "cleared": false
+            "cleared": true
           },
           {
             "ladderId": "corehang",
@@ -26062,12 +26318,28 @@
   ],
   "last_perf": {
     "pull": {
-      "date": "2026-10-03",
-      "detail": "8, 7, 5"
+      "date": "2026-10-05",
+      "detail": "8, 8, 8"
+    },
+    "corefloor": {
+      "date": "2026-10-05",
+      "detail": "2, 2, 2"
+    },
+    "frontlever": {
+      "date": "2026-10-05",
+      "detail": "2, 2, 2"
     },
     "corehang": {
-      "date": "2026-10-03",
-      "detail": "5, 6, 2"
+      "date": "2026-10-05",
+      "detail": "6, 4, 4"
+    },
+    "hpull": {
+      "date": "2026-10-05",
+      "detail": "8, 8, 8"
+    },
+    "legs": {
+      "date": "2026-10-05",
+      "detail": "5, 2, 3"
     },
     "grip": {
       "date": "2026-10-03",
@@ -26076,10 +26348,6 @@
     "push": {
       "date": "2026-10-03",
       "detail": "3, 4, 3"
-    },
-    "corefloor": {
-      "date": "2026-10-03",
-      "detail": "7, 7"
     },
     "planche": {
       "date": "2026-10-03",
@@ -26096,18 +26364,6 @@
     "explosive": {
       "date": "2026-09-30",
       "detail": "1.5, 0, 1"
-    },
-    "frontlever": {
-      "date": "2026-09-28",
-      "detail": "(practiced)"
-    },
-    "hpull": {
-      "date": "2026-09-28",
-      "detail": "8, 6.5, 7"
-    },
-    "legs": {
-      "date": "2026-09-28",
-      "detail": "3, 3, 2"
     }
   },
   "health": {
@@ -26992,6 +27248,22 @@
         "protein": 199,
         "dayType": "strict",
         "provisional": false
+      },
+      {
+        "date": "2026-10-04",
+        "w": 211.2,
+        "kcal": 1710,
+        "protein": 186,
+        "dayType": "strict",
+        "provisional": false
+      },
+      {
+        "date": "2026-10-05",
+        "w": 210.4,
+        "kcal": 1047,
+        "protein": 133,
+        "dayType": "strict",
+        "provisional": true
       }
     ],
     "trend": [
@@ -27474,9 +27746,17 @@
       {
         "date": "2026-09-29",
         "w": 211
+      },
+      {
+        "date": "2026-10-04",
+        "w": 210.67
+      },
+      {
+        "date": "2026-10-05",
+        "w": 210.67
       }
     ],
-    "noiseBand": 1.24,
+    "noiseBand": 1.23,
     "floors": [
       {
         "y": 230,
@@ -27637,6 +27917,11 @@
         "date": "2026-09-27",
         "w": 208.6,
         "week": "Sep 27–Oct 3"
+      },
+      {
+        "date": "2026-10-05",
+        "w": 210.4,
+        "week": "Oct 4–Oct 10"
       }
     ],
     "weeklyAvgs": [
@@ -27789,29 +28074,25 @@
         "w": 209.8,
         "week": "Sep 27–Oct 3",
         "n": 3
+      },
+      {
+        "date": "2026-10-07",
+        "w": 210.8,
+        "week": "Oct 4–Oct 10",
+        "n": 2
       }
     ],
     "banner": {
       "startDate": "2026-03-22",
       "startW": 235,
-      "lost": 24,
+      "lost": 24.3,
       "goal": 180,
-      "pct": 43.6,
+      "pct": 44.2,
       "nextFloor": 200,
-      "toGo": 11,
+      "toGo": 10.7,
       "newLow": false
     },
     "strip": [
-      {
-        "date": "2026-09-04",
-        "state": "off",
-        "kcal": 1951
-      },
-      {
-        "date": "2026-09-05",
-        "state": "off",
-        "kcal": 2179
-      },
       {
         "date": "2026-09-06",
         "state": "good",
@@ -27949,8 +28230,18 @@
       },
       {
         "date": "2026-10-03",
+        "state": "good",
+        "kcal": 1270
+      },
+      {
+        "date": "2026-10-04",
+        "state": "good",
+        "kcal": 1710
+      },
+      {
+        "date": "2026-10-05",
         "state": "partial",
-        "kcal": 1033
+        "kcal": 1047
       }
     ],
     "days": [
@@ -28996,8 +29287,24 @@
       },
       {
         "date": "2026-10-03",
-        "kcal": 1033,
-        "protein": 92,
+        "kcal": 1270,
+        "protein": 151,
+        "dayType": "strict",
+        "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-10-04",
+        "kcal": 1710,
+        "protein": 186,
+        "dayType": "strict",
+        "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-10-05",
+        "kcal": 1047,
+        "protein": 133,
         "dayType": "strict",
         "logged": "full",
         "provisional": true
@@ -29558,7 +29865,48 @@
     "vista-pyramid": "vista-pyramid.webp",
     "vista-redeemer": "vista-redeemer.webp"
   },
-  "pending_clears": [],
+  "pending_clears": [
+    {
+      "key": "rung:pull:5:2026-10-05",
+      "date": "2026-10-05",
+      "ladder": "pull",
+      "ladder_name": "Pull",
+      "rung": 5,
+      "movement": "Full pull-up",
+      "exercise": "Pull-up (★full — then negatives as back-off)",
+      "sets": [
+        8,
+        8,
+        8
+      ],
+      "avg": 8,
+      "target": 8,
+      "sets_needed": 3,
+      "band": "small",
+      "feet": 10,
+      "answer_line": "- notes / skips: clean rung:pull:5:2026-10-05 yes   # Pull rung 5 — Full pull-up"
+    },
+    {
+      "key": "rung:hpull:4:2026-10-05",
+      "date": "2026-10-05",
+      "ladder": "hpull",
+      "ladder_name": "Horizontal Pull — ROWS",
+      "rung": 4,
+      "movement": "Feet-elevated ring row — slow eccentric  (3s down)",
+      "exercise": "Feet-elevated ring row — slow eccentric (★3s down)",
+      "sets": [
+        8,
+        8,
+        8
+      ],
+      "avg": 8,
+      "target": 8,
+      "sets_needed": 3,
+      "band": "small",
+      "feet": 10,
+      "answer_line": "- notes / skips: clean rung:hpull:4:2026-10-05 yes   # Horizontal Pull — ROWS rung 4 — Feet-elevated ring row — slow eccentric  (3s down)"
+    }
+  ],
   "pending_clear_notes": [],
   "body_crossings": [],
   "body_next_bars": {
