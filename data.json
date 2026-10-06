@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 208.6
     },
-    "overall_total": 1703,
+    "overall_total": 1704,
     "generated_for": "2026-10-06",
-    "built_at": "2026-10-06T12:00:31.447Z",
+    "built_at": "2026-10-06T12:44:55.400Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1014
+      "ft_to_go": 1013
     },
     "captures_today_unscored": 0
   },
@@ -38,7 +38,7 @@
       "t0_note": "couldn't write a single line of Python — ran his first print() the day before t0",
       "endpoint": "Replicate AND extend a frontier alignment result — public, runnable code",
       "endpoint_tier": "verylarge",
-      "current": 170,
+      "current": 171,
       "working_on": "Automate the Boring Stuff textbook"
     },
     {
@@ -10363,6 +10363,20 @@
       "evidence": "POLARIS xmufm9lgj",
       "booked": "2026-10-06",
       "source": "polaris:xmufm9lgj:2026-10-06:session:1"
+    },
+    {
+      "date": "2026-10-06",
+      "lane": "coding",
+      "activity": "Builder Foundations Module Work — a working sitting",
+      "label": "Builder Foundations Module Work",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 171,
+      "cum_overall": 1704,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmuwo7zc4",
+      "booked": "2026-10-06",
+      "source": "polaris:xmuwo7zc4:2026-10-06:session:1"
     }
   ],
   "polaris_booked": {
@@ -10539,7 +10553,8 @@
     "polaris:xmufm9lgj:2026-10-05:session:1": 1,
     "polaris:xmuv4vzbu:completion": 1,
     "polaris:xmtr6bclh:2026-10-06:session:1": 1,
-    "polaris:xmufm9lgj:2026-10-06:session:1": 1
+    "polaris:xmufm9lgj:2026-10-06:session:1": 1,
+    "polaris:xmuwo7zc4:2026-10-06:session:1": 1
   },
   "series": {
     "coding": [
@@ -11228,6 +11243,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Decide what to do with Coding Lane with Odin — FINISHED"
+      },
+      {
+        "date": "2026-10-06",
+        "cum": 171,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Builder Foundations Module Work — a working sitting"
       }
     ],
     "mlai": [
