@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 208.6
     },
-    "overall_total": 1701,
+    "overall_total": 1702,
     "generated_for": "2026-10-06",
-    "built_at": "2026-10-06T10:30:04.003Z",
+    "built_at": "2026-10-06T12:00:14.265Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1016
+      "ft_to_go": 1015
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 207,
+      "current": 208,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -10335,6 +10335,20 @@
       "evidence": "POLARIS xmuv4vzbu",
       "booked": "2026-10-05",
       "source": "polaris:xmuv4vzbu:completion"
+    },
+    {
+      "date": "2026-10-06",
+      "lane": "method",
+      "activity": "Osiris Lens V2 — a working sitting",
+      "label": "Osiris Lens V2 — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 208,
+      "cum_overall": 1702,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmtr6bclh",
+      "booked": "2026-10-06",
+      "source": "polaris:xmtr6bclh:2026-10-06:session:1"
     }
   ],
   "polaris_booked": {
@@ -10509,7 +10523,8 @@
     "polaris:xmu7cybq4:2026-10-05:session:1": 1,
     "polaris:xmt78btdt:2026-10-05:session:1": 1,
     "polaris:xmufm9lgj:2026-10-05:session:1": 1,
-    "polaris:xmuv4vzbu:completion": 1
+    "polaris:xmuv4vzbu:completion": 1,
+    "polaris:xmtr6bclh:2026-10-06:session:1": 1
   },
   "series": {
     "coding": [
@@ -12847,6 +12862,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Osiris Substrate V4 — a working sitting"
+      },
+      {
+        "date": "2026-10-06",
+        "cum": 208,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Osiris Lens V2 — a working sitting"
       }
     ],
     "literature": [
