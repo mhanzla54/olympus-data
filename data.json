@@ -20,8 +20,8 @@
       "all_time_low_lb": 208.6
     },
     "overall_total": 1701,
-    "generated_for": "2026-10-05",
-    "built_at": "2026-10-05T18:32:59.889Z",
+    "generated_for": "2026-10-06",
+    "built_at": "2026-10-06T10:30:04.003Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -29887,48 +29887,7 @@
     "vista-pyramid": "vista-pyramid.webp",
     "vista-redeemer": "vista-redeemer.webp"
   },
-  "pending_clears": [
-    {
-      "key": "rung:pull:5:2026-10-05",
-      "date": "2026-10-05",
-      "ladder": "pull",
-      "ladder_name": "Pull",
-      "rung": 5,
-      "movement": "Full pull-up",
-      "exercise": "Pull-up (★full — then negatives as back-off)",
-      "sets": [
-        8,
-        8,
-        8
-      ],
-      "avg": 8,
-      "target": 8,
-      "sets_needed": 3,
-      "band": "small",
-      "feet": 10,
-      "answer_line": "- notes / skips: clean rung:pull:5:2026-10-05 yes   # Pull rung 5 — Full pull-up"
-    },
-    {
-      "key": "rung:hpull:4:2026-10-05",
-      "date": "2026-10-05",
-      "ladder": "hpull",
-      "ladder_name": "Horizontal Pull — ROWS",
-      "rung": 4,
-      "movement": "Feet-elevated ring row — slow eccentric  (3s down)",
-      "exercise": "Feet-elevated ring row — slow eccentric (★3s down)",
-      "sets": [
-        8,
-        8,
-        8
-      ],
-      "avg": 8,
-      "target": 8,
-      "sets_needed": 3,
-      "band": "small",
-      "feet": 10,
-      "answer_line": "- notes / skips: clean rung:hpull:4:2026-10-05 yes   # Horizontal Pull — ROWS rung 4 — Feet-elevated ring row — slow eccentric  (3s down)"
-    }
-  ],
+  "pending_clears": [],
   "pending_clear_notes": [],
   "body_crossings": [],
   "body_next_bars": {
