@@ -21,7 +21,7 @@
     },
     "overall_total": 1719,
     "generated_for": "2026-10-07",
-    "built_at": "2026-10-07T13:30:04.113Z",
+    "built_at": "2026-10-07T13:40:03.520Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -17992,6 +17992,12 @@
           "y": 6.33,
           "kind": "session",
           "label": "Wall HSPU — 75% ROM (three-quarter depth) — 4, 2.5, 1.5 (avg 2.7 vs target 8)"
+        },
+        {
+          "date": "2026-10-06",
+          "y": 6.41,
+          "kind": "session",
+          "label": "Wall HSPU — 75% ROM (three-quarter depth) — 4, 2.5, (avg 3.3 vs target 8)"
         }
       ],
       "steps": [
@@ -19517,7 +19523,7 @@
     },
     "handstand": {
       "candidates": 17,
-      "plotted": 14,
+      "plotted": 15,
       "rejected": [
         {
           "date": "2026-09-14",
@@ -19526,10 +19532,6 @@
         {
           "date": "2026-09-21",
           "why": "\"Wall HSPU (★75% ROM)\" logged no usable numbers (skipped)"
-        },
-        {
-          "date": "2026-10-06",
-          "why": "\"Wall HSPU (★75% ROM)\" logged no usable numbers"
         }
       ]
     },
@@ -20253,9 +20255,9 @@
           {
             "date": "2026-10-06",
             "name": "Wall HSPU (★75% ROM)",
-            "raw": "",
-            "avg": null,
-            "status": "✗ not plotted — \"Wall HSPU (★75% ROM)\" logged no usable numbers"
+            "raw": "4, 2.5,",
+            "avg": 3.3,
+            "status": "● plotted at 6.41"
           }
         ]
       },
@@ -20749,7 +20751,7 @@
           {
             "date": "2026-10-06",
             "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
-            "raw": "20,",
+            "raw": "20, 2020,",
             "avg": 20,
             "status": "✗ not plotted — \"Dead Hang\" is rung-1 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           }
@@ -21319,7 +21321,7 @@
           {
             "date": "2026-10-06",
             "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
-            "raw": "20,",
+            "raw": "20, 2020,",
             "avg": 20,
             "status": "● plotted at 3.79"
           }
@@ -22016,8 +22018,8 @@
           {
             "date": "2026-10-06",
             "name": "Tucked raise toward bar (★as high as the low bar allows)",
-            "raw": "1.5, 1,  1",
-            "avg": 1.2,
+            "raw": "1.5, 1,  11.5, 1.5, 1.5",
+            "avg": 3.4,
             "status": "✓ CLEAR DAY — carried by the clear dot (needed 6/side, avg 6)"
           }
         ]
@@ -22149,7 +22151,7 @@
           },
           {
             "date": "2026-10-06",
-            "detail": "hang: 20, · shrugs: 11, 7"
+            "detail": "hang: 20, 2020, · shrugs: 12, 7 11, 7"
           }
         ]
       },
@@ -23182,7 +23184,7 @@
           },
           {
             "date": "2026-10-06",
-            "detail": "reps: —"
+            "detail": "reps: 4, 2.5,"
           }
         ]
       },
@@ -23793,7 +23795,7 @@
         "rows": [
           {
             "date": "2026-10-06",
-            "detail": "reps: 1.5, 1,  1"
+            "detail": "reps: 1.5, 1,  11.5, 1.5, 1.5"
           }
         ]
       }
@@ -23836,8 +23838,8 @@
             "ladderId": "corehang",
             "ladderName": "Core — HANGING",
             "name": "Tucked raise toward bar (★as high as the low bar allows)",
-            "raw": "1.5, 1,  1",
-            "avg": 1.2,
+            "raw": "1.5, 1,  11.5, 1.5, 1.5",
+            "avg": 3.4,
             "target": "8",
             "sets": 3,
             "cleared": false
@@ -23846,7 +23848,7 @@
             "ladderId": "pull",
             "ladderName": "Pull",
             "name": "Dead hang ★",
-            "raw": "20,",
+            "raw": "20, 2020,",
             "avg": 20,
             "target": "45s",
             "sets": 2,
@@ -23856,8 +23858,8 @@
             "ladderId": "handstand",
             "ladderName": "Vertical Push / Handstand",
             "name": "Wall HSPU (★75% ROM)",
-            "raw": "",
-            "avg": null,
+            "raw": "4, 2.5,",
+            "avg": 3.3,
             "target": "8",
             "sets": 3,
             "cleared": false
@@ -26770,6 +26772,10 @@
       "date": "2026-10-06",
       "detail": "2, 1.5, 1"
     },
+    "handstand": {
+      "date": "2026-10-06",
+      "detail": "4, 2.5,"
+    },
     "corefloor": {
       "date": "2026-10-05",
       "detail": "2, 2, 2"
@@ -26793,10 +26799,6 @@
     "planche": {
       "date": "2026-10-03",
       "detail": "7, 7, 10"
-    },
-    "handstand": {
-      "date": "2026-09-30",
-      "detail": "4, 2.5, 1.5"
     },
     "explosive": {
       "date": "2026-09-30",
