@@ -21,7 +21,7 @@
     },
     "overall_total": 1719,
     "generated_for": "2026-10-07",
-    "built_at": "2026-10-07T13:40:03.520Z",
+    "built_at": "2026-10-07T13:50:03.838Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -17737,6 +17737,12 @@
           "y": 4.28,
           "kind": "session",
           "label": "Double clap push-up (two front claps) — 1.5, 0, 1 (avg 0.8 vs target 3)"
+        },
+        {
+          "date": "2026-10-06",
+          "y": 4.5,
+          "kind": "session",
+          "label": "Double clap push-up (two front claps) — 1.5, (avg 1.5 vs target 3)"
         }
       ],
       "steps": [
@@ -19499,13 +19505,8 @@
     },
     "explosive": {
       "candidates": 17,
-      "plotted": 16,
-      "rejected": [
-        {
-          "date": "2026-10-06",
-          "why": "\"Double clap push-up (★explosive — two fr\" logged no usable numbers"
-        }
-      ]
+      "plotted": 17,
+      "rejected": []
     },
     "planche": {
       "candidates": 17,
@@ -20005,9 +20006,9 @@
           {
             "date": "2026-10-06",
             "name": "Double clap push-up (★explosive — two front claps)",
-            "raw": "",
-            "avg": null,
-            "status": "✗ not plotted — \"Double clap push-up (★explosive — two fr\" logged no usable numbers"
+            "raw": "1.5,",
+            "avg": 1.5,
+            "status": "● plotted at 4.5"
           }
         ]
       },
@@ -22914,7 +22915,7 @@
           },
           {
             "date": "2026-10-06",
-            "detail": "reps: —"
+            "detail": "reps: 1.5,"
           }
         ]
       },
@@ -23868,8 +23869,8 @@
             "ladderId": "explosive",
             "ladderName": "Horizontal Push — EXPLOSIVE",
             "name": "Double clap push-up (★explosive — two front claps)",
-            "raw": "",
-            "avg": null,
+            "raw": "1.5,",
+            "avg": 1.5,
             "target": "3",
             "sets": 3,
             "cleared": false
@@ -26776,6 +26777,10 @@
       "date": "2026-10-06",
       "detail": "4, 2.5,"
     },
+    "explosive": {
+      "date": "2026-10-06",
+      "detail": "1.5,"
+    },
     "corefloor": {
       "date": "2026-10-05",
       "detail": "2, 2, 2"
@@ -26799,10 +26804,6 @@
     "planche": {
       "date": "2026-10-03",
       "detail": "7, 7, 10"
-    },
-    "explosive": {
-      "date": "2026-09-30",
-      "detail": "1.5, 0, 1"
     }
   },
   "health": {
