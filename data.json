@@ -21,7 +21,7 @@
     },
     "overall_total": 1717,
     "generated_for": "2026-10-06",
-    "built_at": "2026-10-07T01:40:04.267Z",
+    "built_at": "2026-10-07T01:50:04.479Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -17358,13 +17358,14 @@
       "id": "corehang",
       "name": "Core — HANGING",
       "elite": "windshield wipers",
-      "current": 6,
+      "current": 7,
       "cleared_dates": {
         "1": "2026-07-01",
         "2": "2026-07-25",
         "3": "2026-08-08",
         "4": "2026-08-10",
-        "5": "2026-09-05"
+        "5": "2026-09-05",
+        "6": "2026-10-06"
       },
       "rungs": [
         {
@@ -17429,8 +17430,8 @@
         }
       ],
       "chart": 10,
-      "cleared_count": 5,
-      "height": 15,
+      "cleared_count": 6,
+      "height": 21,
       "triangular": [
         0,
         1,
@@ -19380,9 +19381,14 @@
         },
         {
           "date": "2026-10-06",
-          "y": 6.97,
-          "kind": "session",
-          "label": "Bent-leg windshield wipers — 6, 6, 6 (avg 6 vs target 6)"
+          "y": 7,
+          "kind": "clear",
+          "label": "Core — HANGING — cleared: Bent-leg windshield wipers (needed 6/side, got 6, 6, 6 — avg 6)",
+          "perf": {
+            "needed": "6/side",
+            "got": "6, 6, 6",
+            "avg": 6
+          }
         }
       ],
       "steps": [
@@ -19409,6 +19415,10 @@
         {
           "date": "2026-09-05",
           "rungs": 6
+        },
+        {
+          "date": "2026-10-06",
+          "rungs": 7
         }
       ],
       "chart": 10
@@ -21909,7 +21919,7 @@
             "name": "Bent-leg windshield wipers ★",
             "raw": "6, 6, 6",
             "avg": 6,
-            "status": "● plotted at 6.97"
+            "status": "✓ CLEAR DAY — carried by the clear dot (needed 6/side, avg 6)"
           }
         ]
       }
@@ -23681,7 +23691,7 @@
             "avg": 6,
             "target": "6/side",
             "sets": 3,
-            "cleared": false
+            "cleared": true
           }
         ]
       },
