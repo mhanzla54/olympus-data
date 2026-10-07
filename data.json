@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 208.6
     },
-    "overall_total": 1706,
+    "overall_total": 1707,
     "generated_for": "2026-10-06",
-    "built_at": "2026-10-06T13:30:04.296Z",
+    "built_at": "2026-10-07T00:26:54.392Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 1011
+      "ft_to_go": 1010
     },
     "captures_today_unscored": 0
   },
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 399,
+      "current": 400,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -10405,6 +10405,20 @@
       "evidence": "health warehouse",
       "booked": "2026-10-06",
       "source": "body:calorie-day:2026-10-05"
+    },
+    {
+      "date": "2026-10-06",
+      "lane": "strength",
+      "activity": "Sparse Training — FINISHED",
+      "label": "Sparse Training — FINISHED",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 400,
+      "cum_overall": 1707,
+      "reasoning": "Owner-priced in POLARIS: finishing it = tiny",
+      "evidence": "POLARIS xmuxdarzv",
+      "booked": "2026-10-06",
+      "source": "polaris:xmuxdarzv:completion"
     }
   ],
   "polaris_booked": {
@@ -10582,7 +10596,8 @@
     "polaris:xmuv4vzbu:completion": 1,
     "polaris:xmtr6bclh:2026-10-06:session:1": 1,
     "polaris:xmufm9lgj:2026-10-06:session:1": 1,
-    "polaris:xmuwo7zc4:2026-10-06:session:1": 1
+    "polaris:xmuwo7zc4:2026-10-06:session:1": 1,
+    "polaris:xmuxdarzv:completion": 1
   },
   "series": {
     "coding": [
@@ -13813,6 +13828,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Workout — a working sitting"
+      },
+      {
+        "date": "2026-10-06",
+        "cum": 400,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Sparse Training — FINISHED"
       }
     ],
     "body": [
