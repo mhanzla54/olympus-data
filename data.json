@@ -17,11 +17,11 @@
       "next_site_drop_in": 1,
       "ten_lb_milestone_crossed": 210,
       "next_ten_lb_marker": 200,
-      "all_time_low_lb": 208.6
+      "all_time_low_lb": 206.6
     },
     "overall_total": 1735,
     "generated_for": "2026-10-11",
-    "built_at": "2026-10-11T16:20:04.385Z",
+    "built_at": "2026-10-11T18:20:04.167Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -28247,6 +28247,22 @@
         "protein": 197,
         "dayType": "strict",
         "provisional": false
+      },
+      {
+        "date": "2026-10-10",
+        "w": 208.2,
+        "kcal": 909,
+        "protein": 83,
+        "dayType": "strict",
+        "provisional": false
+      },
+      {
+        "date": "2026-10-11",
+        "w": 206.6,
+        "kcal": 0,
+        "protein": 0,
+        "dayType": "empty",
+        "provisional": true
       }
     ],
     "trend": [
@@ -28749,6 +28765,14 @@
       {
         "date": "2026-10-09",
         "w": 210.08
+      },
+      {
+        "date": "2026-10-10",
+        "w": 209.77
+      },
+      {
+        "date": "2026-10-11",
+        "w": 209
       }
     ],
     "noiseBand": 1.24,
@@ -28914,9 +28938,14 @@
         "week": "Sep 27–Oct 3"
       },
       {
-        "date": "2026-10-09",
-        "w": 208.6,
+        "date": "2026-10-10",
+        "w": 208.2,
         "week": "Oct 4–Oct 10"
+      },
+      {
+        "date": "2026-10-11",
+        "w": 206.6,
+        "week": "Oct 11–Oct 17"
       }
     ],
     "weeklyAvgs": [
@@ -29072,27 +29101,28 @@
       },
       {
         "date": "2026-10-07",
-        "w": 210.1,
+        "w": 209.8,
         "week": "Oct 4–Oct 10",
-        "n": 5
+        "n": 6
+      },
+      {
+        "date": "2026-10-14",
+        "w": 206.6,
+        "week": "Oct 11–Oct 17",
+        "n": 1
       }
     ],
     "banner": {
       "startDate": "2026-03-22",
       "startW": 235,
-      "lost": 24.9,
+      "lost": 26,
       "goal": 180,
-      "pct": 45.3,
+      "pct": 47.3,
       "nextFloor": 200,
-      "toGo": 10.1,
+      "toGo": 9,
       "newLow": true
     },
     "strip": [
-      {
-        "date": "2026-09-11",
-        "state": "good",
-        "kcal": 1695
-      },
       {
         "date": "2026-09-12",
         "state": "off",
@@ -29235,6 +29265,11 @@
       },
       {
         "date": "2026-10-10",
+        "state": "off",
+        "kcal": 909
+      },
+      {
+        "date": "2026-10-11",
         "state": "partial",
         "kcal": 0
       }
@@ -30338,6 +30373,14 @@
       },
       {
         "date": "2026-10-10",
+        "kcal": 909,
+        "protein": 83,
+        "dayType": "strict",
+        "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-10-11",
         "kcal": 0,
         "protein": 0,
         "dayType": "empty",
