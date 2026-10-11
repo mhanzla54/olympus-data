@@ -9,8 +9,8 @@
       "Career/mentorship + research-craft/vocab discussions (life-planning, not a lane-skill act)"
     ],
     "ratchet": {
-      "weight_low_lb": 208.6,
-      "next_weight_tick_lb": 208,
+      "weight_low_lb": 206.6,
+      "next_weight_tick_lb": 206,
       "waist_in": 37,
       "belly_in": 42,
       "hips_in": 42.5,
@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 206.6
     },
-    "overall_total": 1735,
+    "overall_total": 1755,
     "generated_for": "2026-10-11",
-    "built_at": "2026-10-11T18:20:04.167Z",
+    "built_at": "2026-10-11T18:22:03.949Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 982
+      "ft_to_go": 962
     },
     "captures_today_unscored": 0
   },
@@ -88,7 +88,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 661,
+      "current": 681,
       "working_on": "the next new-pound low"
     },
     {
@@ -10685,6 +10685,34 @@
       "evidence": "health warehouse",
       "booked": "2026-10-10",
       "source": "body:calorie-day:2026-10-09"
+    },
+    {
+      "date": "2026-10-11",
+      "lane": "body",
+      "activity": "weight-ratchet — 206.6 lb on 2026-10-11",
+      "label": "weight-ratchet — 206.6 lb on 2026-10-11",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 671,
+      "cum_overall": 1745,
+      "reasoning": "codebook ⚖️ weight-ratchet: needed UNDER 208 lb  (the 208 lb line); got 206.6 lb on 2026-10-11",
+      "evidence": "health warehouse",
+      "booked": "2026-10-11",
+      "source": "body:weight-ratchet:2026-10-11:208"
+    },
+    {
+      "date": "2026-10-11",
+      "lane": "body",
+      "activity": "weight-ratchet — 206.6 lb on 2026-10-11",
+      "label": "weight-ratchet — 206.6 lb on 2026-10-11",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 681,
+      "cum_overall": 1755,
+      "reasoning": "codebook ⚖️ weight-ratchet: needed UNDER 207 lb  (the 207 lb line); got 206.6 lb on 2026-10-11",
+      "evidence": "health warehouse",
+      "booked": "2026-10-11",
+      "source": "body:weight-ratchet:2026-10-11:207"
     }
   ],
   "polaris_booked": {
@@ -15928,6 +15956,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "calorie-day — 1703 kcal"
+      },
+      {
+        "date": "2026-10-11",
+        "cum": 671,
+        "feet": 10,
+        "tier": "small",
+        "activity": "weight-ratchet — 206.6 lb on 2026-10-11"
+      },
+      {
+        "date": "2026-10-11",
+        "cum": 681,
+        "feet": 10,
+        "tier": "small",
+        "activity": "weight-ratchet — 206.6 lb on 2026-10-11"
       }
     ],
     "fieldpresence": [
@@ -30945,10 +30987,29 @@
   },
   "pending_clears": [],
   "pending_clear_notes": [],
-  "body_crossings": [],
+  "body_crossings": [
+    {
+      "kind": "weight-ratchet",
+      "date": "2026-10-11",
+      "booked": "2026-10-11",
+      "feet": 10,
+      "line": 208,
+      "weight": 206.6,
+      "tier": "small"
+    },
+    {
+      "kind": "weight-ratchet",
+      "date": "2026-10-11",
+      "booked": "2026-10-11",
+      "feet": 10,
+      "line": 207,
+      "weight": 206.6,
+      "tier": "small"
+    }
+  ],
   "body_next_bars": {
-    "next_lb_line": 208,
+    "next_lb_line": 206,
     "next_10lb_marker": 200,
-    "recorded_low": 208.6
+    "recorded_low": 206.6
   }
 }
