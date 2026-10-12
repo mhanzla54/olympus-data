@@ -21,7 +21,7 @@
     },
     "overall_total": 1767,
     "generated_for": "2026-10-12",
-    "built_at": "2026-10-12T12:11:35.196Z",
+    "built_at": "2026-10-12T13:20:03.861Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -28370,6 +28370,14 @@
         "kcal": 0,
         "protein": 0,
         "dayType": "empty",
+        "provisional": false
+      },
+      {
+        "date": "2026-10-12",
+        "w": 206.8,
+        "kcal": 0,
+        "protein": 0,
+        "dayType": "empty",
         "provisional": true
       }
     ],
@@ -28881,9 +28889,13 @@
       {
         "date": "2026-10-11",
         "w": 209
+      },
+      {
+        "date": "2026-10-12",
+        "w": 208.4
       }
     ],
-    "noiseBand": 1.24,
+    "noiseBand": 1.23,
     "floors": [
       {
         "y": 230,
@@ -29215,27 +29227,22 @@
       },
       {
         "date": "2026-10-14",
-        "w": 206.6,
+        "w": 206.7,
         "week": "Oct 11–Oct 17",
-        "n": 1
+        "n": 2
       }
     ],
     "banner": {
       "startDate": "2026-03-22",
       "startW": 235,
-      "lost": 26,
+      "lost": 26.6,
       "goal": 180,
-      "pct": 47.3,
+      "pct": 48.4,
       "nextFloor": 200,
-      "toGo": 9,
-      "newLow": true
+      "toGo": 8.4,
+      "newLow": false
     },
     "strip": [
-      {
-        "date": "2026-09-12",
-        "state": "off",
-        "kcal": 2045
-      },
       {
         "date": "2026-09-13",
         "state": "off",
@@ -29378,6 +29385,11 @@
       },
       {
         "date": "2026-10-11",
+        "state": "partial",
+        "kcal": 0
+      },
+      {
+        "date": "2026-10-12",
         "state": "partial",
         "kcal": 0
       }
@@ -30489,6 +30501,14 @@
       },
       {
         "date": "2026-10-11",
+        "kcal": 0,
+        "protein": 0,
+        "dayType": "empty",
+        "logged": "empty",
+        "provisional": false
+      },
+      {
+        "date": "2026-10-12",
         "kcal": 0,
         "protein": 0,
         "dayType": "empty",
