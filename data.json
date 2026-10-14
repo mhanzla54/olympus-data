@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 206.6
     },
-    "overall_total": 1881,
-    "generated_for": "2026-10-13",
-    "built_at": "2026-10-13T17:38:03.531Z",
+    "overall_total": 1883,
+    "generated_for": "2026-10-14",
+    "built_at": "2026-10-14T10:53:38.696Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 836
+      "ft_to_go": 834
     },
     "captures_today_unscored": 0
   },
@@ -98,7 +98,7 @@
       "t0_note": "no public track record — not known in the field; every post, repo and paper still ahead",
       "endpoint": "A recognized public body of work — provisional and open by design (§14.0.2); this lane has no terminus",
       "endpoint_tier": "enormous",
-      "current": 43,
+      "current": 45,
       "working_on": "Not yet started — the first public thing ships from here"
     }
   ],
@@ -10839,6 +10839,34 @@
       "evidence": "workout-log; Full pistol — flat, no assist ★",
       "booked": "2026-10-13",
       "source": "rung:legs:8:2026-10-13"
+    },
+    {
+      "date": "2026-10-13",
+      "lane": "fieldpresence",
+      "activity": "Outreach 1 · One-page summary of the study — a working sitting",
+      "label": "Outreach 1 · One-page summary of the study",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 44,
+      "cum_overall": 1882,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmu7cybq1",
+      "booked": "2026-10-13",
+      "source": "polaris:xmu7cybq1:2026-10-13:session:1"
+    },
+    {
+      "date": "2026-10-13",
+      "lane": "fieldpresence",
+      "activity": "Video 1 work for Field Presence — a working sitting",
+      "label": "Video 1 work for Field Presence",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 45,
+      "cum_overall": 1883,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmv76lxz2",
+      "booked": "2026-10-13",
+      "source": "polaris:xmv76lxz2:2026-10-13:session:1"
     }
   ],
   "polaris_booked": {
@@ -11036,7 +11064,9 @@
     "polaris:xmu7cybpy:2026-10-12:session:1": 1,
     "polaris:xmu7cybpy:2026-10-13:session:1": 1,
     "polaris:xmuwo7zc4:2026-10-13:session:1": 1,
-    "polaris:xmt78btdt:2026-10-13:session:1": 1
+    "polaris:xmt78btdt:2026-10-13:session:1": 1,
+    "polaris:xmu7cybq1:2026-10-13:session:1": 1,
+    "polaris:xmv76lxz2:2026-10-13:session:1": 1
   },
   "series": {
     "coding": [
@@ -16343,6 +16373,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Video Strategy Convo — FINISHED"
+      },
+      {
+        "date": "2026-10-13",
+        "cum": 44,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Outreach 1 · One-page summary of the study — a working sitting"
+      },
+      {
+        "date": "2026-10-13",
+        "cum": 45,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Video 1 work for Field Presence — a working sitting"
       }
     ]
   },
@@ -17437,11 +17481,12 @@
       "id": "hpull",
       "name": "Horizontal Pull — ROWS",
       "elite": "one-arm ring row",
-      "current": 4,
+      "current": 5,
       "cleared_dates": {
         "1": "2026-07-16",
         "2": "2026-08-01",
-        "3": "2026-09-03"
+        "3": "2026-09-03",
+        "4": "2026-10-13"
       },
       "rungs": [
         {
@@ -17463,7 +17508,7 @@
           "targetAmbiguous": false
         },
         {
-          "name": "Feet-elevated ring row — slow eccentric  (3s down)",
+          "name": "Feet-elevated ring row — slow eccentric (3s down)",
           "target": "8",
           "sets": 3,
           "targetAmbiguous": false
@@ -17507,8 +17552,8 @@
       ],
       "gated": "gymnastic rings (hang from the doorway bar, strap-lowered so you can lean under)",
       "chart": 12,
-      "cleared_count": 3,
-      "height": 6,
+      "cleared_count": 4,
+      "height": 10,
       "triangular": [
         0,
         1,
@@ -17796,11 +17841,12 @@
       "id": "legs",
       "name": "Legs — Pistol",
       "elite": "deficit pistol",
-      "current": 8,
+      "current": 9,
       "cleared_dates": {
         "5": "2026-07-11",
         "6": "2026-08-01",
-        "7": "2026-09-19"
+        "7": "2026-09-19",
+        "8": "2026-10-13"
       },
       "rungs": [
         {
@@ -17871,8 +17917,8 @@
         }
       ],
       "chart": 8,
-      "cleared_count": 7,
-      "height": 28,
+      "cleared_count": 8,
+      "height": 36,
       "triangular": [
         0,
         1,
@@ -18951,37 +18997,42 @@
           "date": "2026-09-05",
           "y": 4.5,
           "kind": "session",
-          "label": "Feet-elevated ring row — slow eccentric  (3s down) — 4.5, 4, 3.5 (avg 4 vs target 8)"
+          "label": "Feet-elevated ring row — slow eccentric (3s down) — 4.5, 4, 3.5 (avg 4 vs target 8)"
         },
         {
           "date": "2026-09-12",
           "y": 4.5,
           "kind": "session",
-          "label": "Feet-elevated ring row — slow eccentric  (3s down) — 5, 3.5, 3.5 (avg 4 vs target 8)"
+          "label": "Feet-elevated ring row — slow eccentric (3s down) — 5, 3.5, 3.5 (avg 4 vs target 8)"
         },
         {
           "date": "2026-09-19",
           "y": 4.48,
           "kind": "session",
-          "label": "Feet-elevated ring row — slow eccentric  (3s down) — 3, 4, 4.5 (avg 3.8 vs target 8)"
+          "label": "Feet-elevated ring row — slow eccentric (3s down) — 3, 4, 4.5 (avg 3.8 vs target 8)"
         },
         {
           "date": "2026-09-28",
           "y": 4.9,
           "kind": "session",
-          "label": "Feet-elevated ring row — slow eccentric  (3s down) — 8, 6.5, 7 (avg 7.2 vs target 8)"
+          "label": "Feet-elevated ring row — slow eccentric (3s down) — 8, 6.5, 7 (avg 7.2 vs target 8)"
         },
         {
           "date": "2026-10-05",
           "y": 4.97,
           "kind": "session",
-          "label": "Feet-elevated ring row — slow eccentric  (3s down) — 8, 8, 8 (avg 8 vs target 8)"
+          "label": "Feet-elevated ring row — slow eccentric (3s down) — 8, 8, 8 (avg 8 vs target 8)"
         },
         {
           "date": "2026-10-13",
-          "y": 4.97,
-          "kind": "session",
-          "label": "Feet-elevated ring row — slow eccentric  (3s down) — 8, 8, 8 (avg 8 vs target 8)"
+          "y": 5,
+          "kind": "clear",
+          "label": "Horizontal Pull — ROWS — cleared: Feet-elevated ring row — slow eccentric (3s down) (needed 8, got 8, 8, 8 — avg 8)",
+          "perf": {
+            "needed": "8",
+            "got": "8, 8, 8",
+            "avg": 8
+          }
         }
       ],
       "steps": [
@@ -19000,6 +19051,10 @@
         {
           "date": "2026-09-03",
           "rungs": 4
+        },
+        {
+          "date": "2026-10-13",
+          "rungs": 5
         }
       ],
       "chart": 12
@@ -19557,9 +19612,14 @@
         },
         {
           "date": "2026-10-13",
-          "y": 8.97,
-          "kind": "session",
-          "label": "Full pistol — flat, no assist — 5, 5, 5 (avg 5 vs target 5)"
+          "y": 9,
+          "kind": "clear",
+          "label": "Legs — Pistol — cleared: Full pistol — flat, no assist (needed 5/leg, got 5, 5, 5 — avg 5)",
+          "perf": {
+            "needed": "5/leg",
+            "got": "5, 5, 5",
+            "avg": 5
+          }
         }
       ],
       "steps": [
@@ -19578,6 +19638,10 @@
         {
           "date": "2026-09-19",
           "rungs": 8
+        },
+        {
+          "date": "2026-10-13",
+          "rungs": 9
         }
       ],
       "chart": 8
@@ -20165,7 +20229,7 @@
       ]
     },
     "handstand": {
-      "candidates": 17,
+      "candidates": 18,
       "plotted": 15,
       "rejected": [
         {
@@ -20175,11 +20239,15 @@
         {
           "date": "2026-09-21",
           "why": "\"Wall HSPU (★75% ROM)\" logged no usable numbers (skipped)"
+        },
+        {
+          "date": "2026-10-14",
+          "why": "\"Wall HSPU (★75% ROM)\" logged no usable numbers"
         }
       ]
     },
     "pull": {
-      "candidates": 56,
+      "candidates": 57,
       "plotted": 37,
       "rejected": [
         {
@@ -20261,25 +20329,37 @@
         {
           "date": "2026-10-06",
           "why": "\"Dead Hang\" is rung-1 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-10-14",
+          "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
         }
       ]
     },
     "chinup": {
-      "candidates": 18,
+      "candidates": 19,
       "plotted": 17,
       "rejected": [
         {
           "date": "2026-08-10",
           "why": "\"L-tuck hold (★knees up — hold at the top\" is rung-7 work, not the trained rung 3 — cleared/future-rung work does not plot (owner law)"
+        },
+        {
+          "date": "2026-10-14",
+          "why": "\"Towel / uneven chin-up ★\" logged no usable numbers"
         }
       ]
     },
     "grip": {
-      "candidates": 35,
+      "candidates": 36,
       "plotted": 34,
       "rejected": [
         {
           "date": "2026-10-10",
+          "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" logged no usable numbers"
+        },
+        {
+          "date": "2026-10-14",
           "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" logged no usable numbers"
         }
       ]
@@ -20337,7 +20417,7 @@
       ]
     },
     "corehang": {
-      "candidates": 54,
+      "candidates": 55,
       "plotted": 51,
       "rejected": [
         {
@@ -20351,6 +20431,10 @@
         {
           "date": "2026-07-06",
           "why": "\"Hanging knee raise\" is rung-1 work while training rung 2 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-10-14",
+          "why": "\"Tucked raise toward bar (★as high as the\" logged no usable numbers"
         }
       ]
     },
@@ -20935,6 +21019,13 @@
             "raw": "4, 2.5, 2",
             "avg": 2.8,
             "status": "● plotted at 6.35"
+          },
+          {
+            "date": "2026-10-14",
+            "name": "Wall HSPU (★75% ROM)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Wall HSPU (★75% ROM)\" logged no usable numbers"
           }
         ]
       },
@@ -21452,6 +21543,13 @@
             "raw": "8, 8, 6.5",
             "avg": 7.5,
             "status": "● plotted at 5.94"
+          },
+          {
+            "date": "2026-10-14",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           }
         ]
       },
@@ -21562,7 +21660,7 @@
             "name": "Feet-elevated ring row — slow eccentric (★3s down)",
             "raw": "8, 8, 8",
             "avg": 8,
-            "status": "● plotted at 4.97"
+            "status": "✓ CLEAR DAY — carried by the clear dot (needed 8, avg 8)"
           }
         ]
       },
@@ -21785,6 +21883,13 @@
             "raw": "2, 1.5, 1",
             "avg": 1.5,
             "status": "● plotted at 4.19"
+          },
+          {
+            "date": "2026-10-14",
+            "name": "Towel / uneven chin-up ★",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Towel / uneven chin-up ★\" logged no usable numbers"
           }
         ]
       },
@@ -22043,6 +22148,13 @@
             "raw": "",
             "avg": null,
             "status": "✗ not plotted — \"Grip+trap (flex): dead hang ★ + scap shr\" logged no usable numbers"
+          },
+          {
+            "date": "2026-10-14",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Grip+trap (flex): dead hang ★ + scap shr\" logged no usable numbers"
           }
         ]
       },
@@ -22209,7 +22321,7 @@
             "name": "Full pistol — flat, no assist ★",
             "raw": "5, 5, 5",
             "avg": 5,
-            "status": "● plotted at 8.97"
+            "status": "✓ CLEAR DAY — carried by the clear dot (needed 5/leg, avg 5)"
           }
         ]
       },
@@ -22775,6 +22887,13 @@
             "raw": "4, 3, 3",
             "avg": 3.3,
             "status": "● plotted at 7.42"
+          },
+          {
+            "date": "2026-10-14",
+            "name": "Tucked raise toward bar (★as high as the low bar allows)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Tucked raise toward bar (★as high as the\" logged no usable numbers"
           }
         ]
       }
@@ -22909,6 +23028,10 @@
           },
           {
             "date": "2026-10-10",
+            "detail": "hang: — · shrugs: —"
+          },
+          {
+            "date": "2026-10-14",
             "detail": "hang: — · shrugs: —"
           }
         ]
@@ -23867,6 +23990,35 @@
         ]
       },
       {
+        "name": "Wall HSPU (★75% ROM)",
+        "rows": [
+          {
+            "date": "2026-09-07",
+            "detail": "reps: 3, 4, 2"
+          },
+          {
+            "date": "2026-09-14",
+            "detail": "reps: (skipped cuz of left shoulder injury)"
+          },
+          {
+            "date": "2026-09-21",
+            "detail": "reps: (Skipped for injury recovery)"
+          },
+          {
+            "date": "2026-09-30",
+            "detail": "reps: 4, 2.5, 1.5"
+          },
+          {
+            "date": "2026-10-06",
+            "detail": "reps: 4, 2.5, 2"
+          },
+          {
+            "date": "2026-10-14",
+            "detail": "reps: —"
+          }
+        ]
+      },
+      {
         "name": "Planche lean (flex, light)",
         "rows": [
           {
@@ -23938,31 +24090,6 @@
           {
             "date": "2026-08-17",
             "detail": "reps: 8, 9, 9"
-          }
-        ]
-      },
-      {
-        "name": "Wall HSPU (★75% ROM)",
-        "rows": [
-          {
-            "date": "2026-09-07",
-            "detail": "reps: 3, 4, 2"
-          },
-          {
-            "date": "2026-09-14",
-            "detail": "reps: (skipped cuz of left shoulder injury)"
-          },
-          {
-            "date": "2026-09-21",
-            "detail": "reps: (Skipped for injury recovery)"
-          },
-          {
-            "date": "2026-09-30",
-            "detail": "reps: 4, 2.5, 1.5"
-          },
-          {
-            "date": "2026-10-06",
-            "detail": "reps: 4, 2.5, 2"
           }
         ]
       },
@@ -24139,6 +24266,27 @@
         ]
       },
       {
+        "name": "Tucked raise toward bar (★as high as the low bar allows)",
+        "rows": [
+          {
+            "date": "2026-10-06",
+            "detail": "reps: 1.5, 1,  1"
+          },
+          {
+            "date": "2026-10-10",
+            "detail": "reps: 3, 2,"
+          },
+          {
+            "date": "2026-10-13",
+            "detail": "reps: 4, 3, 3"
+          },
+          {
+            "date": "2026-10-14",
+            "detail": "reps: —"
+          }
+        ]
+      },
+      {
         "name": "Chin-up (negatives, underhand)",
         "rows": [
           {
@@ -24309,23 +24457,6 @@
         ]
       },
       {
-        "name": "Tucked raise toward bar (★as high as the low bar allows)",
-        "rows": [
-          {
-            "date": "2026-10-06",
-            "detail": "reps: 1.5, 1,  1"
-          },
-          {
-            "date": "2026-10-10",
-            "detail": "reps: 3, 2,"
-          },
-          {
-            "date": "2026-10-13",
-            "detail": "reps: 4, 3, 3"
-          }
-        ]
-      },
-      {
         "name": "Grip+trap (flex): towel hang + scap shrugs",
         "rows": [
           {
@@ -24426,6 +24557,19 @@
           {
             "date": "2026-10-13",
             "detail": "reps: 2, 2, 2"
+          }
+        ]
+      },
+      {
+        "name": "Towel / uneven chin-up ★",
+        "rows": [
+          {
+            "date": "2026-10-06",
+            "detail": "full reps: 2, 1.5, 1 · neg back-off: 0, 0, 3"
+          },
+          {
+            "date": "2026-10-14",
+            "detail": "full reps: — · neg back-off: —"
           }
         ]
       },
@@ -24599,18 +24743,54 @@
             "detail": "held: (practiced)"
           }
         ]
-      },
-      {
-        "name": "Towel / uneven chin-up ★",
-        "rows": [
-          {
-            "date": "2026-10-06",
-            "detail": "full reps: 2, 1.5, 1 · neg back-off: 0, 0, 3"
-          }
-        ]
       }
     ],
     "dates": [
+      {
+        "date": "2026-10-14",
+        "rows": [
+          {
+            "ladderId": "chinup",
+            "ladderName": "Chin-up",
+            "name": "Towel / uneven chin-up ★",
+            "raw": "",
+            "avg": null,
+            "target": "8/side",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "corehang",
+            "ladderName": "Core — HANGING",
+            "name": "Tucked raise toward bar (★as high as the low bar allows)",
+            "raw": "",
+            "avg": null,
+            "target": "8",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "pull",
+            "ladderName": "Pull",
+            "name": "Dead hang ★",
+            "raw": "",
+            "avg": null,
+            "target": "45s",
+            "sets": 2,
+            "cleared": false
+          },
+          {
+            "ladderId": "handstand",
+            "ladderName": "Vertical Push / Handstand",
+            "name": "Wall HSPU (★75% ROM)",
+            "raw": "",
+            "avg": null,
+            "target": "8",
+            "sets": 3,
+            "cleared": false
+          }
+        ]
+      },
       {
         "date": "2026-10-13",
         "rows": [
@@ -24662,7 +24842,7 @@
             "avg": 8,
             "target": "8",
             "sets": 3,
-            "cleared": false
+            "cleared": true
           },
           {
             "ladderId": "legs",
@@ -24672,7 +24852,7 @@
             "avg": 5,
             "target": "5/leg",
             "sets": 3,
-            "cleared": false
+            "cleared": true
           }
         ]
       },
