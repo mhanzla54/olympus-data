@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 206.6
     },
-    "overall_total": 1892,
+    "overall_total": 1893,
     "generated_for": "2026-10-15",
-    "built_at": "2026-10-15T13:48:35.610Z",
+    "built_at": "2026-10-15T18:11:12.371Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 825
+      "ft_to_go": 824
     },
     "captures_today_unscored": 0
   },
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 525,
+      "current": 526,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -10993,6 +10993,20 @@
       "evidence": "POLARIS xmu7cybpy",
       "booked": "2026-10-15",
       "source": "polaris:xmu7cybpy:2026-10-15:session:1"
+    },
+    {
+      "date": "2026-10-15",
+      "lane": "strength",
+      "activity": "Sparse Training — FINISHED",
+      "label": "Sparse Training — FINISHED",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 526,
+      "cum_overall": 1893,
+      "reasoning": "Owner-priced in POLARIS: finishing it = tiny",
+      "evidence": "POLARIS xmv9uu957",
+      "booked": "2026-10-15",
+      "source": "polaris:xmv9uu957:completion"
     }
   ],
   "polaris_booked": {
@@ -11199,7 +11213,8 @@
     "polaris:xmv76lxz2:2026-10-14:session:1": 1,
     "polaris:xmtr6bclh:2026-10-15:session:1": 1,
     "polaris:xmuwo7zc4:2026-10-15:session:1": 1,
-    "polaris:xmu7cybpy:2026-10-15:session:1": 1
+    "polaris:xmu7cybpy:2026-10-15:session:1": 1,
+    "polaris:xmv9uu957:completion": 1
   },
   "series": {
     "coding": [
@@ -14619,6 +14634,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Workout — a working sitting"
+      },
+      {
+        "date": "2026-10-15",
+        "cum": 526,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Sparse Training — FINISHED"
       }
     ],
     "body": [
@@ -29091,6 +29113,14 @@
         "protein": 146,
         "dayType": "strict",
         "provisional": false
+      },
+      {
+        "date": "2026-10-15",
+        "w": 207.6,
+        "kcal": 0,
+        "protein": 0,
+        "dayType": "empty",
+        "provisional": true
       }
     ],
     "trend": [
@@ -29613,6 +29643,10 @@
       {
         "date": "2026-10-14",
         "w": 207.33
+      },
+      {
+        "date": "2026-10-15",
+        "w": 207.37
       }
     ],
     "noiseBand": 1.2,
@@ -29947,19 +29981,19 @@
       },
       {
         "date": "2026-10-14",
-        "w": 206.8,
+        "w": 207,
         "week": "Oct 11–Oct 17",
-        "n": 4
+        "n": 5
       }
     ],
     "banner": {
       "startDate": "2026-03-22",
       "startW": 235,
-      "lost": 27.7,
+      "lost": 27.6,
       "goal": 180,
-      "pct": 50.3,
+      "pct": 50.2,
       "nextFloor": 200,
-      "toGo": 7.3,
+      "toGo": 7.4,
       "newLow": false
     },
     "strip": [
