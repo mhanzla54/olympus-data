@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 206.6
     },
-    "overall_total": 1893,
+    "overall_total": 1894,
     "generated_for": "2026-10-15",
-    "built_at": "2026-10-15T18:11:12.371Z",
+    "built_at": "2026-10-15T21:51:31.679Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 824
+      "ft_to_go": 823
     },
     "captures_today_unscored": 0
   },
@@ -98,7 +98,7 @@
       "t0_note": "no public track record — not known in the field; every post, repo and paper still ahead",
       "endpoint": "A recognized public body of work — provisional and open by design (§14.0.2); this lane has no terminus",
       "endpoint_tier": "enormous",
-      "current": 46,
+      "current": 47,
       "working_on": "Not yet started — the first public thing ships from here"
     }
   ],
@@ -11007,6 +11007,20 @@
       "evidence": "POLARIS xmv9uu957",
       "booked": "2026-10-15",
       "source": "polaris:xmv9uu957:completion"
+    },
+    {
+      "date": "2026-10-15",
+      "lane": "fieldpresence",
+      "activity": "Video 1 work for Field Presence — a working sitting",
+      "label": "Video 1 work for Field Presence",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 47,
+      "cum_overall": 1894,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmv76lxz2",
+      "booked": "2026-10-15",
+      "source": "polaris:xmv76lxz2:2026-10-15:session:1"
     }
   ],
   "polaris_booked": {
@@ -11214,7 +11228,8 @@
     "polaris:xmtr6bclh:2026-10-15:session:1": 1,
     "polaris:xmuwo7zc4:2026-10-15:session:1": 1,
     "polaris:xmu7cybpy:2026-10-15:session:1": 1,
-    "polaris:xmv9uu957:completion": 1
+    "polaris:xmv9uu957:completion": 1,
+    "polaris:xmv76lxz2:2026-10-15:session:1": 1
   },
   "series": {
     "coding": [
@@ -16602,6 +16617,13 @@
       {
         "date": "2026-10-14",
         "cum": 46,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Video 1 work for Field Presence — a working sitting"
+      },
+      {
+        "date": "2026-10-15",
+        "cum": 47,
         "feet": 1,
         "tier": "tiny",
         "activity": "Video 1 work for Field Presence — a working sitting"
