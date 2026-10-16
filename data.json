@@ -21,7 +21,7 @@
     },
     "overall_total": 1897,
     "generated_for": "2026-10-16",
-    "built_at": "2026-10-16T13:12:04.450Z",
+    "built_at": "2026-10-16T16:36:33.787Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -17445,20 +17445,26 @@
           "targetAmbiguous": false
         },
         {
-          "name": "Double clap push-up (two front claps)",
+          "name": "Stomach-tap push-up (hands touch the belly)",
+          "target": "5",
+          "sets": 3,
+          "targetAmbiguous": false
+        },
+        {
+          "name": "Hip-tap push-up (hands touch the hips)",
+          "target": "5",
+          "sets": 3,
+          "targetAmbiguous": false
+        },
+        {
+          "name": "Hands-to-hips push-up (both hands touch the outsides of the hips)",
+          "target": "5",
+          "sets": 3,
+          "targetAmbiguous": false
+        },
+        {
+          "name": "Hands-behind-back push-up (no clap)",
           "target": "3",
-          "sets": 3,
-          "targetAmbiguous": false
-        },
-        {
-          "name": "Double clap push-up (two front claps)",
-          "target": "8",
-          "sets": 3,
-          "targetAmbiguous": false
-        },
-        {
-          "name": "Hip/thigh-tap clap",
-          "target": "8",
           "sets": 3,
           "targetAmbiguous": false
         },
