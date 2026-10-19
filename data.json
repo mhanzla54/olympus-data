@@ -17,16 +17,16 @@
       "next_site_drop_in": 1,
       "ten_lb_milestone_crossed": 210,
       "next_ten_lb_marker": 200,
-      "all_time_low_lb": 206.6
+      "all_time_low_lb": 204.2
     },
-    "overall_total": 1905,
+    "overall_total": 1907,
     "generated_for": "2026-10-19",
-    "built_at": "2026-10-19T13:05:11.018Z",
+    "built_at": "2026-10-19T13:10:30.549Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 812
+      "ft_to_go": 810
     },
     "captures_today_unscored": 0
   },
@@ -88,7 +88,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 696,
+      "current": 698,
       "working_on": "the next new-pound low"
     },
     {
@@ -11175,6 +11175,34 @@
       "evidence": "POLARIS xmu7cybpy",
       "booked": "2026-10-19",
       "source": "polaris:xmu7cybpy:2026-10-19:session:1"
+    },
+    {
+      "date": "2026-10-18",
+      "lane": "body",
+      "activity": "protein-day — 204 g",
+      "label": "protein-day — 204 g",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 697,
+      "cum_overall": 1906,
+      "reasoning": "codebook ⚖️ protein-day: needed >= 160 g; got 204 g",
+      "evidence": "health warehouse",
+      "booked": "2026-10-19",
+      "source": "body:protein-day:2026-10-18"
+    },
+    {
+      "date": "2026-10-18",
+      "lane": "body",
+      "activity": "calorie-day — 1949 kcal",
+      "label": "calorie-day — 1949 kcal",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 698,
+      "cum_overall": 1907,
+      "reasoning": "codebook ⚖️ calorie-day: needed 1550–2100 kcal; got 1949 kcal",
+      "evidence": "health warehouse",
+      "booked": "2026-10-19",
+      "source": "body:calorie-day:2026-10-18"
     }
   ],
   "polaris_booked": {
@@ -16647,6 +16675,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "calorie-day — 1834 kcal"
+      },
+      {
+        "date": "2026-10-18",
+        "cum": 697,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "protein-day — 204 g"
+      },
+      {
+        "date": "2026-10-18",
+        "cum": 698,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "calorie-day — 1949 kcal"
       }
     ],
     "fieldpresence": [
@@ -29562,6 +29604,22 @@
         "protein": 187,
         "dayType": "strict",
         "provisional": false
+      },
+      {
+        "date": "2026-10-17",
+        "w": 207,
+        "kcal": 408,
+        "protein": 12,
+        "dayType": "strict",
+        "provisional": false
+      },
+      {
+        "date": "2026-10-18",
+        "w": 204.2,
+        "kcal": 1949,
+        "protein": 204,
+        "dayType": "strict",
+        "provisional": false
       }
     ],
     "trend": [
@@ -30092,9 +30150,17 @@
       {
         "date": "2026-10-16",
         "w": 207.26
+      },
+      {
+        "date": "2026-10-17",
+        "w": 207.09
+      },
+      {
+        "date": "2026-10-18",
+        "w": 206.74
       }
     ],
-    "noiseBand": 1.19,
+    "noiseBand": 1.2,
     "floors": [
       {
         "y": 230,
@@ -30266,6 +30332,11 @@
         "date": "2026-10-11",
         "w": 206.6,
         "week": "Oct 11–Oct 17"
+      },
+      {
+        "date": "2026-10-18",
+        "w": 204.2,
+        "week": "Oct 18–Oct 24"
       }
     ],
     "weeklyAvgs": [
@@ -30429,30 +30500,26 @@
         "date": "2026-10-14",
         "w": 207.1,
         "week": "Oct 11–Oct 17",
-        "n": 6
+        "n": 7
+      },
+      {
+        "date": "2026-10-21",
+        "w": 204.2,
+        "week": "Oct 18–Oct 24",
+        "n": 1
       }
     ],
     "banner": {
       "startDate": "2026-03-22",
       "startW": 235,
-      "lost": 27.7,
+      "lost": 28.3,
       "goal": 180,
-      "pct": 50.4,
+      "pct": 51.4,
       "nextFloor": 200,
-      "toGo": 7.3,
-      "newLow": false
+      "toGo": 6.7,
+      "newLow": true
     },
     "strip": [
-      {
-        "date": "2026-09-18",
-        "state": "off",
-        "kcal": 2023
-      },
-      {
-        "date": "2026-09-19",
-        "state": "anomaly",
-        "kcal": 2674
-      },
       {
         "date": "2026-09-20",
         "state": "off",
@@ -30590,6 +30657,16 @@
       },
       {
         "date": "2026-10-17",
+        "state": "off",
+        "kcal": 408
+      },
+      {
+        "date": "2026-10-18",
+        "state": "off",
+        "kcal": 1949
+      },
+      {
+        "date": "2026-10-19",
         "state": "partial",
         "kcal": 0
       }
@@ -31749,6 +31826,22 @@
       },
       {
         "date": "2026-10-17",
+        "kcal": 408,
+        "protein": 12,
+        "dayType": "strict",
+        "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-10-18",
+        "kcal": 1949,
+        "protein": 204,
+        "dayType": "strict",
+        "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-10-19",
         "kcal": 0,
         "protein": 0,
         "dayType": "empty",
