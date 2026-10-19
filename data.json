@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 206.6
     },
-    "overall_total": 1904,
+    "overall_total": 1905,
     "generated_for": "2026-10-19",
-    "built_at": "2026-10-19T10:28:39.941Z",
+    "built_at": "2026-10-19T13:05:11.018Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 813
+      "ft_to_go": 812
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 229,
+      "current": 230,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -11161,6 +11161,20 @@
       "evidence": "POLARIS xmu7cybqe",
       "booked": "2026-10-19",
       "source": "polaris:xmu7cybqe:2026-10-17:session:1"
+    },
+    {
+      "date": "2026-10-19",
+      "lane": "method",
+      "activity": "Study Protocol V3 · work on it from wherever we are — a working sitting",
+      "label": "Study Protocol V3 · work on it from wherever we are",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 230,
+      "cum_overall": 1905,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmu7cybpy",
+      "booked": "2026-10-19",
+      "source": "polaris:xmu7cybpy:2026-10-19:session:1"
     }
   ],
   "polaris_booked": {
@@ -11376,7 +11390,8 @@
     "polaris:xmu7cybpy:2026-10-17:session:1": 1,
     "polaris:xmuic72cx:2026-10-17:session:1": 1,
     "polaris:xmtegz4dz:2026-10-17:session:1": 1,
-    "polaris:xmu7cybqe:2026-10-17:session:1": 1
+    "polaris:xmu7cybqe:2026-10-17:session:1": 1,
+    "polaris:xmu7cybpy:2026-10-19:session:1": 1
   },
   "series": {
     "coding": [
@@ -13889,6 +13904,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Research Methodology Module Work — a working sitting"
+      },
+      {
+        "date": "2026-10-19",
+        "cum": 230,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Study Protocol V3 · work on it from wherever we are — a working sitting"
       }
     ],
     "literature": [
