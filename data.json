@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 204
     },
-    "overall_total": 1959,
+    "overall_total": 1960,
     "generated_for": "2026-10-21",
-    "built_at": "2026-10-21T14:33:49.730Z",
+    "built_at": "2026-10-21T17:40:06.142Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 758
+      "ft_to_go": 757
     },
     "captures_today_unscored": 0
   },
@@ -98,7 +98,7 @@
       "t0_note": "no public track record — not known in the field; every post, repo and paper still ahead",
       "endpoint": "A recognized public body of work — provisional and open by design (§14.0.2); this lane has no terminus",
       "endpoint_tier": "enormous",
-      "current": 52,
+      "current": 53,
       "working_on": "Not yet started — the first public thing ships from here"
     }
   ],
@@ -11427,6 +11427,20 @@
       "evidence": "POLARIS xmvi6nbxc",
       "booked": "2026-10-21",
       "source": "polaris:xmvi6nbxc:completion"
+    },
+    {
+      "date": "2026-10-21",
+      "lane": "fieldpresence",
+      "activity": "Outreach 2 · The 3–5 page design brief — a working sitting",
+      "label": "Outreach 2 · The 3–5 page design brief",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 53,
+      "cum_overall": 1960,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmu7cybq2",
+      "booked": "2026-10-21",
+      "source": "polaris:xmu7cybq2:2026-10-21:session:1"
     }
   ],
   "polaris_booked": {
@@ -11655,7 +11669,8 @@
     "polaris:xmvgxkhpx:completion": 1,
     "polaris:xmu7cybpy:2026-10-21:session:1": 1,
     "polaris:xmta206fu:2026-10-21:session:1": 1,
-    "polaris:xmvi6nbxc:completion": 1
+    "polaris:xmvi6nbxc:completion": 1,
+    "polaris:xmu7cybq2:2026-10-21:session:1": 1
   },
   "series": {
     "coding": [
@@ -17256,6 +17271,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Video 1 work for Field Presence — a working sitting"
+      },
+      {
+        "date": "2026-10-21",
+        "cum": 53,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Outreach 2 · The 3–5 page design brief — a working sitting"
       }
     ]
   },
