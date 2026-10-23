@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 204
     },
-    "overall_total": 1968,
+    "overall_total": 1979,
     "generated_for": "2026-10-23",
-    "built_at": "2026-10-23T12:01:57.604Z",
+    "built_at": "2026-10-23T20:55:09.156Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 749
+      "ft_to_go": 738
     },
     "captures_today_unscored": 0
   },
@@ -98,7 +98,7 @@
       "t0_note": "no public track record — not known in the field; every post, repo and paper still ahead",
       "endpoint": "A recognized public body of work — provisional and open by design (§14.0.2); this lane has no terminus",
       "endpoint_tier": "enormous",
-      "current": 57,
+      "current": 68,
       "working_on": "Not yet started — the first public thing ships from here"
     }
   ],
@@ -11553,6 +11553,34 @@
       "evidence": "POLARIS xmu7cybq3",
       "booked": "2026-10-23",
       "source": "polaris:xmu7cybq3:completion"
+    },
+    {
+      "date": "2026-10-23",
+      "lane": "fieldpresence",
+      "activity": "Video 1 work for Field Presence — a working sitting",
+      "label": "Video 1 work for Field Presence",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 58,
+      "cum_overall": 1969,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmv76lxz2",
+      "booked": "2026-10-23",
+      "source": "polaris:xmv76lxz2:2026-10-23:session:1"
+    },
+    {
+      "date": "2026-10-23",
+      "lane": "fieldpresence",
+      "activity": "Video 1 work for Field Presence — FINISHED",
+      "label": "Video 1 work for Field Presence",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 68,
+      "cum_overall": 1979,
+      "reasoning": "Owner-priced in POLARIS: finishing it = small, re-priced 2026-10-23 from zero",
+      "evidence": "POLARIS xmv76lxz2",
+      "booked": "2026-10-23",
+      "source": "polaris:xmv76lxz2:completion"
     }
   ],
   "polaris_booked": {
@@ -11788,7 +11816,9 @@
     "polaris:xmv76lxz2:2026-10-22:session:1": 1,
     "polaris:xmu7cybpy:2026-10-23:session:1": 1,
     "polaris:xmu7cybq3:2026-10-23:session:1": 1,
-    "polaris:xmu7cybq3:completion": 1
+    "polaris:xmu7cybq3:completion": 1,
+    "polaris:xmv76lxz2:2026-10-23:session:1": 1,
+    "polaris:xmv76lxz2:completion": 10
   },
   "series": {
     "coding": [
@@ -17452,6 +17482,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Outreach 3 · The open-problems list — FINISHED"
+      },
+      {
+        "date": "2026-10-23",
+        "cum": 58,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Video 1 work for Field Presence — a working sitting"
+      },
+      {
+        "date": "2026-10-23",
+        "cum": 68,
+        "feet": 10,
+        "tier": "small",
+        "activity": "Video 1 work for Field Presence — FINISHED"
       }
     ]
   },
