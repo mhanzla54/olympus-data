@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 204
     },
-    "overall_total": 1966,
+    "overall_total": 1967,
     "generated_for": "2026-10-23",
-    "built_at": "2026-10-23T11:43:54.442Z",
+    "built_at": "2026-10-23T12:01:23.629Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 751
+      "ft_to_go": 750
     },
     "captures_today_unscored": 0
   },
@@ -98,7 +98,7 @@
       "t0_note": "no public track record — not known in the field; every post, repo and paper still ahead",
       "endpoint": "A recognized public body of work — provisional and open by design (§14.0.2); this lane has no terminus",
       "endpoint_tier": "enormous",
-      "current": 55,
+      "current": 56,
       "working_on": "Not yet started — the first public thing ships from here"
     }
   ],
@@ -11525,6 +11525,20 @@
       "evidence": "POLARIS xmu7cybpy",
       "booked": "2026-10-23",
       "source": "polaris:xmu7cybpy:2026-10-23:session:1"
+    },
+    {
+      "date": "2026-10-23",
+      "lane": "fieldpresence",
+      "activity": "Outreach 3 · The open-problems list — a working sitting",
+      "label": "Outreach 3 · The open-problems list",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 56,
+      "cum_overall": 1967,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmu7cybq3",
+      "booked": "2026-10-23",
+      "source": "polaris:xmu7cybq3:2026-10-23:session:1"
     }
   ],
   "polaris_booked": {
@@ -11758,7 +11772,8 @@
     "polaris:xmu7cybpy:2026-10-22:session:1": 1,
     "polaris:xmu7cybq2:2026-10-22:session:1": 1,
     "polaris:xmv76lxz2:2026-10-22:session:1": 1,
-    "polaris:xmu7cybpy:2026-10-23:session:1": 1
+    "polaris:xmu7cybpy:2026-10-23:session:1": 1,
+    "polaris:xmu7cybq3:2026-10-23:session:1": 1
   },
   "series": {
     "coding": [
@@ -17408,6 +17423,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Video 1 work for Field Presence — a working sitting"
+      },
+      {
+        "date": "2026-10-23",
+        "cum": 56,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Outreach 3 · The open-problems list — a working sitting"
       }
     ]
   },
