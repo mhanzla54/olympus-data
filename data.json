@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 204
     },
-    "overall_total": 1964,
-    "generated_for": "2026-10-22",
-    "built_at": "2026-10-22T18:20:05.789Z",
+    "overall_total": 1965,
+    "generated_for": "2026-10-23",
+    "built_at": "2026-10-23T10:40:10.336Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 753
+      "ft_to_go": 752
     },
     "captures_today_unscored": 0
   },
@@ -98,7 +98,7 @@
       "t0_note": "no public track record — not known in the field; every post, repo and paper still ahead",
       "endpoint": "A recognized public body of work — provisional and open by design (§14.0.2); this lane has no terminus",
       "endpoint_tier": "enormous",
-      "current": 54,
+      "current": 55,
       "working_on": "Not yet started — the first public thing ships from here"
     }
   ],
@@ -11497,6 +11497,20 @@
       "evidence": "health warehouse",
       "booked": "2026-10-22",
       "source": "body:calorie-day:2026-10-21"
+    },
+    {
+      "date": "2026-10-22",
+      "lane": "fieldpresence",
+      "activity": "Video 1 work for Field Presence — a working sitting",
+      "label": "Video 1 work for Field Presence",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 55,
+      "cum_overall": 1965,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmv76lxz2",
+      "booked": "2026-10-23",
+      "source": "polaris:xmv76lxz2:2026-10-22:session:1"
     }
   ],
   "polaris_booked": {
@@ -11728,7 +11742,8 @@
     "polaris:xmvi6nbxc:completion": 1,
     "polaris:xmu7cybq2:2026-10-21:session:1": 1,
     "polaris:xmu7cybpy:2026-10-22:session:1": 1,
-    "polaris:xmu7cybq2:2026-10-22:session:1": 1
+    "polaris:xmu7cybq2:2026-10-22:session:1": 1,
+    "polaris:xmv76lxz2:2026-10-22:session:1": 1
   },
   "series": {
     "coding": [
@@ -17364,6 +17379,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Outreach 2 · The 3–5 page design brief — a working sitting"
+      },
+      {
+        "date": "2026-10-22",
+        "cum": 55,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Video 1 work for Field Presence — a working sitting"
       }
     ]
   },
