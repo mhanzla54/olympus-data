@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 204
     },
-    "overall_total": 1979,
-    "generated_for": "2026-10-23",
-    "built_at": "2026-10-23T20:55:09.156Z",
+    "overall_total": 1981,
+    "generated_for": "2026-10-24",
+    "built_at": "2026-10-24T12:29:37.165Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 738
+      "ft_to_go": 736
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 235,
+      "current": 236,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -98,7 +98,7 @@
       "t0_note": "no public track record — not known in the field; every post, repo and paper still ahead",
       "endpoint": "A recognized public body of work — provisional and open by design (§14.0.2); this lane has no terminus",
       "endpoint_tier": "enormous",
-      "current": 68,
+      "current": 69,
       "working_on": "Not yet started — the first public thing ships from here"
     }
   ],
@@ -11581,6 +11581,34 @@
       "evidence": "POLARIS xmv76lxz2",
       "booked": "2026-10-23",
       "source": "polaris:xmv76lxz2:completion"
+    },
+    {
+      "date": "2026-10-24",
+      "lane": "method",
+      "activity": "Study Protocol V3 · work on it from wherever we are — a working sitting",
+      "label": "Study Protocol V3 · work on it from wherever we are",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 236,
+      "cum_overall": 1980,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmu7cybpy",
+      "booked": "2026-10-24",
+      "source": "polaris:xmu7cybpy:2026-10-24:session:1"
+    },
+    {
+      "date": "2026-10-24",
+      "lane": "fieldpresence",
+      "activity": "Outreach 2 · The 3–5 page design brief — a working sitting",
+      "label": "Outreach 2 · The 3–5 page design brief",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 69,
+      "cum_overall": 1981,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmu7cybq2",
+      "booked": "2026-10-24",
+      "source": "polaris:xmu7cybq2:2026-10-24:session:1"
     }
   ],
   "polaris_booked": {
@@ -11818,7 +11846,9 @@
     "polaris:xmu7cybq3:2026-10-23:session:1": 1,
     "polaris:xmu7cybq3:completion": 1,
     "polaris:xmv76lxz2:2026-10-23:session:1": 1,
-    "polaris:xmv76lxz2:completion": 10
+    "polaris:xmv76lxz2:completion": 10,
+    "polaris:xmu7cybpy:2026-10-24:session:1": 1,
+    "polaris:xmu7cybq2:2026-10-24:session:1": 1
   },
   "series": {
     "coding": [
@@ -14377,6 +14407,13 @@
       {
         "date": "2026-10-23",
         "cum": 235,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Study Protocol V3 · work on it from wherever we are — a working sitting"
+      },
+      {
+        "date": "2026-10-24",
+        "cum": 236,
         "feet": 1,
         "tier": "tiny",
         "activity": "Study Protocol V3 · work on it from wherever we are — a working sitting"
@@ -17496,6 +17533,13 @@
         "feet": 10,
         "tier": "small",
         "activity": "Video 1 work for Field Presence — FINISHED"
+      },
+      {
+        "date": "2026-10-24",
+        "cum": 69,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Outreach 2 · The 3–5 page design brief — a working sitting"
       }
     ]
   },
