@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 204
     },
-    "overall_total": 1981,
-    "generated_for": "2026-10-24",
-    "built_at": "2026-10-24T12:29:37.165Z",
+    "overall_total": 1982,
+    "generated_for": "2026-10-26",
+    "built_at": "2026-10-26T11:01:27.476Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 736
+      "ft_to_go": 735
     },
     "captures_today_unscored": 0
   },
@@ -98,7 +98,7 @@
       "t0_note": "no public track record — not known in the field; every post, repo and paper still ahead",
       "endpoint": "A recognized public body of work — provisional and open by design (§14.0.2); this lane has no terminus",
       "endpoint_tier": "enormous",
-      "current": 69,
+      "current": 70,
       "working_on": "Not yet started — the first public thing ships from here"
     }
   ],
@@ -11609,6 +11609,20 @@
       "evidence": "POLARIS xmu7cybq2",
       "booked": "2026-10-24",
       "source": "polaris:xmu7cybq2:2026-10-24:session:1"
+    },
+    {
+      "date": "2026-10-24",
+      "lane": "fieldpresence",
+      "activity": "Outreach 5 · Check the packet's clean home — a working sitting",
+      "label": "Outreach 5 · Check the packet's clean home",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 70,
+      "cum_overall": 1982,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmu7cybq5",
+      "booked": "2026-10-26",
+      "source": "polaris:xmu7cybq5:2026-10-24:session:1"
     }
   ],
   "polaris_booked": {
@@ -11848,7 +11862,8 @@
     "polaris:xmv76lxz2:2026-10-23:session:1": 1,
     "polaris:xmv76lxz2:completion": 10,
     "polaris:xmu7cybpy:2026-10-24:session:1": 1,
-    "polaris:xmu7cybq2:2026-10-24:session:1": 1
+    "polaris:xmu7cybq2:2026-10-24:session:1": 1,
+    "polaris:xmu7cybq5:2026-10-24:session:1": 1
   },
   "series": {
     "coding": [
@@ -17540,6 +17555,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Outreach 2 · The 3–5 page design brief — a working sitting"
+      },
+      {
+        "date": "2026-10-24",
+        "cum": 70,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Outreach 5 · Check the packet's clean home — a working sitting"
       }
     ]
   },
