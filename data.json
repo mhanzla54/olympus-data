@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 204
     },
-    "overall_total": 1985,
+    "overall_total": 1986,
     "generated_for": "2026-10-26",
-    "built_at": "2026-10-26T20:09:18.527Z",
+    "built_at": "2026-10-26T20:09:35.350Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 732
+      "ft_to_go": 731
     },
     "captures_today_unscored": 0
   },
@@ -98,7 +98,7 @@
       "t0_note": "no public track record — not known in the field; every post, repo and paper still ahead",
       "endpoint": "A recognized public body of work — provisional and open by design (§14.0.2); this lane has no terminus",
       "endpoint_tier": "enormous",
-      "current": 71,
+      "current": 72,
       "working_on": "Not yet started — the first public thing ships from here"
     }
   ],
@@ -11665,6 +11665,20 @@
       "evidence": "POLARIS xmu7cybq6",
       "booked": "2026-10-26",
       "source": "polaris:xmu7cybq6:2026-10-26:session:1"
+    },
+    {
+      "date": "2026-10-26",
+      "lane": "fieldpresence",
+      "activity": "Outreach 6 · Read the talking points — FINISHED",
+      "label": "Outreach 6 · Read the talking points",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 72,
+      "cum_overall": 1986,
+      "reasoning": "Owner-priced in POLARIS: finishing it = tiny, re-priced 2026-10-26 from zero",
+      "evidence": "POLARIS xmu7cybq6",
+      "booked": "2026-10-26",
+      "source": "polaris:xmu7cybq6:completion"
     }
   ],
   "polaris_booked": {
@@ -11908,7 +11922,8 @@
     "polaris:xmu7cybq5:2026-10-24:session:1": 1,
     "polaris:xmu7cybpy:2026-10-26:session:1": 1,
     "polaris:xmt78btdt:2026-10-26:session:1": 1,
-    "polaris:xmu7cybq6:2026-10-26:session:1": 1
+    "polaris:xmu7cybq6:2026-10-26:session:1": 1,
+    "polaris:xmu7cybq6:completion": 1
   },
   "series": {
     "coding": [
@@ -17628,6 +17643,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Outreach 6 · Read the talking points — a working sitting"
+      },
+      {
+        "date": "2026-10-26",
+        "cum": 72,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Outreach 6 · Read the talking points — FINISHED"
       }
     ]
   },
