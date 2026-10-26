@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 204
     },
-    "overall_total": 1983,
+    "overall_total": 1984,
     "generated_for": "2026-10-26",
-    "built_at": "2026-10-26T12:28:50.324Z",
+    "built_at": "2026-10-26T20:08:44.596Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 734
+      "ft_to_go": 733
     },
     "captures_today_unscored": 0
   },
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 541,
+      "current": 542,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -11637,6 +11637,20 @@
       "evidence": "POLARIS xmu7cybpy",
       "booked": "2026-10-26",
       "source": "polaris:xmu7cybpy:2026-10-26:session:1"
+    },
+    {
+      "date": "2026-10-26",
+      "lane": "strength",
+      "activity": "Workout — a working sitting",
+      "label": "Workout — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 542,
+      "cum_overall": 1984,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmt78btdt",
+      "booked": "2026-10-26",
+      "source": "polaris:xmt78btdt:2026-10-26:session:1"
     }
   ],
   "polaris_booked": {
@@ -11878,7 +11892,8 @@
     "polaris:xmu7cybpy:2026-10-24:session:1": 1,
     "polaris:xmu7cybq2:2026-10-24:session:1": 1,
     "polaris:xmu7cybq5:2026-10-24:session:1": 1,
-    "polaris:xmu7cybpy:2026-10-26:session:1": 1
+    "polaris:xmu7cybpy:2026-10-26:session:1": 1,
+    "polaris:xmt78btdt:2026-10-26:session:1": 1
   },
   "series": {
     "coding": [
@@ -15438,6 +15453,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Sparse Training — FINISHED"
+      },
+      {
+        "date": "2026-10-26",
+        "cum": 542,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Workout — a working sitting"
       }
     ],
     "body": [
