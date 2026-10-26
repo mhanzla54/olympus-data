@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 204
     },
-    "overall_total": 1982,
+    "overall_total": 1983,
     "generated_for": "2026-10-26",
-    "built_at": "2026-10-26T11:01:27.476Z",
+    "built_at": "2026-10-26T12:28:50.324Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 735
+      "ft_to_go": 734
     },
     "captures_today_unscored": 0
   },
@@ -58,7 +58,7 @@
       "t0_note": "zero on qualitative methods — couldn't name what a 'code' was",
       "endpoint": "2+ publications at top-tier venues (defensible codebook + κ IRR, viva-level)",
       "endpoint_tier": "enormous",
-      "current": 236,
+      "current": 237,
       "working_on": "Saldaña textbook + qualitative-coding practice"
     },
     {
@@ -11623,6 +11623,20 @@
       "evidence": "POLARIS xmu7cybq5",
       "booked": "2026-10-26",
       "source": "polaris:xmu7cybq5:2026-10-24:session:1"
+    },
+    {
+      "date": "2026-10-26",
+      "lane": "method",
+      "activity": "Study Protocol V3 · work on it from wherever we are — a working sitting",
+      "label": "Study Protocol V3 · work on it from wherever we are",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 237,
+      "cum_overall": 1983,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmu7cybpy",
+      "booked": "2026-10-26",
+      "source": "polaris:xmu7cybpy:2026-10-26:session:1"
     }
   ],
   "polaris_booked": {
@@ -11863,7 +11877,8 @@
     "polaris:xmv76lxz2:completion": 10,
     "polaris:xmu7cybpy:2026-10-24:session:1": 1,
     "polaris:xmu7cybq2:2026-10-24:session:1": 1,
-    "polaris:xmu7cybq5:2026-10-24:session:1": 1
+    "polaris:xmu7cybq5:2026-10-24:session:1": 1,
+    "polaris:xmu7cybpy:2026-10-26:session:1": 1
   },
   "series": {
     "coding": [
@@ -14429,6 +14444,13 @@
       {
         "date": "2026-10-24",
         "cum": 236,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Study Protocol V3 · work on it from wherever we are — a working sitting"
+      },
+      {
+        "date": "2026-10-26",
+        "cum": 237,
         "feet": 1,
         "tier": "tiny",
         "activity": "Study Protocol V3 · work on it from wherever we are — a working sitting"
