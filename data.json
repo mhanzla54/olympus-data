@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 204
     },
-    "overall_total": 2015,
+    "overall_total": 2016,
     "generated_for": "2026-10-27",
-    "built_at": "2026-10-27T17:14:03.990Z",
+    "built_at": "2026-10-27T20:04:21.470Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 702
+      "ft_to_go": 701
     },
     "captures_today_unscored": 0
   },
@@ -98,7 +98,7 @@
       "t0_note": "no public track record — not known in the field; every post, repo and paper still ahead",
       "endpoint": "A recognized public body of work — provisional and open by design (§14.0.2); this lane has no terminus",
       "endpoint_tier": "enormous",
-      "current": 75,
+      "current": 76,
       "working_on": "Not yet started — the first public thing ships from here"
     }
   ],
@@ -11833,6 +11833,20 @@
       "evidence": "health warehouse",
       "booked": "2026-10-27",
       "source": "body:calorie-day:2026-10-25"
+    },
+    {
+      "date": "2026-10-27",
+      "lane": "fieldpresence",
+      "activity": "BlueDot + GTR applications · build, assemble, submit — a working sitting",
+      "label": "BlueDot + GTR applications · build, assemble, submit",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 76,
+      "cum_overall": 2016,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmvqnn7dg4za",
+      "booked": "2026-10-27",
+      "source": "polaris:xmvqnn7dg4za:2026-10-27:session:1"
     }
   ],
   "polaris_booked": {
@@ -12081,7 +12095,8 @@
     "polaris:xmu7cybq7:2026-10-27:session:1": 1,
     "polaris:xmu7cybqe:2026-10-27:session:1": 1,
     "polaris:xmu7cybpy:2026-10-27:session:1": 1,
-    "polaris:xmvqnn7dgxek:completion": 1
+    "polaris:xmvqnn7dgxek:completion": 1,
+    "polaris:xmvqnn7dg4za:2026-10-27:session:1": 1
   },
   "series": {
     "coding": [
@@ -17885,6 +17900,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Website: switch to muhammadhanzla.com + post one more module — FINISHED"
+      },
+      {
+        "date": "2026-10-27",
+        "cum": 76,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "BlueDot + GTR applications · build, assemble, submit — a working sitting"
       }
     ]
   },
