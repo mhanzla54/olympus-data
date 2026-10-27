@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 204
     },
-    "overall_total": 2000,
+    "overall_total": 2010,
     "generated_for": "2026-10-27",
-    "built_at": "2026-10-27T14:20:05.719Z",
+    "built_at": "2026-10-27T15:12:03.381Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 717
+      "ft_to_go": 707
     },
     "captures_today_unscored": 0
   },
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 552,
+      "current": 562,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -11749,6 +11749,20 @@
       "evidence": "workout-log; Stomach-tap push-up (★explosive — hands leave the floor, touch your belly, hands back to catch)",
       "booked": "2026-10-27",
       "source": "rung:explosive:4:2026-10-21"
+    },
+    {
+      "date": "2026-10-26",
+      "lane": "strength",
+      "activity": "Core — FLOOR rung 4 CLEARED — Elevated tuck L-sit (hands raised on blocks/parallettes) (15/15, avg 15 vs target 15)",
+      "label": "Core — FLOOR rung 4 CLEARED — Elevated tuck L-sit (hands…",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 562,
+      "cum_overall": 2010,
+      "reasoning": "SETS-STANDARD: first 2 sets avg 15 >= 15; clean-reps confirmed by owner",
+      "evidence": "workout-log; Elevated tuck L-sit (★finisher — hands raised; height is the dial)",
+      "booked": "2026-10-27",
+      "source": "rung:corefloor:4:2026-10-26"
     }
   ],
   "polaris_booked": {
@@ -15578,6 +15592,13 @@
         "feet": 10,
         "tier": "small",
         "activity": "Horizontal Push — EXPLOSIVE rung 4 CLEARED — Stomach-tap push-up (hands touch the belly) (5/5/5, avg 5 vs target 5)"
+      },
+      {
+        "date": "2026-10-26",
+        "cum": 562,
+        "feet": 10,
+        "tier": "small",
+        "activity": "Core — FLOOR rung 4 CLEARED — Elevated tuck L-sit (hands raised on blocks/parallettes) (15/15, avg 15 vs target 15)"
       }
     ],
     "body": [
@@ -34033,27 +34054,7 @@
     "vista-pyramid": "vista-pyramid.webp",
     "vista-redeemer": "vista-redeemer.webp"
   },
-  "pending_clears": [
-    {
-      "key": "rung:corefloor:4:2026-10-26",
-      "date": "2026-10-26",
-      "ladder": "corefloor",
-      "ladder_name": "Core — FLOOR",
-      "rung": 4,
-      "movement": "Elevated tuck L-sit (hands raised on blocks/parallettes)",
-      "exercise": "Elevated tuck L-sit (★finisher — hands raised; height is the dial)",
-      "sets": [
-        15,
-        15
-      ],
-      "avg": 15,
-      "target": 15,
-      "sets_needed": 2,
-      "band": "small",
-      "feet": 10,
-      "answer_line": "- notes / skips: clean rung:corefloor:4:2026-10-26 yes   # Core — FLOOR rung 4 — Elevated tuck L-sit (hands raised on blocks/parallettes)"
-    }
-  ],
+  "pending_clears": [],
   "pending_clear_notes": [],
   "body_crossings": [],
   "body_next_bars": {
