@@ -21,7 +21,7 @@
     },
     "overall_total": 1990,
     "generated_for": "2026-10-27",
-    "built_at": "2026-10-27T13:15:53.380Z",
+    "built_at": "2026-10-27T13:50:04.995Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -19745,6 +19745,12 @@
           "y": 4.5,
           "kind": "session",
           "label": "Double clap push-up (two front claps) — 1.5, 1.5, 1.5 (avg 1.5 vs target 3)"
+        },
+        {
+          "date": "2026-10-21",
+          "y": 4.97,
+          "kind": "session",
+          "label": "Stomach-tap push-up (hands touch the belly) — 5, 5, 5 (avg 5 vs target 5)"
         }
       ],
       "steps": [
@@ -20018,6 +20024,12 @@
           "y": 6.42,
           "kind": "session",
           "label": "Wall HSPU — 75% ROM (three-quarter depth) — 4, 3, 3 (avg 3.3 vs target 8)"
+        },
+        {
+          "date": "2026-10-21",
+          "y": 6.44,
+          "kind": "session",
+          "label": "Wall HSPU — 75% ROM (three-quarter depth) — 4, 3.5,  3 (avg 3.5 vs target 8)"
         }
       ],
       "steps": [
@@ -20633,6 +20645,12 @@
           "y": 4.27,
           "kind": "session",
           "label": "Towel / uneven chin-up — 3, 2.5, 1 (avg 2.2 vs target 8)"
+        },
+        {
+          "date": "2026-10-21",
+          "y": 4.29,
+          "kind": "session",
+          "label": "Towel / uneven chin-up — 3, 2, 2 (avg 2.3 vs target 8)"
         }
       ],
       "steps": [
@@ -20891,6 +20909,12 @@
           "y": 3.38,
           "kind": "session",
           "label": "Dead hang — 31, 15 (avg 23 vs target 60)"
+        },
+        {
+          "date": "2026-10-21",
+          "y": 3.53,
+          "kind": "session",
+          "label": "Dead hang — 34, 30 (avg 32 vs target 60)"
         }
       ],
       "steps": [
@@ -21604,6 +21628,12 @@
           "y": 7.54,
           "kind": "session",
           "label": "Tucked raise toward bar (as high as the low bar allows) — 5, 4, 4 (avg 4.3 vs target 8)"
+        },
+        {
+          "date": "2026-10-21",
+          "y": 7.46,
+          "kind": "session",
+          "label": "Tucked raise toward bar (as high as the low bar allows) — 4, 4, 3 (avg 3.7 vs target 8)"
         }
       ],
       "steps": [
@@ -21663,8 +21693,8 @@
       ]
     },
     "explosive": {
-      "candidates": 19,
-      "plotted": 18,
+      "candidates": 20,
+      "plotted": 19,
       "rejected": [
         {
           "date": "2026-10-19",
@@ -21691,8 +21721,8 @@
       ]
     },
     "handstand": {
-      "candidates": 18,
-      "plotted": 16,
+      "candidates": 19,
+      "plotted": 17,
       "rejected": [
         {
           "date": "2026-09-14",
@@ -21705,7 +21735,7 @@
       ]
     },
     "pull": {
-      "candidates": 59,
+      "candidates": 60,
       "plotted": 39,
       "rejected": [
         {
@@ -21791,12 +21821,16 @@
         {
           "date": "2026-10-14",
           "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-10-21",
+          "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 6 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
         }
       ]
     },
     "chinup": {
-      "candidates": 19,
-      "plotted": 18,
+      "candidates": 20,
+      "plotted": 19,
       "rejected": [
         {
           "date": "2026-08-10",
@@ -21805,8 +21839,8 @@
       ]
     },
     "grip": {
-      "candidates": 37,
-      "plotted": 36,
+      "candidates": 38,
+      "plotted": 37,
       "rejected": [
         {
           "date": "2026-10-10",
@@ -21871,8 +21905,8 @@
       ]
     },
     "corehang": {
-      "candidates": 57,
-      "plotted": 54,
+      "candidates": 58,
+      "plotted": 55,
       "rejected": [
         {
           "date": "2026-06-27",
@@ -22226,6 +22260,13 @@
             "raw": "2, 1, 0",
             "avg": 1,
             "status": "✗ not plotted — \"Double clap push-up (★explosive — two fr\" is rung-2 work while training rung 4 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+          },
+          {
+            "date": "2026-10-21",
+            "name": "Stomach-tap push-up (★explosive — hands leave the floor, touch your belly, hands back to catch)",
+            "raw": "5, 5, 5",
+            "avg": 5,
+            "status": "● plotted at 4.97"
           }
         ]
       },
@@ -22497,6 +22538,13 @@
             "raw": "4, 3, 3",
             "avg": 3.3,
             "status": "● plotted at 6.42"
+          },
+          {
+            "date": "2026-10-21",
+            "name": "Wall HSPU (★75% ROM)",
+            "raw": "4, 3.5,  3",
+            "avg": 3.5,
+            "status": "● plotted at 6.44"
           }
         ]
       },
@@ -23042,6 +23090,13 @@
             "raw": "2, 3, 2",
             "avg": 2.3,
             "status": "● plotted at 6.29"
+          },
+          {
+            "date": "2026-10-21",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "34, 30",
+            "avg": 32,
+            "status": "✗ not plotted — \"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 6 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           }
         ]
       },
@@ -23396,6 +23451,13 @@
             "raw": "3, 2.5, 1",
             "avg": 2.2,
             "status": "● plotted at 4.27"
+          },
+          {
+            "date": "2026-10-21",
+            "name": "Towel / uneven chin-up ★",
+            "raw": "3, 2, 2",
+            "avg": 2.3,
+            "status": "● plotted at 4.29"
           }
         ]
       },
@@ -23668,6 +23730,13 @@
             "raw": "31, 15",
             "avg": 23,
             "status": "● plotted at 3.38"
+          },
+          {
+            "date": "2026-10-21",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "34, 30",
+            "avg": 32,
+            "status": "● plotted at 3.53"
           }
         ]
       },
@@ -24442,6 +24511,13 @@
             "raw": "5, 4, 4",
             "avg": 4.3,
             "status": "● plotted at 7.54"
+          },
+          {
+            "date": "2026-10-21",
+            "name": "Tucked raise toward bar (★as high as the low bar allows)",
+            "raw": "4, 4, 3",
+            "avg": 3.7,
+            "status": "● plotted at 7.46"
           }
         ]
       }
@@ -24585,6 +24661,10 @@
           {
             "date": "2026-10-17",
             "detail": "hang: 31, 15 · shrugs: 9, 7"
+          },
+          {
+            "date": "2026-10-21",
+            "detail": "hang: 34, 30 · shrugs: 7, 7"
           }
         ]
       },
@@ -25380,6 +25460,72 @@
         ]
       },
       {
+        "name": "Wall HSPU (★75% ROM)",
+        "rows": [
+          {
+            "date": "2026-09-07",
+            "detail": "reps: 3, 4, 2"
+          },
+          {
+            "date": "2026-09-14",
+            "detail": "reps: (skipped cuz of left shoulder injury)"
+          },
+          {
+            "date": "2026-09-21",
+            "detail": "reps: (Skipped for injury recovery)"
+          },
+          {
+            "date": "2026-09-30",
+            "detail": "reps: 4, 2.5, 1.5"
+          },
+          {
+            "date": "2026-10-06",
+            "detail": "reps: 4, 2.5, 2"
+          },
+          {
+            "date": "2026-10-14",
+            "detail": "reps: 4, 3, 3"
+          },
+          {
+            "date": "2026-10-21",
+            "detail": "reps: 4, 3.5,  3"
+          }
+        ]
+      },
+      {
+        "name": "Tucked raise toward bar (★as high as the low bar allows)",
+        "rows": [
+          {
+            "date": "2026-10-06",
+            "detail": "reps: 1.5, 1,  1"
+          },
+          {
+            "date": "2026-10-10",
+            "detail": "reps: 3, 2,"
+          },
+          {
+            "date": "2026-10-13",
+            "detail": "reps: 4, 3, 3"
+          },
+          {
+            "date": "2026-10-14",
+            "detail": "reps: 6, 5, 4"
+          },
+          {
+            "date": "2026-10-17",
+            "detail": "reps: 6, 5, 4"
+          },
+          {
+            "date": "2026-10-19",
+            "detail": "reps: 5, 4, 4"
+          },
+          {
+            "date": "2026-10-21",
+            "detail": "reps: 4, 4, 3"
+          }
+        ]
+      },
+      {
         "name": "Pull-up (negatives)",
         "rows": [
           {
@@ -25554,35 +25700,6 @@
         ]
       },
       {
-        "name": "Wall HSPU (★75% ROM)",
-        "rows": [
-          {
-            "date": "2026-09-07",
-            "detail": "reps: 3, 4, 2"
-          },
-          {
-            "date": "2026-09-14",
-            "detail": "reps: (skipped cuz of left shoulder injury)"
-          },
-          {
-            "date": "2026-09-21",
-            "detail": "reps: (Skipped for injury recovery)"
-          },
-          {
-            "date": "2026-09-30",
-            "detail": "reps: 4, 2.5, 1.5"
-          },
-          {
-            "date": "2026-10-06",
-            "detail": "reps: 4, 2.5, 2"
-          },
-          {
-            "date": "2026-10-14",
-            "detail": "reps: 4, 3, 3"
-          }
-        ]
-      },
-      {
         "name": "Elevated tuck L-sit (★finisher — hands raised; height is the dial)",
         "rows": [
           {
@@ -25608,35 +25725,6 @@
           {
             "date": "2026-10-17",
             "detail": "reps: 7, 11"
-          }
-        ]
-      },
-      {
-        "name": "Tucked raise toward bar (★as high as the low bar allows)",
-        "rows": [
-          {
-            "date": "2026-10-06",
-            "detail": "reps: 1.5, 1,  1"
-          },
-          {
-            "date": "2026-10-10",
-            "detail": "reps: 3, 2,"
-          },
-          {
-            "date": "2026-10-13",
-            "detail": "reps: 4, 3, 3"
-          },
-          {
-            "date": "2026-10-14",
-            "detail": "reps: 6, 5, 4"
-          },
-          {
-            "date": "2026-10-17",
-            "detail": "reps: 6, 5, 4"
-          },
-          {
-            "date": "2026-10-19",
-            "detail": "reps: 5, 4, 4"
           }
         ]
       },
@@ -26062,6 +26150,23 @@
         ]
       },
       {
+        "name": "Towel / uneven chin-up ★",
+        "rows": [
+          {
+            "date": "2026-10-06",
+            "detail": "full reps: 2, 1.5, 1 · neg back-off: 0, 0, 3"
+          },
+          {
+            "date": "2026-10-14",
+            "detail": "full reps: 3, 2.5, 1 · neg back-off: 4, 3, 3"
+          },
+          {
+            "date": "2026-10-21",
+            "detail": "full reps: 3, 2, 2 · neg back-off: 4, 4, 4"
+          }
+        ]
+      },
+      {
         "name": "Grip+trap (flex): towel hang + scap shrugs",
         "rows": [
           {
@@ -26149,19 +26254,6 @@
           {
             "date": "2026-09-16",
             "detail": "reps: Skipped (equipment not ready yet)"
-          }
-        ]
-      },
-      {
-        "name": "Towel / uneven chin-up ★",
-        "rows": [
-          {
-            "date": "2026-10-06",
-            "detail": "full reps: 2, 1.5, 1 · neg back-off: 0, 0, 3"
-          },
-          {
-            "date": "2026-10-14",
-            "detail": "full reps: 3, 2.5, 1 · neg back-off: 4, 3, 3"
           }
         ]
       },
@@ -26362,9 +26454,73 @@
             "detail": "reps: 2.5, 3, 2"
           }
         ]
+      },
+      {
+        "name": "Stomach-tap push-up (★explosive — hands leave the floor, touch your belly, hands back to catch)",
+        "rows": [
+          {
+            "date": "2026-10-21",
+            "detail": "reps: 5, 5, 5"
+          }
+        ]
       }
     ],
     "dates": [
+      {
+        "date": "2026-10-21",
+        "rows": [
+          {
+            "ladderId": "explosive",
+            "ladderName": "Horizontal Push — EXPLOSIVE",
+            "name": "Stomach-tap push-up (★explosive — hands leave the floor, touch your belly, hands back to catch)",
+            "raw": "5, 5, 5",
+            "avg": 5,
+            "target": "5",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "chinup",
+            "ladderName": "Chin-up",
+            "name": "Towel / uneven chin-up ★",
+            "raw": "3, 2, 2",
+            "avg": 2.3,
+            "target": "8/side",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "corehang",
+            "ladderName": "Core — HANGING",
+            "name": "Tucked raise toward bar (★as high as the low bar allows)",
+            "raw": "4, 4, 3",
+            "avg": 3.7,
+            "target": "8",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "pull",
+            "ladderName": "Pull",
+            "name": "Dead hang ★",
+            "raw": "34, 30",
+            "avg": 32,
+            "target": "45s",
+            "sets": 2,
+            "cleared": false
+          },
+          {
+            "ladderId": "handstand",
+            "ladderName": "Vertical Push / Handstand",
+            "name": "Wall HSPU (★75% ROM)",
+            "raw": "4, 3.5,  3",
+            "avg": 3.5,
+            "target": "8",
+            "sets": 3,
+            "cleared": false
+          }
+        ]
+      },
       {
         "date": "2026-10-19",
         "rows": [
@@ -29626,12 +29782,28 @@
   ],
   "last_perf": {
     "explosive": {
-      "date": "2026-10-19",
-      "detail": "2, 1, 0"
+      "date": "2026-10-21",
+      "detail": "5, 5, 5"
+    },
+    "chinup": {
+      "date": "2026-10-21",
+      "detail": "3, 2, 2"
+    },
+    "corehang": {
+      "date": "2026-10-21",
+      "detail": "4, 4, 3"
     },
     "pull": {
-      "date": "2026-10-19",
-      "detail": "2, 3, 2"
+      "date": "2026-10-21",
+      "detail": "34, 30"
+    },
+    "grip": {
+      "date": "2026-10-21",
+      "detail": "34, 30"
+    },
+    "handstand": {
+      "date": "2026-10-21",
+      "detail": "4, 3.5,  3"
     },
     "corefloor": {
       "date": "2026-10-19",
@@ -29641,10 +29813,6 @@
       "date": "2026-10-19",
       "detail": "5, 4, 3"
     },
-    "corehang": {
-      "date": "2026-10-19",
-      "detail": "5, 4, 4"
-    },
     "hpull": {
       "date": "2026-10-19",
       "detail": "6, 3.5, 2.5"
@@ -29653,10 +29821,6 @@
       "date": "2026-10-19",
       "detail": "2.5, 3, 2"
     },
-    "grip": {
-      "date": "2026-10-17",
-      "detail": "31, 15"
-    },
     "push": {
       "date": "2026-10-17",
       "detail": "6, 5, 5"
@@ -29664,14 +29828,6 @@
     "planche": {
       "date": "2026-10-17",
       "detail": "7, 7, 7"
-    },
-    "chinup": {
-      "date": "2026-10-14",
-      "detail": "3, 2.5, 1"
-    },
-    "handstand": {
-      "date": "2026-10-14",
-      "detail": "4, 3, 3"
     }
   },
   "health": {
@@ -33500,7 +33656,28 @@
     "vista-pyramid": "vista-pyramid.webp",
     "vista-redeemer": "vista-redeemer.webp"
   },
-  "pending_clears": [],
+  "pending_clears": [
+    {
+      "key": "rung:explosive:4:2026-10-21",
+      "date": "2026-10-21",
+      "ladder": "explosive",
+      "ladder_name": "Horizontal Push — EXPLOSIVE",
+      "rung": 4,
+      "movement": "Stomach-tap push-up (hands touch the belly)",
+      "exercise": "Stomach-tap push-up (★explosive — hands leave the floor, touch your belly, hands back to catch)",
+      "sets": [
+        5,
+        5,
+        5
+      ],
+      "avg": 5,
+      "target": 5,
+      "sets_needed": 3,
+      "band": "small",
+      "feet": 10,
+      "answer_line": "- notes / skips: clean rung:explosive:4:2026-10-21 yes   # Horizontal Push — EXPLOSIVE rung 4 — Stomach-tap push-up (hands touch the belly)"
+    }
+  ],
   "pending_clear_notes": [],
   "body_crossings": [],
   "body_next_bars": {
