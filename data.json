@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 204
     },
-    "overall_total": 1987,
+    "overall_total": 1988,
     "generated_for": "2026-10-27",
-    "built_at": "2026-10-27T11:43:19.612Z",
+    "built_at": "2026-10-27T12:14:32.189Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 730
+      "ft_to_go": 729
     },
     "captures_today_unscored": 0
   },
@@ -98,7 +98,7 @@
       "t0_note": "no public track record — not known in the field; every post, repo and paper still ahead",
       "endpoint": "A recognized public body of work — provisional and open by design (§14.0.2); this lane has no terminus",
       "endpoint_tier": "enormous",
-      "current": 73,
+      "current": 74,
       "working_on": "Not yet started — the first public thing ships from here"
     }
   ],
@@ -11693,6 +11693,20 @@
       "evidence": "POLARIS xmu7cybq7",
       "booked": "2026-10-27",
       "source": "polaris:xmu7cybq7:2026-10-27:session:1"
+    },
+    {
+      "date": "2026-10-27",
+      "lane": "fieldpresence",
+      "activity": "The CV page — a working sitting",
+      "label": "The CV page — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 74,
+      "cum_overall": 1988,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmu7cybqe",
+      "booked": "2026-10-27",
+      "source": "polaris:xmu7cybqe:2026-10-27:session:1"
     }
   ],
   "polaris_booked": {
@@ -11938,7 +11952,8 @@
     "polaris:xmt78btdt:2026-10-26:session:1": 1,
     "polaris:xmu7cybq6:2026-10-26:session:1": 1,
     "polaris:xmu7cybq6:completion": 1,
-    "polaris:xmu7cybq7:2026-10-27:session:1": 1
+    "polaris:xmu7cybq7:2026-10-27:session:1": 1,
+    "polaris:xmu7cybqe:2026-10-27:session:1": 1
   },
   "series": {
     "coding": [
@@ -17672,6 +17687,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Outreach 7 · Wave 1 — the best 15–20 emails — a working sitting"
+      },
+      {
+        "date": "2026-10-27",
+        "cum": 74,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "The CV page — a working sitting"
       }
     ]
   },
