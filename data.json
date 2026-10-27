@@ -21,7 +21,7 @@
     },
     "overall_total": 2010,
     "generated_for": "2026-10-27",
-    "built_at": "2026-10-27T15:12:03.381Z",
+    "built_at": "2026-10-27T15:20:04.086Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -19338,11 +19338,12 @@
       "id": "corefloor",
       "name": "Core — FLOOR",
       "elite": "dragon flag",
-      "current": 4,
+      "current": 5,
       "cleared_dates": {
         "1": "2026-07-12",
         "2": "2026-07-16",
-        "3": "2026-08-28"
+        "3": "2026-08-28",
+        "4": "2026-10-26"
       },
       "rungs": [
         {
@@ -19413,8 +19414,8 @@
         }
       ],
       "chart": 9,
-      "cleared_count": 3,
-      "height": 6,
+      "cleared_count": 4,
+      "height": 10,
       "triangular": [
         0,
         1,
@@ -21327,9 +21328,14 @@
         },
         {
           "date": "2026-10-26",
-          "y": 4.97,
-          "kind": "session",
-          "label": "Elevated tuck L-sit (hands raised on blocks/parallettes) — 15, 15 (avg 15 vs target 15)"
+          "y": 5,
+          "kind": "clear",
+          "label": "Core — FLOOR — cleared: Elevated tuck L-sit (hands raised on blocks/parallettes) (needed 15s, got 15, 15 — avg 15)",
+          "perf": {
+            "needed": "15s",
+            "got": "15, 15",
+            "avg": 15
+          }
         }
       ],
       "steps": [
@@ -21348,6 +21354,10 @@
         {
           "date": "2026-08-28",
           "rungs": 4
+        },
+        {
+          "date": "2026-10-26",
+          "rungs": 5
         }
       ],
       "chart": 9
@@ -24296,7 +24306,7 @@
             "name": "Elevated tuck L-sit (★finisher — hands raised; height is the dial)",
             "raw": "15, 15",
             "avg": 15,
-            "status": "● plotted at 4.97"
+            "status": "✓ CLEAR DAY — carried by the clear dot (needed 15s, avg 15)"
           }
         ]
       },
@@ -26785,7 +26795,7 @@
             "avg": 15,
             "target": "15s",
             "sets": 2,
-            "cleared": false
+            "cleared": true
           },
           {
             "ladderId": "planche",
