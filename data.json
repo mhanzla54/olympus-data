@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 204
     },
-    "overall_total": 2016,
-    "generated_for": "2026-10-27",
-    "built_at": "2026-10-27T20:04:21.470Z",
+    "overall_total": 2017,
+    "generated_for": "2026-10-28",
+    "built_at": "2026-10-28T12:17:33.055Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 701
+      "ft_to_go": 700
     },
     "captures_today_unscored": 0
   },
@@ -98,7 +98,7 @@
       "t0_note": "no public track record — not known in the field; every post, repo and paper still ahead",
       "endpoint": "A recognized public body of work — provisional and open by design (§14.0.2); this lane has no terminus",
       "endpoint_tier": "enormous",
-      "current": 76,
+      "current": 77,
       "working_on": "Not yet started — the first public thing ships from here"
     }
   ],
@@ -11847,6 +11847,20 @@
       "evidence": "POLARIS xmvqnn7dg4za",
       "booked": "2026-10-27",
       "source": "polaris:xmvqnn7dg4za:2026-10-27:session:1"
+    },
+    {
+      "date": "2026-10-28",
+      "lane": "fieldpresence",
+      "activity": "Outreach 7 · Wave 1 — the best 15–20 emails — a working sitting",
+      "label": "Outreach 7 · Wave 1 — the best 15–20 emails — a working…",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 77,
+      "cum_overall": 2017,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmu7cybq7",
+      "booked": "2026-10-28",
+      "source": "polaris:xmu7cybq7:2026-10-28:session:1"
     }
   ],
   "polaris_booked": {
@@ -12096,7 +12110,8 @@
     "polaris:xmu7cybqe:2026-10-27:session:1": 1,
     "polaris:xmu7cybpy:2026-10-27:session:1": 1,
     "polaris:xmvqnn7dgxek:completion": 1,
-    "polaris:xmvqnn7dg4za:2026-10-27:session:1": 1
+    "polaris:xmvqnn7dg4za:2026-10-27:session:1": 1,
+    "polaris:xmu7cybq7:2026-10-28:session:1": 1
   },
   "series": {
     "coding": [
@@ -17907,6 +17922,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "BlueDot + GTR applications · build, assemble, submit — a working sitting"
+      },
+      {
+        "date": "2026-10-28",
+        "cum": 77,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Outreach 7 · Wave 1 — the best 15–20 emails — a working sitting"
       }
     ]
   },
