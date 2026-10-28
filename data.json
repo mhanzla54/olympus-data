@@ -21,7 +21,7 @@
     },
     "overall_total": 2017,
     "generated_for": "2026-10-28",
-    "built_at": "2026-10-28T15:40:04.107Z",
+    "built_at": "2026-10-28T16:00:04.375Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -20685,7 +20685,7 @@
           "date": "2026-10-28",
           "y": 5.69,
           "kind": "session",
-          "label": "Uneven ring row (one arm high on strap, one low) — 5.5, (avg 5.5 vs target 8)"
+          "label": "Uneven ring row (one arm high on strap, one low) — 5.5, 6, 5 (avg 5.5 vs target 8)"
         }
       ],
       "steps": [
@@ -21327,6 +21327,12 @@
           "y": 9.5,
           "kind": "session",
           "label": "Full pistol — tempo (3s down) — 2.5, 3, 2 (avg 2.5 vs target 5)"
+        },
+        {
+          "date": "2026-10-28",
+          "y": 9.5,
+          "kind": "session",
+          "label": "Full pistol — tempo (3s down) — 4.5, 2.5, .5 (avg 2.5 vs target 5)"
         }
       ],
       "steps": [
@@ -22139,7 +22145,7 @@
     },
     "legs": {
       "candidates": 25,
-      "plotted": 19,
+      "plotted": 20,
       "rejected": [
         {
           "date": "2026-06-08",
@@ -22160,10 +22166,6 @@
         {
           "date": "2026-08-29",
           "why": "\"Full pistol (★heel elevated ~2\", no hand\" logged no usable numbers"
-        },
-        {
-          "date": "2026-10-28",
-          "why": "\"Full pistol — tempo (★3s down)\" logged no usable numbers"
         }
       ]
     },
@@ -23587,7 +23589,7 @@
           {
             "date": "2026-10-28",
             "name": "Uneven ring row (★one arm high on strap, one low)",
-            "raw": "5.5,",
+            "raw": "5.5, 6, 5",
             "avg": 5.5,
             "status": "● plotted at 5.69"
           }
@@ -24311,9 +24313,9 @@
           {
             "date": "2026-10-28",
             "name": "Full pistol — tempo (★3s down)",
-            "raw": "",
-            "avg": null,
-            "status": "✗ not plotted — \"Full pistol — tempo (★3s down)\" logged no usable numbers"
+            "raw": "4.5, 2.5, .5",
+            "avg": 2.5,
+            "status": "● plotted at 9.5"
           }
         ]
       },
@@ -26363,7 +26365,7 @@
           },
           {
             "date": "2026-10-28",
-            "detail": "reps: —"
+            "detail": "reps: 5,"
           }
         ]
       },
@@ -26792,7 +26794,7 @@
           },
           {
             "date": "2026-10-28",
-            "detail": "reps: 5.5,"
+            "detail": "reps: 5.5, 6, 5"
           }
         ]
       },
@@ -26805,7 +26807,7 @@
           },
           {
             "date": "2026-10-28",
-            "detail": "reps: —"
+            "detail": "reps: 4.5, 2.5, .5"
           }
         ]
       },
@@ -27028,7 +27030,7 @@
             "ladderId": "hpull",
             "ladderName": "Horizontal Pull — ROWS",
             "name": "Uneven ring row (★one arm high on strap, one low)",
-            "raw": "5.5,",
+            "raw": "5.5, 6, 5",
             "avg": 5.5,
             "target": "8/side",
             "sets": 3,
@@ -27038,8 +27040,8 @@
             "ladderId": "legs",
             "ladderName": "Legs — Pistol",
             "name": "Full pistol — tempo (★3s down)",
-            "raw": "",
-            "avg": null,
+            "raw": "4.5, 2.5, .5",
+            "avg": 2.5,
             "target": "5/leg",
             "sets": 3,
             "cleared": false
@@ -30509,7 +30511,11 @@
     },
     "hpull": {
       "date": "2026-10-28",
-      "detail": "5.5,"
+      "detail": "5.5, 6, 5"
+    },
+    "legs": {
+      "date": "2026-10-28",
+      "detail": "4.5, 2.5, .5"
     },
     "grip": {
       "date": "2026-10-26",
@@ -30534,10 +30540,6 @@
     "handstand": {
       "date": "2026-10-21",
       "detail": "4, 3.5,  3"
-    },
-    "legs": {
-      "date": "2026-10-19",
-      "detail": "2.5, 3, 2"
     }
   },
   "health": {
