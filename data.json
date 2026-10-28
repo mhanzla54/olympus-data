@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 204
     },
-    "overall_total": 2018,
+    "overall_total": 2019,
     "generated_for": "2026-10-28",
-    "built_at": "2026-10-28T17:05:04.327Z",
+    "built_at": "2026-10-28T17:05:19.443Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 699
+      "ft_to_go": 698
     },
     "captures_today_unscored": 0
   },
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 562,
+      "current": 563,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -11875,6 +11875,20 @@
       "evidence": "POLARIS xmvr1s9mbcjs",
       "booked": "2026-10-28",
       "source": "polaris:xmvr1s9mbcjs:completion"
+    },
+    {
+      "date": "2026-10-28",
+      "lane": "strength",
+      "activity": "Workout — a working sitting",
+      "label": "Workout — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 563,
+      "cum_overall": 2019,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmta206fu",
+      "booked": "2026-10-28",
+      "source": "polaris:xmta206fu:2026-10-28:session:1"
     }
   ],
   "polaris_booked": {
@@ -12126,7 +12140,8 @@
     "polaris:xmvqnn7dgxek:completion": 1,
     "polaris:xmvqnn7dg4za:2026-10-27:session:1": 1,
     "polaris:xmu7cybq7:2026-10-28:session:1": 1,
-    "polaris:xmvr1s9mbcjs:completion": 1
+    "polaris:xmvr1s9mbcjs:completion": 1,
+    "polaris:xmta206fu:2026-10-28:session:1": 1
   },
   "series": {
     "coding": [
@@ -15714,6 +15729,13 @@
         "feet": 10,
         "tier": "small",
         "activity": "Core — FLOOR rung 4 CLEARED — Elevated tuck L-sit (hands raised on blocks/parallettes) (15/15, avg 15 vs target 15)"
+      },
+      {
+        "date": "2026-10-28",
+        "cum": 563,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Workout — a working sitting"
       }
     ],
     "body": [
