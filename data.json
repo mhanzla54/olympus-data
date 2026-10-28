@@ -21,7 +21,7 @@
     },
     "overall_total": 2017,
     "generated_for": "2026-10-28",
-    "built_at": "2026-10-28T12:17:33.055Z",
+    "built_at": "2026-10-28T13:20:05.860Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -31449,10 +31449,10 @@
       {
         "date": "2026-10-27",
         "w": 204.4,
-        "kcal": 0,
-        "protein": 0,
-        "dayType": "empty",
-        "provisional": true
+        "kcal": 796,
+        "protein": 82,
+        "dayType": "strict",
+        "provisional": false
       }
     ],
     "trend": [
@@ -32401,11 +32401,6 @@
     },
     "strip": [
       {
-        "date": "2026-09-28",
-        "state": "off",
-        "kcal": 1982
-      },
-      {
         "date": "2026-09-29",
         "state": "good",
         "kcal": 1718
@@ -32547,6 +32542,11 @@
       },
       {
         "date": "2026-10-27",
+        "state": "off",
+        "kcal": 796
+      },
+      {
+        "date": "2026-10-28",
         "state": "partial",
         "kcal": 0
       }
@@ -33786,6 +33786,14 @@
       },
       {
         "date": "2026-10-27",
+        "kcal": 796,
+        "protein": 82,
+        "dayType": "strict",
+        "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-10-28",
         "kcal": 0,
         "protein": 0,
         "dayType": "empty",
