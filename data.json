@@ -21,7 +21,7 @@
     },
     "overall_total": 2017,
     "generated_for": "2026-10-28",
-    "built_at": "2026-10-28T15:20:03.979Z",
+    "built_at": "2026-10-28T15:40:04.107Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -20541,9 +20541,9 @@
         },
         {
           "date": "2026-10-28",
-          "y": 6.44,
+          "y": 6.42,
           "kind": "session",
-          "label": "Uneven / towel pull-up — 4, 3, (avg 3.5 vs target 8)"
+          "label": "Uneven / towel pull-up — 4, 3, 3 (avg 3.3 vs target 8)"
         }
       ],
       "steps": [
@@ -20680,6 +20680,12 @@
           "y": 5.5,
           "kind": "session",
           "label": "Uneven ring row (one arm high on strap, one low) — 6, 3.5, 2.5 (avg 4 vs target 8)"
+        },
+        {
+          "date": "2026-10-28",
+          "y": 5.69,
+          "kind": "session",
+          "label": "Uneven ring row (one arm high on strap, one low) — 5.5, (avg 5.5 vs target 8)"
         }
       ],
       "steps": [
@@ -20734,6 +20740,12 @@
           "y": 1.8,
           "kind": "session",
           "label": "Tuck front lever — negative (hop up, ~5s down) — 5, 4, 3 (avg 4 vs target 5)"
+        },
+        {
+          "date": "2026-10-28",
+          "y": 1.8,
+          "kind": "session",
+          "label": "Tuck front lever — negative (hop up, ~5s down) — 4, 4, 4 (avg 4 vs target 5)"
         }
       ],
       "steps": [
@@ -21893,6 +21905,12 @@
           "y": 7.71,
           "kind": "session",
           "label": "Tucked raise toward bar (as high as the low bar allows) — 7, 5, 5 (avg 5.7 vs target 8)"
+        },
+        {
+          "date": "2026-10-28",
+          "y": 7.5,
+          "kind": "session",
+          "label": "Tucked raise toward bar (as high as the low bar allows) — 4, 4, 4 (avg 4 vs target 8)"
         }
       ],
       "steps": [
@@ -22189,7 +22207,7 @@
     },
     "corehang": {
       "candidates": 61,
-      "plotted": 56,
+      "plotted": 57,
       "rejected": [
         {
           "date": "2026-06-27",
@@ -22206,16 +22224,12 @@
         {
           "date": "2026-10-24",
           "why": "\"Tucked raise toward bar (★as high as the\" logged no usable numbers"
-        },
-        {
-          "date": "2026-10-28",
-          "why": "\"Tucked raise toward bar (★as high as the\" logged no usable numbers"
         }
       ]
     },
     "frontlever": {
       "candidates": 14,
-      "plotted": 3,
+      "plotted": 4,
       "rejected": [
         {
           "date": "2026-08-12",
@@ -22256,16 +22270,12 @@
         {
           "date": "2026-09-28",
           "why": "\"Tuck front lever ★ (arms straight, knees\" is rung-2 work, not the trained rung 1 — cleared/future-rung work does not plot (owner law)"
-        },
-        {
-          "date": "2026-10-28",
-          "why": "\"Tuck front lever negative ★ (hop up, arm\" logged no usable numbers"
         }
       ]
     },
     "hpull": {
       "candidates": 17,
-      "plotted": 14,
+      "plotted": 15,
       "rejected": [
         {
           "date": "2026-07-18",
@@ -22274,10 +22284,6 @@
         {
           "date": "2026-07-25",
           "why": "\"Feet-elevated Ring Row (★ feet on a chai\" is rung-3 work, not the trained rung 2 — cleared/future-rung work does not plot (owner law)"
-        },
-        {
-          "date": "2026-10-28",
-          "why": "\"Uneven ring row (★one arm high on strap,\" logged no usable numbers"
         }
       ]
     }
@@ -23456,9 +23462,9 @@
           {
             "date": "2026-10-28",
             "name": "Uneven / towel pull-up (★one hand on the bar, one on a towel hanging from it — then negatives as back-off)",
-            "raw": "4, 3,",
-            "avg": 3.5,
-            "status": "● plotted at 6.44"
+            "raw": "4, 3, 3",
+            "avg": 3.3,
+            "status": "● plotted at 6.42"
           }
         ]
       },
@@ -23581,9 +23587,9 @@
           {
             "date": "2026-10-28",
             "name": "Uneven ring row (★one arm high on strap, one low)",
-            "raw": "",
-            "avg": null,
-            "status": "✗ not plotted — \"Uneven ring row (★one arm high on strap,\" logged no usable numbers"
+            "raw": "5.5,",
+            "avg": 5.5,
+            "status": "● plotted at 5.69"
           }
         ]
       },
@@ -23685,9 +23691,9 @@
           {
             "date": "2026-10-28",
             "name": "Tuck front lever negative ★ (hop up, arms straight, back flat, ~5s down)",
-            "raw": "",
-            "avg": null,
-            "status": "✗ not plotted — \"Tuck front lever negative ★ (hop up, arm\" logged no usable numbers"
+            "raw": "4, 4, 4",
+            "avg": 4,
+            "status": "● plotted at 1.8"
           }
         ]
       },
@@ -24514,8 +24520,8 @@
           {
             "date": "2026-10-28",
             "name": "Tuck front lever negative ★ (hop up, arms straight, back flat, ~5s down)",
-            "raw": "",
-            "avg": null,
+            "raw": "4, 4, 4",
+            "avg": 4,
             "status": "✗ not plotted — \"Tuck front lever negative ★ (hop up, arm\" is rung-3 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           }
         ]
@@ -24954,9 +24960,9 @@
           {
             "date": "2026-10-28",
             "name": "Tucked raise toward bar (★as high as the low bar allows)",
-            "raw": "",
-            "avg": null,
-            "status": "✗ not plotted — \"Tucked raise toward bar (★as high as the\" logged no usable numbers"
+            "raw": "4, 4, 4",
+            "avg": 4,
+            "status": "● plotted at 7.5"
           }
         ]
       }
@@ -25692,7 +25698,7 @@
           },
           {
             "date": "2026-10-28",
-            "detail": "reps: —"
+            "detail": "reps: 4, 4, 4"
           }
         ]
       },
@@ -26525,7 +26531,7 @@
           },
           {
             "date": "2026-10-28",
-            "detail": "reps: —"
+            "detail": "reps: 4, 4, 4"
           }
         ]
       },
@@ -26546,7 +26552,7 @@
           },
           {
             "date": "2026-10-28",
-            "detail": "full reps: 4, 3, · neg back-off: 5, 3,"
+            "detail": "full reps: 4, 3, 3 · neg back-off: 5, 3, 4"
           }
         ]
       },
@@ -26786,7 +26792,7 @@
           },
           {
             "date": "2026-10-28",
-            "detail": "reps: —"
+            "detail": "reps: 5.5,"
           }
         ]
       },
@@ -26992,8 +26998,8 @@
             "ladderId": "pull",
             "ladderName": "Pull",
             "name": "Uneven / towel pull-up (★one hand on the bar, one on a towel hanging from it — then negatives as back-off)",
-            "raw": "4, 3,",
-            "avg": 3.5,
+            "raw": "4, 3, 3",
+            "avg": 3.3,
             "target": "8/side",
             "sets": 3,
             "cleared": false
@@ -27002,8 +27008,8 @@
             "ladderId": "corefloor",
             "ladderName": "Core — FLOOR",
             "name": "Tuck front lever negative ★ (hop up, arms straight, back flat, ~5s down)",
-            "raw": "",
-            "avg": null,
+            "raw": "4, 4, 4",
+            "avg": 4,
             "target": "15",
             "sets": 2,
             "cleared": false
@@ -27012,8 +27018,8 @@
             "ladderId": "corehang",
             "ladderName": "Core — HANGING",
             "name": "Tucked raise toward bar (★as high as the low bar allows)",
-            "raw": "",
-            "avg": null,
+            "raw": "4, 4, 4",
+            "avg": 4,
             "target": "8",
             "sets": 3,
             "cleared": false
@@ -27022,8 +27028,8 @@
             "ladderId": "hpull",
             "ladderName": "Horizontal Pull — ROWS",
             "name": "Uneven ring row (★one arm high on strap, one low)",
-            "raw": "",
-            "avg": null,
+            "raw": "5.5,",
+            "avg": 5.5,
             "target": "8/side",
             "sets": 3,
             "cleared": false
@@ -30487,11 +30493,23 @@
   "last_perf": {
     "pull": {
       "date": "2026-10-28",
-      "detail": "4, 3,"
+      "detail": "4, 3, 3"
+    },
+    "corefloor": {
+      "date": "2026-10-28",
+      "detail": "4, 4, 4"
+    },
+    "frontlever": {
+      "date": "2026-10-28",
+      "detail": "4, 4, 4"
     },
     "corehang": {
-      "date": "2026-10-26",
-      "detail": "7, 5, 5"
+      "date": "2026-10-28",
+      "detail": "4, 4, 4"
+    },
+    "hpull": {
+      "date": "2026-10-28",
+      "detail": "5.5,"
     },
     "grip": {
       "date": "2026-10-26",
@@ -30500,10 +30518,6 @@
     "push": {
       "date": "2026-10-26",
       "detail": "8, 6, 5"
-    },
-    "corefloor": {
-      "date": "2026-10-26",
-      "detail": "15, 15"
     },
     "planche": {
       "date": "2026-10-26",
@@ -30520,14 +30534,6 @@
     "handstand": {
       "date": "2026-10-21",
       "detail": "4, 3.5,  3"
-    },
-    "frontlever": {
-      "date": "2026-10-19",
-      "detail": "5, 4, 3"
-    },
-    "hpull": {
-      "date": "2026-10-19",
-      "detail": "6, 3.5, 2.5"
     },
     "legs": {
       "date": "2026-10-19",
