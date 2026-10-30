@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 202.2
     },
-    "overall_total": 2042,
-    "generated_for": "2026-10-29",
-    "built_at": "2026-10-29T18:20:04.036Z",
+    "overall_total": 2044,
+    "generated_for": "2026-10-30",
+    "built_at": "2026-10-30T12:51:35.648Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 675
+      "ft_to_go": 673
     },
     "captures_today_unscored": 0
   },
@@ -98,7 +98,7 @@
       "t0_note": "no public track record — not known in the field; every post, repo and paper still ahead",
       "endpoint": "A recognized public body of work — provisional and open by design (§14.0.2); this lane has no terminus",
       "endpoint_tier": "enormous",
-      "current": 79,
+      "current": 81,
       "working_on": "Not yet started — the first public thing ships from here"
     }
   ],
@@ -11959,6 +11959,34 @@
       "evidence": "health warehouse",
       "booked": "2026-10-29",
       "source": "body:calorie-day:2026-10-28"
+    },
+    {
+      "date": "2026-10-29",
+      "lane": "fieldpresence",
+      "activity": "Outreach 7 · Wave 1 — the best 15–20 emails — a working sitting",
+      "label": "Outreach 7 · Wave 1 — the best 15–20 emails — a working…",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 80,
+      "cum_overall": 2043,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmu7cybq7",
+      "booked": "2026-10-30",
+      "source": "polaris:xmu7cybq7:2026-10-29:session:1"
+    },
+    {
+      "date": "2026-10-29",
+      "lane": "fieldpresence",
+      "activity": "BlueDot + GTR applications · build, assemble, submit — a working sitting",
+      "label": "BlueDot + GTR applications · build, assemble, submit",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 81,
+      "cum_overall": 2044,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmvqnn7dg4za",
+      "booked": "2026-10-30",
+      "source": "polaris:xmvqnn7dg4za:2026-10-29:session:1"
     }
   ],
   "polaris_booked": {
@@ -12212,7 +12240,9 @@
     "polaris:xmu7cybq7:2026-10-28:session:1": 1,
     "polaris:xmvr1s9mbcjs:completion": 1,
     "polaris:xmta206fu:2026-10-28:session:1": 1,
-    "polaris:xmvqnn7dg4za:2026-10-28:session:1": 1
+    "polaris:xmvqnn7dg4za:2026-10-28:session:1": 1,
+    "polaris:xmu7cybq7:2026-10-29:session:1": 1,
+    "polaris:xmvqnn7dg4za:2026-10-29:session:1": 1
   },
   "series": {
     "coding": [
@@ -18076,6 +18106,20 @@
       {
         "date": "2026-10-28",
         "cum": 79,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "BlueDot + GTR applications · build, assemble, submit — a working sitting"
+      },
+      {
+        "date": "2026-10-29",
+        "cum": 80,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Outreach 7 · Wave 1 — the best 15–20 emails — a working sitting"
+      },
+      {
+        "date": "2026-10-29",
+        "cum": 81,
         "feet": 1,
         "tier": "tiny",
         "activity": "BlueDot + GTR applications · build, assemble, submit — a working sitting"
