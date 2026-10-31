@@ -20,8 +20,8 @@
       "all_time_low_lb": 202.2
     },
     "overall_total": 2047,
-    "generated_for": "2026-10-30",
-    "built_at": "2026-10-30T23:12:04.155Z",
+    "generated_for": "2026-10-31",
+    "built_at": "2026-10-31T13:20:04.037Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -32839,11 +32839,6 @@
     },
     "strip": [
       {
-        "date": "2026-10-01",
-        "state": "off",
-        "kcal": 1997
-      },
-      {
         "date": "2026-10-02",
         "state": "partial",
         "kcal": 0
@@ -32985,8 +32980,13 @@
       },
       {
         "date": "2026-10-30",
-        "state": "partial",
+        "state": "good",
         "kcal": 1365
+      },
+      {
+        "date": "2026-10-31",
+        "state": "partial",
+        "kcal": 0
       }
     ],
     "days": [
@@ -34252,6 +34252,14 @@
         "protein": 172,
         "dayType": "strict",
         "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-10-31",
+        "kcal": 0,
+        "protein": 0,
+        "dayType": "empty",
+        "logged": "empty",
         "provisional": true
       }
     ],
