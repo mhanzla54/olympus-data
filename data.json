@@ -21,7 +21,7 @@
     },
     "overall_total": 2057,
     "generated_for": "2026-10-31",
-    "built_at": "2026-10-31T15:46:03.578Z",
+    "built_at": "2026-10-31T15:50:04.287Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -18937,11 +18937,12 @@
       "id": "explosive",
       "name": "Horizontal Push — EXPLOSIVE",
       "elite": "triple-clap",
-      "current": 5,
+      "current": 6,
       "cleared_dates": {
         "2": "2026-06-29",
         "3": "2026-08-17",
-        "4": "2026-10-21"
+        "4": "2026-10-21",
+        "5": "2026-10-31"
       },
       "rungs": [
         {
@@ -19012,8 +19013,8 @@
         }
       ],
       "chart": 2,
-      "cleared_count": 4,
-      "height": 10,
+      "cleared_count": 5,
+      "height": 15,
       "triangular": [
         0,
         1,
@@ -20238,9 +20239,14 @@
         },
         {
           "date": "2026-10-31",
-          "y": 5.97,
-          "kind": "session",
-          "label": "Hip-tap push-up (hands touch the hips) — 4, 5, 7 (avg 5.3 vs target 5)"
+          "y": 6,
+          "kind": "clear",
+          "label": "Horizontal Push — EXPLOSIVE — cleared: Hip-tap push-up (hands touch the hips) (needed 5, got 4, 5, 7 — avg 5.33)",
+          "perf": {
+            "needed": "5",
+            "got": "4, 5, 7",
+            "avg": 5.33
+          }
         }
       ],
       "steps": [
@@ -20259,6 +20265,10 @@
         {
           "date": "2026-10-21",
           "rungs": 5
+        },
+        {
+          "date": "2026-10-31",
+          "rungs": 6
         }
       ],
       "chart": 2
@@ -22908,7 +22918,7 @@
             "name": "Hip-tap push-up (★hands touch the hips)",
             "raw": "4, 5, 7",
             "avg": 5.3,
-            "status": "● plotted at 5.97"
+            "status": "✓ CLEAR DAY — carried by the clear dot (needed 5, avg 5.33)"
           }
         ]
       },
@@ -27385,7 +27395,7 @@
             "avg": 5.3,
             "target": "5",
             "sets": 3,
-            "cleared": false
+            "cleared": true
           },
           {
             "ladderId": "chinup",
