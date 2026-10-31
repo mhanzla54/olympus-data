@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 202.2
     },
-    "overall_total": 2057,
+    "overall_total": 2059,
     "generated_for": "2026-10-31",
-    "built_at": "2026-10-31T15:50:04.287Z",
+    "built_at": "2026-10-31T19:50:44.550Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 660
+      "ft_to_go": 658
     },
     "captures_today_unscored": 0
   },
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 573,
+      "current": 574,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -98,7 +98,7 @@
       "t0_note": "no public track record — not known in the field; every post, repo and paper still ahead",
       "endpoint": "A recognized public body of work — provisional and open by design (§14.0.2); this lane has no terminus",
       "endpoint_tier": "enormous",
-      "current": 83,
+      "current": 84,
       "working_on": "Not yet started — the first public thing ships from here"
     }
   ],
@@ -12043,6 +12043,34 @@
       "evidence": "workout-log; Hip-tap push-up (★hands touch the hips)",
       "booked": "2026-10-31",
       "source": "rung:explosive:5:2026-10-31"
+    },
+    {
+      "date": "2026-10-31",
+      "lane": "strength",
+      "activity": "Workout — a working sitting",
+      "label": "Workout — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 574,
+      "cum_overall": 2058,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmtegz4dz",
+      "booked": "2026-10-31",
+      "source": "polaris:xmtegz4dz:2026-10-31:session:1"
+    },
+    {
+      "date": "2026-10-31",
+      "lane": "fieldpresence",
+      "activity": "BlueDot + GTR applications · build, assemble, submit — a working sitting",
+      "label": "BlueDot + GTR applications · build, assemble, submit",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 84,
+      "cum_overall": 2059,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmvqnn7dg4za",
+      "booked": "2026-10-31",
+      "source": "polaris:xmvqnn7dg4za:2026-10-31:session:1"
     }
   ],
   "polaris_booked": {
@@ -12300,7 +12328,9 @@
     "polaris:xmu7cybq7:2026-10-29:session:1": 1,
     "polaris:xmvqnn7dg4za:2026-10-29:session:1": 1,
     "polaris:xmu7cybq7:2026-10-30:session:1": 1,
-    "polaris:xmvqnn7dg4za:2026-10-30:session:1": 1
+    "polaris:xmvqnn7dg4za:2026-10-30:session:1": 1,
+    "polaris:xmtegz4dz:2026-10-31:session:1": 1,
+    "polaris:xmvqnn7dg4za:2026-10-31:session:1": 1
   },
   "series": {
     "coding": [
@@ -15902,6 +15932,13 @@
         "feet": 10,
         "tier": "small",
         "activity": "Horizontal Push — EXPLOSIVE rung 5 CLEARED — Hip-tap push-up (hands touch the hips) (4/5/7, avg 5.33 vs target 5)"
+      },
+      {
+        "date": "2026-10-31",
+        "cum": 574,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Workout — a working sitting"
       }
     ],
     "body": [
@@ -18206,6 +18243,13 @@
       {
         "date": "2026-10-30",
         "cum": 83,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "BlueDot + GTR applications · build, assemble, submit — a working sitting"
+      },
+      {
+        "date": "2026-10-31",
+        "cum": 84,
         "feet": 1,
         "tier": "tiny",
         "activity": "BlueDot + GTR applications · build, assemble, submit — a working sitting"
