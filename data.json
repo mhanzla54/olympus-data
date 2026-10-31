@@ -21,7 +21,7 @@
     },
     "overall_total": 2047,
     "generated_for": "2026-10-31",
-    "built_at": "2026-10-31T15:20:04.038Z",
+    "built_at": "2026-10-31T15:30:04.144Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -21436,6 +21436,12 @@
           "y": 3.42,
           "kind": "session",
           "label": "Dead hang — 27, 23 (avg 25 vs target 60)"
+        },
+        {
+          "date": "2026-10-31",
+          "y": 3.52,
+          "kind": "session",
+          "label": "Dead hang — 31, (avg 31 vs target 60)"
         }
       ],
       "steps": [
@@ -22416,7 +22422,7 @@
     },
     "grip": {
       "candidates": 41,
-      "plotted": 38,
+      "plotted": 39,
       "rejected": [
         {
           "date": "2026-10-10",
@@ -22424,10 +22430,6 @@
         },
         {
           "date": "2026-10-24",
-          "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" logged no usable numbers"
-        },
-        {
-          "date": "2026-10-31",
           "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" logged no usable numbers"
         }
       ]
@@ -23774,8 +23776,8 @@
           {
             "date": "2026-10-31",
             "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
-            "raw": "",
-            "avg": null,
+            "raw": "31,",
+            "avg": 31,
             "status": "✗ not plotted — \"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 6 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
           }
         ]
@@ -24456,9 +24458,9 @@
           {
             "date": "2026-10-31",
             "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
-            "raw": "",
-            "avg": null,
-            "status": "✗ not plotted — \"Grip+trap (flex): dead hang ★ + scap shr\" logged no usable numbers"
+            "raw": "31,",
+            "avg": 31,
+            "status": "● plotted at 3.52"
           }
         ]
       },
@@ -25454,7 +25456,7 @@
           },
           {
             "date": "2026-10-31",
-            "detail": "hang: — · shrugs: 5, 3"
+            "detail": "hang: 31, · shrugs: 5, 3"
           }
         ]
       },
@@ -27386,8 +27388,8 @@
             "ladderId": "pull",
             "ladderName": "Pull",
             "name": "Dead hang ★",
-            "raw": "",
-            "avg": null,
+            "raw": "31,",
+            "avg": 31,
             "target": "45s",
             "sets": 2,
             "cleared": false
@@ -30917,8 +30919,12 @@
       "detail": "8, 4.5, 2"
     },
     "pull": {
-      "date": "2026-10-28",
-      "detail": "4, 3, 3"
+      "date": "2026-10-31",
+      "detail": "31,"
+    },
+    "grip": {
+      "date": "2026-10-31",
+      "detail": "31,"
     },
     "corefloor": {
       "date": "2026-10-28",
@@ -30935,10 +30941,6 @@
     "legs": {
       "date": "2026-10-28",
       "detail": "4.5, 2.5, .5"
-    },
-    "grip": {
-      "date": "2026-10-26",
-      "detail": "27, 23"
     },
     "push": {
       "date": "2026-10-26",
