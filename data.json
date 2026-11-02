@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 202.2
     },
-    "overall_total": 2060,
+    "overall_total": 2062,
     "generated_for": "2026-11-02",
-    "built_at": "2026-11-02T14:50:04.658Z",
+    "built_at": "2026-11-02T18:20:15.687Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 657
+      "ft_to_go": 655
     },
     "captures_today_unscored": 0
   },
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 574,
+      "current": 575,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -98,7 +98,7 @@
       "t0_note": "no public track record — not known in the field; every post, repo and paper still ahead",
       "endpoint": "A recognized public body of work — provisional and open by design (§14.0.2); this lane has no terminus",
       "endpoint_tier": "enormous",
-      "current": 84,
+      "current": 85,
       "working_on": "Not yet started — the first public thing ships from here"
     }
   ],
@@ -12085,6 +12085,34 @@
       "evidence": "health warehouse",
       "booked": "2026-11-02",
       "source": "body:protein-day:2026-10-31"
+    },
+    {
+      "date": "2026-11-02",
+      "lane": "strength",
+      "activity": "Workout — a working sitting",
+      "label": "Workout — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 575,
+      "cum_overall": 2061,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmt78btdt",
+      "booked": "2026-11-02",
+      "source": "polaris:xmt78btdt:2026-11-02:session:1"
+    },
+    {
+      "date": "2026-11-02",
+      "lane": "fieldpresence",
+      "activity": "Outreach 7 · Wave 1 — the best 15–20 emails — a working sitting",
+      "label": "Outreach 7 · Wave 1 — the best 15–20 emails — a working…",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 85,
+      "cum_overall": 2062,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmu7cybq7",
+      "booked": "2026-11-02",
+      "source": "polaris:xmu7cybq7:2026-11-02:session:1"
     }
   ],
   "polaris_booked": {
@@ -12344,7 +12372,9 @@
     "polaris:xmu7cybq7:2026-10-30:session:1": 1,
     "polaris:xmvqnn7dg4za:2026-10-30:session:1": 1,
     "polaris:xmtegz4dz:2026-10-31:session:1": 1,
-    "polaris:xmvqnn7dg4za:2026-10-31:session:1": 1
+    "polaris:xmvqnn7dg4za:2026-10-31:session:1": 1,
+    "polaris:xmt78btdt:2026-11-02:session:1": 1,
+    "polaris:xmu7cybq7:2026-11-02:session:1": 1
   },
   "series": {
     "coding": [
@@ -15953,6 +15983,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Workout — a working sitting"
+      },
+      {
+        "date": "2026-11-02",
+        "cum": 575,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Workout — a working sitting"
       }
     ],
     "body": [
@@ -18274,6 +18311,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "BlueDot + GTR applications · build, assemble, submit — a working sitting"
+      },
+      {
+        "date": "2026-11-02",
+        "cum": 85,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Outreach 7 · Wave 1 — the best 15–20 emails — a working sitting"
       }
     ]
   },
