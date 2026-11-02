@@ -21,7 +21,7 @@
     },
     "overall_total": 2060,
     "generated_for": "2026-11-02",
-    "built_at": "2026-11-02T11:24:04.215Z",
+    "built_at": "2026-11-02T14:50:04.658Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -22339,7 +22339,7 @@
   ],
   "ladder_parity": {
     "push": {
-      "candidates": 21,
+      "candidates": 22,
       "plotted": 16,
       "rejected": [
         {
@@ -22361,6 +22361,10 @@
         {
           "date": "2026-10-24",
           "why": "\"High-incline one-arm push-up (★stairs — \" logged no usable numbers"
+        },
+        {
+          "date": "2026-11-02",
+          "why": "\"High-incline one-arm push-up (★stairs — \" logged no usable numbers"
         }
       ]
     },
@@ -22375,7 +22379,7 @@
       ]
     },
     "planche": {
-      "candidates": 21,
+      "candidates": 22,
       "plotted": 17,
       "rejected": [
         {
@@ -22392,6 +22396,10 @@
         },
         {
           "date": "2026-10-24",
+          "why": "\"Frog stand ★ (parallettes — knees restin\" logged no usable numbers"
+        },
+        {
+          "date": "2026-11-02",
           "why": "\"Frog stand ★ (parallettes — knees restin\" logged no usable numbers"
         }
       ]
@@ -22411,7 +22419,7 @@
       ]
     },
     "pull": {
-      "candidates": 64,
+      "candidates": 65,
       "plotted": 42,
       "rejected": [
         {
@@ -22505,6 +22513,10 @@
         {
           "date": "2026-10-31",
           "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 6 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-11-02",
+          "why": "\"Uneven / towel pull-up (★one hand on the\" logged no usable numbers"
         }
       ]
     },
@@ -22519,7 +22531,7 @@
       ]
     },
     "grip": {
-      "candidates": 41,
+      "candidates": 42,
       "plotted": 39,
       "rejected": [
         {
@@ -22528,6 +22540,10 @@
         },
         {
           "date": "2026-10-24",
+          "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" logged no usable numbers"
+        },
+        {
+          "date": "2026-11-02",
           "why": "\"Grip+trap (flex): dead hang ★ + scap shr\" logged no usable numbers"
         }
       ]
@@ -22559,7 +22575,7 @@
       ]
     },
     "corefloor": {
-      "candidates": 28,
+      "candidates": 29,
       "plotted": 20,
       "rejected": [
         {
@@ -22593,11 +22609,15 @@
         {
           "date": "2026-10-28",
           "why": "\"Tuck front lever negative ★ (hop up, arm\" is rung-3 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+        },
+        {
+          "date": "2026-11-02",
+          "why": "\"Tuck L-sit ★\" logged no usable numbers"
         }
       ]
     },
     "corehang": {
-      "candidates": 62,
+      "candidates": 63,
       "plotted": 58,
       "rejected": [
         {
@@ -22614,6 +22634,10 @@
         },
         {
           "date": "2026-10-24",
+          "why": "\"Tucked raise toward bar (★as high as the\" logged no usable numbers"
+        },
+        {
+          "date": "2026-11-02",
           "why": "\"Tucked raise toward bar (★as high as the\" logged no usable numbers"
         }
       ]
@@ -22831,6 +22855,13 @@
             "raw": "8, 6, 5",
             "avg": 6.3,
             "status": "● plotted at 6.79"
+          },
+          {
+            "date": "2026-11-02",
+            "name": "High-incline one-arm push-up (★stairs — hand on a step ~3 ft up)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"High-incline one-arm push-up (★stairs — \" logged no usable numbers"
           }
         ]
       },
@@ -23137,6 +23168,13 @@
             "raw": "15, 12,",
             "avg": 13.5,
             "status": "● plotted at 3.45"
+          },
+          {
+            "date": "2026-11-02",
+            "name": "Frog stand ★ (parallettes — knees resting on elbows)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Frog stand ★ (parallettes — knees restin\" logged no usable numbers"
           }
         ]
       },
@@ -23877,6 +23915,20 @@
             "raw": "31,",
             "avg": 31,
             "status": "✗ not plotted — \"Grip+trap (flex): dead hang ★ + scap shr\" is rung-1 work while training rung 6 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+          },
+          {
+            "date": "2026-11-02",
+            "name": "Uneven / towel pull-up (★one hand on the bar, one on a towel hanging from it — then negatives as back-off)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Uneven / towel pull-up (★one hand on the\" logged no usable numbers"
+          },
+          {
+            "date": "2026-11-02",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Uneven / towel pull-up (★one hand on the\" logged no usable numbers"
           }
         ]
       },
@@ -24559,6 +24611,13 @@
             "raw": "31,",
             "avg": 31,
             "status": "● plotted at 3.52"
+          },
+          {
+            "date": "2026-11-02",
+            "name": "Grip+trap (flex): dead hang ★ + scap shrugs",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Grip+trap (flex): dead hang ★ + scap shr\" logged no usable numbers"
           }
         ]
       },
@@ -24949,6 +25008,13 @@
             "raw": "4, 4, 4",
             "avg": 4,
             "status": "✗ not plotted — \"Tuck front lever negative ★ (hop up, arm\" is rung-3 work while training rung 5 — an ALREADY-CLEARED rung, so it is accessory work, not a position on this ladder (owner ruling 2026-08-01, supersedes the floating dot)"
+          },
+          {
+            "date": "2026-11-02",
+            "name": "Tuck L-sit ★",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Tuck L-sit ★\" logged no usable numbers"
           }
         ]
       },
@@ -25396,6 +25462,13 @@
             "raw": "8, 4.5, 2",
             "avg": 4.8,
             "status": "● plotted at 7.6"
+          },
+          {
+            "date": "2026-11-02",
+            "name": "Tucked raise toward bar (★as high as the low bar allows)",
+            "raw": "",
+            "avg": null,
+            "status": "✗ not plotted — \"Tucked raise toward bar (★as high as the\" logged no usable numbers"
           }
         ]
       }
@@ -25555,6 +25628,10 @@
           {
             "date": "2026-10-31",
             "detail": "hang: 31, · shrugs: 5, 3"
+          },
+          {
+            "date": "2026-11-02",
+            "detail": "hang: — · shrugs: —"
           }
         ]
       },
@@ -25818,6 +25895,10 @@
           {
             "date": "2026-10-26",
             "detail": "reps: 5, 6, 5"
+          },
+          {
+            "date": "2026-11-02",
+            "detail": "reps: —"
           }
         ]
       },
@@ -26001,55 +26082,6 @@
         ]
       },
       {
-        "name": "Chin-up (★full, underhand — then negatives as back-off)",
-        "rows": [
-          {
-            "date": "2026-07-13",
-            "detail": "full reps: 4, 2.5,  .5 · neg back-off: 0, 4, 3"
-          },
-          {
-            "date": "2026-07-20",
-            "detail": "full reps: 4.5, 2.5, 1.5 · neg back-off: 3, 3.5, 2"
-          },
-          {
-            "date": "2026-07-27",
-            "detail": "full reps: 3, 3, 3 · neg back-off: 2, 3, 3"
-          },
-          {
-            "date": "2026-08-08",
-            "detail": "full reps: 5, 4, 3 · neg back-off: 3, 4, 5"
-          },
-          {
-            "date": "2026-08-17",
-            "detail": "full reps: 6.5, 5, 4 · neg back-off: 3, 3, 4"
-          },
-          {
-            "date": "2026-08-24",
-            "detail": "full reps: 6, 5, 4 · neg back-off: 2, 3, 4"
-          },
-          {
-            "date": "2026-08-31",
-            "detail": "full reps: 8, 6, 3.5 · neg back-off: 0, 2, 5"
-          },
-          {
-            "date": "2026-09-07",
-            "detail": "full reps: 7, 6, 4 · neg back-off: 1, 2, 4"
-          },
-          {
-            "date": "2026-09-14",
-            "detail": "full reps: 8, 6, 5 · neg back-off: 0, 2, 3"
-          },
-          {
-            "date": "2026-09-21",
-            "detail": "full reps: 8, 7, 6 · neg back-off: 0, 1, 2"
-          },
-          {
-            "date": "2026-09-30",
-            "detail": "full reps: 8, 8, 8 · neg back-off: 0, 0, 0"
-          }
-        ]
-      },
-      {
         "name": "Tucked raise toward bar (★as high as the low bar allows)",
         "rows": [
           {
@@ -26095,6 +26127,59 @@
           {
             "date": "2026-10-31",
             "detail": "reps: 8, 4.5, 2"
+          },
+          {
+            "date": "2026-11-02",
+            "detail": "reps: —"
+          }
+        ]
+      },
+      {
+        "name": "Chin-up (★full, underhand — then negatives as back-off)",
+        "rows": [
+          {
+            "date": "2026-07-13",
+            "detail": "full reps: 4, 2.5,  .5 · neg back-off: 0, 4, 3"
+          },
+          {
+            "date": "2026-07-20",
+            "detail": "full reps: 4.5, 2.5, 1.5 · neg back-off: 3, 3.5, 2"
+          },
+          {
+            "date": "2026-07-27",
+            "detail": "full reps: 3, 3, 3 · neg back-off: 2, 3, 3"
+          },
+          {
+            "date": "2026-08-08",
+            "detail": "full reps: 5, 4, 3 · neg back-off: 3, 4, 5"
+          },
+          {
+            "date": "2026-08-17",
+            "detail": "full reps: 6.5, 5, 4 · neg back-off: 3, 3, 4"
+          },
+          {
+            "date": "2026-08-24",
+            "detail": "full reps: 6, 5, 4 · neg back-off: 2, 3, 4"
+          },
+          {
+            "date": "2026-08-31",
+            "detail": "full reps: 8, 6, 3.5 · neg back-off: 0, 2, 5"
+          },
+          {
+            "date": "2026-09-07",
+            "detail": "full reps: 7, 6, 4 · neg back-off: 1, 2, 4"
+          },
+          {
+            "date": "2026-09-14",
+            "detail": "full reps: 8, 6, 5 · neg back-off: 0, 2, 3"
+          },
+          {
+            "date": "2026-09-21",
+            "detail": "full reps: 8, 7, 6 · neg back-off: 0, 1, 2"
+          },
+          {
+            "date": "2026-09-30",
+            "detail": "full reps: 8, 8, 8 · neg back-off: 0, 0, 0"
           }
         ]
       },
@@ -26481,6 +26566,72 @@
         ]
       },
       {
+        "name": "High-incline one-arm push-up (★stairs — hand on a step ~3 ft up)",
+        "rows": [
+          {
+            "date": "2026-09-23",
+            "detail": "reps: 1.5, 1.5, 1.5"
+          },
+          {
+            "date": "2026-10-03",
+            "detail": "reps: 3, 4, 3"
+          },
+          {
+            "date": "2026-10-10",
+            "detail": "reps: —"
+          },
+          {
+            "date": "2026-10-17",
+            "detail": "reps: 6, 5, 5"
+          },
+          {
+            "date": "2026-10-24",
+            "detail": "reps: —"
+          },
+          {
+            "date": "2026-10-26",
+            "detail": "reps: 8, 6, 5"
+          },
+          {
+            "date": "2026-11-02",
+            "detail": "reps: —"
+          }
+        ]
+      },
+      {
+        "name": "Frog stand ★ (parallettes — knees resting on elbows)",
+        "rows": [
+          {
+            "date": "2026-09-23",
+            "detail": "held: 5, 10, 8"
+          },
+          {
+            "date": "2026-10-03",
+            "detail": "held: 7, 7, 10"
+          },
+          {
+            "date": "2026-10-10",
+            "detail": "held: —"
+          },
+          {
+            "date": "2026-10-17",
+            "detail": "held: 7, 7, 7"
+          },
+          {
+            "date": "2026-10-24",
+            "detail": "held: —"
+          },
+          {
+            "date": "2026-10-26",
+            "detail": "held: 15, 12,"
+          },
+          {
+            "date": "2026-11-02",
+            "detail": "held: —"
+          }
+        ]
+      },
+      {
         "name": "Pull-up (negatives)",
         "rows": [
           {
@@ -26655,64 +26806,6 @@
         ]
       },
       {
-        "name": "High-incline one-arm push-up (★stairs — hand on a step ~3 ft up)",
-        "rows": [
-          {
-            "date": "2026-09-23",
-            "detail": "reps: 1.5, 1.5, 1.5"
-          },
-          {
-            "date": "2026-10-03",
-            "detail": "reps: 3, 4, 3"
-          },
-          {
-            "date": "2026-10-10",
-            "detail": "reps: —"
-          },
-          {
-            "date": "2026-10-17",
-            "detail": "reps: 6, 5, 5"
-          },
-          {
-            "date": "2026-10-24",
-            "detail": "reps: —"
-          },
-          {
-            "date": "2026-10-26",
-            "detail": "reps: 8, 6, 5"
-          }
-        ]
-      },
-      {
-        "name": "Frog stand ★ (parallettes — knees resting on elbows)",
-        "rows": [
-          {
-            "date": "2026-09-23",
-            "detail": "held: 5, 10, 8"
-          },
-          {
-            "date": "2026-10-03",
-            "detail": "held: 7, 7, 10"
-          },
-          {
-            "date": "2026-10-10",
-            "detail": "held: —"
-          },
-          {
-            "date": "2026-10-17",
-            "detail": "held: 7, 7, 7"
-          },
-          {
-            "date": "2026-10-24",
-            "detail": "held: —"
-          },
-          {
-            "date": "2026-10-26",
-            "detail": "held: 15, 12,"
-          }
-        ]
-      },
-      {
         "name": "Planche lean (flex, light)",
         "rows": [
           {
@@ -26809,6 +26902,31 @@
           {
             "date": "2026-10-28",
             "detail": "reps: 5, 3, 2.5"
+          }
+        ]
+      },
+      {
+        "name": "Uneven / towel pull-up (★one hand on the bar, one on a towel hanging from it — then negatives as back-off)",
+        "rows": [
+          {
+            "date": "2026-10-19",
+            "detail": "full reps: 2, 3, 2 · neg back-off: 4, 4, 2"
+          },
+          {
+            "date": "2026-10-24",
+            "detail": "full reps: 2.5, 3, 1 · neg back-off: 2, 4, 1"
+          },
+          {
+            "date": "2026-10-26",
+            "detail": "full reps: 3, 3, 2.5 · neg back-off: 4, 4, 4"
+          },
+          {
+            "date": "2026-10-28",
+            "detail": "full reps: 4, 3, 3 · neg back-off: 5, 3, 4"
+          },
+          {
+            "date": "2026-11-02",
+            "detail": "full reps: — · neg back-off: —"
           }
         ]
       },
@@ -26998,27 +27116,6 @@
           {
             "date": "2026-10-31",
             "detail": "full reps: 4, 2, 3 · neg back-off: 5, 0, 0"
-          }
-        ]
-      },
-      {
-        "name": "Uneven / towel pull-up (★one hand on the bar, one on a towel hanging from it — then negatives as back-off)",
-        "rows": [
-          {
-            "date": "2026-10-19",
-            "detail": "full reps: 2, 3, 2 · neg back-off: 4, 4, 2"
-          },
-          {
-            "date": "2026-10-24",
-            "detail": "full reps: 2.5, 3, 1 · neg back-off: 2, 4, 1"
-          },
-          {
-            "date": "2026-10-26",
-            "detail": "full reps: 3, 3, 2.5 · neg back-off: 4, 4, 4"
-          },
-          {
-            "date": "2026-10-28",
-            "detail": "full reps: 4, 3, 3 · neg back-off: 5, 3, 4"
           }
         ]
       },
@@ -27446,9 +27543,83 @@
             "detail": "reps: 4, 5, 7"
           }
         ]
+      },
+      {
+        "name": "Tuck L-sit ★",
+        "rows": [
+          {
+            "date": "2026-11-02",
+            "detail": "reps: —"
+          }
+        ]
       }
     ],
     "dates": [
+      {
+        "date": "2026-11-02",
+        "rows": [
+          {
+            "ladderId": "pull",
+            "ladderName": "Pull",
+            "name": "Uneven / towel pull-up (★one hand on the bar, one on a towel hanging from it — then negatives as back-off)",
+            "raw": "",
+            "avg": null,
+            "target": "8/side",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "corehang",
+            "ladderName": "Core — HANGING",
+            "name": "Tucked raise toward bar (★as high as the low bar allows)",
+            "raw": "",
+            "avg": null,
+            "target": "8",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "pull",
+            "ladderName": "Pull",
+            "name": "Dead hang ★",
+            "raw": "",
+            "avg": null,
+            "target": "45s",
+            "sets": 2,
+            "cleared": false
+          },
+          {
+            "ladderId": "push",
+            "ladderName": "Horizontal Push — STRENGTH",
+            "name": "High-incline one-arm push-up (★stairs — hand on a step ~3 ft up)",
+            "raw": "",
+            "avg": null,
+            "target": "8/side",
+            "sets": 3,
+            "cleared": false
+          },
+          {
+            "ladderId": "corefloor",
+            "ladderName": "Core — FLOOR",
+            "name": "Tuck L-sit ★",
+            "raw": "",
+            "avg": null,
+            "target": "15s",
+            "sets": 2,
+            "cleared": false
+          },
+          {
+            "ladderId": "planche",
+            "ladderName": "Horizontal Push — PLANCHE",
+            "name": "Frog stand ★ (parallettes — knees resting on elbows)",
+            "raw": "",
+            "avg": null,
+            "target": "30s",
+            "sets": 3,
+            "cleared": false
+          }
+        ]
+      },
       {
         "date": "2026-10-31",
         "rows": [
