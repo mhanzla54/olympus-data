@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 202.2
     },
-    "overall_total": 2071,
+    "overall_total": 2072,
     "generated_for": "2026-11-04",
-    "built_at": "2026-11-04T20:14:37.261Z",
+    "built_at": "2026-11-04T20:14:52.033Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 646
+      "ft_to_go": 645
     },
     "captures_today_unscored": 0
   },
@@ -98,7 +98,7 @@
       "t0_note": "no public track record — not known in the field; every post, repo and paper still ahead",
       "endpoint": "A recognized public body of work — provisional and open by design (§14.0.2); this lane has no terminus",
       "endpoint_tier": "enormous",
-      "current": 89,
+      "current": 90,
       "working_on": "Not yet started — the first public thing ships from here"
     }
   ],
@@ -12239,6 +12239,20 @@
       "evidence": "POLARIS xmw1bxe1g2i3",
       "booked": "2026-11-04",
       "source": "polaris:xmw1bxe1g2i3:2026-11-04:session:1"
+    },
+    {
+      "date": "2026-11-04",
+      "lane": "fieldpresence",
+      "activity": "Walkthrough video draft 2 · review and revise — FINISHED",
+      "label": "Walkthrough video draft 2 · review and revise",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 90,
+      "cum_overall": 2072,
+      "reasoning": "Owner-priced in POLARIS: finishing it = tiny",
+      "evidence": "POLARIS xmw1bxe1gl8o",
+      "booked": "2026-11-04",
+      "source": "polaris:xmw1bxe1gl8o:completion"
     }
   ],
   "polaris_booked": {
@@ -12505,7 +12519,8 @@
     "polaris:xmu7cybq7:2026-11-03:session:1": 1,
     "polaris:xmta206fu:2026-11-04:session:1": 1,
     "polaris:xmvqnn7dg4za:2026-11-04:session:1": 1,
-    "polaris:xmw1bxe1g2i3:2026-11-04:session:1": 1
+    "polaris:xmw1bxe1g2i3:2026-11-04:session:1": 1,
+    "polaris:xmw1bxe1gl8o:completion": 1
   },
   "series": {
     "coding": [
@@ -18512,6 +18527,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Transformative AI Fund application · about half the boxes final — a working sitting"
+      },
+      {
+        "date": "2026-11-04",
+        "cum": 90,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Walkthrough video draft 2 · review and revise — FINISHED"
       }
     ]
   },
