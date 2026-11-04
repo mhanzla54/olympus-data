@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 202.2
     },
-    "overall_total": 2068,
+    "overall_total": 2071,
     "generated_for": "2026-11-04",
-    "built_at": "2026-11-04T14:12:04.003Z",
+    "built_at": "2026-11-04T20:14:37.261Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 649
+      "ft_to_go": 646
     },
     "captures_today_unscored": 0
   },
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 575,
+      "current": 576,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -98,7 +98,7 @@
       "t0_note": "no public track record — not known in the field; every post, repo and paper still ahead",
       "endpoint": "A recognized public body of work — provisional and open by design (§14.0.2); this lane has no terminus",
       "endpoint_tier": "enormous",
-      "current": 87,
+      "current": 89,
       "working_on": "Not yet started — the first public thing ships from here"
     }
   ],
@@ -12197,6 +12197,48 @@
       "evidence": "health warehouse",
       "booked": "2026-11-04",
       "source": "body:calorie-day:2026-11-03"
+    },
+    {
+      "date": "2026-11-04",
+      "lane": "strength",
+      "activity": "Workout — a working sitting",
+      "label": "Workout — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 576,
+      "cum_overall": 2069,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmta206fu",
+      "booked": "2026-11-04",
+      "source": "polaris:xmta206fu:2026-11-04:session:1"
+    },
+    {
+      "date": "2026-11-04",
+      "lane": "fieldpresence",
+      "activity": "BlueDot + GTR applications · finish Wed 4 Nov, HOLD, submit Fri 6 Nov — a working sitting",
+      "label": "BlueDot + GTR applications · finish Wed 4 Nov, HOLD,…",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 88,
+      "cum_overall": 2070,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmvqnn7dg4za",
+      "booked": "2026-11-04",
+      "source": "polaris:xmvqnn7dg4za:2026-11-04:session:1"
+    },
+    {
+      "date": "2026-11-04",
+      "lane": "fieldpresence",
+      "activity": "Transformative AI Fund application · about half the boxes final — a working sitting",
+      "label": "Transformative AI Fund application · about half the boxes…",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 89,
+      "cum_overall": 2071,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmw1bxe1g2i3",
+      "booked": "2026-11-04",
+      "source": "polaris:xmw1bxe1g2i3:2026-11-04:session:1"
     }
   ],
   "polaris_booked": {
@@ -12460,7 +12502,10 @@
     "polaris:xmt78btdt:2026-11-02:session:1": 1,
     "polaris:xmu7cybq7:2026-11-02:session:1": 1,
     "polaris:xmvqnn7dg4za:2026-11-02:session:1": 1,
-    "polaris:xmu7cybq7:2026-11-03:session:1": 1
+    "polaris:xmu7cybq7:2026-11-03:session:1": 1,
+    "polaris:xmta206fu:2026-11-04:session:1": 1,
+    "polaris:xmvqnn7dg4za:2026-11-04:session:1": 1,
+    "polaris:xmw1bxe1g2i3:2026-11-04:session:1": 1
   },
   "series": {
     "coding": [
@@ -16076,6 +16121,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Workout — a working sitting"
+      },
+      {
+        "date": "2026-11-04",
+        "cum": 576,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Workout — a working sitting"
       }
     ],
     "body": [
@@ -18446,6 +18498,20 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Outreach 7 · Wave 1 — the best 15–20 emails — a working sitting"
+      },
+      {
+        "date": "2026-11-04",
+        "cum": 88,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "BlueDot + GTR applications · finish Wed 4 Nov, HOLD, submit Fri 6 Nov — a working sitting"
+      },
+      {
+        "date": "2026-11-04",
+        "cum": 89,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Transformative AI Fund application · about half the boxes final — a working sitting"
       }
     ]
   },
