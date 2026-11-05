@@ -21,7 +21,7 @@
     },
     "overall_total": 2085,
     "generated_for": "2026-11-05",
-    "built_at": "2026-11-05T18:17:47.816Z",
+    "built_at": "2026-11-05T19:20:04.113Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -32692,6 +32692,22 @@
         "protein": 231,
         "dayType": "strict",
         "provisional": false
+      },
+      {
+        "date": "2026-11-04",
+        "w": 204.6,
+        "kcal": 1767,
+        "protein": 187,
+        "dayType": "strict",
+        "provisional": false
+      },
+      {
+        "date": "2026-11-05",
+        "w": 204.8,
+        "kcal": 533,
+        "protein": 25,
+        "dayType": "strict",
+        "provisional": true
       }
     ],
     "trend": [
@@ -33294,9 +33310,17 @@
       {
         "date": "2026-11-03",
         "w": 204.71
+      },
+      {
+        "date": "2026-11-04",
+        "w": 205.06
+      },
+      {
+        "date": "2026-11-05",
+        "w": 205.26
       }
     ],
-    "noiseBand": 1.18,
+    "noiseBand": 1.17,
     "floors": [
       {
         "y": 230,
@@ -33662,19 +33686,19 @@
       },
       {
         "date": "2026-11-03",
-        "w": 205.3,
+        "w": 205,
         "week": "Nov 1–Nov 6",
-        "n": 3
+        "n": 5
       }
     ],
     "banner": {
       "startDate": "2026-03-22",
       "startW": 235,
-      "lost": 30.3,
+      "lost": 29.7,
       "goal": 180,
-      "pct": 55.1,
+      "pct": 54.1,
       "nextFloor": 200,
-      "toGo": 4.7,
+      "toGo": 5.3,
       "newLow": false
     },
     "strip": [
@@ -33826,7 +33850,7 @@
       {
         "date": "2026-11-05",
         "state": "partial",
-        "kcal": 0
+        "kcal": 533
       }
     ],
     "days": [
@@ -35136,10 +35160,10 @@
       },
       {
         "date": "2026-11-05",
-        "kcal": 0,
-        "protein": 0,
-        "dayType": "empty",
-        "logged": "empty",
+        "kcal": 533,
+        "protein": 25,
+        "dayType": "strict",
+        "logged": "full",
         "provisional": true
       }
     ],
