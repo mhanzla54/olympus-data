@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 202.2
     },
-    "overall_total": 2085,
+    "overall_total": 2086,
     "generated_for": "2026-11-05",
-    "built_at": "2026-11-05T19:20:04.113Z",
+    "built_at": "2026-11-05T22:23:58.426Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 632
+      "ft_to_go": 631
     },
     "captures_today_unscored": 0
   },
@@ -98,7 +98,7 @@
       "t0_note": "no public track record — not known in the field; every post, repo and paper still ahead",
       "endpoint": "A recognized public body of work — provisional and open by design (§14.0.2); this lane has no terminus",
       "endpoint_tier": "enormous",
-      "current": 101,
+      "current": 102,
       "working_on": "Not yet started — the first public thing ships from here"
     }
   ],
@@ -12309,6 +12309,20 @@
       "evidence": "POLARIS xlightcone1105",
       "booked": "2026-11-05",
       "source": "polaris:xlightcone1105:completion"
+    },
+    {
+      "date": "2026-11-05",
+      "lane": "fieldpresence",
+      "activity": "Mercor Application work — FINISHED",
+      "label": "Mercor Application work — FINISHED",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 102,
+      "cum_overall": 2086,
+      "reasoning": "Owner-priced in POLARIS: finishing it = tiny",
+      "evidence": "POLARIS xmw3vcv00",
+      "booked": "2026-11-05",
+      "source": "polaris:xmw3vcv00:completion"
     }
   ],
   "polaris_booked": {
@@ -12578,7 +12592,8 @@
     "polaris:xmw1bxe1g2i3:2026-11-04:session:1": 1,
     "polaris:xmw1bxe1gl8o:completion": 1,
     "polaris:xmw1bxe1g2i3:completion": 10,
-    "polaris:xlightcone1105:completion": 1
+    "polaris:xlightcone1105:completion": 1,
+    "polaris:xmw3vcv00:completion": 1
   },
   "series": {
     "coding": [
@@ -18620,6 +18635,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Lightcone Commons · write the fourth application (submit Fri with the other three) — FINISHED"
+      },
+      {
+        "date": "2026-11-05",
+        "cum": 102,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Mercor Application work — FINISHED"
       }
     ]
   },
