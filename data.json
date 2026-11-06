@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 202.2
     },
-    "overall_total": 2086,
-    "generated_for": "2026-11-05",
-    "built_at": "2026-11-06T00:20:04.664Z",
+    "overall_total": 2087,
+    "generated_for": "2026-11-06",
+    "built_at": "2026-11-06T05:06:03.526Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 631
+      "ft_to_go": 630
     },
     "captures_today_unscored": 0
   },
@@ -88,7 +88,7 @@
       "t0_note": "~224 lb, no measurement baseline, no refeed structure",
       "endpoint": "Reach the lean-muscular target proportions (~180 lb / 12–16% BF; waist 31.5–33\")",
       "endpoint_tier": "large",
-      "current": 766,
+      "current": 767,
       "working_on": "the next new-pound low"
     },
     {
@@ -12323,6 +12323,20 @@
       "evidence": "POLARIS xmw3vcv00",
       "booked": "2026-11-05",
       "source": "polaris:xmw3vcv00:completion"
+    },
+    {
+      "date": "2026-11-05",
+      "lane": "body",
+      "activity": "calorie-day — 1992 kcal",
+      "label": "calorie-day — 1992 kcal",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 767,
+      "cum_overall": 2087,
+      "reasoning": "codebook ⚖️ calorie-day: needed 1550–2100 kcal; got 1992 kcal",
+      "evidence": "health warehouse",
+      "booked": "2026-11-06",
+      "source": "body:calorie-day:2026-11-05"
     }
   ],
   "polaris_booked": {
@@ -18178,6 +18192,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "calorie-day — 1767 kcal"
+      },
+      {
+        "date": "2026-11-05",
+        "cum": 767,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "calorie-day — 1992 kcal"
       }
     ],
     "fieldpresence": [
@@ -32726,10 +32747,10 @@
       {
         "date": "2026-11-05",
         "w": 204.8,
-        "kcal": 1369,
-        "protein": 92,
+        "kcal": 1992,
+        "protein": 143,
         "dayType": "strict",
-        "provisional": true
+        "provisional": false
       }
     ],
     "trend": [
@@ -33725,11 +33746,6 @@
     },
     "strip": [
       {
-        "date": "2026-10-07",
-        "state": "good",
-        "kcal": 1549
-      },
-      {
         "date": "2026-10-08",
         "state": "good",
         "kcal": 1793
@@ -33871,8 +33887,13 @@
       },
       {
         "date": "2026-11-05",
+        "state": "off",
+        "kcal": 1992
+      },
+      {
+        "date": "2026-11-06",
         "state": "partial",
-        "kcal": 1369
+        "kcal": 0
       }
     ],
     "days": [
@@ -35182,10 +35203,18 @@
       },
       {
         "date": "2026-11-05",
-        "kcal": 1369,
-        "protein": 92,
+        "kcal": 1992,
+        "protein": 143,
         "dayType": "strict",
         "logged": "full",
+        "provisional": false
+      },
+      {
+        "date": "2026-11-06",
+        "kcal": 0,
+        "protein": 0,
+        "dayType": "empty",
+        "logged": "empty",
         "provisional": true
       }
     ],
