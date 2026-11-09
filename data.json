@@ -21,7 +21,7 @@
     },
     "overall_total": 2189,
     "generated_for": "2026-11-09",
-    "built_at": "2026-11-09T12:59:56.289Z",
+    "built_at": "2026-11-09T19:20:05.145Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
@@ -32817,6 +32817,14 @@
         "protein": 143,
         "dayType": "strict",
         "provisional": false
+      },
+      {
+        "date": "2026-11-09",
+        "w": 210.4,
+        "kcal": 0,
+        "protein": 0,
+        "dayType": "empty",
+        "provisional": true
       }
     ],
     "trend": [
@@ -33427,6 +33435,10 @@
       {
         "date": "2026-11-05",
         "w": 205.26
+      },
+      {
+        "date": "2026-11-09",
+        "w": 206.05
       }
     ],
     "noiseBand": 1.17,
@@ -33616,6 +33628,11 @@
         "date": "2026-11-03",
         "w": 204.4,
         "week": "Nov 1–Nov 6"
+      },
+      {
+        "date": "2026-11-09",
+        "w": 210.4,
+        "week": "Nov 7–Nov 13"
       }
     ],
     "weeklyAvgs": [
@@ -33798,24 +33815,25 @@
         "w": 205,
         "week": "Nov 1–Nov 6",
         "n": 5
+      },
+      {
+        "date": "2026-11-10",
+        "w": 210.4,
+        "week": "Nov 7–Nov 13",
+        "n": 1
       }
     ],
     "banner": {
       "startDate": "2026-03-22",
       "startW": 235,
-      "lost": 29.7,
+      "lost": 28.9,
       "goal": 180,
-      "pct": 54.1,
+      "pct": 52.6,
       "nextFloor": 200,
-      "toGo": 5.3,
+      "toGo": 6.1,
       "newLow": false
     },
     "strip": [
-      {
-        "date": "2026-10-10",
-        "state": "off",
-        "kcal": 909
-      },
       {
         "date": "2026-10-11",
         "state": "partial",
@@ -33958,6 +33976,11 @@
       },
       {
         "date": "2026-11-08",
+        "state": "partial",
+        "kcal": 0
+      },
+      {
+        "date": "2026-11-09",
         "state": "partial",
         "kcal": 0
       }
@@ -35293,6 +35316,14 @@
       },
       {
         "date": "2026-11-08",
+        "kcal": 0,
+        "protein": 0,
+        "dayType": "empty",
+        "logged": "empty",
+        "provisional": false
+      },
+      {
+        "date": "2026-11-09",
         "kcal": 0,
         "protein": 0,
         "dayType": "empty",
