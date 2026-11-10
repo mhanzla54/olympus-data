@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 202.2
     },
-    "overall_total": 2189,
+    "overall_total": 2191,
     "generated_for": "2026-11-09",
-    "built_at": "2026-11-09T19:20:05.145Z",
+    "built_at": "2026-11-10T00:39:38.805Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 528
+      "ft_to_go": 526
     },
     "captures_today_unscored": 0
   },
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 576,
+      "current": 577,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -98,7 +98,7 @@
       "t0_note": "no public track record — not known in the field; every post, repo and paper still ahead",
       "endpoint": "A recognized public body of work — provisional and open by design (§14.0.2); this lane has no terminus",
       "endpoint_tier": "enormous",
-      "current": 203,
+      "current": 204,
       "working_on": "Not yet started — the first public thing ships from here"
     }
   ],
@@ -12379,6 +12379,34 @@
       "evidence": "POLARIS xmu7cybpy",
       "booked": "2026-11-09",
       "source": "polaris:xmu7cybpy:2026-11-09:session:1"
+    },
+    {
+      "date": "2026-11-09",
+      "lane": "strength",
+      "activity": "Workout — a working sitting",
+      "label": "Workout — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 577,
+      "cum_overall": 2190,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmt78btdt",
+      "booked": "2026-11-09",
+      "source": "polaris:xmt78btdt:2026-11-09:session:1"
+    },
+    {
+      "date": "2026-11-09",
+      "lane": "fieldpresence",
+      "activity": "Finding a job — a working sitting",
+      "label": "Finding a job — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 204,
+      "cum_overall": 2191,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmvqkejkyo8",
+      "booked": "2026-11-09",
+      "source": "polaris:xmvqkejkyo8:2026-11-09:session:1"
     }
   ],
   "polaris_booked": {
@@ -12652,7 +12680,9 @@
     "polaris:xmw3vcv00:completion": 1,
     "polaris:xmvqnn7dg4za:2026-11-06:session:1": 1,
     "polaris:xmvqnn7dg4za:completion": 100,
-    "polaris:xmu7cybpy:2026-11-09:session:1": 1
+    "polaris:xmu7cybpy:2026-11-09:session:1": 1,
+    "polaris:xmt78btdt:2026-11-09:session:1": 1,
+    "polaris:xmvqkejkyo8:2026-11-09:session:1": 1
   },
   "series": {
     "coding": [
@@ -16282,6 +16312,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Workout — a working sitting"
+      },
+      {
+        "date": "2026-11-09",
+        "cum": 577,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Workout — a working sitting"
       }
     ],
     "body": [
@@ -18729,6 +18766,13 @@
         "feet": 100,
         "tier": "medium",
         "activity": "BlueDot + GTR applications · finish Wed 4 Nov, HOLD, submit Fri 6 Nov — FINISHED"
+      },
+      {
+        "date": "2026-11-09",
+        "cum": 204,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Finding a job — a working sitting"
       }
     ]
   },
