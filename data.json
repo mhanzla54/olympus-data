@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 202.2
     },
-    "overall_total": 2199,
+    "overall_total": 2200,
     "generated_for": "2026-11-11",
-    "built_at": "2026-11-11T19:20:05.089Z",
+    "built_at": "2026-11-11T22:07:25.455Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 518
+      "ft_to_go": 517
     },
     "captures_today_unscored": 0
   },
@@ -48,7 +48,7 @@
       "t0_note": "didn't hold the transformer internals — attention, embeddings, the residual stream were only 'encountered'",
       "endpoint": "A from-memory \"mini-textbook\" of the whole ML/alignment stack (FF is the floor; endpoint stays provisional)",
       "endpoint_tier": "verylarge",
-      "current": 217,
+      "current": 218,
       "working_on": "Field Foundations"
     },
     {
@@ -12519,6 +12519,20 @@
       "evidence": "POLARIS xmta206fu",
       "booked": "2026-11-11",
       "source": "polaris:xmta206fu:2026-11-11:session:1"
+    },
+    {
+      "date": "2026-11-11",
+      "lane": "mlai",
+      "activity": "Tree of Knowledge Building — a working sitting",
+      "label": "Tree of Knowledge Building — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 218,
+      "cum_overall": 2200,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmwchkmwa",
+      "booked": "2026-11-11",
+      "source": "polaris:xmwchkmwa:2026-11-11:session:1"
     }
   ],
   "polaris_booked": {
@@ -12798,7 +12812,8 @@
     "polaris:xmu7cybpy:2026-11-10:session:1": 1,
     "polaris:xmvqkejkyo8:2026-11-10:session:1": 1,
     "polaris:xmu7cybpy:2026-11-11:session:1": 1,
-    "polaris:xmta206fu:2026-11-11:session:1": 1
+    "polaris:xmta206fu:2026-11-11:session:1": 1,
+    "polaris:xmwchkmwa:2026-11-11:session:1": 1
   },
   "series": {
     "coding": [
@@ -14028,6 +14043,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Field Foundations Podcast Review — FINISHED"
+      },
+      {
+        "date": "2026-11-11",
+        "cum": 218,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Tree of Knowledge Building — a working sitting"
       }
     ],
     "method": [
