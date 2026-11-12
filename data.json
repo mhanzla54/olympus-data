@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 202.2
     },
-    "overall_total": 2204,
+    "overall_total": 2214,
     "generated_for": "2026-11-12",
-    "built_at": "2026-11-12T16:02:45.139Z",
+    "built_at": "2026-11-12T16:28:03.726Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 513
+      "ft_to_go": 503
     },
     "captures_today_unscored": 0
   },
@@ -78,7 +78,7 @@
       "t0_note": "couldn't do a single pull-up; no structured calisthenics ladder",
       "endpoint": "The complete elite set — all 12 ladder capstones mastered, on video",
       "endpoint_tier": "enormous",
-      "current": 578,
+      "current": 588,
       "working_on": "the calisthenics strength ladders"
     },
     {
@@ -12589,6 +12589,20 @@
       "evidence": "POLARIS xmu7cybpy",
       "booked": "2026-11-12",
       "source": "polaris:xmu7cybpy:2026-11-12:session:1"
+    },
+    {
+      "date": "2026-11-11",
+      "lane": "strength",
+      "activity": "Horizontal Push — STRENGTH rung 6 CLEARED — High-incline one-arm push-up (stairs, hand ~3 ft up) (8/8/8, avg 8 vs target 8)",
+      "label": "Horizontal Push — STRENGTH rung 6 CLEARED — High-incline…",
+      "tier": "small",
+      "feet": 10,
+      "cum_lane": 588,
+      "cum_overall": 2214,
+      "reasoning": "SETS-STANDARD: first 3 sets avg 8 >= 8; clean-reps confirmed by owner",
+      "evidence": "workout-log; High-incline one-arm push-up (★stairs — hand on a step ~3 ft up)",
+      "booked": "2026-11-12",
+      "source": "rung:push:6:2026-11-11"
     }
   ],
   "polaris_booked": {
@@ -16543,6 +16557,13 @@
         "feet": 1,
         "tier": "tiny",
         "activity": "Workout — a working sitting"
+      },
+      {
+        "date": "2026-11-11",
+        "cum": 588,
+        "feet": 10,
+        "tier": "small",
+        "activity": "Horizontal Push — STRENGTH rung 6 CLEARED — High-incline one-arm push-up (stairs, hand ~3 ft up) (8/8/8, avg 8 vs target 8)"
       }
     ],
     "body": [
@@ -36753,48 +36774,7 @@
     "vista-pyramid": "vista-pyramid.webp",
     "vista-redeemer": "vista-redeemer.webp"
   },
-  "pending_clears": [
-    {
-      "key": "rung:push:6:2026-11-11",
-      "date": "2026-11-11",
-      "ladder": "push",
-      "ladder_name": "Horizontal Push — STRENGTH",
-      "rung": 6,
-      "movement": "High-incline one-arm push-up (stairs, hand ~3 ft up)",
-      "exercise": "High-incline one-arm push-up (★stairs — hand on a step ~3 ft up)",
-      "sets": [
-        8,
-        8,
-        8
-      ],
-      "avg": 8,
-      "target": 8,
-      "sets_needed": 3,
-      "band": "small",
-      "feet": 10,
-      "answer_line": "- notes / skips: clean rung:push:6:2026-11-11 yes   # Horizontal Push — STRENGTH rung 6 — High-incline one-arm push-up (stairs, hand ~3 ft up)"
-    },
-    {
-      "key": "rung:frontlever:1:2026-11-03",
-      "date": "2026-11-03",
-      "ladder": "frontlever",
-      "ladder_name": "Front Lever",
-      "rung": 1,
-      "movement": "Tuck front lever — negative (hop up, ~5s down)",
-      "exercise": "Tuck front lever negative ★ (hop up, arms straight, back flat, ~5s down)",
-      "sets": [
-        5,
-        5,
-        5
-      ],
-      "avg": 5,
-      "target": 5,
-      "sets_needed": 3,
-      "band": "small",
-      "feet": 10,
-      "answer_line": "- notes / skips: clean rung:frontlever:1:2026-11-03 yes   # Front Lever rung 1 — Tuck front lever — negative (hop up, ~5s down)"
-    }
-  ],
+  "pending_clears": [],
   "pending_clear_notes": [],
   "body_crossings": [],
   "body_next_bars": {
