@@ -19,14 +19,14 @@
       "next_ten_lb_marker": 200,
       "all_time_low_lb": 202.2
     },
-    "overall_total": 2200,
+    "overall_total": 2201,
     "generated_for": "2026-11-11",
-    "built_at": "2026-11-11T22:07:25.455Z",
+    "built_at": "2026-11-12T00:06:37.916Z",
     "next_summit": {
       "name": "Burj Khalifa",
       "slug": "burj",
       "height": 2717,
-      "ft_to_go": 517
+      "ft_to_go": 516
     },
     "captures_today_unscored": 0
   },
@@ -98,7 +98,7 @@
       "t0_note": "no public track record — not known in the field; every post, repo and paper still ahead",
       "endpoint": "A recognized public body of work — provisional and open by design (§14.0.2); this lane has no terminus",
       "endpoint_tier": "enormous",
-      "current": 205,
+      "current": 206,
       "working_on": "Not yet started — the first public thing ships from here"
     }
   ],
@@ -12533,6 +12533,20 @@
       "evidence": "POLARIS xmwchkmwa",
       "booked": "2026-11-11",
       "source": "polaris:xmwchkmwa:2026-11-11:session:1"
+    },
+    {
+      "date": "2026-11-11",
+      "lane": "fieldpresence",
+      "activity": "Finding a job — a working sitting",
+      "label": "Finding a job — a working sitting",
+      "tier": "tiny",
+      "feet": 1,
+      "cum_lane": 206,
+      "cum_overall": 2201,
+      "reasoning": "Owner-priced in POLARIS: one sitting = tiny",
+      "evidence": "POLARIS xmvqkejkyo8",
+      "booked": "2026-11-11",
+      "source": "polaris:xmvqkejkyo8:2026-11-11:session:1"
     }
   ],
   "polaris_booked": {
@@ -12813,7 +12827,8 @@
     "polaris:xmvqkejkyo8:2026-11-10:session:1": 1,
     "polaris:xmu7cybpy:2026-11-11:session:1": 1,
     "polaris:xmta206fu:2026-11-11:session:1": 1,
-    "polaris:xmwchkmwa:2026-11-11:session:1": 1
+    "polaris:xmwchkmwa:2026-11-11:session:1": 1,
+    "polaris:xmvqkejkyo8:2026-11-11:session:1": 1
   },
   "series": {
     "coding": [
@@ -18964,6 +18979,13 @@
       {
         "date": "2026-11-10",
         "cum": 205,
+        "feet": 1,
+        "tier": "tiny",
+        "activity": "Finding a job — a working sitting"
+      },
+      {
+        "date": "2026-11-11",
+        "cum": 206,
         "feet": 1,
         "tier": "tiny",
         "activity": "Finding a job — a working sitting"
