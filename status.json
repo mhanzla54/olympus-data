@@ -1,12 +1,12 @@
 {
   "state": "withheld",
   "since": "2026-11-12T16:50:04.469Z",
-  "attempts": 131,
+  "attempts": 192,
   "gates": [
     "alias coverage"
   ],
-  "down_human": "21h 26m",
-  "ledger_total": 2219,
+  "down_human": "31h 22m",
+  "ledger_total": 2220,
   "feed_built_at": "2026-11-12T16:28:03.726Z",
-  "stamped_at": "2026-11-13T14:15:58.697Z"
+  "stamped_at": "2026-11-14T00:12:04.013Z"
 }
